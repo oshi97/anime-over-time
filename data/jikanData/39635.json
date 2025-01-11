@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 39635,
+    "url": "https://myanimelist.net/anime/39635/Daifuku-kunKin_Tele_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1780/100288.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/100288t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/100288l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1780/100288.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/100288t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/100288l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Daifuku-kun@Kin Tele 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "大福くん＠きんてれ 第2期"
+      }
+    ],
+    "title": "Daifuku-kun@Kin Tele 2nd Season",
+    "title_english": null,
+    "title_japanese": "大福くん＠きんてれ 第2期",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-05T00:00:00+00:00",
+      "to": "2019-10-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 4,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      "string": "Apr 5, 2019 to Oct 4, 2019"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19970,
+    "popularity": 19185,
+    "members": 321,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "07:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 07:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 2000,
+        "type": "anime",
+        "name": "Sony Creative Products",
+        "url": "https://myanimelist.net/anime/producer/2000/Sony_Creative_Products"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38427,
+            "type": "anime",
+            "name": "Daifuku-kun@Kin Tele",
+            "url": "https://myanimelist.net/anime/38427/Daifuku-kunKin_Tele"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/kinder/intro/sakuhin10/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14809"
+      }
+    ],
+    "streaming": []
+  }
+}

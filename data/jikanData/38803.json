@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 38803,
+    "url": "https://myanimelist.net/anime/38803/Anima_Yell_Ouen_Douga",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/97177.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/97177t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/97177l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/97177.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/97177t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/97177l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Anima Yell! Ouen Douga"
+      },
+      {
+        "type": "Japanese",
+        "title": "アニマエール！応援動画"
+      }
+    ],
+    "title": "Anima Yell! Ouen Douga",
+    "title_english": null,
+    "title_japanese": "アニマエール！応援動画",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "4-koma manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-07T00:00:00+00:00",
+      "to": "2018-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Oct 7, 2018 to Dec 23, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.76,
+    "scored_by": 659,
+    "rank": 11069,
+    "popularity": 11204,
+    "members": 2412,
+    "favorites": 0,
+    "synopsis": "Special shorts of Anima Yell! released on YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 95,
+        "type": "anime",
+        "name": "Doga Kobo",
+        "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37206,
+            "type": "anime",
+            "name": "Anima Yell!",
+            "url": "https://myanimelist.net/anime/37206/Anima_Yell"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/user/tohoanimation"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13756"
+      }
+    ],
+    "streaming": []
+  }
+}

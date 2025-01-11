@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 59584,
+    "url": "https://myanimelist.net/anime/59584/Jyulagi_Cops",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/144838.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/144838t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/144838l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/144838.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/144838t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/144838l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jyulagi Cops"
+      },
+      {
+        "type": "Japanese",
+        "title": "쥬라기 캅스"
+      },
+      {
+        "type": "English",
+        "title": "Jurassic Cops"
+      }
+    ],
+    "title": "Jyulagi Cops",
+    "title_english": "Jurassic Cops",
+    "title_japanese": "쥬라기 캅스",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-05-05T00:00:00+00:00",
+      "to": "2019-02-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 5,
+          "year": 2018
+        },
+        "to": {
+          "day": 9,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      "string": "May 5, 2018 to Feb 9, 2019"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16467,
+    "popularity": 27522,
+    "members": 60,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59585,
+            "type": "anime",
+            "name": "Jyulagi Cops: Jura King",
+            "url": "https://myanimelist.net/anime/59585/Jyulagi_Cops__Jura_King"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/쥬라기%20캅스"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56758,
+    "url": "https://myanimelist.net/anime/56758/Boushoku_no_Berserk_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/138776.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/138776t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/138776l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/138776.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/138776t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/138776l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boushoku no Berserk Mini"
+      },
+      {
+        "type": "Japanese",
+        "title": "暴食のベルセルク ミニ"
+      },
+      {
+        "type": "English",
+        "title": "Berserk of Gluttony Mini"
+      }
+    ],
+    "title": "Boushoku no Berserk Mini",
+    "title_english": "Berserk of Gluttony Mini",
+    "title_japanese": "暴食のベルセルク ミニ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-27T00:00:00+00:00",
+      "to": "2023-11-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 1,
+          "month": 11,
+          "year": 2023
+        }
+      },
+      "string": "Sep 27, 2023 to Nov 1, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.69,
+    "scored_by": 382,
+    "rank": 11382,
+    "popularity": 12545,
+    "members": 1580,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 53439,
+            "type": "anime",
+            "name": "Boushoku no Berserk",
+            "url": "https://myanimelist.net/anime/53439/Boushoku_no_Berserk"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bousyoku-anime.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 60369,
+    "url": "https://myanimelist.net/anime/60369/Liang_Bu_Yi_Small_Theater",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1268/146644.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/146644t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/146644l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1268/146644.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/146644t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/146644l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Liang Bu Yi Small Theater"
+      },
+      {
+        "type": "Synonym",
+        "title": "Liang Bu Yi Miniseries"
+      },
+      {
+        "type": "Japanese",
+        "title": "两不疑小剧场"
+      },
+      {
+        "type": "English",
+        "title": "No Doubt In Us Small Theater"
+      }
+    ],
+    "title": "Liang Bu Yi Small Theater",
+    "title_english": "No Doubt In Us Small Theater",
+    "title_japanese": "两不疑小剧场",
+    "title_synonyms": [
+      "Liang Bu Yi Miniseries"
+    ],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-01T00:00:00+00:00",
+      "to": "2021-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "string": "Apr 2021 to Oct 2021"
+    },
+    "duration": "50 sec per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17108,
+    "popularity": 21279,
+    "members": 203,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60370,
+            "type": "anime",
+            "name": "Liang Bu Yi 2nd Season Small Theater",
+            "url": "https://myanimelist.net/anime/60370/Liang_Bu_Yi_2nd_Season_Small_Theater"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41221,
+            "type": "anime",
+            "name": "Liang Bu Yi",
+            "url": "https://myanimelist.net/anime/41221/Liang_Bu_Yi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep400878/?share_source=copy_web"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16298"
+      }
+    ],
+    "streaming": []
+  }
+}

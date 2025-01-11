@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 51636,
+    "url": "https://myanimelist.net/anime/51636/Kenda_Master_Ken_TV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1755/122805.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1755/122805t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1755/122805l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1755/122805.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1755/122805t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1755/122805l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kenda Master Ken (TV)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ケンダマスター拳"
+      },
+      {
+        "type": "English",
+        "title": "Kenda Master Ken (TV)"
+      }
+    ],
+    "title": "Kenda Master Ken (TV)",
+    "title_english": "Kenda Master Ken (TV)",
+    "title_japanese": "ケンダマスター拳",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-01T00:00:00+00:00",
+      "to": "2022-06-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 3,
+          "month": 6,
+          "year": 2022
+        }
+      },
+      "string": "Apr 1, 2022 to Jun 3, 2022"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.55,
+    "scored_by": 230,
+    "rank": 11914,
+    "popularity": 14332,
+    "members": 949,
+    "favorites": 4,
+    "synopsis": "Ken Tamaki defeats corrupt organizations and even finds love through his favorite pastime, the Japanese skill toy \"kendama.\" But kendama is no mere toy. The stakes are high and Ken will have to fight for his right to play in KENDA MASTER KEN!\n\n(Source: HDIVE)",
+    "background": "",
+    "season": "spring",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Fridays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2252,
+        "type": "anime",
+        "name": "Studio Kingyoiro",
+        "url": "https://myanimelist.net/anime/producer/2252/Studio_Kingyoiro"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 51635,
+            "type": "anime",
+            "name": "Kenda Master Ken",
+            "url": "https://myanimelist.net/anime/51635/Kenda_Master_Ken"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://moyashin1.jimdofree.com/kenda-master"
+      },
+      {
+        "name": "@AnimeHarusaki",
+        "url": "https://twitter.com/AnimeHarusaki"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17424"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25822"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%80%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E6%8B%B3"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 60401,
+    "url": "https://myanimelist.net/anime/60401/Uchuujin_Muumuu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1396/146695.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1396/146695t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1396/146695l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1396/146695.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1396/146695t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1396/146695l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "P2GShacjRu4",
+      "url": "https://www.youtube.com/watch?v=P2GShacjRu4",
+      "embed_url": "https://www.youtube.com/embed/P2GShacjRu4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/P2GShacjRu4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/P2GShacjRu4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/P2GShacjRu4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/P2GShacjRu4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/P2GShacjRu4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Uchuujin Muumuu"
+      },
+      {
+        "type": "Japanese",
+        "title": "宇宙人ムームー"
+      }
+    ],
+    "title": "Uchuujin Muumuu",
+    "title_english": null,
+    "title_japanese": "宇宙人ムームー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 14156,
+    "members": 1002,
+    "favorites": 1,
+    "synopsis": "A cat-like alien from a distant galaxy, MuuMuu, arrives on Earth. His goal is to learn about home appliance technology on Earth to recover the technology his species has lost. The protagonist, Sakurako, has a typical university life, but everything changes with MuuMuu's arrival! What begins as an unexpected cohabitation quickly turns into a whirlwind of chaotic events. The chemistry between Sakurako and MuuMuu leads to a super-spectacular, appliance-filled, and cat comedy adventure. \n\n(Source: Pony Canyon)",
+    "background": "",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 135529,
+            "type": "manga",
+            "name": "Uchuujin Muumuu",
+            "url": "https://myanimelist.net/manga/135529/Uchuujin_Muumuu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ucyujin-mumu.com/"
+      },
+      {
+        "name": "@ucyujinmu2",
+        "url": "https://twitter.com/ucyujinmu2"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@mumu-anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19018"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34096"
+      }
+    ],
+    "streaming": []
+  }
+}

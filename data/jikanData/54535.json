@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 54535,
+    "url": "https://myanimelist.net/anime/54535/Kuromis_Pretty_Journey",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/133473.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/133473t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/133473l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/133473.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/133473t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/133473l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "c_G7qjNL56Q",
+      "url": "https://www.youtube.com/watch?v=c_G7qjNL56Q",
+      "embed_url": "https://www.youtube.com/embed/c_G7qjNL56Q?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/c_G7qjNL56Q/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/c_G7qjNL56Q/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/c_G7qjNL56Q/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/c_G7qjNL56Q/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/c_G7qjNL56Q/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuromi's Pretty Journey"
+      },
+      {
+        "type": "Japanese",
+        "title": "KUROMI’S PRETTY JOURNEY"
+      }
+    ],
+    "title": "Kuromi's Pretty Journey",
+    "title_english": null,
+    "title_japanese": "KUROMI’S PRETTY JOURNEY",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 21,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-17T00:00:00+00:00",
+      "to": "2023-03-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": 31,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Feb 17, 2023 to Mar 31, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": 6.58,
+    "scored_by": 720,
+    "rank": 6553,
+    "popularity": 11203,
+    "members": 2414,
+    "favorites": 24,
+    "synopsis": "A photo was sent to Kuromi. It was a photo of her sister Romina, who had gone missing. Kuromi is desperate to see her sister again! Will she be able to find Romina?\n\n(Source: Kuromi's Pretty Journey Website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2288,
+        "type": "anime",
+        "name": "Qzil.la",
+        "url": "https://myanimelist.net/anime/producer/2288/Qzilla"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60185,
+            "type": "anime",
+            "name": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+            "url": "https://myanimelist.net/anime/60185/Kuromis_Pretty_Journey__Hacha_Mecha_Multiverse_Daidasshutsu"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 2489,
+            "type": "anime",
+            "name": "Onegai My Melody",
+            "url": "https://myanimelist.net/anime/2489/Onegai_My_Melody"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Fuhen (普変)\" by ano"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kuromi.sanrio.co.jp/prettyjourney/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@kuromisanrioofficial6829"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17867"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27133"
+      }
+    ],
+    "streaming": []
+  }
+}

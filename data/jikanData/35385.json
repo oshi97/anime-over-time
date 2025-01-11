@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 35385,
+    "url": "https://myanimelist.net/anime/35385/Yukai_na_Animal_Bus_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85231.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85231t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85231l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85231.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85231t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85231l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yukai na Animal Bus 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゆかいなアニマルバス 2ndシーズン"
+      }
+    ],
+    "title": "Yukai na Animal Bus 2nd Season",
+    "title_english": null,
+    "title_japanese": "ゆかいなアニマルバス 2ndシーズン",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-02T00:00:00+00:00",
+      "to": "2017-09-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 17,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      "string": "Jul 2, 2017 to Sep 17, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15964,
+    "popularity": 19266,
+    "members": 316,
+    "favorites": 0,
+    "synopsis": "Second season of Yukai na Animal Bus.",
+    "background": "",
+    "season": "summer",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34794,
+            "type": "anime",
+            "name": "Yukai na Animal Bus",
+            "url": "https://myanimelist.net/anime/34794/Yukai_na_Animal_Bus"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://qlia.net/character/animalbus/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13111"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8B%E3%81%84%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%90%E3%82%B9"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 41383,
+    "url": "https://myanimelist.net/anime/41383/Obake_Zukan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/106287t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/106287l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/106287.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/106287t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/106287l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Obake Zukan"
+      },
+      {
+        "type": "Japanese",
+        "title": "おばけずかん"
+      }
+    ],
+    "title": "Obake Zukan",
+    "title_english": null,
+    "title_japanese": "おばけずかん",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-01T00:00:00+00:00",
+      "to": "2021-03-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 31,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Jul 1, 2020 to Mar 31, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": 5.72,
+    "scored_by": 190,
+    "rank": 11269,
+    "popularity": 14783,
+    "members": 837,
+    "favorites": 1,
+    "synopsis": "The Obake Zukan series illustrates various monsters and spirits and explains why they are scary. \n\n(Source: ANN)",
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "07:20",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 07:20 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52319,
+            "type": "anime",
+            "name": "Obake Zukan!",
+            "url": "https://myanimelist.net/anime/52319/Obake_Zukan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Obake Zuka's Theme (おばけずかんのうた)\" by Nana Mizuki"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.shopro.co.jp/tv/obakezukan/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15419"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23490"
+      }
+    ],
+    "streaming": []
+  }
+}

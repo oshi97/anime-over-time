@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 54637,
+    "url": "https://myanimelist.net/anime/54637/Bakugan__Legends",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1426/134705.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1426/134705t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1426/134705l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1426/134705.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1426/134705t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1426/134705l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bakugan: Legends"
+      }
+    ],
+    "title": "Bakugan: Legends",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 1, 2023"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": 5.8,
+    "scored_by": 223,
+    "rank": 10917,
+    "popularity": 14338,
+    "members": 949,
+    "favorites": 3,
+    "synopsis": "Bakugan: Legends is the fifth season of the Bakugan: Battle Planet series and the ninth season overall.\n\n(Source: Bakugan Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51263,
+            "type": "anime",
+            "name": "Bakugan: Evolutions",
+            "url": "https://myanimelist.net/anime/51263/Bakugan__Evolutions"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@bakugan_jp",
+        "url": "https://twitter.com/bakugan_jp"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17932"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bakugan:_Legends"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%88%86%E4%B8%B8%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%BA"
+      }
+    ],
+    "streaming": []
+  }
+}

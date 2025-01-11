@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 35963,
+    "url": "https://myanimelist.net/anime/35963/PJ_Berri_no_Mogumogu_Munyamunya_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/86919.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/86919t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/86919l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/86919.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/86919t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/86919l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "PJ Berri no Mogumogu Munyamunya Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "PJ Berri no Mogu Mogu Munya Munya Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "PJベリーのもぐもぐむにゃむにゃ シーズン２"
+      }
+    ],
+    "title": "PJ Berri no Mogumogu Munyamunya Season 2",
+    "title_english": null,
+    "title_japanese": "PJベリーのもぐもぐむにゃむにゃ シーズン２",
+    "title_synonyms": [
+      "PJ Berri no Mogu Mogu Munya Munya Season 2"
+    ],
+    "type": "TV",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-03T00:00:00+00:00",
+      "to": "2017-09-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": 14,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      "string": "Aug 3, 2017 to Sep 14, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18369,
+    "popularity": 17438,
+    "members": 449,
+    "favorites": 1,
+    "synopsis": "The second season of PJ Berri no Mogumogu Munyamunya. Its broadcast will be in the same timeslot as the re-airing of the original 2001 Parappa the Rapper anime on Fuji TV.",
+    "background": "",
+    "season": "summer",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 169,
+        "type": "anime",
+        "name": "Fuji TV",
+        "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 95,
+        "type": "anime",
+        "name": "Doga Kobo",
+        "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 33835,
+            "type": "anime",
+            "name": "PJ Berri no Mogumogu Munyamunya",
+            "url": "https://myanimelist.net/anime/33835/PJ_Berri_no_Mogumogu_Munyamunya"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://pj-mogumunya.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%83%E3%83%91%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

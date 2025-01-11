@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51866,
+    "url": "https://myanimelist.net/anime/51866/CoroCoro_Monster_Ball",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1043/123923.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1043/123923t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1043/123923l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1043/123923.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1043/123923t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1043/123923l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "CoroCoro Monster Ball"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "コロコロモンスターボール"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Rolling Poké Balls"
+      }
+    ],
+    "title": "CoroCoro Monster Ball",
+    "title_english": "Pokémon Kids TV: Rolling Poké Balls",
+    "title_japanese": "コロコロモンスターボール",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2019-02-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 22, 2019 to ?"
+    },
+    "duration": "5 min",
+    "rating": "PG - Children",
+    "score": 5.47,
+    "scored_by": 249,
+    "rank": 12171,
+    "popularity": 15324,
+    "members": 713,
+    "favorites": 1,
+    "synopsis": "A rhythm video made for Pokémon Kids TV! \nCheck it out and see if your favorite Pokémon is inside one of the rolling Poké Balls!\nThe Poké Balls just keep on coming!\nBut just what types of Pokémon do they contain?\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/zQO19naVdNA"
+      }
+    ],
+    "streaming": []
+  }
+}

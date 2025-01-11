@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56438,
+    "url": "https://myanimelist.net/anime/56438/Pony_Tail",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/138047.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/138047t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/138047l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/138047.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/138047t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/138047l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pony Tail"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポニーテール"
+      }
+    ],
+    "title": "Pony Tail",
+    "title_english": null,
+    "title_japanese": "ポニーテール",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-03-07T00:00:00+00:00",
+      "to": "2013-01-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2012
+        },
+        "to": {
+          "day": 5,
+          "month": 1,
+          "year": 2013
+        }
+      },
+      "string": "Mar 7, 2012 to Jan 5, 2013"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18399,
+    "popularity": 24663,
+    "members": 94,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1947,
+        "type": "anime",
+        "name": "Kate Arrow",
+        "url": "https://myanimelist.net/anime/producer/1947/Kate_Arrow"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56441,
+            "type": "anime",
+            "name": "Kate Arrow x !EXC: Pony Tail",
+            "url": "https://myanimelist.net/anime/56441/Kate_Arrow_x_EXC__Pony_Tail"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 30411,
+            "type": "anime",
+            "name": "Happy Jozy",
+            "url": "https://myanimelist.net/anime/30411/Happy_Jozy"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://spicyboy.net/animation/hj.html"
+      }
+    ],
+    "streaming": []
+  }
+}

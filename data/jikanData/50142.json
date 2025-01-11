@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 50142,
+    "url": "https://myanimelist.net/anime/50142/Konu_to_Tanoshii_Otomodachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/119803.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/119803t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/119803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/119803.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/119803t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/119803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Konu to Tanoshii Otomodachi"
+      },
+      {
+        "type": "Japanese",
+        "title": "コヌとたのしいおともだち"
+      }
+    ],
+    "title": "Konu to Tanoshii Otomodachi",
+    "title_english": null,
+    "title_japanese": "コヌとたのしいおともだち",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-07T00:00:00+00:00",
+      "to": "2021-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Oct 7, 2021 to Dec 23, 2021"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16857,
+    "popularity": 21371,
+    "members": 198,
+    "favorites": 0,
+    "synopsis": "Part of TV Tokyo's Kinder TV program.",
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/kinder/intro/sakuhin29/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16831"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/4357"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/402110"
+      }
+    ],
+    "streaming": []
+  }
+}

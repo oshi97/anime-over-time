@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 52006,
+    "url": "https://myanimelist.net/anime/52006/Jashin-chan_Mame_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1460/124273.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1460/124273t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1460/124273l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1460/124273.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1460/124273t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1460/124273l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jashin-chan Mame Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "邪神ちゃんドロップキックX まめアニメ"
+      },
+      {
+        "type": "Japanese",
+        "title": "邪神ちゃんまめアニメ"
+      }
+    ],
+    "title": "Jashin-chan Mame Anime",
+    "title_english": null,
+    "title_japanese": "邪神ちゃんまめアニメ",
+    "title_synonyms": [
+      "邪神ちゃんドロップキックX まめアニメ"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-28T00:00:00+00:00",
+      "to": "2023-02-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 4,
+          "month": 2,
+          "year": 2023
+        }
+      },
+      "string": "Oct 28, 2021 to Feb 4, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.95,
+    "scored_by": 287,
+    "rank": 10122,
+    "popularity": 13902,
+    "members": 1067,
+    "favorites": 4,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Nomad",
+        "url": "https://myanimelist.net/anime/producer/70/Nomad"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42994,
+            "type": "anime",
+            "name": "Jashin-chan Dropkick X",
+            "url": "https://myanimelist.net/anime/42994/Jashin-chan_Dropkick_X"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

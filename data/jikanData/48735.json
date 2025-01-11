@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48735,
+    "url": "https://myanimelist.net/anime/48735/Chibi_Revenger",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1975/114442.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1975/114442t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1975/114442l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1975/114442.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1975/114442t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1975/114442l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chibi Revenger"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chibiribe"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chibi Ribe"
+      },
+      {
+        "type": "Japanese",
+        "title": "ちびりべ"
+      }
+    ],
+    "title": "Chibi Revenger",
+    "title_english": null,
+    "title_japanese": "ちびりべ",
+    "title_synonyms": [
+      "Chibiribe",
+      "Chibi Ribe"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-12T00:00:00+00:00",
+      "to": "2021-09-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": 20,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Apr 12, 2021 to Sep 20, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.14,
+    "scored_by": 5138,
+    "rank": 3661,
+    "popularity": 6456,
+    "members": 10967,
+    "favorites": 40,
+    "synopsis": "Mini series for the anime Tokyo Revengers released on anime's official YouTube channel. The specials are directed by Minoru Ashina and follow the day-to-day activities of the various characters.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      },
+      {
+        "mal_id": 839,
+        "type": "anime",
+        "name": "LIDENFILMS",
+        "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42249,
+            "type": "anime",
+            "name": "Tokyo Revengers",
+            "url": "https://myanimelist.net/anime/42249/Tokyo_Revengers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tokyo-revengers-anime.com/news/archives/270"
+      }
+    ],
+    "streaming": []
+  }
+}

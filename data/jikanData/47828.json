@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 47828,
+    "url": "https://myanimelist.net/anime/47828/Qi_Qu_Tegong_Dui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1206/129315.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1206/129315t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1206/129315l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1206/129315.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1206/129315t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1206/129315l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qi Qu Tegong Dui"
+      },
+      {
+        "type": "Japanese",
+        "title": "奇趣特工队"
+      }
+    ],
+    "title": "Qi Qu Tegong Dui",
+    "title_english": null,
+    "title_japanese": "奇趣特工队",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 11, 2019 to ?"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18501,
+    "popularity": 27088,
+    "members": 66,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47829,
+            "type": "anime",
+            "name": "Qi Qu Tegong Dui 2nd Season",
+            "url": "https://myanimelist.net/anime/47829/Qi_Qu_Tegong_Dui_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%A5%87%E8%B6%A3%E7%89%B9%E5%B7%A5%E9%98%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

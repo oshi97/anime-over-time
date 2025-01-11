@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 58935,
+    "url": "https://myanimelist.net/anime/58935/Nyaaaanvy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1857/143301.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1857/143301t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1857/143301l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1857/143301.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1857/143301t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1857/143301l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nyaaaanvy"
+      },
+      {
+        "type": "Japanese",
+        "title": "ニャンビー"
+      }
+    ],
+    "title": "Nyaaaanvy",
+    "title_english": null,
+    "title_japanese": "ニャンビー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-25T00:00:00+00:00",
+      "to": "2024-06-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": 29,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "May 25, 2024 to Jun 29, 2024"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.69,
+    "scored_by": 158,
+    "rank": 11409,
+    "popularity": 17154,
+    "members": 474,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      },
+      {
+        "mal_id": 1829,
+        "type": "anime",
+        "name": "Lesprit",
+        "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18840"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32737"
+      }
+    ],
+    "streaming": []
+  }
+}

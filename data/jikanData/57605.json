@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 57605,
+    "url": "https://myanimelist.net/anime/57605/Shinobanai_Crypto_Ninja_Sakuya__Ni_no_Maki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1394/140564.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/140564t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/140564l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1394/140564.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/140564t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/140564l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinobanai! Crypto Ninja Sakuya: Ni no Maki"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shinobanai! Crypto Ninja Sakuya Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "忍ばない！クリプトニンジャ咲耶 弐ノ巻"
+      }
+    ],
+    "title": "Shinobanai! Crypto Ninja Sakuya: Ni no Maki",
+    "title_english": null,
+    "title_japanese": "忍ばない！クリプトニンジャ咲耶 弐ノ巻",
+    "title_synonyms": [
+      "Shinobanai! Crypto Ninja Sakuya Season 2"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-11T00:00:00+00:00",
+      "to": "2024-03-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": 28,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Jan 11, 2024 to Mar 28, 2024"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14110,
+    "popularity": 17993,
+    "members": 407,
+    "favorites": 1,
+    "synopsis": "Second season of Shinobanai! Crypto Ninja Sakuya.",
+    "background": "",
+    "season": "winter",
+    "year": 2024,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "22:10",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 22:10 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56505,
+            "type": "anime",
+            "name": "Shinobanai! Crypto Ninja Sakuya",
+            "url": "https://myanimelist.net/anime/56505/Shinobanai_Crypto_Ninja_Sakuya"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59865,
+            "type": "anime",
+            "name": "Shinobanai! Crypto Ninja Sakuya 3rd Season",
+            "url": "https://myanimelist.net/anime/59865/Shinobanai_Crypto_Ninja_Sakuya_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cryptoninja-sakuya.xyz"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18165"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31115"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6812"
+      }
+    ],
+    "streaming": []
+  }
+}

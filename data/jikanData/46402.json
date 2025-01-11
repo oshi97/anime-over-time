@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 46402,
+    "url": "https://myanimelist.net/anime/46402/Ben_Ben_You_Youji__Mala_Xialingying",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/129718.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/129718t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/129718l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/129718.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/129718t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/129718l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ben Ben You Youji: Mala Xialingying"
+      },
+      {
+        "type": "Japanese",
+        "title": "笨笨悠游记之麻辣夏令营"
+      }
+    ],
+    "title": "Ben Ben You Youji: Mala Xialingying",
+    "title_english": null,
+    "title_japanese": "笨笨悠游记之麻辣夏令营",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-04-01T00:00:00+00:00",
+      "to": "2012-08-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2012
+        },
+        "to": {
+          "day": 1,
+          "month": 8,
+          "year": 2012
+        }
+      },
+      "string": "Apr 2012 to Aug 2012"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19383,
+    "popularity": 24307,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2012,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46401,
+            "type": "anime",
+            "name": "Ben Ben You Youji: Chuanyue Huaxia",
+            "url": "https://myanimelist.net/anime/46401/Ben_Ben_You_Youji__Chuanyue_Huaxia"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep393915?from=search&seid=13318481007573616871"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%AC%A8%E7%AC%A8%E6%82%A0%E6%B8%B8%E8%AE%B0%E4%B9%8B%E9%BA%BB%E8%BE%A3%E5%A4%8F%E4%BB%A4%E8%90%A5"
+      }
+    ],
+    "streaming": []
+  }
+}

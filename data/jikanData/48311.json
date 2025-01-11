@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 48311,
+    "url": "https://myanimelist.net/anime/48311/Iyab_Space_Jungle",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/130271.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/130271t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/130271l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/130271.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/130271t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/130271l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Iyab! Space Jungle"
+      },
+      {
+        "type": "Synonym",
+        "title": "Iyab! Seupeiseu Jeong-geul"
+      },
+      {
+        "type": "Synonym",
+        "title": "来自奇星的小伙伴"
+      },
+      {
+        "type": "Japanese",
+        "title": "이얍! 스페이스 정글"
+      },
+      {
+        "type": "English",
+        "title": "Space Jungle"
+      }
+    ],
+    "title": "Iyab! Space Jungle",
+    "title_english": "Space Jungle",
+    "title_japanese": "이얍! 스페이스 정글",
+    "title_synonyms": [
+      "Iyab! Seupeiseu Jeong-geul",
+      "来自奇星的小伙伴"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-09-05T00:00:00+00:00",
+      "to": "2014-11-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 9,
+          "year": 2014
+        },
+        "to": {
+          "day": 28,
+          "month": 11,
+          "year": 2014
+        }
+      },
+      "string": "Sep 5, 2014 to Nov 28, 2014"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 21350,
+    "popularity": 23926,
+    "members": 107,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2703,
+        "type": "anime",
+        "name": "Oyster",
+        "url": "https://myanimelist.net/anime/producer/2703/Oyster"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54227,
+            "type": "anime",
+            "name": "Iyab! Space Jungle 2nd Season",
+            "url": "https://myanimelist.net/anime/54227/Iyab_Space_Jungle_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/spacejungle/main"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%96%8D!_%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%A0%95%EA%B8%80"
+      }
+    ],
+    "streaming": []
+  }
+}

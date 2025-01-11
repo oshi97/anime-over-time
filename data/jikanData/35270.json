@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 35270,
+    "url": "https://myanimelist.net/anime/35270/Perestroika",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/84964.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/84964t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/84964l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/84964.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/84964t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/84964l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Perestroika"
+      },
+      {
+        "type": "Japanese",
+        "title": "ペレストロイカ"
+      }
+    ],
+    "title": "Perestroika",
+    "title_english": null,
+    "title_japanese": "ペレストロイカ",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-10-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 10,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 24, 2008"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18309,
+    "popularity": 20120,
+    "members": 268,
+    "favorites": 0,
+    "synopsis": "Perestroika is a short animation series of 12 episodes, each lasting 2 minutes. The main characters are 3 Russian who have emigrated to an un-named country. They are always broke and looking for that night's supper. Their hunger drives them into some very strange situations or causes them to hatch some pretty weird schemes.\n\nThis animation is made with 1:12\" and 1:24\" scale miniture backgrounds and props, which creates a feeling of traditional stop motion animation. The mixture of these analog and digital techniques creates a very original harmony. \n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 245,
+        "type": "anime",
+        "name": "TOHO",
+        "url": "https://myanimelist.net/anime/producer/245/TOHO"
+      },
+      {
+        "mal_id": 249,
+        "type": "anime",
+        "name": "Robot Communications",
+        "url": "https://myanimelist.net/anime/producer/249/Robot_Communications"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "www.aoike.ca/japanese/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7192"
+      }
+    ],
+    "streaming": []
+  }
+}

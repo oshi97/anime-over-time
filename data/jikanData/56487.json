@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 56487,
+    "url": "https://myanimelist.net/anime/56487/Matsuinu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/140446.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/140446t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/140446l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/140446.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/140446t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/140446l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "8Mvvfn219Q4",
+      "url": "https://www.youtube.com/watch?v=8Mvvfn219Q4",
+      "embed_url": "https://www.youtube.com/embed/8Mvvfn219Q4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/8Mvvfn219Q4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/8Mvvfn219Q4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/8Mvvfn219Q4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/8Mvvfn219Q4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/8Mvvfn219Q4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Matsuinu"
+      },
+      {
+        "type": "Japanese",
+        "title": "まついぬ"
+      }
+    ],
+    "title": "Matsuinu",
+    "title_english": null,
+    "title_japanese": "まついぬ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-07T00:00:00+00:00",
+      "to": "2023-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Oct 7, 2023 to Dec 23, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.83,
+    "scored_by": 136,
+    "rank": 10734,
+    "popularity": 13518,
+    "members": 1189,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "22:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 22:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1284,
+        "type": "anime",
+        "name": "Avex Pictures",
+        "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2268,
+        "type": "anime",
+        "name": "Point Pictures",
+        "url": "https://myanimelist.net/anime/producer/2268/Point_Pictures"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 31174,
+            "type": "anime",
+            "name": "Osomatsu-san",
+            "url": "https://myanimelist.net/anime/31174/Osomatsu-san"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://matsuinu-anime.com/"
+      },
+      {
+        "name": "@matsuinu_info",
+        "url": "https://twitter.com/matsuinu_info"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@osomatsusan-official"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18177"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29679"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6823"
+      }
+    ],
+    "streaming": []
+  }
+}

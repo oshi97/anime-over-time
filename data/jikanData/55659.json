@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 55659,
+    "url": "https://myanimelist.net/anime/55659/Banjjagbanjjag_Catch_Tiniping",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1751/136467.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1751/136467t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1751/136467l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1751/136467.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1751/136467t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1751/136467l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Banjjagbanjjag Catch! Tiniping"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sparkle Sparkle Catch! Teenieping"
+      },
+      {
+        "type": "Japanese",
+        "title": "반짝반짝 캐치! 티니핑"
+      },
+      {
+        "type": "English",
+        "title": "Twinkle Catch! Tiniping"
+      }
+    ],
+    "title": "Banjjagbanjjag Catch! Tiniping",
+    "title_english": "Twinkle Catch! Tiniping",
+    "title_japanese": "반짝반짝 캐치! 티니핑",
+    "title_synonyms": [
+      "Sparkle Sparkle Catch! Teenieping"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-22T00:00:00+00:00",
+      "to": "2022-03-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": 16,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Sep 22, 2021 to Mar 16, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19295,
+    "popularity": 20038,
+    "members": 272,
+    "favorites": 0,
+    "synopsis": "The residents of Jewel Forest, Jewel Teeniepings suddenly disappeared. Joahping, Teeheeping, and Trustping, who also are Jewel Teeniepings, the students of Royal Teenieping Academy, and the candidates of next Royal Teeniepings, head to Earth to save their friends… \n\nNow, Romi and Heartsping have to team up with Joahping, Teeheeping, and Trustping, three immature Royal Teeniepings. Will Romi be able to find 15 lost Jewel Teeniepings and catch?\n\n(Source: Official Site)",
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2541,
+        "type": "anime",
+        "name": "SAMG Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2541/SAMG_Entertainment_"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48343,
+            "type": "anime",
+            "name": "Catch! Tiniping",
+            "url": "https://myanimelist.net/anime/48343/Catch_Tiniping"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55660,
+            "type": "anime",
+            "name": "Alssongdalssong Catch! Tiniping",
+            "url": "https://myanimelist.net/anime/55660/Alssongdalssong_Catch_Tiniping"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://samg.net/en/samg_contents/catchteenieping2"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catch!_Teenieping"
+      }
+    ],
+    "streaming": []
+  }
+}

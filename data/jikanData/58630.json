@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 58630,
+    "url": "https://myanimelist.net/anime/58630/Oshiri_Tantei_8th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/142515.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/142515t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/142515l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/142515.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/142515t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/142515l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oshiri Tantei 8th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Butt Detective"
+      },
+      {
+        "type": "Japanese",
+        "title": "おしりたんてい"
+      }
+    ],
+    "title": "Oshiri Tantei 8th Season",
+    "title_english": null,
+    "title_japanese": "おしりたんてい",
+    "title_synonyms": [
+      "Butt Detective"
+    ],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-06T00:00:00+00:00",
+      "to": "2024-11-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": 16,
+          "month": 11,
+          "year": 2024
+        }
+      },
+      "string": "Apr 6, 2024 to Nov 16, 2024"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18191,
+    "popularity": 22168,
+    "members": 159,
+    "favorites": 0,
+    "synopsis": "Eighth season of Oshiri Tantei.",
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "09:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 09:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53514,
+            "type": "anime",
+            "name": "Oshiri Tantei 7th Season",
+            "url": "https://myanimelist.net/anime/53514/Oshiri_Tantei_7th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58631,
+            "type": "anime",
+            "name": "Oshiri Tantei 9th Season",
+            "url": "https://myanimelist.net/anime/58631/Oshiri_Tantei_9th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://oshiri-tantei.com"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30113"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8A%E3%81%9F%E3%82%93%E3%81%A6%E3%81%84#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

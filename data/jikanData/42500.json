@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 42500,
+    "url": "https://myanimelist.net/anime/42500/Tadaima_Chibi_Godzilla",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1339/108564t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1339/108564l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1339/108564.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1339/108564t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1339/108564l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tadaima! Chibi Godzilla"
+      },
+      {
+        "type": "Synonym",
+        "title": "I'm Home"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chibi Godzilla"
+      },
+      {
+        "type": "Japanese",
+        "title": "ただいま！ちびゴジラ"
+      },
+      {
+        "type": "English",
+        "title": "I'm Home! Chibi Godzilla"
+      }
+    ],
+    "title": "Tadaima! Chibi Godzilla",
+    "title_english": "I'm Home! Chibi Godzilla",
+    "title_japanese": "ただいま！ちびゴジラ",
+    "title_synonyms": [
+      "I'm Home",
+      "Chibi Godzilla"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-15T00:00:00+00:00",
+      "to": "2020-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Jul 15, 2020 to Sep 30, 2020"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.55,
+    "scored_by": 265,
+    "rank": 11924,
+    "popularity": 15494,
+    "members": 683,
+    "favorites": 1,
+    "synopsis": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45611,
+            "type": "anime",
+            "name": "Tadaima! Chibi Godzilla Season 2",
+            "url": "https://myanimelist.net/anime/45611/Tadaima_Chibi_Godzilla_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38616,
+            "type": "anime",
+            "name": "Ganbare Chibi Godzilla",
+            "url": "https://myanimelist.net/anime/38616/Ganbare_Chibi_Godzilla"
+          },
+          {
+            "mal_id": 38820,
+            "type": "anime",
+            "name": "Chibi Godzilla",
+            "url": "https://myanimelist.net/anime/38820/Chibi_Godzilla"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://godzilla.store/chibigodzilla/"
+      }
+    ],
+    "streaming": []
+  }
+}

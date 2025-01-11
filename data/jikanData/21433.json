@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 21433,
+    "url": "https://myanimelist.net/anime/21433/Chou_Zenmairobo__Patrasche",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/60031.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/60031t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/60031l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/60031.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/60031t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/60031l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "k-0jurnDO2c",
+      "url": "https://www.youtube.com/watch?v=k-0jurnDO2c",
+      "embed_url": "https://www.youtube.com/embed/k-0jurnDO2c?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/k-0jurnDO2c/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/k-0jurnDO2c/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/k-0jurnDO2c/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/k-0jurnDO2c/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/k-0jurnDO2c/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chou Zenmairobo: Patrasche"
+      },
+      {
+        "type": "Synonym",
+        "title": "Flanders no Inu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chou Zenmai Robo Patrush"
+      },
+      {
+        "type": "Japanese",
+        "title": "超ゼンマイロボ パトラッシュ"
+      }
+    ],
+    "title": "Chou Zenmairobo: Patrasche",
+    "title_english": null,
+    "title_japanese": "超ゼンマイロボ パトラッシュ",
+    "title_synonyms": [
+      "Flanders no Inu",
+      "Chou Zenmai Robo Patrush"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-07T00:00:00+00:00",
+      "to": "2014-03-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": 15,
+          "month": 3,
+          "year": 2014
+        }
+      },
+      "string": "Dec 7, 2013 to Mar 15, 2014"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.18,
+    "scored_by": 131,
+    "rank": 12880,
+    "popularity": 15861,
+    "members": 625,
+    "favorites": 0,
+    "synopsis": "A parody of Flanders no Inu that has Parasche being a key-activated mecha robot who fights the antagonists.",
+    "background": "",
+    "season": "winter",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Nippon Animation",
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 2553,
+            "type": "anime",
+            "name": "Flanders no Inu",
+            "url": "https://myanimelist.net/anime/2553/Flanders_no_Inu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://zenmairobo.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10242"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15739"
+      }
+    ],
+    "streaming": []
+  }
+}

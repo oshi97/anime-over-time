@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 43881,
+    "url": "https://myanimelist.net/anime/43881/Da_Erduo_Tutu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1563/128191.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1563/128191t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1563/128191l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1563/128191.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1563/128191t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1563/128191l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Da Erduo Tutu"
+      },
+      {
+        "type": "Japanese",
+        "title": "大耳朵圖圖"
+      },
+      {
+        "type": "English",
+        "title": "Big Ear Tutu"
+      }
+    ],
+    "title": "Da Erduo Tutu",
+    "title_english": "Big Ear Tutu",
+    "title_japanese": "大耳朵圖圖",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2004-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2004
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 1, 2004 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19919,
+    "popularity": 24811,
+    "members": 92,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43882,
+            "type": "anime",
+            "name": "Da Erduo Tutu 2nd Season",
+            "url": "https://myanimelist.net/anime/43882/Da_Erduo_Tutu_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 43887,
+            "type": "anime",
+            "name": "Da Erduo Tutu: Tutu Zhihui Wangguo",
+            "url": "https://myanimelist.net/anime/43887/Da_Erduo_Tutu__Tutu_Zhihui_Wangguo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%80%B3%E6%9C%B5%E5%9B%BE%E5%9B%BE"
+      }
+    ],
+    "streaming": []
+  }
+}

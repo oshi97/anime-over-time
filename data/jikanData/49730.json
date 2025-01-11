@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 49730,
+    "url": "https://myanimelist.net/anime/49730/Pokemon_Evolutions",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1405/117456.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1405/117456t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1405/117456l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1405/117456.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1405/117456t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1405/117456l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "2-d_PruYR5Q",
+      "url": "https://www.youtube.com/watch?v=2-d_PruYR5Q",
+      "embed_url": "https://www.youtube.com/embed/2-d_PruYR5Q?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/2-d_PruYR5Q/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/2-d_PruYR5Q/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/2-d_PruYR5Q/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/2-d_PruYR5Q/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/2-d_PruYR5Q/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Evolutions"
+      },
+      {
+        "type": "Japanese",
+        "title": "Pokémon Evolutions"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Evolutions"
+      }
+    ],
+    "title": "Pokemon Evolutions",
+    "title_english": "Pokémon Evolutions",
+    "title_japanese": "Pokémon Evolutions",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-09T00:00:00+00:00",
+      "to": "2021-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Sep 9, 2021 to Dec 23, 2021"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
+    "score": 7.44,
+    "scored_by": 10162,
+    "rank": 2182,
+    "popularity": 5222,
+    "members": 18847,
+    "favorites": 43,
+    "synopsis": "An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.\n\n(Source: Anilist)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.com/us/pokemon-news/watch-the-trailer-for-pokemon-evolutions-a-new-animated-series/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16599"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24698"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Evolutions"
+      }
+    ],
+    "streaming": []
+  }
+}

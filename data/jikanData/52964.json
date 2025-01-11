@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 52964,
+    "url": "https://myanimelist.net/anime/52964/Sylvanian_Families__Freya_no_Happy_Diary",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1147/127704.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/127704t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/127704l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1147/127704.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/127704t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/127704l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sylvanian Families: Freya no Happy Diary"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sylvanian Families: Freya's Happy Diary"
+      },
+      {
+        "type": "Japanese",
+        "title": "シルバニアファミリー フレアのハッピーダイアリー"
+      },
+      {
+        "type": "English",
+        "title": "Calico Critters: Freya's Happy Diary"
+      }
+    ],
+    "title": "Sylvanian Families: Freya no Happy Diary",
+    "title_english": "Calico Critters: Freya's Happy Diary",
+    "title_japanese": "シルバニアファミリー フレアのハッピーダイアリー",
+    "title_synonyms": [
+      "Sylvanian Families: Freya's Happy Diary"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-06T00:00:00+00:00",
+      "to": "2022-12-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 22,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Oct 6, 2022 to Dec 22, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14474,
+    "popularity": 17344,
+    "members": 457,
+    "favorites": 2,
+    "synopsis": "A TV series based on the Sylvanian Families toy line.",
+    "background": "",
+    "season": "fall",
+    "year": 2022,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "19:22",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 19:22 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 563,
+        "type": "anime",
+        "name": "LandQ studios",
+        "url": "https://myanimelist.net/anime/producer/563/LandQ_studios"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57838,
+            "type": "anime",
+            "name": "Sylvanian Families: Freya no Happy Diary - Birthday Present",
+            "url": "https://myanimelist.net/anime/57838/Sylvanian_Families__Freya_no_Happy_Diary_-_Birthday_Present"
+          },
+          {
+            "mal_id": 55948,
+            "type": "anime",
+            "name": "Sylvanian Families: Freya no Go for Dream!",
+            "url": "https://myanimelist.net/anime/55948/Sylvanian_Families__Freya_no_Go_for_Dream"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8644,
+            "type": "anime",
+            "name": "Sylvanian Families",
+            "url": "https://myanimelist.net/anime/8644/Sylvanian_Families"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.sylvanianfamilies.com/ja-jp/special/tv/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17610"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26293"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sylvanian_Families"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6485"
+      }
+    ],
+    "streaming": []
+  }
+}

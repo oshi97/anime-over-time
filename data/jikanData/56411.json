@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 56411,
+    "url": "https://myanimelist.net/anime/56411/Maca_and_Roni_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/137995.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/137995t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/137995l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/137995.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/137995t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/137995l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maca and Roni 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "마카앤로니2"
+      }
+    ],
+    "title": "Maca and Roni 2",
+    "title_english": null,
+    "title_japanese": "마카앤로니2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-07T00:00:00+00:00",
+      "to": "2022-12-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": 21,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Sep 7, 2022 to Dec 21, 2022"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17244,
+    "popularity": 23586,
+    "members": 113,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      },
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2944,
+        "type": "anime",
+        "name": "Brick Studio",
+        "url": "https://myanimelist.net/anime/producer/2944/Brick_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56410,
+            "type": "anime",
+            "name": "Maca and Roni",
+            "url": "https://myanimelist.net/anime/56410/Maca_and_Roni"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57598,
+            "type": "anime",
+            "name": "Maca and Roni 3",
+            "url": "https://myanimelist.net/anime/57598/Maca_and_Roni_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/마카앤로니"
+      }
+    ],
+    "streaming": []
+  }
+}

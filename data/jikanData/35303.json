@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 35303,
+    "url": "https://myanimelist.net/anime/35303/Furusato_Meguri__Nippon_no_Mukashibanashi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85025.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85025t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85025l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85025.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85025t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85025l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Furusato Meguri: Nippon no Mukashibanashi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hometown Visiting: Folktales from Japan"
+      },
+      {
+        "type": "Japanese",
+        "title": "ふるさとめぐり 日本の昔ばなし"
+      }
+    ],
+    "title": "Furusato Meguri: Nippon no Mukashibanashi",
+    "title_english": null,
+    "title_japanese": "ふるさとめぐり 日本の昔ばなし",
+    "title_synonyms": [
+      "Hometown Visiting: Folktales from Japan"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-02T00:00:00+00:00",
+      "to": "2018-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Apr 2, 2017 to Mar 25, 2018"
+    },
+    "duration": "22 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.16,
+    "scored_by": 248,
+    "rank": 9041,
+    "popularity": 13563,
+    "members": 1172,
+    "favorites": 1,
+    "synopsis": "Sequel series to Furusato Saisei: Nihon no Mukashibanashi.",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 13163,
+            "type": "anime",
+            "name": "Furusato Saisei: Nippon no Mukashibanashi",
+            "url": "https://myanimelist.net/anime/13163/Furusato_Saisei__Nippon_no_Mukashibanashi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Furusato Hokkorimura (ふるさとほっこり村)\" by Kaori Mizumori"
+      ],
+      "endings": [
+        "\"Pyon Pyon Punyo Punyo no Uta (ぴょんぴょん ぷにょぷにょのうた)\" by Star Flower (Seiran Kobayashi, Kaon Tani)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/index2.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13050"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E3%82%81%E3%81%90%E3%82%8A_%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%94%E3%81%B0%E3%81%AA%E3%81%97"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-243998"
+      }
+    ]
+  }
+}

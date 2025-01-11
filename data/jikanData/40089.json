@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 40089,
+    "url": "https://myanimelist.net/anime/40089/Pittanko_Nekozakana",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1058/102001t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1058/102001l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1058/102001.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1058/102001t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1058/102001l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pittanko!! Nekozakana"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぴったんこ!! ねこざかな"
+      }
+    ],
+    "title": "Pittanko!! Nekozakana",
+    "title_english": null,
+    "title_japanese": "ぴったんこ!! ねこざかな",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 93,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-09T00:00:00+00:00",
+      "to": "2019-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Oct 9, 2017 to Dec 23, 2019"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18365,
+    "popularity": 16405,
+    "members": 554,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34235,
+            "type": "anime",
+            "name": "Pittanko! Nekozakana",
+            "url": "https://myanimelist.net/anime/34235/Pittanko_Nekozakana"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48594,
+            "type": "anime",
+            "name": "Pittanko!! Nekozakana (2020)",
+            "url": "https://myanimelist.net/anime/48594/Pittanko_Nekozakana_2020"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13535"
+      }
+    ],
+    "streaming": []
+  }
+}

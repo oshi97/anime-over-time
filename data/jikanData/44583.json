@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 44583,
+    "url": "https://myanimelist.net/anime/44583/Rail_Romanesque_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/137093.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/137093t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/137093l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/137093.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/137093t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/137093l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "PPhP_Elns0A",
+      "url": "https://www.youtube.com/watch?v=PPhP_Elns0A",
+      "embed_url": "https://www.youtube.com/embed/PPhP_Elns0A?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/PPhP_Elns0A/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/PPhP_Elns0A/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/PPhP_Elns0A/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/PPhP_Elns0A/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/PPhP_Elns0A/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rail Romanesque 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Maitetsu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "レヱル・ロマネスク2"
+      }
+    ],
+    "title": "Rail Romanesque 2",
+    "title_english": null,
+    "title_japanese": "レヱル・ロマネスク2",
+    "title_synonyms": [
+      "Maitetsu 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-06T00:00:00+00:00",
+      "to": "2023-12-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 29,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Oct 6, 2023 to Dec 29, 2023"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.62,
+    "scored_by": 803,
+    "rank": 11683,
+    "popularity": 7675,
+    "members": 7157,
+    "favorites": 9,
+    "synopsis": "Second season of Rail Romanesque.",
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "01:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 01:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1687,
+        "type": "anime",
+        "name": "Yokohama Animation Laboratory",
+        "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Laboratory"
+      },
+      {
+        "mal_id": 2600,
+        "type": "anime",
+        "name": "Cloud Hearts",
+        "url": "https://myanimelist.net/anime/producer/2600/Cloud_Hearts"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40958,
+            "type": "anime",
+            "name": "Rail Romanesque",
+            "url": "https://myanimelist.net/anime/40958/Rail_Romanesque"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://railromanesque.jp/anime02/"
+      },
+      {
+        "name": "@rail_romanesque",
+        "url": "https://twitter.com/rail_romanesque"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15921"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23897"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maitetsu"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A6%E3%81%A4"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6816"
+      }
+    ],
+    "streaming": []
+  }
+}

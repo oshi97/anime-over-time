@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 56892,
+    "url": "https://myanimelist.net/anime/56892/Kkomimanyeo_Lara_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1348/139060.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/139060t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/139060l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1348/139060.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/139060t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/139060l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kkomimanyeo Lara Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "꼬미마녀 라라 시즌2"
+      }
+    ],
+    "title": "Kkomimanyeo Lara Season 2",
+    "title_english": null,
+    "title_japanese": "꼬미마녀 라라 시즌2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-14T00:00:00+00:00",
+      "to": "2023-01-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 6,
+          "month": 1,
+          "year": 2023
+        }
+      },
+      "string": "Oct 14, 2023 to Jan 6, 2023"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16789,
+    "popularity": 21486,
+    "members": 191,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56358,
+            "type": "anime",
+            "name": "Kkomimanyeo Lara",
+            "url": "https://myanimelist.net/anime/56358/Kkomimanyeo_Lara"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://programs.sbs.co.kr/culture/komiwitchlara/main?div=gnb_program"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/꼬미마녀%20라라"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "mal_id": 38110,
+    "url": "https://myanimelist.net/anime/38110/Tales_of_HR",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1637/93339.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/93339t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/93339l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1637/93339.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/93339t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/93339l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tales of HR"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tales of Homeroom"
+      },
+      {
+        "type": "Japanese",
+        "title": "ているず おぶ HR"
+      }
+    ],
+    "title": "Tales of HR",
+    "title_english": null,
+    "title_japanese": "ているず おぶ HR",
+    "title_synonyms": [
+      "Tales of Homeroom"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-06-17T00:00:00+00:00",
+      "to": "2019-12-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 6,
+          "year": 2018
+        },
+        "to": {
+          "day": 14,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Jun 17, 2018 to Dec 14, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.09,
+    "scored_by": 292,
+    "rank": 9451,
+    "popularity": 12535,
+    "members": 1585,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "Episode 13 was originally shown on November 24, 2019 at the Tales of Graces Anniversary Party live-event.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1278,
+        "type": "anime",
+        "name": "Signal.MD",
+        "url": "https://myanimelist.net/anime/producer/1278/SignalMD"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 6046,
+            "type": "anime",
+            "name": "Tales of Vesperia: The First Strike",
+            "url": "https://myanimelist.net/anime/6046/Tales_of_Vesperia__The_First_Strike"
+          },
+          {
+            "mal_id": 30911,
+            "type": "anime",
+            "name": "Tales of Zestiria the Cross",
+            "url": "https://myanimelist.net/anime/30911/Tales_of_Zestiria_the_Cross"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38112,
+            "type": "anime",
+            "name": "Tales of Puppet",
+            "url": "https://myanimelist.net/anime/38112/Tales_of_Puppet"
+          },
+          {
+            "mal_id": 36955,
+            "type": "anime",
+            "name": "Tales of the Rays Gekijou",
+            "url": "https://myanimelist.net/anime/36955/Tales_of_the_Rays_Gekijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://asobistore.jp/content/title/Talesof/HR/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14250"
+      }
+    ],
+    "streaming": []
+  }
+}

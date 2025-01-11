@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 39528,
+    "url": "https://myanimelist.net/anime/39528/Washimo_7th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/99787.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/99787t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/99787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/99787.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/99787t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/99787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Washimo 7th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wasimo 7"
+      },
+      {
+        "type": "Japanese",
+        "title": "わしも-wasimo-(第7シリーズ)"
+      }
+    ],
+    "title": "Washimo 7th Season",
+    "title_english": null,
+    "title_japanese": "わしも-wasimo-(第7シリーズ)",
+    "title_synonyms": [
+      "Wasimo 7"
+    ],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-01T00:00:00+00:00",
+      "to": "2019-11-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 12,
+          "month": 11,
+          "year": 2019
+        }
+      },
+      "string": "Apr 1, 2019 to Nov 12, 2019"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15094,
+    "popularity": 20242,
+    "members": 261,
+    "favorites": 0,
+    "synopsis": "Seventh season of the Washimo series.",
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37630,
+            "type": "anime",
+            "name": "Washimo 6th Season",
+            "url": "https://myanimelist.net/anime/37630/Washimo_6th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41522,
+            "type": "anime",
+            "name": "Washimo 8th Season",
+            "url": "https://myanimelist.net/anime/41522/Washimo_8th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www9.nhk.or.jp/anime/wasimo/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14753"
+      }
+    ],
+    "streaming": []
+  }
+}

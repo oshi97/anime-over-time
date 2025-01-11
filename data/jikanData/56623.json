@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 56623,
+    "url": "https://myanimelist.net/anime/56623/Nui_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/138433.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/138433t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/138433l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/138433.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/138433t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/138433l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nui Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぬいストーリー"
+      }
+    ],
+    "title": "Nui Story",
+    "title_english": null,
+    "title_japanese": "ぬいストーリー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-07T00:00:00+00:00",
+      "to": "2024-09-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 20,
+          "month": 9,
+          "year": 2024
+        }
+      },
+      "string": "Oct 7, 2023 to Sep 20, 2024"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18047,
+    "popularity": 22162,
+    "members": 158,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60080,
+            "type": "anime",
+            "name": "Nui Story 2",
+            "url": "https://myanimelist.net/anime/60080/Nui_Story_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pisostudio.com"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 40749,
+    "url": "https://myanimelist.net/anime/40749/Maou-sama_Petit_Retry",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1722/104439.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/104439t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/104439l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1722/104439.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/104439t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/104439l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maou-sama, \"Petit\" Retry!"
+      },
+      {
+        "type": "Japanese",
+        "title": "魔王様、“プチ”リトライ！"
+      },
+      {
+        "type": "English",
+        "title": "Demon Lord, \"Petit\" Retry!"
+      }
+    ],
+    "title": "Maou-sama, \"Petit\" Retry!",
+    "title_english": "Demon Lord, \"Petit\" Retry!",
+    "title_japanese": "魔王様、“プチ”リトライ！",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 23,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-06-17T00:00:00+00:00",
+      "to": "2019-09-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 6,
+          "year": 2019
+        },
+        "to": {
+          "day": 28,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Jun 17, 2019 to Sep 28, 2019"
+    },
+    "duration": "41 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.9,
+    "scored_by": 1209,
+    "rank": 10431,
+    "popularity": 8794,
+    "members": 5137,
+    "favorites": 7,
+    "synopsis": "Special short of Maou-sama, Retry! published on the official Twitter.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1600,
+        "type": "anime",
+        "name": "On-Lead",
+        "url": "https://myanimelist.net/anime/producer/1600/On-Lead"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38297,
+            "type": "anime",
+            "name": "Maou-sama, Retry!",
+            "url": "https://myanimelist.net/anime/38297/Maou-sama_Retry"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://maousama-anime.com/movie/twitter/"
+      }
+    ],
+    "streaming": []
+  }
+}

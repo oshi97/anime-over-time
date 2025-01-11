@@ -1,0 +1,195 @@
+{
+  "data": {
+    "mal_id": 35818,
+    "url": "https://myanimelist.net/anime/35818/Love_Kome__We_Love_Rice_Nikisaku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88115.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88115t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88115l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88115.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88115t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88115l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Love Kome: We Love Rice Nikisaku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Love Kome: We Love Rice 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ラブ米 -WE LOVE RICE- 二期作"
+      },
+      {
+        "type": "English",
+        "title": "Love Rice 2"
+      },
+      {
+        "type": "German",
+        "title": "Love Rice 2"
+      },
+      {
+        "type": "Spanish",
+        "title": "Love Rice 2"
+      },
+      {
+        "type": "French",
+        "title": "Love Rice 2"
+      }
+    ],
+    "title": "Love Kome: We Love Rice Nikisaku",
+    "title_english": "Love Rice 2",
+    "title_japanese": "ラブ米 -WE LOVE RICE- 二期作",
+    "title_synonyms": [
+      "Love Kome: We Love Rice 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-06T00:00:00+00:00",
+      "to": "2017-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      "string": "Oct 6, 2017 to Dec 23, 2017"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.85,
+    "scored_by": 1866,
+    "rank": 13293,
+    "popularity": 9151,
+    "members": 4572,
+    "favorites": 4,
+    "synopsis": "Second season of Love Kome: We Love Rice.",
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "02:59",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 02:59 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1645,
+        "type": "anime",
+        "name": "Just Production",
+        "url": "https://myanimelist.net/anime/producer/1645/Just_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 354,
+        "type": "anime",
+        "name": "Encourage Films",
+        "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34402,
+            "type": "anime",
+            "name": "Love Kome: We Love Rice",
+            "url": "https://myanimelist.net/anime/34402/Love_Kome__We_Love_Rice"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://love-kome.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13249"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20174"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E7%B1%B3_-WE_LOVE_RICE-"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-272929"
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 36881,
+    "url": "https://myanimelist.net/anime/36881/Dennou_Senshi_Dokan-kun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/105649.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/105649t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/105649l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/105649.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/105649t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/105649l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dennou Senshi Dokan-kun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fight Tension☆Depart"
+      },
+      {
+        "type": "Japanese",
+        "title": "電脳戦士 土管くん"
+      }
+    ],
+    "title": "Dennou Senshi Dokan-kun",
+    "title_english": null,
+    "title_japanese": "電脳戦士 土管くん",
+    "title_synonyms": [
+      "Fight Tension☆Depart"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-01-15T00:00:00+00:00",
+      "to": "2007-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 1,
+          "year": 2007
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2007
+        }
+      },
+      "string": "Jan 15, 2007 to Mar 26, 2007"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20060,
+    "popularity": 19402,
+    "members": 308,
+    "favorites": 0,
+    "synopsis": "An animated series that aired within the variety program \"Fight Tension☆Depart.\"",
+    "background": "",
+    "season": "winter",
+    "year": 2007,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38568,
+            "type": "anime",
+            "name": "Susume! Dokan-kun",
+            "url": "https://myanimelist.net/anime/38568/Susume_Dokan-kun"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54051,
+            "type": "anime",
+            "name": "Dokan-kun Nanika no Ekaki Uta",
+            "url": "https://myanimelist.net/anime/54051/Dokan-kun_Nanika_no_Ekaki_Uta"
+          },
+          {
+            "mal_id": 54052,
+            "type": "anime",
+            "name": "Oshiete! Dokan-kun",
+            "url": "https://myanimelist.net/anime/54052/Oshiete_Dokan-kun"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/fight_tension/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6641"
+      }
+    ],
+    "streaming": []
+  }
+}

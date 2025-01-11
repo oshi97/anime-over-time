@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 39003,
+    "url": "https://myanimelist.net/anime/39003/Kyou_mo_Tsuno_ga_Aru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98233t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98233l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1189/98233.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98233t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98233l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyou mo Tsuno ga Aru"
+      },
+      {
+        "type": "Japanese",
+        "title": "今日もツノがある"
+      }
+    ],
+    "title": "Kyou mo Tsuno ga Aru",
+    "title_english": null,
+    "title_japanese": "今日もツノがある",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-21T00:00:00+00:00",
+      "to": "2020-02-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": 19,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Feb 21, 2019 to Feb 19, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17015,
+    "popularity": 16031,
+    "members": 600,
+    "favorites": 0,
+    "synopsis": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "21:54",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 21:54 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1077,
+        "type": "anime",
+        "name": "MMDGP",
+        "url": "https://myanimelist.net/anime/producer/1077/MMDGP"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tsunoanime.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14597"
+      }
+    ],
+    "streaming": []
+  }
+}

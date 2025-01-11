@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51955,
+    "url": "https://myanimelist.net/anime/51955/Pokemon_Moncolle_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1030/124123.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1030/124123t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1030/124123l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1030/124123.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1030/124123t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1030/124123l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Moncolle Story"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon stop motion animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモン モンコレストーリ"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Moncolle Story"
+      }
+    ],
+    "title": "Pokemon Moncolle Story",
+    "title_english": "Pokémon Kids TV: Moncolle Story",
+    "title_japanese": "ポケモン モンコレストーリ",
+    "title_synonyms": [
+      "Pokemon stop motion animation"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-30T00:00:00+00:00",
+      "to": "2018-06-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": 15,
+          "month": 6,
+          "year": 2018
+        }
+      },
+      "string": "Mar 30, 2018 to Jun 15, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": 5.44,
+    "scored_by": 330,
+    "rank": 12231,
+    "popularity": 14294,
+    "members": 963,
+    "favorites": 1,
+    "synopsis": "The Pokémon Company has unveiled a new series of adorable stop motion videos to promote the ultra popular Pokémon Moncolle figures. Each video is brief and depicts a story consisting of events in which little versions of recognizable Pokémon take part in, featuring Pikachu, Poipole, Mimikyu, Rowlet, Zeraora, Buzzwole, Charizard, Litten, Popplio, Groudon, Garchomp, Rockruff, Rayquaza and more. \n\n(Source: pokemonblog.com)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtube.com/user/PokemonCoJp"
+      }
+    ],
+    "streaming": []
+  }
+}

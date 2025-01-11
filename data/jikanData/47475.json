@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 47475,
+    "url": "https://myanimelist.net/anime/47475/Wudi_Lu_Zhandui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1952/129462.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1952/129462t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1952/129462l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1952/129462.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1952/129462t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1952/129462l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wudi Lu Zhandui"
+      },
+      {
+        "type": "Synonym",
+        "title": "ディア・スクワッド"
+      },
+      {
+        "type": "Synonym",
+        "title": "無敵鹿戰隊"
+      },
+      {
+        "type": "Japanese",
+        "title": "无敌鹿战队"
+      },
+      {
+        "type": "English",
+        "title": "Deer Squad"
+      }
+    ],
+    "title": "Wudi Lu Zhandui",
+    "title_english": "Deer Squad",
+    "title_japanese": "无敌鹿战队",
+    "title_synonyms": [
+      "ディア・スクワッド",
+      "無敵鹿戰隊"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2020 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15211,
+    "popularity": 24108,
+    "members": 103,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1806,
+        "type": "anime",
+        "name": "iQIYI",
+        "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59151,
+            "type": "anime",
+            "name": "Wudi Lu Zhandui 2nd Season",
+            "url": "https://myanimelist.net/anime/59151/Wudi_Lu_Zhandui_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 47470,
+            "type": "anime",
+            "name": "Wudi Xiaolu",
+            "url": "https://myanimelist.net/anime/47470/Wudi_Xiaolu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrhl6i9x.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%97%A0%E6%95%8C%E9%B9%BF%E6%88%98%E9%98%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

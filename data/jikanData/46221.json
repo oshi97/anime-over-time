@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 46221,
+    "url": "https://myanimelist.net/anime/46221/Mo_Jiao_Zhentan_2__Da_Sanjiao_Jihua",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/129825.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/129825t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/129825l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/129825.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/129825t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/129825l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mo Jiao Zhentan 2: Da Sanjiao Jihua"
+      },
+      {
+        "type": "Japanese",
+        "title": "魔角侦探2大三角计划"
+      },
+      {
+        "type": "English",
+        "title": "Mojospy 2nd Season"
+      }
+    ],
+    "title": "Mo Jiao Zhentan 2: Da Sanjiao Jihua",
+    "title_english": "Mojospy 2nd Season",
+    "title_japanese": "魔角侦探2大三角计划",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-07-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 7,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 23, 2012 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17648,
+    "popularity": 27015,
+    "members": 67,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46220,
+            "type": "anime",
+            "name": "Mo Jiao Zhentan",
+            "url": "https://myanimelist.net/anime/46220/Mo_Jiao_Zhentan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV12x411J79U/?from=search&seid=18229368508558311790"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%AD%94%E8%A7%92%E4%BE%A6%E6%8E%A2"
+      }
+    ],
+    "streaming": []
+  }
+}

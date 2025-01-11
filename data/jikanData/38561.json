@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 38561,
+    "url": "https://myanimelist.net/anime/38561/Pan_to_Boku_no_Momo-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/95958.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/95958t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/95958l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/95958.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/95958t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/95958l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pan to Boku no Momo-chan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bread and My Momo"
+      },
+      {
+        "type": "Japanese",
+        "title": "パンと僕のモモちゃん"
+      }
+    ],
+    "title": "Pan to Boku no Momo-chan",
+    "title_english": null,
+    "title_japanese": "パンと僕のモモちゃん",
+    "title_synonyms": [
+      "Bread and My Momo"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-31T00:00:00+00:00",
+      "to": "2019-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Oct 31, 2018 to 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18240,
+    "popularity": 14178,
+    "members": 996,
+    "favorites": 2,
+    "synopsis": "The story follows a boy named Shiro and his aunt, Momo, who live together after the death of Shiro's mother, Momo's older sister. Shiro makes bread for Momo in the mornings. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1723,
+        "type": "anime",
+        "name": "Anime Beans",
+        "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 116199,
+            "type": "manga",
+            "name": "Pan to Boku no Momo-chan",
+            "url": "https://myanimelist.net/manga/116199/Pan_to_Boku_no_Momo-chan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14452"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%81%A8%E5%83%95%E3%81%AE%E3%83%A2%E3%83%A2%E3%81%A1%E3%82%83%E3%82%93#Web%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

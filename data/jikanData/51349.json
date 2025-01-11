@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 51349,
+    "url": "https://myanimelist.net/anime/51349/Mahoutsukai_Reimeiki_Mini_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1307/122172.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1307/122172t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1307/122172l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1307/122172.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1307/122172t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1307/122172l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mahoutsukai Reimeiki Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "魔法使い黎明期 ミニアニメ"
+      },
+      {
+        "type": "English",
+        "title": "The Dawn of the Witch Mini Anime"
+      }
+    ],
+    "title": "Mahoutsukai Reimeiki Mini Anime",
+    "title_english": "The Dawn of the Witch Mini Anime",
+    "title_japanese": "魔法使い黎明期 ミニアニメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 21,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-19T00:00:00+00:00",
+      "to": "2022-04-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": 7,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "string": "Mar 19, 2022 to Apr 7, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.55,
+    "scored_by": 402,
+    "rank": 11914,
+    "popularity": 12388,
+    "members": 1666,
+    "favorites": 1,
+    "synopsis": "Mini anime for Mahoutsukai Reimeiki released on the official Twitter.\n\nIncludes an extra collaboration episode with Machikado Mazoku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 200,
+        "type": "anime",
+        "name": "Tezuka Productions",
+        "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 48842,
+            "type": "anime",
+            "name": "Mahoutsukai Reimeiki",
+            "url": "https://myanimelist.net/anime/48842/Mahoutsukai_Reimeiki"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 51543,
+            "type": "anime",
+            "name": "Machikado Mazoku: 2-choume Mini",
+            "url": "https://myanimelist.net/anime/51543/Machikado_Mazoku__2-choume_Mini"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/reimeiki_pr"
+      }
+    ],
+    "streaming": []
+  }
+}

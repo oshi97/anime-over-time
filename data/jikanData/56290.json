@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 56290,
+    "url": "https://myanimelist.net/anime/56290/Sinbi_Apartment__Ghost_Ball_Z",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1120/137798.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1120/137798t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1120/137798l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1120/137798.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1120/137798t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1120/137798l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment: Ghost Ball Z"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트 고스트볼Z"
+      }
+    ],
+    "title": "Sinbi Apartment: Ghost Ball Z",
+    "title_english": null,
+    "title_japanese": "신비아파트 고스트볼Z",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-16T00:00:00+00:00",
+      "to": "2022-07-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": 28,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Sep 16, 2021 to Jul 28, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14265,
+    "popularity": 21573,
+    "members": 187,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48266,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Double X",
+            "url": "https://myanimelist.net/anime/48266/Sinbi_Apartment__Ghost_Ball_Double_X"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55047,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Zero",
+            "url": "https://myanimelist.net/anime/55047/Sinbi_Apartment__Ghost_Ball_Zero"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56294,
+            "type": "anime",
+            "name": "Sinbi Apartment: Cheolwonui Supsog Toemasa, Cheolgungi",
+            "url": "https://myanimelist.net/anime/56294/Sinbi_Apartment__Cheolwonui_Supsog_Toemasa_Cheolgungi"
+          },
+          {
+            "mal_id": 56295,
+            "type": "anime",
+            "name": "Sinbi Apartment: Dasi Mannan Cheolgungiwa Cheolwon Woljeongliui Jeonseol",
+            "url": "https://myanimelist.net/anime/56295/Sinbi_Apartment__Dasi_Mannan_Cheolgungiwa_Cheolwon_Woljeongliui_Jeonseol"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/신비아파트%20고스트볼Z"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 55564,
+    "url": "https://myanimelist.net/anime/55564/Yankee_Hamster_Season_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/136281.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/136281t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/136281l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/136281.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/136281t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/136281l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yankee Hamster Season 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヤンキーハムスター シーズン３"
+      },
+      {
+        "type": "English",
+        "title": "Delinquent Hamsters Season 3"
+      }
+    ],
+    "title": "Yankee Hamster Season 3",
+    "title_english": "Delinquent Hamsters Season 3",
+    "title_japanese": "ヤンキーハムスター シーズン３",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-06T00:00:00+00:00",
+      "to": "2023-04-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": 14,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "string": "May 6, 2022 to Apr 14, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15787,
+    "popularity": 22067,
+    "members": 163,
+    "favorites": 0,
+    "synopsis": "The third season of Yankee Hamster.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 55,
+        "type": "anime",
+        "name": "Delinquents",
+        "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49991,
+            "type": "anime",
+            "name": "Yankee Hamster Season 2",
+            "url": "https://myanimelist.net/anime/49991/Yankee_Hamster_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56622,
+            "type": "anime",
+            "name": "Yankee Hamster Season 4",
+            "url": "https://myanimelist.net/anime/56622/Yankee_Hamster_Season_4"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pisostudio.com/delinquent"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

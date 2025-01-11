@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 38058,
+    "url": "https://myanimelist.net/anime/38058/Oi-san_to_40_no_Monogatari",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1760/93247.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/93247t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/93247l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1760/93247.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/93247t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/93247l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oi-san to 40 no Monogatari"
+      },
+      {
+        "type": "Japanese",
+        "title": "オイさんと40の物語"
+      }
+    ],
+    "title": "Oi-san to 40 no Monogatari",
+    "title_english": null,
+    "title_japanese": "オイさんと40の物語",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 41,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-26T00:00:00+00:00",
+      "to": "2018-09-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": 19,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Mar 26, 2018 to Sep 19, 2018"
+    },
+    "duration": "6 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.59,
+    "scored_by": 124,
+    "rank": 11782,
+    "popularity": 18566,
+    "members": 365,
+    "favorites": 1,
+    "synopsis": "Fourty shorts featuring a delightfully chubby cat named Oi-san. This entry also includes the unnumbered \"はじまり\" (Hajimari) episode that was released the same day as the numbered episode 1.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1800,
+        "type": "anime",
+        "name": "Marui Group",
+        "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 35624,
+            "type": "anime",
+            "name": "Neko ga Kureta Marui Shiawase",
+            "url": "https://myanimelist.net/anime/35624/Neko_ga_Kureta_Marui_Shiawase"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/marui_anime"
+      }
+    ],
+    "streaming": []
+  }
+}

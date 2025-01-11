@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 55125,
+    "url": "https://myanimelist.net/anime/55125/Ensemble_Stars_Tsuioku_Selection_Crossroad",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1587/140550.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1587/140550t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1587/140550l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1587/140550.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1587/140550t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1587/140550l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "BvKsdSkIADU",
+      "url": "https://www.youtube.com/watch?v=BvKsdSkIADU",
+      "embed_url": "https://www.youtube.com/embed/BvKsdSkIADU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/BvKsdSkIADU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/BvKsdSkIADU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/BvKsdSkIADU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/BvKsdSkIADU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/BvKsdSkIADU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ensemble Stars!! Tsuioku Selection Crossroad"
+      },
+      {
+        "type": "Japanese",
+        "title": "あんさんぶるスターズ！！追憶セレクション「クロスロード」"
+      }
+    ],
+    "title": "Ensemble Stars!! Tsuioku Selection Crossroad",
+    "title_english": null,
+    "title_japanese": "あんさんぶるスターズ！！追憶セレクション「クロスロード」",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-10T00:00:00+00:00",
+      "to": "2023-11-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": 15,
+          "month": 11,
+          "year": 2023
+        }
+      },
+      "string": "Nov 10, 2023 to Nov 15, 2023"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.09,
+    "scored_by": 274,
+    "rank": 3959,
+    "popularity": 12273,
+    "members": 1730,
+    "favorites": 4,
+    "synopsis": "New Ensemble Stars!! web animated series based on the game story \"Crossroad\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1111,
+        "type": "anime",
+        "name": "DandeLion Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/anime/crossroad/"
+      },
+      {
+        "name": "@enstars_anime",
+        "url": "https://twitter.com/enstars_anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18002"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 53218,
+    "url": "https://myanimelist.net/anime/53218/Tiantian_Chengzhang_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1367/128700.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1367/128700t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1367/128700l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1367/128700.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1367/128700t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1367/128700l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tiantian Chengzhang Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "天天成长记"
+      },
+      {
+        "type": "English",
+        "title": "Growing Up"
+      }
+    ],
+    "title": "Tiantian Chengzhang Ji",
+    "title_english": "Growing Up",
+    "title_japanese": "天天成长记",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-28T00:00:00+00:00",
+      "to": "2017-10-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 20,
+          "month": 10,
+          "year": 2017
+        }
+      },
+      "string": "Jul 28, 2017 to Oct 20, 2017"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14699,
+    "popularity": 24803,
+    "members": 91,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47445,
+            "type": "anime",
+            "name": "Tiantian Chengzhang Ji 2nd Season",
+            "url": "https://myanimelist.net/anime/47445/Tiantian_Chengzhang_Ji_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15844"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%A4%A9%E5%A4%A9%E6%88%90%E9%95%BF%E8%AE%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 59732,
+    "url": "https://myanimelist.net/anime/59732/Pochars",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/145243.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/145243t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/145243l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/145243.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/145243t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/145243l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pochars"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pochaazu"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぽちゃーズ"
+      }
+    ],
+    "title": "Pochars",
+    "title_english": null,
+    "title_japanese": "ぽちゃーズ",
+    "title_synonyms": [
+      "Pochaazu"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-10-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 9, 2024 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18379,
+    "popularity": 19801,
+    "members": 285,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2024,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "01:25",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 01:25 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 169,
+        "type": "anime",
+        "name": "Fuji TV",
+        "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pochars.com/"
+      },
+      {
+        "name": "@pochars_info",
+        "url": "https://twitter.com/pochars_info"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18912"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33465"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BD%E3%81%A1%E3%82%83%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "streaming": []
+  }
+}

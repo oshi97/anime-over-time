@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 40437,
+    "url": "https://myanimelist.net/anime/40437/Mono_no_Kamisama_Cocotama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1581/103230.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1581/103230t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1581/103230l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1581/103230.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1581/103230t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1581/103230l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "-IEheFXkJns",
+      "url": "https://www.youtube.com/watch?v=-IEheFXkJns",
+      "embed_url": "https://www.youtube.com/embed/-IEheFXkJns?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/-IEheFXkJns/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/-IEheFXkJns/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/-IEheFXkJns/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/-IEheFXkJns/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/-IEheFXkJns/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mono no Kamisama Cocotama"
+      },
+      {
+        "type": "Japanese",
+        "title": "モノのかみさま ここたま"
+      }
+    ],
+    "title": "Mono no Kamisama Cocotama",
+    "title_english": null,
+    "title_japanese": "モノのかみさま ここたま",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-26T00:00:00+00:00",
+      "to": "2020-02-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": 21,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Sep 26, 2019 to Feb 21, 2020"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17717,
+    "popularity": 17171,
+    "members": 473,
+    "favorites": 2,
+    "synopsis": "New Cocotama series, to be streamed on YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31044,
+            "type": "anime",
+            "name": "Kamisama Minarai: Himitsu no Cocotama",
+            "url": "https://myanimelist.net/anime/31044/Kamisama_Minarai__Himitsu_no_Cocotama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://coco-tama.com/mono/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15109"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22538"
+      }
+    ],
+    "streaming": []
+  }
+}

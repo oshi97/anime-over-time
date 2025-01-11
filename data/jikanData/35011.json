@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 35011,
+    "url": "https://myanimelist.net/anime/35011/Yankee_Hamster",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/91296.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/91296t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/91296l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/91296.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/91296t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/91296l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yankee Hamster"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yankee Hamsters"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヤンキーハムスター"
+      },
+      {
+        "type": "English",
+        "title": "Delinquent Hamsters"
+      }
+    ],
+    "title": "Yankee Hamster",
+    "title_english": "Delinquent Hamsters",
+    "title_japanese": "ヤンキーハムスター",
+    "title_synonyms": [
+      "Yankee Hamsters"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 110,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-03-18T00:00:00+00:00",
+      "to": "2018-12-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2013
+        },
+        "to": {
+          "day": 7,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Mar 18, 2013 to Dec 7, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.1,
+    "scored_by": 330,
+    "rank": 9377,
+    "popularity": 13521,
+    "members": 1189,
+    "favorites": 4,
+    "synopsis": "A short web anime about delinquent hamsters. Hamsters with bad boy haircuts that just do whatever they wanna do.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1723,
+        "type": "anime",
+        "name": "Anime Beans",
+        "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 55,
+        "type": "anime",
+        "name": "Delinquents",
+        "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49991,
+            "type": "anime",
+            "name": "Yankee Hamster Season 2",
+            "url": "https://myanimelist.net/anime/49991/Yankee_Hamster_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://pisostudio.com/anime/delinquent/delinquent.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12945"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "HIDIVE",
+        "url": "https://www.hidive.com/movies/delinquent-hamsters"
+      }
+    ]
+  }
+}

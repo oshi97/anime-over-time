@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 35383,
+    "url": "https://myanimelist.net/anime/35383/Yousei_Land_Mukashibanashi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85594.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85594t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85594l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85594.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85594t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85594l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yousei Land Mukashibanashi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fairy Land Folktales"
+      },
+      {
+        "type": "Synonym",
+        "title": "Forest Fairy Five: Fairy Tale"
+      },
+      {
+        "type": "Japanese",
+        "title": "妖精ランドむかし話"
+      },
+      {
+        "type": "English",
+        "title": "Forest Fairy Five ~Fairy Tale~"
+      },
+      {
+        "type": "German",
+        "title": "Forest Fairy Five ~Fairy Tale~"
+      },
+      {
+        "type": "Spanish",
+        "title": "Forest Fairy Five: Fairy Tale"
+      },
+      {
+        "type": "French",
+        "title": "Forest Fairy Five ~Fairy Tale~"
+      }
+    ],
+    "title": "Yousei Land Mukashibanashi",
+    "title_english": "Forest Fairy Five ~Fairy Tale~",
+    "title_japanese": "妖精ランドむかし話",
+    "title_synonyms": [
+      "Fairy Land Folktales",
+      "Forest Fairy Five: Fairy Tale"
+    ],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-10T00:00:00+00:00",
+      "to": "2017-06-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 26,
+          "month": 6,
+          "year": 2017
+        }
+      },
+      "string": "Apr 10, 2017 to Jun 26, 2017"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": 4.71,
+    "scored_by": 390,
+    "rank": 13447,
+    "popularity": 14077,
+    "members": 1020,
+    "favorites": 2,
+    "synopsis": "A direct sequel to Forest Fairy Five.",
+    "background": "Aired as part of the Anime-chan ni Kaeru Kuni (アニメちゃんに会える国) television variety program on Japan's Tokyo MX1 channel.",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "20:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 20:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34223,
+            "type": "anime",
+            "name": "Forest Fairy Five",
+            "url": "https://myanimelist.net/anime/34223/Forest_Fairy_Five"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://kinokomusume.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13110"
+      }
+    ],
+    "streaming": []
+  }
+}

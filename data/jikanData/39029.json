@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 39029,
+    "url": "https://myanimelist.net/anime/39029/Mr_Shadow",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/98325.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/98325t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/98325l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/98325.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/98325t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/98325l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mr. Shadow"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミスター・シャドウ"
+      }
+    ],
+    "title": "Mr. Shadow",
+    "title_english": null,
+    "title_japanese": "ミスター・シャドウ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-10T00:00:00+00:00",
+      "to": "2020-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        }
+      },
+      "string": "Jan 10, 2019 to 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17757,
+    "popularity": 18385,
+    "members": 379,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "The series airs within Millennia Girl, a late-night variety program hosted by the talento Nicole Fujita. The program focuses on having guests who are millennial women.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "01:25",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 01:25 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 169,
+        "type": "anime",
+        "name": "Fuji TV",
+        "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35444,
+            "type": "anime",
+            "name": "Neko to Mata",
+            "url": "https://myanimelist.net/anime/35444/Neko_to_Mata"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14615"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "mal_id": 34901,
+    "url": "https://myanimelist.net/anime/34901/Beyblade_Burst_God",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84704.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84704t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84704l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84704.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84704t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84704l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "W7zowSPvhZM",
+      "url": "https://www.youtube.com/watch?v=W7zowSPvhZM",
+      "embed_url": "https://www.youtube.com/embed/W7zowSPvhZM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/W7zowSPvhZM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/W7zowSPvhZM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/W7zowSPvhZM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/W7zowSPvhZM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/W7zowSPvhZM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Beyblade Burst God"
+      },
+      {
+        "type": "Japanese",
+        "title": "ベイブレードバースト 神〈ゴッド〉"
+      },
+      {
+        "type": "English",
+        "title": "Beyblade Burst Evolution"
+      },
+      {
+        "type": "French",
+        "title": "Beyblade Burst Evolution"
+      }
+    ],
+    "title": "Beyblade Burst God",
+    "title_english": "Beyblade Burst Evolution",
+    "title_japanese": "ベイブレードバースト 神〈ゴッド〉",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-03T00:00:00+00:00",
+      "to": "2018-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Apr 3, 2017 to Mar 26, 2018"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": 7.13,
+    "scored_by": 12087,
+    "rank": 3729,
+    "popularity": 5045,
+    "members": 20580,
+    "favorites": 142,
+    "synopsis": "Valt Aoi, who participated in the Japanese Championship, was scouted for the prestigious Spanish team BC Sol and heads out to Spain. With their sights set on the world, Valt and his friends begin their challenge for the World League! However, in order to qualify for the World League, they must first win the European League. Will Valt be able to take BC Sol to the World League? And can he defeat the world's strongest Bladers?\n\n(Source: Beyblade Fandom Wiki)",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "17:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 17:55 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 164,
+        "type": "anime",
+        "name": "d-rights",
+        "url": "https://myanimelist.net/anime/producer/164/d-rights"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 2505,
+        "type": "anime",
+        "name": "ADK Emotions NY Inc.",
+        "url": "https://myanimelist.net/anime/producer/2505/ADK_Emotions_NY_Inc"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31049,
+            "type": "anime",
+            "name": "Beyblade Burst",
+            "url": "https://myanimelist.net/anime/31049/Beyblade_Burst"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37283,
+            "type": "anime",
+            "name": "Beyblade Burst Chouzetsu",
+            "url": "https://myanimelist.net/anime/37283/Beyblade_Burst_Chouzetsu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Evolution Burst!\" by Kenichi Kitagawa (北川けんいち)"
+      ],
+      "endings": [
+        "1: \"Bey-ercise (ベイササイズ)\" by Senor Anami (セニョール・アナミー)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/beyblade/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12809"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19030"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ]
+  }
+}

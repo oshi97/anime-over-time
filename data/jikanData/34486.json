@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 34486,
+    "url": "https://myanimelist.net/anime/34486/Star_Ocean__Anamnesis",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1752/108240.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1752/108240t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1752/108240l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1752/108240.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1752/108240t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1752/108240l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Star Ocean: Anamnesis"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Ocean: Anamnesis - Twin Eclipse"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Ocean: Anamnesis - The Leash Code"
+      },
+      {
+        "type": "Japanese",
+        "title": "スターオーシャン：アナムネシス"
+      },
+      {
+        "type": "English",
+        "title": "Star Ocean: Anamnesis"
+      }
+    ],
+    "title": "Star Ocean: Anamnesis",
+    "title_english": "Star Ocean: Anamnesis",
+    "title_japanese": "スターオーシャン：アナムネシス",
+    "title_synonyms": [
+      "Star Ocean: Anamnesis - Twin Eclipse",
+      "Star Ocean: Anamnesis - The Leash Code"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-11-28T00:00:00+00:00",
+      "to": "2020-04-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 11,
+          "year": 2016
+        },
+        "to": {
+          "day": 4,
+          "month": 4,
+          "year": 2020
+        }
+      },
+      "string": "Nov 28, 2016 to Apr 4, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 14426,
+    "popularity": 13885,
+    "members": 1070,
+    "favorites": 0,
+    "synopsis": "Fully animated trailers for Square Enix's Star Ocean: Anamnesis RPG mobile game franchise which launched for Android and iOS on December 5th, 2016.",
+    "background": "Star Ocean: Anamnesis is a mobile RPG. You are supposed to venture across space and collect heroes along the way.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1005,
+            "type": "anime",
+            "name": "Star Ocean EX",
+            "url": "https://myanimelist.net/anime/1005/Star_Ocean_EX"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.jp.square-enix.com/soa/special/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Star_Ocean:_Anamnesis"
+      }
+    ],
+    "streaming": []
+  }
+}

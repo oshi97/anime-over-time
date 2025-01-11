@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 53036,
+    "url": "https://myanimelist.net/anime/53036/Steamo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1416/127967.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/127967t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/127967l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1416/127967.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/127967t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/127967l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steamo"
+      },
+      {
+        "type": "Japanese",
+        "title": "STEAMO"
+      }
+    ],
+    "title": "Steamo",
+    "title_english": null,
+    "title_japanese": "STEAMO",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 25, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14421,
+    "popularity": 23143,
+    "members": 124,
+    "favorites": 0,
+    "synopsis": "An educational children's series about STEAM education.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1500,
+        "type": "anime",
+        "name": "ABC Animation",
+        "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+      },
+      {
+        "mal_id": 1583,
+        "type": "anime",
+        "name": "U-NEXT",
+        "url": "https://myanimelist.net/anime/producer/1583/U-NEXT"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://steam-japan.com/steamo"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 38549,
+    "url": "https://myanimelist.net/anime/38549/TV_Yarou_Nanaana",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1193/99964.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1193/99964t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1193/99964l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1193/99964.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1193/99964t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1193/99964l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "TV Yarou Nanaana"
+      },
+      {
+        "type": "Synonym",
+        "title": "Televi Yarou Nanana"
+      },
+      {
+        "type": "Synonym",
+        "title": "TV Yarou Nana-na"
+      },
+      {
+        "type": "Japanese",
+        "title": "テレビ野郎 ナナーナ"
+      },
+      {
+        "type": "English",
+        "title": "Wacky TV Na Na Na"
+      },
+      {
+        "type": "German",
+        "title": "Wacky TV Na Na Na"
+      },
+      {
+        "type": "Spanish",
+        "title": "Wacky TV Nanana"
+      },
+      {
+        "type": "French",
+        "title": "Wacky TV Na Na Na"
+      }
+    ],
+    "title": "TV Yarou Nanaana",
+    "title_english": "Wacky TV Na Na Na",
+    "title_japanese": "テレビ野郎 ナナーナ",
+    "title_synonyms": [
+      "Televi Yarou Nanana",
+      "TV Yarou Nana-na"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-06T00:00:00+00:00",
+      "to": "2018-09-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 14,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Apr 6, 2018 to Sep 14, 2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.39,
+    "scored_by": 876,
+    "rank": 7746,
+    "popularity": 11649,
+    "members": 2119,
+    "favorites": 8,
+    "synopsis": "After the administrative board at TV Nanaana cancels the network's most popular show for \"indecency,'' the station's film crew—team leader Nanaoka, cameraman Nanamori, and audio specialist Nanayama—boldly take on the daunting task of documenting the rare animal known as the Kiina to save the company from bankruptcy.\n\nHowever, they are not the only ones on the hunt; the rival film crew at Bubble TV and their deep-pocketed producer Zakibana have their sights set on obtaining the once-in-a-lifetime story as well. Braving the remote South American jungle of Ecuana, Nanaoka, Nanamori, and Nanayama must travel far and wide to film a nature documentary on the elusive animal before their competition can—because their very jobs depend on it!\n\n[Written by MAL Rewrite]",
+    "background": "TV Yarou Nanaana was released on DVD on July 2, 2019.",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "21:54",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 21:54 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1927,
+        "type": "anime",
+        "name": "Studio Crocodile",
+        "url": "https://myanimelist.net/anime/producer/1927/Studio_Crocodile"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39581,
+            "type": "anime",
+            "name": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+            "url": "https://myanimelist.net/anime/39581/TV_Yarou_Nanaana__Wakuwaku_Doukutsu_Land"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-277834"
+      }
+    ]
+  }
+}

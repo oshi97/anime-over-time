@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 41807,
+    "url": "https://myanimelist.net/anime/41807/Get_Up_Get_Live_Geragera",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/108199t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/108199l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/108199.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/108199t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/108199l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Get Up! Get Live! #Geragera"
+      },
+      {
+        "type": "Japanese",
+        "title": "GETUP! GETLIVE! #げらげら"
+      }
+    ],
+    "title": "Get Up! Get Live! #Geragera",
+    "title_english": null,
+    "title_japanese": "GETUP! GETLIVE! #げらげら",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-11T00:00:00+00:00",
+      "to": "2020-09-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 12,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Jul 11, 2020 to Sep 12, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.54,
+    "scored_by": 148,
+    "rank": 11945,
+    "popularity": 13330,
+    "members": 1250,
+    "favorites": 2,
+    "synopsis": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "01:50",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 01:50 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2063,
+        "type": "anime",
+        "name": "Spell Bound",
+        "url": "https://myanimelist.net/anime/producer/2063/Spell_Bound"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42345,
+            "type": "anime",
+            "name": "Get Up! Get Live! #GeraGera Episode 0",
+            "url": "https://myanimelist.net/anime/42345/Get_Up_Get_Live_GeraGera_Episode_0"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Get Up! Get Live!\" by Natsuki Hanae, Youhei Azakami, Kaito Ishikawa, Kentarou Kumagai, Koutarou Nishiyama; Toshiyuki Toyonaga"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://getup-getlive.com/"
+      },
+      {
+        "name": "@GETUP_GETLIVE",
+        "url": "https://twitter.com/GETUP_GETLIVE"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15486"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Get_Up!_Get_Live!"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/GETUP!_GETLIVE!"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/5713"
+      }
+    ],
+    "streaming": []
+  }
+}

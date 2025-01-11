@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 54558,
+    "url": "https://myanimelist.net/anime/54558/Spicy_Candy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/133505.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/133505t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/133505l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/133505.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/133505t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/133505l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spicy Candy"
+      },
+      {
+        "type": "Synonym",
+        "title": "辣糖甜心"
+      },
+      {
+        "type": "Synonym",
+        "title": "La Tang Tianxin"
+      },
+      {
+        "type": "Japanese",
+        "title": "スパイシーキャンディ"
+      }
+    ],
+    "title": "Spicy Candy",
+    "title_english": null,
+    "title_japanese": "スパイシーキャンディ",
+    "title_synonyms": [
+      "辣糖甜心",
+      "La Tang Tianxin"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-12-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 3, 2022 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14408,
+    "popularity": 21051,
+    "members": 214,
+    "favorites": 0,
+    "synopsis": "Spicy is a young, sharp-tongued girl who sings about everyday trivial things, and lives with her black cat named Candy.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      },
+      {
+        "mal_id": 2709,
+        "type": "anime",
+        "name": "REALCOFFEE ENTERTAINMENT",
+        "url": "https://myanimelist.net/anime/producer/2709/REALCOFFEE_ENTERTAINMENT"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2540,
+        "type": "anime",
+        "name": "Fever Creations",
+        "url": "https://myanimelist.net/anime/producer/2540/Fever_Creations"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.spicycandy.net"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17869"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27140"
+      }
+    ],
+    "streaming": []
+  }
+}

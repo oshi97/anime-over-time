@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 51839,
+    "url": "https://myanimelist.net/anime/51839/Iii_Icecrin_Double",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1716/123876.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1716/123876t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1716/123876l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1716/123876.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1716/123876t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1716/123876l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "aIJmqPTIshA",
+      "url": "https://www.youtube.com/watch?v=aIJmqPTIshA",
+      "embed_url": "https://www.youtube.com/embed/aIJmqPTIshA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/aIJmqPTIshA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/aIJmqPTIshA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/aIJmqPTIshA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/aIJmqPTIshA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/aIJmqPTIshA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Iii Icecrin Double"
+      },
+      {
+        "type": "Synonym",
+        "title": "Iii Icecrin 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "iiiあいすくりん2（あいあいあい あいすくりん ダブル）"
+      }
+    ],
+    "title": "Iii Icecrin Double",
+    "title_english": null,
+    "title_japanese": "iiiあいすくりん2（あいあいあい あいすくりん ダブル）",
+    "title_synonyms": [
+      "Iii Icecrin 2"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-02T00:00:00+00:00",
+      "to": "2022-09-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 17,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Jul 2, 2022 to Sep 17, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21282,
+    "popularity": 17866,
+    "members": 417,
+    "favorites": 2,
+    "synopsis": "Second season of Iii Icecrin.",
+    "background": "",
+    "season": "summer",
+    "year": 2022,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      },
+      {
+        "mal_id": 2057,
+        "type": "anime",
+        "name": "Toho Interactive Animation",
+        "url": "https://myanimelist.net/anime/producer/2057/Toho_Interactive_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44848,
+            "type": "anime",
+            "name": "Iii Icecrin",
+            "url": "https://myanimelist.net/anime/44848/Iii_Icecrin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://iii-icecrin.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17357"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25684"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iii_Icecrin#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

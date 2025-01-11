@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 47940,
+    "url": "https://myanimelist.net/anime/47940/Hepai_Xuesheng_Mei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1419/127206.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/127206t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/127206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1419/127206.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/127206t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/127206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hepai Xuesheng Mei"
+      },
+      {
+        "type": "Japanese",
+        "title": "合拍学生妹"
+      }
+    ],
+    "title": "Hepai Xuesheng Mei",
+    "title_english": null,
+    "title_japanese": "合拍学生妹",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-14T00:00:00+00:00",
+      "to": "2019-02-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 13,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      "string": "Jan 14, 2019 to Feb 13, 2019"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20987,
+    "popularity": 22758,
+    "members": 136,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 52849,
+            "type": "anime",
+            "name": "Yong Chun GalS Pilot",
+            "url": "https://myanimelist.net/anime/52849/Yong_Chun_GalS_Pilot"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md13566167"
+      }
+    ],
+    "streaming": []
+  }
+}

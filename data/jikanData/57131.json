@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 57131,
+    "url": "https://myanimelist.net/anime/57131/Choeganggyeongchal_Miniforce",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1259/139593.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/139593t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/139593l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1259/139593.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/139593t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/139593l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Choeganggyeongchal Miniforce"
+      },
+      {
+        "type": "Japanese",
+        "title": "최강경찰 미니특공대"
+      }
+    ],
+    "title": "Choeganggyeongchal Miniforce",
+    "title_english": null,
+    "title_japanese": "최강경찰 미니특공대",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-28T00:00:00+00:00",
+      "to": "2024-05-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": 21,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      "string": "Nov 28, 2023 to May 21, 2024"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19773,
+    "popularity": 21413,
+    "members": 195,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2541,
+        "type": "anime",
+        "name": "SAMG Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2541/SAMG_Entertainment_"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35799,
+            "type": "anime",
+            "name": "Miniforce",
+            "url": "https://myanimelist.net/anime/35799/Miniforce"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/최강경찰%20미니특공대"
+      }
+    ],
+    "streaming": []
+  }
+}

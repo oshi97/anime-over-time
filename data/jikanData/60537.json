@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 60537,
+    "url": "https://myanimelist.net/anime/60537/Monpoke",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1064/146989.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/146989t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/146989l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1064/146989.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/146989t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/146989l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Monpoke"
+      },
+      {
+        "type": "Japanese",
+        "title": "モンポケ"
+      }
+    ],
+    "title": "Monpoke",
+    "title_english": null,
+    "title_japanese": "モンポケ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-02-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 2,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 19, 2025 to ?"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 13611,
+    "members": 1159,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          },
+          {
+            "mal_id": 60605,
+            "type": "anime",
+            "name": "Hajimemashite, wo Atsumeyou.",
+            "url": "https://myanimelist.net/anime/60605/Hajimemashite_wo_Atsumeyou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://monpoke.jp/animation/"
+      },
+      {
+        "name": "@monpoke_jp",
+        "url": "https://twitter.com/monpoke_jp"
+      }
+    ],
+    "streaming": []
+  }
+}

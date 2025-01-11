@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 59966,
+    "url": "https://myanimelist.net/anime/59966/Biklonz_5th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/145785.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/145785t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/145785l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/145785.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/145785t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/145785l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Biklonz 5th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "바이클론즈 5기"
+      }
+    ],
+    "title": "Biklonz 5th Season",
+    "title_english": null,
+    "title_japanese": "바이클론즈 5기",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-23T00:00:00+00:00",
+      "to": "2016-11-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": 10,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      "string": "Sep 23, 2016 to Nov 10, 2016"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19425,
+    "popularity": 27611,
+    "members": 50,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59964,
+            "type": "anime",
+            "name": "Biklonz 4th Season",
+            "url": "https://myanimelist.net/anime/59964/Biklonz_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59965,
+            "type": "anime",
+            "name": "Biklonz: Barbarian King Special",
+            "url": "https://myanimelist.net/anime/59965/Biklonz__Barbarian_King_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/%EB%B0%94%EC%9D%B4%ED%81%B4%EB%A1%A0%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 42295,
+    "url": "https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/141797.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/141797t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/141797l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/141797.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/141797t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/141797l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fushigi Dagashiya: Zenitendou"
+      },
+      {
+        "type": "Japanese",
+        "title": "ふしぎ駄菓子屋 銭天堂"
+      }
+    ],
+    "title": "Fushigi Dagashiya: Zenitendou",
+    "title_english": null,
+    "title_japanese": "ふしぎ駄菓子屋 銭天堂",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-09-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 8, 2020 to ?"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": 6.04,
+    "scored_by": 200,
+    "rank": 9717,
+    "popularity": 11787,
+    "members": 2021,
+    "favorites": 5,
+    "synopsis": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "18:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 18:45 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Gallop",
+        "url": "https://myanimelist.net/anime/producer/36/Gallop"
+      },
+      {
+        "mal_id": 330,
+        "type": "anime",
+        "name": "Kanaban Graphics",
+        "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42296,
+            "type": "anime",
+            "name": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
+            "url": "https://myanimelist.net/anime/42296/Fushigi_Dagashiya__Zenitendou_Movie_-_Tsuri_Taiyaki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Kisoutengai Fushigi wo Douzo (奇想天外ふしぎをどうぞ)\" by Emi Noda (野田愛実)"
+      ],
+      "endings": [
+        "\"Hanya○ Manten, Zenitendou. (はにゃ○満点、銭天堂。)\" by KOCHO"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.toei-anim.co.jp/tv/zenitendo/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15608"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23665"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B_%E9%8A%AD%E5%A4%A9%E5%A0%82"
+      }
+    ],
+    "streaming": []
+  }
+}

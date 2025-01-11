@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 52370,
+    "url": "https://myanimelist.net/anime/52370/Lao_Fu_Zi__Mojie_Meng_Zhanji_II",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1683/125320.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1683/125320t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1683/125320l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1683/125320.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1683/125320t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1683/125320l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lao Fu Zi: Mojie Meng Zhanji II"
+      },
+      {
+        "type": "Synonym",
+        "title": "Old Master Q Fantasy Zone Battle II"
+      },
+      {
+        "type": "Japanese",
+        "title": "老夫子之魔界夢戰記 II"
+      },
+      {
+        "type": "English",
+        "title": "Old Master Q Series 2: Fantasy Zone Battle"
+      }
+    ],
+    "title": "Lao Fu Zi: Mojie Meng Zhanji II",
+    "title_english": "Old Master Q Series 2: Fantasy Zone Battle",
+    "title_japanese": "老夫子之魔界夢戰記 II",
+    "title_synonyms": [
+      "Old Master Q Fantasy Zone Battle II"
+    ],
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-06-01T00:00:00+00:00",
+      "to": "2006-06-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2006
+        },
+        "to": {
+          "day": 16,
+          "month": 6,
+          "year": 2006
+        }
+      },
+      "string": "Jun 1, 2006 to Jun 16, 2006"
+    },
+    "duration": "22 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17052,
+    "popularity": 22684,
+    "members": 138,
+    "favorites": 0,
+    "synopsis": "A continuation of the first season. Old Master Q, Big Potato, and Mr. Chin transport into various classic storyworlds to rescue their father and save the story from being ruined by the Devil King.",
+    "background": "",
+    "season": "spring",
+    "year": 2006,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 343,
+        "type": "anime",
+        "name": "Puzzle Animation Studio Limited",
+        "url": "https://myanimelist.net/anime/producer/343/Puzzle_Animation_Studio_Limited"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52369,
+            "type": "anime",
+            "name": "Lao Fu Zi: Mojie Meng Zhanji",
+            "url": "https://myanimelist.net/anime/52369/Lao_Fu_Zi__Mojie_Meng_Zhanji"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52371,
+            "type": "anime",
+            "name": "Lao Fu Zi 3",
+            "url": "https://myanimelist.net/anime/52371/Lao_Fu_Zi_3"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 48175,
+            "type": "manga",
+            "name": "Old Master Q",
+            "url": "https://myanimelist.net/manga/48175/Old_Master_Q"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.puzzleanimation.com/our_animation/old_master_series_3/detail"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://baike.baidu.hk/item/%E8%80%81%E5%A4%AB%E5%AD%90%E9%AD%94%E7%95%8C%E5%A4%A2%E6%88%B0%E8%A8%98II/10992847"
+      }
+    ],
+    "streaming": []
+  }
+}

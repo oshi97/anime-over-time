@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 50522,
+    "url": "https://myanimelist.net/anime/50522/Teikou_Penguin_TV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/119890.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/119890t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/119890l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/119890.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/119890t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/119890l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Teikou Penguin (TV)"
+      },
+      {
+        "type": "Japanese",
+        "title": "テイコウペンギン"
+      }
+    ],
+    "title": "Teikou Penguin (TV)",
+    "title_english": null,
+    "title_japanese": "テイコウペンギン",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-05T00:00:00+00:00",
+      "to": "2022-03-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Jan 5, 2022 to Mar 30, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14623,
+    "popularity": 14314,
+    "members": 954,
+    "favorites": 7,
+    "synopsis": "Centers on a penguin who works in an abusive company and gripes about the difficulties of workplace life. The title is a play on the \"koutei penguin,\" the Japanese name for the emperor penguin.\n\n(Source: ANN)",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "07:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 07:30 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 58728,
+            "type": "anime",
+            "name": "Teikou Penguin",
+            "url": "https://myanimelist.net/anime/58728/Teikou_Penguin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/kinder/intro/sakuhin30/"
+      },
+      {
+        "name": "@teikoupenguin",
+        "url": "https://twitter.com/teikoupenguin"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17021"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25029"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%82%B3%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%E7%89%88"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/4357"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 35517,
+    "url": "https://myanimelist.net/anime/35517/Caribadix",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1626/90565.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1626/90565t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1626/90565l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1626/90565.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1626/90565t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1626/90565l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Caribadix"
+      },
+      {
+        "type": "Synonym",
+        "title": "Deeky & Carina"
+      },
+      {
+        "type": "Synonym",
+        "title": "Deeky and Carina"
+      },
+      {
+        "type": "Japanese",
+        "title": "Caribadix"
+      },
+      {
+        "type": "English",
+        "title": "Caribadix"
+      }
+    ],
+    "title": "Caribadix",
+    "title_english": "Caribadix",
+    "title_japanese": "Caribadix",
+    "title_synonyms": [
+      "Deeky & Carina",
+      "Deeky and Carina"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 46,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-07T00:00:00+00:00",
+      "to": "2018-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "May 7, 2017 to Mar 25, 2018"
+    },
+    "duration": "45 sec per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19601,
+    "popularity": 16100,
+    "members": 591,
+    "favorites": 0,
+    "synopsis": "Deeky is a wolf whose wild appearance belies his pure-hearted and slightly gossipy moe nature. Carina is a squirrel whose soft and cuddly appearance hides the black and beating heart of a hard rock monster. Together they form a band to compete in a rock music competition.\n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "09:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 09:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 100,
+        "type": "anime",
+        "name": "TV Osaka",
+        "url": "https://myanimelist.net/anime/producer/100/TV_Osaka"
+      },
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37653,
+            "type": "anime",
+            "name": "Caribadix 2nd Season",
+            "url": "https://myanimelist.net/anime/37653/Caribadix_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-osaka.co.jp/ip4/jcd/short_anime.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13158"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 55076,
+    "url": "https://myanimelist.net/anime/55076/Mortal_Portal_Radio",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/135464.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/135464t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/135464l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/135464.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/135464t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/135464l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mortal Portal Radio"
+      },
+      {
+        "type": "Japanese",
+        "title": "モータルポータルラジオ"
+      }
+    ],
+    "title": "Mortal Portal Radio",
+    "title_english": null,
+    "title_japanese": "モータルポータルラジオ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Radio",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-25T00:00:00+00:00",
+      "to": "2020-02-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 20,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Jul 25, 2019 to Feb 20, 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17733,
+    "popularity": 23332,
+    "members": 119,
+    "favorites": 0,
+    "synopsis": "This program is a story in different dimension about the struggles of m-flo who are researching the wormhole at the Global Astro Kombinat.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55069,
+            "type": "anime",
+            "name": "Run Aways",
+            "url": "https://myanimelist.net/anime/55069/Run_Aways"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m-flo.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/M-flo"
+      }
+    ],
+    "streaming": []
+  }
+}

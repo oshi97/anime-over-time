@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 37151,
+    "url": "https://myanimelist.net/anime/37151/Marvel_Future_Avengers_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1135/96838.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/96838t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/96838l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1135/96838.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/96838t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/96838l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Marvel Future Avengers 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Marvel Future Avengers Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "マーベル フューチャー・アベンジャーズ 第2期"
+      },
+      {
+        "type": "Spanish",
+        "title": "Los Vengadores del Futuro Marvel Temporada 2"
+      }
+    ],
+    "title": "Marvel Future Avengers 2nd Season",
+    "title_english": null,
+    "title_japanese": "マーベル フューチャー・アベンジャーズ 第2期",
+    "title_synonyms": [
+      "Marvel Future Avengers Second Season"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-30T00:00:00+00:00",
+      "to": "2018-10-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 22,
+          "month": 10,
+          "year": 2018
+        }
+      },
+      "string": "Jul 30, 2018 to Oct 22, 2018"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": 5.82,
+    "scored_by": 594,
+    "rank": 10816,
+    "popularity": 11423,
+    "members": 2256,
+    "favorites": 4,
+    "synopsis": "Second season of Marvel Future Avengers.",
+    "background": "",
+    "season": "summer",
+    "year": 2018,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "18:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 18:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34975,
+            "type": "anime",
+            "name": "Marvel Future Avengers",
+            "url": "https://myanimelist.net/anime/34975/Marvel_Future_Avengers"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 104698,
+            "type": "manga",
+            "name": "Marvel's Future Avengers",
+            "url": "https://myanimelist.net/manga/104698/Marvels_Future_Avengers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://dlife.disney.co.jp/program/marvel_starwars/future_avengers.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13744"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21124"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB_%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/263756"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 35295,
+    "url": "https://myanimelist.net/anime/35295/Washimo_5th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/119067.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/119067t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/119067l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/119067.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/119067t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/119067l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Washimo 5th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wasimo 5"
+      },
+      {
+        "type": "Japanese",
+        "title": "わしも-wasimo-(第5シリーズ)"
+      }
+    ],
+    "title": "Washimo 5th Season",
+    "title_english": null,
+    "title_japanese": "わしも-wasimo-(第5シリーズ)",
+    "title_synonyms": [
+      "Wasimo 5"
+    ],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 44,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-03T00:00:00+00:00",
+      "to": "2017-11-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 14,
+          "month": 11,
+          "year": 2017
+        }
+      },
+      "string": "Apr 3, 2017 to Nov 14, 2017"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15085,
+    "popularity": 18716,
+    "members": 352,
+    "favorites": 0,
+    "synopsis": "Fifth season of the Washimo series.",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 33099,
+            "type": "anime",
+            "name": "Washimo 4th Season",
+            "url": "https://myanimelist.net/anime/33099/Washimo_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37630,
+            "type": "anime",
+            "name": "Washimo 6th Season",
+            "url": "https://myanimelist.net/anime/37630/Washimo_6th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www9.nhk.or.jp/anime/wasimo/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13048"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/WASIMO"
+      }
+    ],
+    "streaming": []
+  }
+}

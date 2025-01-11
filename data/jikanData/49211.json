@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 49211,
+    "url": "https://myanimelist.net/anime/49211/Gundam_Breaker__Battlogue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1712/117280.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1712/117280t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1712/117280l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1712/117280.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1712/117280t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1712/117280l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "mwe2YJFpiNE",
+      "url": "https://www.youtube.com/watch?v=mwe2YJFpiNE",
+      "embed_url": "https://www.youtube.com/embed/mwe2YJFpiNE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/mwe2YJFpiNE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/mwe2YJFpiNE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/mwe2YJFpiNE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/mwe2YJFpiNE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/mwe2YJFpiNE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gundam Breaker: Battlogue"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガンダムブレイカー バトローグ"
+      }
+    ],
+    "title": "Gundam Breaker: Battlogue",
+    "title_english": null,
+    "title_japanese": "ガンダムブレイカー バトローグ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-19T00:00:00+00:00",
+      "to": "2021-11-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 23,
+          "month": 11,
+          "year": 2021
+        }
+      },
+      "string": "Oct 19, 2021 to Nov 23, 2021"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.15,
+    "scored_by": 1973,
+    "rank": 9076,
+    "popularity": 8897,
+    "members": 4987,
+    "favorites": 5,
+    "synopsis": "After intense fighting, the Gunpla Battle U.S. Championship enters its final round. Here, the figure of a certain fighter appears.\n\nA few months later Misa Satsukino, building a new Gunpla in the Ayato Shopping Street, seems to be in a worse mood than usual. As an outlet for her unfocused anger, she sets her completed Gunpla in a simulator and enters battle, but the Gunpla is suddenly restrained.\n\nOn the eve of the huge GB Festa event, the fates of the Gunpla Fighters are at a critical juncture.\n\n(Source: Gundam.info)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 80,
+            "type": "anime",
+            "name": "Kidou Senshi Gundam",
+            "url": "https://myanimelist.net/anime/80/Kidou_Senshi_Gundam"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Breaking Blazing (ブレイキングブレイジング)\" by Mr.FanTastiC"
+      ],
+      "endings": [
+        "\"Breaking Blazing\" by Mr.FanTastiC"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://g-bb.net/"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://en.gundam.info/about-gundam/series-pages/breaker-battlogue.html"
+      },
+      {
+        "name": "@ggame_gbm",
+        "url": "https://twitter.com/ggame_gbm"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16384"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24456"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/339095"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 56942,
+    "url": "https://myanimelist.net/anime/56942/Time_Slip_Shima_Kousaku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1100/139170.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/139170t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/139170l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1100/139170.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/139170t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/139170l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Time Slip Shima Kousaku"
+      },
+      {
+        "type": "Japanese",
+        "title": "タイムスリップ島耕作"
+      }
+    ],
+    "title": "Time Slip Shima Kousaku",
+    "title_english": null,
+    "title_japanese": "タイムスリップ島耕作",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-28T00:00:00+00:00",
+      "to": "2024-03-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": 19,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Jul 28, 2023 to Mar 19, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14736,
+    "popularity": 22563,
+    "members": 141,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59418,
+            "type": "anime",
+            "name": "Time Slip Shima Kousaku Episode 0",
+            "url": "https://myanimelist.net/anime/59418/Time_Slip_Shima_Kousaku_Episode_0"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 10541,
+            "type": "anime",
+            "name": "Shuukan Shimakou",
+            "url": "https://myanimelist.net/anime/10541/Shuukan_Shimakou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

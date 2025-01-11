@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 56304,
+    "url": "https://myanimelist.net/anime/56304/Hello_Carbot_Season_9",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1994/137813.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1994/137813t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1994/137813l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1994/137813.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1994/137813t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1994/137813l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot Season 9"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hello Carbot: X Returns"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 카봇 시즌9"
+      }
+    ],
+    "title": "Hello Carbot Season 9",
+    "title_english": null,
+    "title_japanese": "헬로 카봇 시즌9",
+    "title_synonyms": [
+      "Hello Carbot: X Returns"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-05T00:00:00+00:00",
+      "to": "2021-01-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 17,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Jul 5, 2020 to Jan 17, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20970,
+    "popularity": 23414,
+    "members": 118,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56303,
+            "type": "anime",
+            "name": "Hello Carbot Season 8",
+            "url": "https://myanimelist.net/anime/56303/Hello_Carbot_Season_8"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56305,
+            "type": "anime",
+            "name": "Hello Carbot Season 10",
+            "url": "https://myanimelist.net/anime/56305/Hello_Carbot_Season_10"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56312,
+            "type": "anime",
+            "name": "Hello Carbot: Susanghan Masuldanui Bimil",
+            "url": "https://myanimelist.net/anime/56312/Hello_Carbot__Susanghan_Masuldanui_Bimil"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

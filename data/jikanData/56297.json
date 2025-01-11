@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 56297,
+    "url": "https://myanimelist.net/anime/56297/Hello_Carbot_Season_6",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1248/137806.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1248/137806t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1248/137806l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1248/137806.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1248/137806t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1248/137806l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot Season 6"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 카봇 시즌6"
+      }
+    ],
+    "title": "Hello Carbot Season 6",
+    "title_english": null,
+    "title_japanese": "헬로 카봇 시즌6",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-07T00:00:00+00:00",
+      "to": "2018-10-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 13,
+          "month": 10,
+          "year": 2018
+        }
+      },
+      "string": "Apr 7, 2018 to Oct 13, 2018"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20958,
+    "popularity": 23732,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56283,
+            "type": "anime",
+            "name": "Hello Carbot Season 5",
+            "url": "https://myanimelist.net/anime/56283/Hello_Carbot_Season_5"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56299,
+            "type": "anime",
+            "name": "Hello Carbot Season 7",
+            "url": "https://myanimelist.net/anime/56299/Hello_Carbot_Season_7"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56298,
+            "type": "anime",
+            "name": "Hello Carbot Season 6 Specials: Dongmul Gujodae",
+            "url": "https://myanimelist.net/anime/56298/Hello_Carbot_Season_6_Specials__Dongmul_Gujodae"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.kbs.co.kr/1tv/enter/carbot6/pc/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

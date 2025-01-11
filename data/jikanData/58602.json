@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 58602,
+    "url": "https://myanimelist.net/anime/58602/YouTuNya_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/142452.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/142452t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/142452l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/142452.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/142452t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/142452l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "YouTuNya 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ユーチューニャー 第2期"
+      }
+    ],
+    "title": "YouTuNya 2nd Season",
+    "title_english": null,
+    "title_japanese": "ユーチューニャー 第2期",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-02T00:00:00+00:00",
+      "to": "2024-06-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": 18,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "Apr 2, 2024 to Jun 18, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15922,
+    "popularity": 18418,
+    "members": 376,
+    "favorites": 2,
+    "synopsis": "The second season of YouTuNya.",
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1829,
+        "type": "anime",
+        "name": "Lesprit",
+        "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54781,
+            "type": "anime",
+            "name": "YouTuNya",
+            "url": "https://myanimelist.net/anime/54781/YouTuNya"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 60623,
+            "type": "anime",
+            "name": "YouTuNya: Christmas tte Mita",
+            "url": "https://myanimelist.net/anime/60623/YouTuNya__Christmas_tte_Mita"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Bazure! YouTuNya! (バズれ!ユーチューニャー!)\" by Yaneura Shobou (ヤネウラ書房)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtunya.com"
+      },
+      {
+        "name": "@youtunya",
+        "url": "https://twitter.com/youtunya"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32680"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8B%E3%83%A3%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

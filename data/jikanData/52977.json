@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 52977,
+    "url": "https://myanimelist.net/anime/52977/Yuusha_Yamemasu_Puchi_Hiroma",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/127731.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/127731t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/127731l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/127731.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/127731t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/127731l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuusha, Yamemasu Puchi Hiroma"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yuusha"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yamemasu Mini Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "I'm Quitting Heroing Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "勇者、辞めます ぷち広間"
+      }
+    ],
+    "title": "Yuusha, Yamemasu Puchi Hiroma",
+    "title_english": null,
+    "title_japanese": "勇者、辞めます ぷち広間",
+    "title_synonyms": [
+      "Yuusha",
+      "Yamemasu Mini Anime",
+      "I'm Quitting Heroing Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-23T00:00:00+00:00",
+      "to": "2022-08-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": 23,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "May 23, 2022 to Aug 23, 2022"
+    },
+    "duration": "20 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.84,
+    "scored_by": 653,
+    "rank": 10688,
+    "popularity": 11798,
+    "members": 2019,
+    "favorites": 2,
+    "synopsis": "Mini anime for Yuusha, Yamemasu released on YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 50175,
+            "type": "anime",
+            "name": "Yuusha, Yamemasu",
+            "url": "https://myanimelist.net/anime/50175/Yuusha_Yamemasu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yuuyame.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/I'm_Quitting_Heroing"
+      }
+    ],
+    "streaming": []
+  }
+}

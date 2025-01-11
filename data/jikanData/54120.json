@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 54120,
+    "url": "https://myanimelist.net/anime/54120/RabbiTube_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1459/132468.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1459/132468t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1459/132468l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1459/132468.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1459/132468t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1459/132468l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "RabbiTube Mini"
+      },
+      {
+        "type": "Japanese",
+        "title": "RabbiTube mini"
+      }
+    ],
+    "title": "RabbiTube Mini",
+    "title_english": null,
+    "title_japanese": "RabbiTube mini",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-25T00:00:00+00:00",
+      "to": "2023-12-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": 24,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Jan 25, 2023 to Dec 24, 2023"
+    },
+    "duration": "35 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.99,
+    "scored_by": 121,
+    "rank": 9955,
+    "popularity": 18257,
+    "members": 389,
+    "favorites": 3,
+    "synopsis": "Series of short videos celebrating each of the 16 idols' birthdays, featuring the birthday idol along with two supporting characters in each episode.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49134,
+            "type": "anime",
+            "name": "RabbiTube: Creator ni Challenge!",
+            "url": "https://myanimelist.net/anime/49134/RabbiTube__Creator_ni_Challenge"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://idolish7.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@OGAMI-BANRI/shorts"
+      }
+    ],
+    "streaming": []
+  }
+}

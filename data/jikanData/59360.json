@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 59360,
+    "url": "https://myanimelist.net/anime/59360/Rock_wa_Lady_no_Tashinami_deshite",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/146395.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/146395t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/146395l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/146395.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/146395t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/146395l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "18dAsPbqohM",
+      "url": "https://www.youtube.com/watch?v=18dAsPbqohM",
+      "embed_url": "https://www.youtube.com/embed/18dAsPbqohM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/18dAsPbqohM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/18dAsPbqohM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/18dAsPbqohM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/18dAsPbqohM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/18dAsPbqohM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rock wa Lady no Tashinami deshite"
+      },
+      {
+        "type": "Synonym",
+        "title": "Rock Is a Lady's Modesty"
+      },
+      {
+        "type": "Japanese",
+        "title": "ロックは淑女の嗜みでして"
+      }
+    ],
+    "title": "Rock wa Lady no Tashinami deshite",
+    "title_english": null,
+    "title_japanese": "ロックは淑女の嗜みでして",
+    "title_synonyms": [
+      "Rock Is a Lady's Modesty"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10158,
+    "members": 3290,
+    "favorites": 3,
+    "synopsis": "At an elite all-girls' academy where refined young ladies gather, Lilisa Suzunomiya, now the daughter of a real estate tycoon after her mother remarried, is forced to abandon her guitar and rock music to fit in. However, her passion is reignited by sounds from the old school building, where she meets a skilled drummer who shares her love for rock. Together, they embrace their inner rockstars, elegantly clashing and shouting their way through the academy in this captivating tale of grace and rebellion.\n\n(Source: MAL News)",
+    "background": "",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "23:56",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 23:56 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1817,
+        "type": "anime",
+        "name": "Rakuten",
+        "url": "https://myanimelist.net/anime/producer/1817/Rakuten"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1258,
+        "type": "anime",
+        "name": "Bandai Namco Pictures",
+        "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 153031,
+            "type": "manga",
+            "name": "Rock wa Lady no Tashinami deshite",
+            "url": "https://myanimelist.net/manga/153031/Rock_wa_Lady_no_Tashinami_deshite"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://rocklady.rocks/"
+      },
+      {
+        "name": "@rocklady_info",
+        "url": "https://twitter.com/rocklady_info"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18769"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32962"
+      }
+    ],
+    "streaming": []
+  }
+}

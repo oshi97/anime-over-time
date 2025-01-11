@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 40487,
+    "url": "https://myanimelist.net/anime/40487/Eily_wa_Ousama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1069/103379.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1069/103379t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1069/103379l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1069/103379.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1069/103379t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1069/103379l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eily wa Ousama!"
+      },
+      {
+        "type": "Japanese",
+        "title": "エイリは王さま!"
+      }
+    ],
+    "title": "Eily wa Ousama!",
+    "title_english": null,
+    "title_japanese": "エイリは王さま!",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-08T00:00:00+00:00",
+      "to": "2019-12-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 10,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Oct 8, 2019 to Dec 10, 2019"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20333,
+    "popularity": 16626,
+    "members": 529,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39978,
+            "type": "anime",
+            "name": "Waresho! Warera! Shodobutsu Aigo Iinkai",
+            "url": "https://myanimelist.net/anime/39978/Waresho_Warera_Shodobutsu_Aigo_Iinkai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.waresyo.com/eilyhaousama"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15127"
+      }
+    ],
+    "streaming": []
+  }
+}

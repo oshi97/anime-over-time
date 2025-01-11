@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 56485,
+    "url": "https://myanimelist.net/anime/56485/Shasha_and_Milo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/138136.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/138136t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/138136l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/138136.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/138136t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/138136l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shasha and Milo"
+      },
+      {
+        "type": "Japanese",
+        "title": "샤샤 앤 마일로"
+      }
+    ],
+    "title": "Shasha and Milo",
+    "title_english": null,
+    "title_japanese": "샤샤 앤 마일로",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-03T00:00:00+00:00",
+      "to": "2024-01-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": 26,
+          "month": 1,
+          "year": 2024
+        }
+      },
+      "string": "Nov 3, 2023 to Jan 26, 2024"
+    },
+    "duration": "22 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 13918,
+    "popularity": 20632,
+    "members": 238,
+    "favorites": 2,
+    "synopsis": "Shasha and Milo are the newly activated Crescent Moon Guardians. Imbued with the power to transform between human, cat and a formidable hybrid form, Shasha and Milo are tasked with protecting Crescent Island from the dark forces that lurk beneath it... whilst navigating the daily complexities of preteen life.\n\n(Source: Pingo)",
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2945,
+        "type": "anime",
+        "name": "Studio Goindol",
+        "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59583,
+            "type": "anime",
+            "name": "Shasha and Milo Part 2",
+            "url": "https://myanimelist.net/anime/59583/Shasha_and_Milo_Part_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pingo.kr/shasha-milo"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@SHASHAandMILO"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/샤샤_앤_마일로"
+      }
+    ],
+    "streaming": []
+  }
+}

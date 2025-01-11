@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56992,
+    "url": "https://myanimelist.net/anime/56992/DinoCore_Evolution_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1451/139303.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/139303t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/139303l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1451/139303.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/139303t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/139303l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "DinoCore Evolution Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "다이노코어 에볼루션 파트2"
+      }
+    ],
+    "title": "DinoCore Evolution Part 2",
+    "title_english": null,
+    "title_japanese": "다이노코어 에볼루션 파트2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-12T00:00:00+00:00",
+      "to": "2019-01-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 5,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Oct 12, 2018 to Jan 5, 2019"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20105,
+    "popularity": 23872,
+    "members": 106,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56991,
+            "type": "anime",
+            "name": "DinoCore Evolution",
+            "url": "https://myanimelist.net/anime/56991/DinoCore_Evolution"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.dino-core.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/다이노코어"
+      }
+    ],
+    "streaming": []
+  }
+}

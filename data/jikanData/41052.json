@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 41052,
+    "url": "https://myanimelist.net/anime/41052/Osomatsu-san_Movie__Zensetsu_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1221/105385.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1221/105385t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1221/105385l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1221/105385.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1221/105385t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1221/105385l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Osomatsu-san Movie: Zensetsu Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Osomatsu-san Movie Prologue"
+      },
+      {
+        "type": "Synonym",
+        "title": "Osomatsu-san Movie: Zensetsu Gekijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "えいがのおそ松さん　前説劇場"
+      },
+      {
+        "type": "English",
+        "title": "Mr. Osomatsu-san the Movie: Prologue Theater"
+      }
+    ],
+    "title": "Osomatsu-san Movie: Zensetsu Gekijou",
+    "title_english": "Mr. Osomatsu-san the Movie: Prologue Theater",
+    "title_japanese": "えいがのおそ松さん　前説劇場",
+    "title_synonyms": [
+      "Osomatsu-san Movie Prologue",
+      "Osomatsu-san Movie: Zensetsu Gekijou"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-15T00:00:00+00:00",
+      "to": "2019-04-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 19,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      "string": "Mar 15, 2019 to Apr 19, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.84,
+    "scored_by": 854,
+    "rank": 5127,
+    "popularity": 11100,
+    "members": 2489,
+    "favorites": 4,
+    "synopsis": "Osomatsu-san Movie shorts shown weekly in theaters and later included in DVD/BD release. In them the boys break the fourth wall worrying about their own film being released.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38201,
+            "type": "anime",
+            "name": "Osomatsu-san Movie",
+            "url": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://osomatsusan-movie.com/bddvd-special/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14293"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21718"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mr._Osomatsu"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 47264,
+    "url": "https://myanimelist.net/anime/47264/Wo_de_Maoxian_Shijie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1777/130747.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1777/130747t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1777/130747l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1777/130747.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1777/130747t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1777/130747l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo de Maoxian Shijie"
+      },
+      {
+        "type": "Japanese",
+        "title": "我的冒险世界"
+      },
+      {
+        "type": "English",
+        "title": "My Mad Xian World"
+      }
+    ],
+    "title": "Wo de Maoxian Shijie",
+    "title_english": "My Mad Xian World",
+    "title_japanese": "我的冒险世界",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 1, 2016 to ?"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15128,
+    "popularity": 24956,
+    "members": 90,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47265,
+            "type": "anime",
+            "name": "Wo de Maoxian Shijie 2nd Season",
+            "url": "https://myanimelist.net/anime/47265/Wo_de_Maoxian_Shijie_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E5%86%92%E9%99%A9%E4%B8%96%E7%95%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

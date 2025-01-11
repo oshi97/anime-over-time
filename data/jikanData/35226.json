@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 35226,
+    "url": "https://myanimelist.net/anime/35226/Akita_Kenritsu_Iburi_Gakkou_Chuutou-bu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84867t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84867l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/84867.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84867t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84867l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu"
+      },
+      {
+        "type": "Japanese",
+        "title": "秋田県立いぶり学校中等部"
+      }
+    ],
+    "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
+    "title_english": null,
+    "title_japanese": "秋田県立いぶり学校中等部",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-14T00:00:00+00:00",
+      "to": "2017-12-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 30,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      "string": "Mar 14, 2017 to Dec 30, 2017"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19006,
+    "popularity": 17017,
+    "members": 485,
+    "favorites": 0,
+    "synopsis": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 35227,
+            "type": "anime",
+            "name": "Akita Kenritsu Iburi Gakkou Chuutou-bu: Web-ban Omake",
+            "url": "https://myanimelist.net/anime/35227/Akita_Kenritsu_Iburi_Gakkou_Chuutou-bu__Web-ban_Omake"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.iburigakkou.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13020"
+      }
+    ],
+    "streaming": []
+  }
+}

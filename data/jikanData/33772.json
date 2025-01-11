@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 33772,
+    "url": "https://myanimelist.net/anime/33772/Spy_Penguin_ONA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/81324.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/81324t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/81324l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/81324.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/81324t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/81324l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spy Penguin (ONA)"
+      },
+      {
+        "type": "Japanese",
+        "title": "スパイペンギン"
+      },
+      {
+        "type": "English",
+        "title": "Spy Penguin"
+      }
+    ],
+    "title": "Spy Penguin (ONA)",
+    "title_english": "Spy Penguin",
+    "title_japanese": "スパイペンギン",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 43,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-04-26T00:00:00+00:00",
+      "to": "2014-12-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 4,
+          "year": 2013
+        },
+        "to": {
+          "day": 11,
+          "month": 12,
+          "year": 2014
+        }
+      },
+      "string": "Apr 26, 2013 to Dec 11, 2014"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14423,
+    "popularity": 19981,
+    "members": 275,
+    "favorites": 0,
+    "synopsis": "A continuation of the Spy Penguin. Spy Penguin revolves around a group of three penguins who protect Paris from those who threaten the peace.\n\n(Source: ANN)",
+    "background": "The series consists of 47 episodes released online via GYAO! (a Japanese video on demand service by Yahoo! Japan. However, episodes 1-3 and 5 are the same as in previously released Spy Penguin OVAs, so the actual number of episodes with new content is 43.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 819,
+        "type": "anime",
+        "name": "Next Media Animation",
+        "url": "https://myanimelist.net/anime/producer/819/Next_Media_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 33773,
+            "type": "anime",
+            "name": "Spy Penguin (ONA): White Christmas",
+            "url": "https://myanimelist.net/anime/33773/Spy_Penguin_ONA__White_Christmas"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 15111,
+            "type": "anime",
+            "name": "Spy Penguin",
+            "url": "https://myanimelist.net/anime/15111/Spy_Penguin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://nmaj.co.jp/%e3%82%b9%e3%83%91%e3%82%a4%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3/"
+      }
+    ],
+    "streaming": []
+  }
+}

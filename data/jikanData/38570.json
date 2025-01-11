@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 38570,
+    "url": "https://myanimelist.net/anime/38570/Tatakae_Dokan-kun__Robolympic-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/95813.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/95813t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/95813l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/95813.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/95813t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/95813l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tatakae! Dokan-kun: Robolympic-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fight Tension☆School"
+      },
+      {
+        "type": "Japanese",
+        "title": "たたかえ!土管くん ロボリンピック編"
+      }
+    ],
+    "title": "Tatakae! Dokan-kun: Robolympic-hen",
+    "title_english": null,
+    "title_japanese": "たたかえ!土管くん ロボリンピック編",
+    "title_synonyms": [
+      "Fight Tension☆School"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-04-05T00:00:00+00:00",
+      "to": "2008-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2008
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2008
+        }
+      },
+      "string": "Apr 5, 2008 to Sep 27, 2008"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14607,
+    "popularity": 20575,
+    "members": 243,
+    "favorites": 0,
+    "synopsis": "The fourth season of the Dokan-kun franchise.  It aired within the \"Fight Tension☆TV\" variety program.",
+    "background": "",
+    "season": "spring",
+    "year": 2008,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38569,
+            "type": "anime",
+            "name": "Tatakae! Dokan-kun: Gekitou-kun",
+            "url": "https://myanimelist.net/anime/38569/Tatakae_Dokan-kun__Gekitou-kun"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38571,
+            "type": "anime",
+            "name": "Tobidase! Dokan-kun",
+            "url": "https://myanimelist.net/anime/38571/Tobidase_Dokan-kun"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kaeruotoko.com/works_dokan.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6666"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%84%B3%E6%88%A6%E5%A3%AB_%E5%9C%9F%E7%AE%A1%E3%81%8F%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

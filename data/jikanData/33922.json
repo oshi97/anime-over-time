@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 33922,
+    "url": "https://myanimelist.net/anime/33922/Taka_no_Tsumedan_Toyama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/81618.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81618t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81618l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/81618.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81618t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81618l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Taka no Tsumedan, Toyama"
+      },
+      {
+        "type": "Japanese",
+        "title": "鷹の爪団、富山"
+      }
+    ],
+    "title": "Taka no Tsumedan, Toyama",
+    "title_english": null,
+    "title_japanese": "鷹の爪団、富山",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-06T00:00:00+00:00",
+      "to": "2023-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Apr 6, 2016 to Mar 27, 2023"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14547,
+    "popularity": 17045,
+    "members": 484,
+    "favorites": 1,
+    "synopsis": "A crossover of Kaette Kite yoo Toyama kara with Himitsukessha Taka no Tsume as they explore more of Toyama city.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 31599,
+            "type": "anime",
+            "name": "Kaette Kite yoo Toyama kara",
+            "url": "https://myanimelist.net/anime/31599/Kaette_Kite_yoo_Toyama_kara"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35219,
+            "type": "anime",
+            "name": "DC Super Heroes vs Taka no Tsumedan",
+            "url": "https://myanimelist.net/anime/35219/DC_Super_Heroes_vs_Taka_no_Tsumedan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://perorich-toyama.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11587"
+      }
+    ],
+    "streaming": []
+  }
+}

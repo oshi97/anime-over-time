@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 37980,
+    "url": "https://myanimelist.net/anime/37980/Youkoso_Japari_Park",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1096/98231.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/98231t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/98231l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1096/98231.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/98231t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/98231l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Youkoso Japari Park"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kemono Friends: Youkoso Japari Park"
+      },
+      {
+        "type": "Japanese",
+        "title": "ようこそジャパリパーク"
+      },
+      {
+        "type": "English",
+        "title": "Welcome to Japari Park"
+      },
+      {
+        "type": "German",
+        "title": "Welcome To The Japari Park"
+      },
+      {
+        "type": "Spanish",
+        "title": "Welcome to the Japari Park"
+      },
+      {
+        "type": "French",
+        "title": "Welcome to the Japari Park"
+      }
+    ],
+    "title": "Youkoso Japari Park",
+    "title_english": "Welcome to Japari Park",
+    "title_japanese": "ようこそジャパリパーク",
+    "title_synonyms": [
+      "Kemono Friends: Youkoso Japari Park"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-10T00:00:00+00:00",
+      "to": "2020-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Aug 10, 2018 to Sep 30, 2020"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
+    "score": 5.93,
+    "scored_by": 1162,
+    "rank": 10250,
+    "popularity": 9131,
+    "members": 4602,
+    "favorites": 4,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33089,
+            "type": "anime",
+            "name": "Kemono Friends",
+            "url": "https://myanimelist.net/anime/33089/Kemono_Friends"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ch.ani.tv/titles/712"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14223"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-277126"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 58351,
+    "url": "https://myanimelist.net/anime/58351/Chibi_Godzilla_no_Gyakushuu_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/142428.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/142428t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/142428l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/142428.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/142428t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/142428l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "vpd8f5hn8o8",
+      "url": "https://www.youtube.com/watch?v=vpd8f5hn8o8",
+      "embed_url": "https://www.youtube.com/embed/vpd8f5hn8o8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/vpd8f5hn8o8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/vpd8f5hn8o8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/vpd8f5hn8o8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/vpd8f5hn8o8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/vpd8f5hn8o8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chibi Godzilla no Gyakushuu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ちびゴジラの逆襲"
+      },
+      {
+        "type": "English",
+        "title": "Chibi Godzilla Raids Again Season 2"
+      }
+    ],
+    "title": "Chibi Godzilla no Gyakushuu 2nd Season",
+    "title_english": "Chibi Godzilla Raids Again Season 2",
+    "title_japanese": "ちびゴジラの逆襲",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-04-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 3, 2024 to ?"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19720,
+    "popularity": 15584,
+    "members": 668,
+    "favorites": 2,
+    "synopsis": "Sequel to Chibi Godzilla no Gyakushuu.",
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "07:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 07:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 245,
+        "type": "anime",
+        "name": "TOHO",
+        "url": "https://myanimelist.net/anime/producer/245/TOHO"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1229,
+        "type": "anime",
+        "name": "Pie in the sky",
+        "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54644,
+            "type": "anime",
+            "name": "Chibi Godzilla no Gyakushuu",
+            "url": "https://myanimelist.net/anime/54644/Chibi_Godzilla_no_Gyakushuu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://godzilla.store/chibigodzilla/"
+      },
+      {
+        "name": "@chibigodzi",
+        "url": "https://twitter.com/chibigodzi"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18631"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32381"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chibi_Godzilla_Raids_Again"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ちびゴジラ"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7063"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 59590,
+    "url": "https://myanimelist.net/anime/59590/Toy_Cop_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/144845.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/144845t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/144845l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/144845.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/144845t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/144845l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toy Cop Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "토이캅 시즌 2"
+      }
+    ],
+    "title": "Toy Cop Season 2",
+    "title_english": null,
+    "title_japanese": "토이캅 시즌 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-12T00:00:00+00:00",
+      "to": "2018-07-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 5,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      "string": "Apr 12, 2018 to Jul 5, 2018"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14822,
+    "popularity": 27592,
+    "members": 52,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59589,
+            "type": "anime",
+            "name": "Toy Cop",
+            "url": "https://myanimelist.net/anime/59589/Toy_Cop"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/토이캅"
+      }
+    ],
+    "streaming": []
+  }
+}

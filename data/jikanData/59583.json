@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 59583,
+    "url": "https://myanimelist.net/anime/59583/Shasha_and_Milo_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1419/144837.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/144837t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/144837l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1419/144837.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/144837t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/144837l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shasha and Milo Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "샤샤&마일로 NEW에피소드"
+      }
+    ],
+    "title": "Shasha and Milo Part 2",
+    "title_english": null,
+    "title_japanese": "샤샤&마일로 NEW에피소드",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-31T00:00:00+00:00",
+      "to": "2024-08-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": 23,
+          "month": 8,
+          "year": 2024
+        }
+      },
+      "string": "May 31, 2024 to Aug 23, 2024"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 13921,
+    "popularity": 24070,
+    "members": 104,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2945,
+        "type": "anime",
+        "name": "Studio Goindol",
+        "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56485,
+            "type": "anime",
+            "name": "Shasha and Milo",
+            "url": "https://myanimelist.net/anime/56485/Shasha_and_Milo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/샤샤%20앤%20마일로"
+      }
+    ],
+    "streaming": []
+  }
+}

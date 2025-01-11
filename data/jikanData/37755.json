@@ -1,0 +1,193 @@
+{
+  "data": {
+    "mal_id": 37755,
+    "url": "https://myanimelist.net/anime/37755/Golden_Douga_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/93002.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/93002t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/93002l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/93002.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/93002t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/93002l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Golden Douga Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Golden Kamuy Short Anime: Golden Douga Gekijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゴールデン道画劇場"
+      },
+      {
+        "type": "English",
+        "title": "Golden Travelogue Theater"
+      }
+    ],
+    "title": "Golden Douga Gekijou",
+    "title_english": "Golden Travelogue Theater",
+    "title_japanese": "ゴールデン道画劇場",
+    "title_synonyms": [
+      "Golden Kamuy Short Anime: Golden Douga Gekijou"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 46,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-16T00:00:00+00:00",
+      "to": "2023-06-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 27,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "string": "Apr 16, 2018 to Jun 27, 2023"
+    },
+    "duration": "26 sec per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.43,
+    "scored_by": 1738,
+    "rank": 7537,
+    "popularity": 8028,
+    "members": 6424,
+    "favorites": 6,
+    "synopsis": "Short anime series of Golden Kamuy streamed on the official website.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1113,
+        "type": "anime",
+        "name": "NBCUniversal Entertainment Japan",
+        "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      },
+      {
+        "mal_id": 1673,
+        "type": "anime",
+        "name": "DMM.futureworks",
+        "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 85968,
+            "type": "manga",
+            "name": "Golden Kamuy",
+            "url": "https://myanimelist.net/manga/85968/Golden_Kamuy"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 51149,
+            "type": "anime",
+            "name": "Golden Douga Gekijou Specials",
+            "url": "https://myanimelist.net/anime/51149/Golden_Douga_Gekijou_Specials"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36028,
+            "type": "anime",
+            "name": "Golden Kamuy",
+            "url": "https://myanimelist.net/anime/36028/Golden_Kamuy"
+          },
+          {
+            "mal_id": 37989,
+            "type": "anime",
+            "name": "Golden Kamuy 2nd Season",
+            "url": "https://myanimelist.net/anime/37989/Golden_Kamuy_2nd_Season"
+          },
+          {
+            "mal_id": 40059,
+            "type": "anime",
+            "name": "Golden Kamuy 3rd Season",
+            "url": "https://myanimelist.net/anime/40059/Golden_Kamuy_3rd_Season"
+          },
+          {
+            "mal_id": 50528,
+            "type": "anime",
+            "name": "Golden Kamuy 4th Season",
+            "url": "https://myanimelist.net/anime/50528/Golden_Kamuy_4th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kamuy-anime.com/news/index00580000.html"
+      }
+    ],
+    "streaming": []
+  }
+}

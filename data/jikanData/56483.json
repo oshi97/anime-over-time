@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 56483,
+    "url": "https://myanimelist.net/anime/56483/Lindaui_Singihan_Yeohaeng_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/138134.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/138134t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/138134l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/138134.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/138134t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/138134l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lindaui Singihan Yeohaeng 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "린다의 신기한 여행 2"
+      },
+      {
+        "type": "English",
+        "title": "The Curious World of Linda 2"
+      }
+    ],
+    "title": "Lindaui Singihan Yeohaeng 2",
+    "title_english": "The Curious World of Linda 2",
+    "title_japanese": "린다의 신기한 여행 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-25T00:00:00+00:00",
+      "to": "2023-09-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": 2,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Dec 25, 2022 to Sep 2, 2023"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17133,
+    "popularity": 23074,
+    "members": 126,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "The first two episodes aired on KBS on December 25, 2022, and the subsequent broadcast continued from June 24, 2023.",
+    "season": "winter",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56482,
+            "type": "anime",
+            "name": "Lindaui Singihan Yeohaeng",
+            "url": "https://myanimelist.net/anime/56482/Lindaui_Singihan_Yeohaeng"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.kbs.co.kr/1tv/culture/linda/pc/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/린다의_신기한_여행"
+      }
+    ],
+    "streaming": []
+  }
+}

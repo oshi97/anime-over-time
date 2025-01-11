@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56505,
+    "url": "https://myanimelist.net/anime/56505/Shinobanai_Crypto_Ninja_Sakuya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1367/140445.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1367/140445t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1367/140445l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1367/140445.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1367/140445t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1367/140445l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinobanai! Crypto Ninja Sakuya"
+      },
+      {
+        "type": "Japanese",
+        "title": "忍ばない! クリプトニンジャ咲耶"
+      }
+    ],
+    "title": "Shinobanai! Crypto Ninja Sakuya",
+    "title_english": null,
+    "title_japanese": "忍ばない! クリプトニンジャ咲耶",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-04T00:00:00+00:00",
+      "to": "2023-12-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 27,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Oct 4, 2023 to Dec 27, 2023"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14109,
+    "popularity": 17140,
+    "members": 476,
+    "favorites": 0,
+    "synopsis": "The Crypto Scroll enshrined in the ninja city of Kouka has been stolen, leading to a battle royal among ninja. Sakuya, Nemu, and Xiaolan were living their daily lives until they must unite their forces.\n\n(Source: ANN)",
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "01:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 01:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57605,
+            "type": "anime",
+            "name": "Shinobanai! Crypto Ninja Sakuya: Ni no Maki",
+            "url": "https://myanimelist.net/anime/57605/Shinobanai_Crypto_Ninja_Sakuya__Ni_no_Maki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cryptoninja-sakuya.xyz"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18165"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28465"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6812"
+      }
+    ],
+    "streaming": []
+  }
+}

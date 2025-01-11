@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 51263,
+    "url": "https://myanimelist.net/anime/51263/Bakugan__Evolutions",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1905/121453.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1905/121453t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1905/121453l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1905/121453.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1905/121453t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1905/121453l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bakugan: Evolutions"
+      },
+      {
+        "type": "Japanese",
+        "title": "爆丸エボリューションズ"
+      },
+      {
+        "type": "English",
+        "title": "Bakugan: Evolutions"
+      }
+    ],
+    "title": "Bakugan: Evolutions",
+    "title_english": "Bakugan: Evolutions",
+    "title_japanese": "爆丸エボリューションズ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-06T00:00:00+00:00",
+      "to": "2022-09-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Feb 6, 2022 to Sep 1, 2022"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": 5.69,
+    "scored_by": 564,
+    "rank": 11379,
+    "popularity": 12359,
+    "members": 1673,
+    "favorites": 4,
+    "synopsis": "In Bakugan: Evolutions, fan-favourite Bakugan heroes – including Drago, Trox, Pegatrix, Hydorous, Howlkor and Pharol – return stronger, faster and better than ever! Strange occurrences begin to happen in the new action-packed season; elemental energy from Vestroia is seeping into Earth, creating strange phenomena and causing Bakugan to rage out with excess energy! It’s not all bad though, as our heroes realize the Vestroian elemental energy is also causing elemental evolutions among our Bakugan! Along with these new evolutions comes a new breed of elemental brawlers, propelling the Awesome Brawlers to adapt and in effect, take Bakugan brawling to a whole new level, unlocking even more awesome powers and evolutions! Once again, the fate of two worlds, Earth and Vestroia, rests in the hands of the Awesome Brawlers and their Bakugan partners.\n\n(Source: Corus Entertainment)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48555,
+            "type": "anime",
+            "name": "Bakugan: Geogan Rising",
+            "url": "https://myanimelist.net/anime/48555/Bakugan__Geogan_Rising"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54637,
+            "type": "anime",
+            "name": "Bakugan: Legends",
+            "url": "https://myanimelist.net/anime/54637/Bakugan__Legends"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17239"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24877"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bakugan:_Evolutions"
+      }
+    ],
+    "streaming": []
+  }
+}

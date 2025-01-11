@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 38166,
+    "url": "https://myanimelist.net/anime/38166/Malta_no_Bouken_Season_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1235/93452.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/93452t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/93452l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1235/93452.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/93452t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/93452l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Malta no Bouken Season 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "マルタの冒険　シーズン3"
+      }
+    ],
+    "title": "Malta no Bouken Season 3",
+    "title_english": null,
+    "title_japanese": "マルタの冒険　シーズン3",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-05T00:00:00+00:00",
+      "to": "2017-07-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": 21,
+          "month": 7,
+          "year": 2017
+        }
+      },
+      "string": "May 5, 2017 to Jul 21, 2017"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17287,
+    "popularity": 21345,
+    "members": 200,
+    "favorites": 0,
+    "synopsis": "The third season of Malta no Bouken. It focuses more on an adventure that Malta and her friends go on.",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38167,
+            "type": "anime",
+            "name": "Malta no Bouken Season 2",
+            "url": "https://myanimelist.net/anime/38167/Malta_no_Bouken_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 38609,
+            "type": "anime",
+            "name": "Malta no Kamishibai",
+            "url": "https://myanimelist.net/anime/38609/Malta_no_Kamishibai"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40188,
+            "type": "anime",
+            "name": "Malta no Utaou",
+            "url": "https://myanimelist.net/anime/40188/Malta_no_Utaou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://malta-go.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

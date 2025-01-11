@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 31019,
+    "url": "https://myanimelist.net/anime/31019/Norasco_TV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/74585.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/74585t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74585l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/74585.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/74585t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74585l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "6HV6-f9-iLc",
+      "url": "https://www.youtube.com/watch?v=6HV6-f9-iLc",
+      "embed_url": "https://www.youtube.com/embed/6HV6-f9-iLc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/6HV6-f9-iLc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/6HV6-f9-iLc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/6HV6-f9-iLc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/6HV6-f9-iLc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/6HV6-f9-iLc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Norasco (TV)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nora Suko (TV)"
+      },
+      {
+        "type": "Japanese",
+        "title": "野良スコ"
+      }
+    ],
+    "title": "Norasco (TV)",
+    "title_english": null,
+    "title_japanese": "野良スコ",
+    "title_synonyms": [
+      "Nora Suko (TV)"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 43,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-05-19T00:00:00+00:00",
+      "to": "2015-03-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 5,
+          "year": 2014
+        },
+        "to": {
+          "day": 31,
+          "month": 3,
+          "year": 2015
+        }
+      },
+      "string": "May 19, 2014 to Mar 31, 2015"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18036,
+    "popularity": 18064,
+    "members": 402,
+    "favorites": 0,
+    "synopsis": "musicる TV signed up Norasco for their channel. Some of the ONA's episodes were shown and then the episodes became mostly musicる TV exclusive.",
+    "background": "",
+    "season": "spring",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 432,
+        "type": "anime",
+        "name": "Kachidoki Studio",
+        "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 24773,
+            "type": "anime",
+            "name": "Norasco",
+            "url": "https://myanimelist.net/anime/24773/Norasco"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 31020,
+            "type": "anime",
+            "name": "Norasco: Cinema Point Card-hen",
+            "url": "https://myanimelist.net/anime/31020/Norasco__Cinema_Point_Card-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.music-ru.com/norasuko.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 53655,
+    "url": "https://myanimelist.net/anime/53655/Yomawari_Neko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/131383.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/131383t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/131383l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/131383.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/131383t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/131383l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yomawari Neko"
+      },
+      {
+        "type": "Japanese",
+        "title": "夜廻り猫"
+      }
+    ],
+    "title": "Yomawari Neko",
+    "title_english": null,
+    "title_japanese": "夜廻り猫",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-21T00:00:00+00:00",
+      "to": "2023-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Mar 21, 2023 to Mar 27, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15880,
+    "popularity": 15305,
+    "members": 716,
+    "favorites": 0,
+    "synopsis": "The story of a cat who's drawn to the scent of tears and goes to those who are crying in an attempt to comfort or encourage them.\n\n(Source: Baka-Updates)",
+    "background": "",
+    "season": "winter",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 64,
+        "type": "anime",
+        "name": "Sotsu",
+        "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+      },
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 99701,
+            "type": "manga",
+            "name": "Yomawari Neko",
+            "url": "https://myanimelist.net/manga/99701/Yomawari_Neko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17731"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26635"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yomawari_Neko"
+      }
+    ],
+    "streaming": []
+  }
+}

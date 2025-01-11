@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 45782,
+    "url": "https://myanimelist.net/anime/45782/D4DJ_Petit_Mix",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1089/113814.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/113814t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/113814l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1089/113814.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/113814t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/113814l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "6ZSjiYRObaI",
+      "url": "https://www.youtube.com/watch?v=6ZSjiYRObaI",
+      "embed_url": "https://www.youtube.com/embed/6ZSjiYRObaI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/6ZSjiYRObaI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/6ZSjiYRObaI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/6ZSjiYRObaI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/6ZSjiYRObaI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/6ZSjiYRObaI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "D4DJ Petit Mix"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pucchimiku D4DJ Petit Mix"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぷっちみく♪"
+      },
+      {
+        "type": "English",
+        "title": "D4DJ Petit Mix"
+      }
+    ],
+    "title": "D4DJ Petit Mix",
+    "title_english": "D4DJ Petit Mix",
+    "title_japanese": "ぷっちみく♪",
+    "title_synonyms": [
+      "Pucchimiku D4DJ Petit Mix"
+    ],
+    "type": "TV",
+    "source": "Mixed media",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-05T00:00:00+00:00",
+      "to": "2021-07-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": 30,
+          "month": 7,
+          "year": 2021
+        }
+      },
+      "string": "Feb 5, 2021 to Jul 30, 2021"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.97,
+    "scored_by": 2997,
+    "rank": 4507,
+    "popularity": 7612,
+    "members": 7307,
+    "favorites": 27,
+    "synopsis": "Mini anime aired within the D4DJ variety program D4DJ Photon Maiden TV.",
+    "background": "",
+    "season": "winter",
+    "year": 2021,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "23:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 23:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      },
+      {
+        "mal_id": 1673,
+        "type": "anime",
+        "name": "DMM.futureworks",
+        "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39681,
+            "type": "anime",
+            "name": "D4DJ First Mix",
+            "url": "https://myanimelist.net/anime/39681/D4DJ_First_Mix"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Petit Mix Party Night ( ぷっちみくパーチナィ!)\" by Happy Around! with KYOKO,SAKI,RIKA,TSUBAKI,MIYU"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime.d4dj-pj.com/petit-mix/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15981"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23993"
+      },
+      {
+        "name": "Wikipedia",
+        "url": ""
+      }
+    ],
+    "streaming": []
+  }
+}

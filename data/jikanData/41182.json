@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 41182,
+    "url": "https://myanimelist.net/anime/41182/Love_Live_Sunshine_Photo_Session",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/105711.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/105711t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/105711l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/105711.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/105711t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/105711l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Love Live! Sunshine!! Photo Session"
+      },
+      {
+        "type": "Synonym",
+        "title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow - Manner Movies"
+      },
+      {
+        "type": "Japanese",
+        "title": "ラブライブ！サンシャイン!!フォトセッション"
+      }
+    ],
+    "title": "Love Live! Sunshine!! Photo Session",
+    "title_english": null,
+    "title_japanese": "ラブライブ！サンシャイン!!フォトセッション",
+    "title_synonyms": [
+      "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow - Manner Movies"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 4, 2019"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "scored_by": 576,
+    "rank": 8168,
+    "popularity": 10786,
+    "members": 2735,
+    "favorites": 0,
+    "synopsis": "Short theater manners shown before Love Live! Sunshine!! The School Idol Movie: Over the Rainbow.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37027,
+            "type": "anime",
+            "name": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+            "url": "https://myanimelist.net/anime/37027/Love_Live_Sunshine_The_School_Idol_Movie__Over_the_Rainbow"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lovelive-anime.jp/uranohoshi/bd3.php"
+      }
+    ],
+    "streaming": []
+  }
+}

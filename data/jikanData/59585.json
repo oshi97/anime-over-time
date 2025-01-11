@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 59585,
+    "url": "https://myanimelist.net/anime/59585/Jyulagi_Cops__Jura_King",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/144839.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/144839t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/144839l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/144839.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/144839t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/144839l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jyulagi Cops: Jura King"
+      },
+      {
+        "type": "Japanese",
+        "title": "쥬라기 캅스 쥬라킹"
+      }
+    ],
+    "title": "Jyulagi Cops: Jura King",
+    "title_english": null,
+    "title_japanese": "쥬라기 캅스 쥬라킹",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-13T00:00:00+00:00",
+      "to": "2020-01-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 2,
+          "month": 1,
+          "year": 2020
+        }
+      },
+      "string": "Jul 13, 2019 to Jan 2, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16471,
+    "popularity": 27526,
+    "members": 59,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59584,
+            "type": "anime",
+            "name": "Jyulagi Cops",
+            "url": "https://myanimelist.net/anime/59584/Jyulagi_Cops"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59586,
+            "type": "anime",
+            "name": "Jyulagi Cops 3rd Season",
+            "url": "https://myanimelist.net/anime/59586/Jyulagi_Cops_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 59588,
+            "type": "anime",
+            "name": "Jyulagi Cops: Gonglyongsidae Daemoheom",
+            "url": "https://myanimelist.net/anime/59588/Jyulagi_Cops__Gonglyongsidae_Daemoheom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/쥬라기%20캅스"
+      }
+    ],
+    "streaming": []
+  }
+}

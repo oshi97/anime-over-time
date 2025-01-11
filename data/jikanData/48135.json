@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 48135,
+    "url": "https://myanimelist.net/anime/48135/Geomjeong_Gomusin_4",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/130362.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/130362t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/130362l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/130362.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/130362t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/130362l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Geomjeong Gomusin 4"
+      },
+      {
+        "type": "Japanese",
+        "title": "검정 고무신 4"
+      }
+    ],
+    "title": "Geomjeong Gomusin 4",
+    "title_english": null,
+    "title_japanese": "검정 고무신 4",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-05-11T00:00:00+00:00",
+      "to": "2015-08-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 5,
+          "year": 2015
+        },
+        "to": {
+          "day": 10,
+          "month": 8,
+          "year": 2015
+        }
+      },
+      "string": "May 11, 2015 to Aug 10, 2015"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20623,
+    "popularity": 24393,
+    "members": 98,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2015,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48134,
+            "type": "anime",
+            "name": "Geomjeong Gomusin",
+            "url": "https://myanimelist.net/anime/48134/Geomjeong_Gomusin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0%204"
+      }
+    ],
+    "streaming": []
+  }
+}

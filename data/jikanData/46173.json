@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 46173,
+    "url": "https://myanimelist.net/anime/46173/Qingwa_Wangzi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1383/128887.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1383/128887t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1383/128887l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1383/128887.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1383/128887t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1383/128887l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qingwa Wangzi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Frog Prince"
+      },
+      {
+        "type": "Japanese",
+        "title": "青蛙王子"
+      }
+    ],
+    "title": "Qingwa Wangzi",
+    "title_english": null,
+    "title_japanese": "青蛙王子",
+    "title_synonyms": [
+      "Frog Prince"
+    ],
+    "type": "TV",
+    "source": "Book",
+    "episodes": 80,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2008 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18584,
+    "popularity": 26651,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46175,
+            "type": "anime",
+            "name": "Qingwa Wangzi: Wa Wa Tanxian Dui",
+            "url": "https://myanimelist.net/anime/46175/Qingwa_Wangzi__Wa_Wa_Tanxian_Dui"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/26429853/"
+      }
+    ],
+    "streaming": []
+  }
+}

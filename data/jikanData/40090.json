@@ -1,0 +1,173 @@
+{
+  "data": {
+    "mal_id": 40090,
+    "url": "https://myanimelist.net/anime/40090/Sinbi_Apartment__Ghost_Ball_X-ui_Tansaeng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1271/102004.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1271/102004t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1271/102004l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1271/102004.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1271/102004t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1271/102004l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment: Ghost Ball X-ui Tansaeng"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Haunted House: The Secret of the Ghost Ball 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트: 고스트볼X의 탄생"
+      },
+      {
+        "type": "Spanish",
+        "title": "La Casa Embrujada: El Secreto de la Bola Fantasma Temporada 2"
+      }
+    ],
+    "title": "Sinbi Apartment: Ghost Ball X-ui Tansaeng",
+    "title_english": null,
+    "title_japanese": "신비아파트: 고스트볼X의 탄생",
+    "title_synonyms": [
+      "The Haunted House: The Secret of the Ghost Ball 2"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 23,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-09T00:00:00+00:00",
+      "to": "2019-01-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": 24,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Nov 9, 2017 to Jan 24, 2019"
+    },
+    "duration": "20 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.27,
+    "scored_by": 199,
+    "rank": 8456,
+    "popularity": 15306,
+    "members": 715,
+    "favorites": 2,
+    "synopsis": "With help from a 102-year-old goblin dwelling beneath their haunted apartment building, two siblings deal with ghosts and take on spooky mysteries.",
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38923,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Bimil",
+            "url": "https://myanimelist.net/anime/38923/Sinbi_Apartment__Ghost_Ball_Bimil"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48266,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Double X",
+            "url": "https://myanimelist.net/anime/48266/Sinbi_Apartment__Ghost_Ball_Double_X"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 48268,
+            "type": "anime",
+            "name": "Sinbi Apartment: Haliui Teugbyeolhan Halu",
+            "url": "https://myanimelist.net/anime/48268/Sinbi_Apartment__Haliui_Teugbyeolhan_Halu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@Shinbihouse"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%B9%84%EC%95%84%ED%8C%8C%ED%8A%B8:_%EA%B3%A0%EC%8A%A4%ED%8A%B8%EB%B3%BC_X%EC%9D%98_%ED%83%84%EC%83%9D"
+      }
+    ],
+    "streaming": []
+  }
+}

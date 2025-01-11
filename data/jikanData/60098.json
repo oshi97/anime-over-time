@@ -1,0 +1,198 @@
+{
+  "data": {
+    "mal_id": 60098,
+    "url": "https://myanimelist.net/anime/60098/Boku_no_Hero_Academia__Final_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1766/146050.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1766/146050.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "sqL0XDlV2PU",
+      "url": "https://www.youtube.com/watch?v=sqL0XDlV2PU",
+      "embed_url": "https://www.youtube.com/embed/sqL0XDlV2PU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boku no Hero Academia: Final Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "My Hero Academia 8"
+      },
+      {
+        "type": "Japanese",
+        "title": "僕のヒーローアカデミア FINAL SEASON"
+      },
+      {
+        "type": "English",
+        "title": "My Hero Academia Final Season"
+      }
+    ],
+    "title": "Boku no Hero Academia: Final Season",
+    "title_english": "My Hero Academia Final Season",
+    "title_japanese": "僕のヒーローアカデミア FINAL SEASON",
+    "title_synonyms": [
+      "My Hero Academia 8"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 2892,
+    "members": 64097,
+    "favorites": 161,
+    "synopsis": "Final season of Boku no Hero Academia.",
+    "background": "",
+    "season": "fall",
+    "year": 2025,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Bones",
+        "url": "https://myanimelist.net/anime/producer/4/Bones"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54789,
+            "type": "anime",
+            "name": "Boku no Hero Academia 7th Season",
+            "url": "https://myanimelist.net/anime/54789/Boku_no_Hero_Academia_7th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 75989,
+            "type": "manga",
+            "name": "Boku no Hero Academia",
+            "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://heroaca.com/"
+      },
+      {
+        "name": "@heroaca_anime",
+        "url": "https://twitter.com/heroaca_anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18921"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33714"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://jp.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29%0A"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/My_Hero_Academia#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

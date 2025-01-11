@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 57337,
+    "url": "https://myanimelist.net/anime/57337/Mythteria_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1561/139978.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1561/139978t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1561/139978l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1561/139978.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1561/139978t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1561/139978l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mythteria 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Miseuteliya 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "미스테리야 시즌2"
+      },
+      {
+        "type": "English",
+        "title": "Mythteria 2nd Season"
+      }
+    ],
+    "title": "Mythteria 2nd Season",
+    "title_english": "Mythteria 2nd Season",
+    "title_japanese": "미스테리야 시즌2",
+    "title_synonyms": [
+      "Miseuteliya 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-27T00:00:00+00:00",
+      "to": "2024-02-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": 20,
+          "month": 2,
+          "year": 2024
+        }
+      },
+      "string": "Nov 27, 2023 to Feb 20, 2024"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17810,
+    "popularity": 22332,
+    "members": 150,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 57336,
+            "type": "anime",
+            "name": "Mythteria",
+            "url": "https://myanimelist.net/anime/57336/Mythteria"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/mythteria/main"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/미스테리야"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 39007,
+    "url": "https://myanimelist.net/anime/39007/Kawauso_Labo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1458/98252.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1458/98252t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1458/98252l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1458/98252.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1458/98252t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1458/98252l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kawauso Labo"
+      },
+      {
+        "type": "Japanese",
+        "title": "カワウソラボ"
+      }
+    ],
+    "title": "Kawauso Labo",
+    "title_english": null,
+    "title_japanese": "カワウソラボ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-15T00:00:00+00:00",
+      "to": "2019-07-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 16,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "Jan 15, 2019 to Jul 16, 2019"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16652,
+    "popularity": 14056,
+    "members": 1028,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 315,
+        "type": "anime",
+        "name": "DAX Production",
+        "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 432,
+        "type": "anime",
+        "name": "Kachidoki Studio",
+        "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "itachiland.com/kawausolabo/index.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14600"
+      }
+    ],
+    "streaming": []
+  }
+}

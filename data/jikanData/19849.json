@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 19849,
+    "url": "https://myanimelist.net/anime/19849/Peeping_Life_50ch",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1151/145312.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1151/145312t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/145312l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1151/145312.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1151/145312t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/145312l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "J_wREqpWp3g",
+      "url": "https://www.youtube.com/watch?v=J_wREqpWp3g",
+      "embed_url": "https://www.youtube.com/embed/J_wREqpWp3g?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/J_wREqpWp3g/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/J_wREqpWp3g/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/J_wREqpWp3g/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/J_wREqpWp3g/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/J_wREqpWp3g/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Peeping Life 5.0ch"
+      },
+      {
+        "type": "Japanese",
+        "title": "Peeping Life 5.0ch"
+      }
+    ],
+    "title": "Peeping Life 5.0ch",
+    "title_english": null,
+    "title_japanese": "Peeping Life 5.0ch",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-02-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 2,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 3, 2012"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.66,
+    "scored_by": 171,
+    "rank": 11542,
+    "popularity": 15297,
+    "members": 717,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 291,
+        "type": "anime",
+        "name": "CoMix Wave Films",
+        "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 16377,
+            "type": "anime",
+            "name": "Peeping Life: The Perfect Extension",
+            "url": "https://myanimelist.net/anime/16377/Peeping_Life__The_Perfect_Extension"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 17359,
+            "type": "anime",
+            "name": "Peeping Life: The Perfect Explosion",
+            "url": "https://myanimelist.net/anime/17359/Peeping_Life__The_Perfect_Explosion"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9774"
+      }
+    ],
+    "streaming": []
+  }
+}

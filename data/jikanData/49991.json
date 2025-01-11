@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 49991,
+    "url": "https://myanimelist.net/anime/49991/Yankee_Hamster_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1172/118473.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/118473t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/118473l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1172/118473.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/118473t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/118473l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yankee Hamster Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Delinquent Hamsters Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヤンキーハムスター シーズン2"
+      },
+      {
+        "type": "English",
+        "title": "Delinquent Hamsters Season 2"
+      }
+    ],
+    "title": "Yankee Hamster Season 2",
+    "title_english": "Delinquent Hamsters Season 2",
+    "title_japanese": "ヤンキーハムスター シーズン2",
+    "title_synonyms": [
+      "Delinquent Hamsters Second Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-29T00:00:00+00:00",
+      "to": "2021-08-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 27,
+          "month": 8,
+          "year": 2021
+        }
+      },
+      "string": "Mar 29, 2019 to Aug 27, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15786,
+    "popularity": 20203,
+    "members": 263,
+    "favorites": 0,
+    "synopsis": "The second season of Yankee Hamster.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 55,
+        "type": "anime",
+        "name": "Delinquents",
+        "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35011,
+            "type": "anime",
+            "name": "Yankee Hamster",
+            "url": "https://myanimelist.net/anime/35011/Yankee_Hamster"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55564,
+            "type": "anime",
+            "name": "Yankee Hamster Season 3",
+            "url": "https://myanimelist.net/anime/55564/Yankee_Hamster_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pisostudio.com/delinquent"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

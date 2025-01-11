@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 35417,
+    "url": "https://myanimelist.net/anime/35417/Sin__Nanatsu_no_Taizai_Zange-roku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87985.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87985t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87985l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87985.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87985t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87985l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sin: Nanatsu no Taizai Zange-roku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sin: Nanatsu no Taizai - Records of Confessions"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sin: Nanatsu no Taizai Zangeroku"
+      },
+      {
+        "type": "Japanese",
+        "title": "sin 七つの大罪 ショートアニメ「懺悔録」"
+      }
+    ],
+    "title": "Sin: Nanatsu no Taizai Zange-roku",
+    "title_english": null,
+    "title_japanese": "sin 七つの大罪 ショートアニメ「懺悔録」",
+    "title_synonyms": [
+      "Sin: Nanatsu no Taizai - Records of Confessions",
+      "Sin: Nanatsu no Taizai Zangeroku"
+    ],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-14T00:00:00+00:00",
+      "to": "2017-07-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 31,
+          "month": 7,
+          "year": 2017
+        }
+      },
+      "string": "Apr 14, 2017 to Jul 31, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.94,
+    "scored_by": 4438,
+    "rank": 10225,
+    "popularity": 5546,
+    "members": 16095,
+    "favorites": 25,
+    "synopsis": "Short anime series of Sin: Nanatsu no Taizai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Artland",
+        "url": "https://myanimelist.net/anime/producer/8/Artland"
+      },
+      {
+        "mal_id": 120,
+        "type": "anime",
+        "name": "TNK",
+        "url": "https://myanimelist.net/anime/producer/120/TNK"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 9,
+        "type": "anime",
+        "name": "Ecchi",
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 35418,
+            "type": "anime",
+            "name": "Sin: Nanatsu no Taizai Zange-roku Specials",
+            "url": "https://myanimelist.net/anime/35418/Sin__Nanatsu_no_Taizai_Zange-roku_Specials"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33834,
+            "type": "anime",
+            "name": "Sin: Nanatsu no Taizai",
+            "url": "https://myanimelist.net/anime/33834/Sin__Nanatsu_no_Taizai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12324"
+      }
+    ],
+    "streaming": []
+  }
+}

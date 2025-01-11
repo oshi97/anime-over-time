@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 56975,
+    "url": "https://myanimelist.net/anime/56975/Maomao_no_Hitorigoto",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1756/139266.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1756/139266t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1756/139266l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1756/139266.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1756/139266t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1756/139266l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maomao no Hitorigoto"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫猫のひとりごと"
+      }
+    ],
+    "title": "Maomao no Hitorigoto",
+    "title_english": null,
+    "title_japanese": "猫猫のひとりごと",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-23T00:00:00+00:00",
+      "to": "2024-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Oct 23, 2023 to Mar 25, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.58,
+    "scored_by": 1095,
+    "rank": 6557,
+    "popularity": 10270,
+    "members": 3168,
+    "favorites": 6,
+    "synopsis": "Mini anime for Kusuriya no Hitorigoto released on YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2705,
+        "type": "anime",
+        "name": "TOHO animation STUDIO",
+        "url": "https://myanimelist.net/anime/producer/2705/TOHO_animation_STUDIO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 67,
+        "type": "anime",
+        "name": "Medical",
+        "url": "https://myanimelist.net/anime/genre/67/Medical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54492,
+            "type": "anime",
+            "name": "Kusuriya no Hitorigoto",
+            "url": "https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kusuriyanohitorigoto.jp/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30445"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Apothecary_Diaries"
+      }
+    ],
+    "streaming": []
+  }
+}

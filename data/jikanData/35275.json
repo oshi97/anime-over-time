@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 35275,
+    "url": "https://myanimelist.net/anime/35275/Asonde_Oboeru_Gakushuu_DVD",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/84971.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/84971t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/84971l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/84971.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/84971t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/84971l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Asonde Oboeru Gakushuu DVD"
+      },
+      {
+        "type": "Japanese",
+        "title": "遊んでおぼえる学習DVD"
+      }
+    ],
+    "title": "Asonde Oboeru Gakushuu DVD",
+    "title_english": null,
+    "title_japanese": "遊んでおぼえる学習DVD",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "20 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19134,
+    "popularity": 21141,
+    "members": 208,
+    "favorites": 0,
+    "synopsis": "An educational DVD series meant to teach children their ABC's, how to read time, simple math, and geography.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 35274,
+            "type": "anime",
+            "name": "Hakkiri Kotowarou: Yuukai Sare Nai zo!",
+            "url": "https://myanimelist.net/anime/35274/Hakkiri_Kotowarou__Yuukai_Sare_Nai_zo"
+          },
+          {
+            "mal_id": 35272,
+            "type": "anime",
+            "name": "Ki wo Tsukeyou: Douro wa Kiken ga Ippai!",
+            "url": "https://myanimelist.net/anime/35272/Ki_wo_Tsukeyou__Douro_wa_Kiken_ga_Ippai"
+          },
+          {
+            "mal_id": 35276,
+            "type": "anime",
+            "name": "Tanoshii Ekaki Uta",
+            "url": "https://myanimelist.net/anime/35276/Tanoshii_Ekaki_Uta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.iw-eizo.co.jp/sell/animation/04/ani_04_asondeoboeru_animedvd.html"
+      }
+    ],
+    "streaming": []
+  }
+}

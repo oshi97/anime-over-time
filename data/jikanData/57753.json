@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 57753,
+    "url": "https://myanimelist.net/anime/57753/Jantama_Kan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1551/142498.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1551/142498t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1551/142498l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1551/142498.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1551/142498t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1551/142498l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "d2LsRhEzyUI",
+      "url": "https://www.youtube.com/watch?v=d2LsRhEzyUI",
+      "embed_url": "https://www.youtube.com/embed/d2LsRhEzyUI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/d2LsRhEzyUI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/d2LsRhEzyUI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/d2LsRhEzyUI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/d2LsRhEzyUI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/d2LsRhEzyUI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jantama Kan!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "じゃんたま カン!!"
+      },
+      {
+        "type": "English",
+        "title": "Mahjong Soul Kan!!"
+      }
+    ],
+    "title": "Jantama Kan!!",
+    "title_english": "Mahjong Soul Kan!!",
+    "title_japanese": "じゃんたま カン!!",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-25T00:00:00+00:00",
+      "to": "2024-07-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": 18,
+          "month": 7,
+          "year": 2024
+        }
+      },
+      "string": "Apr 25, 2024 to Jul 18, 2024"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.8,
+    "scored_by": 676,
+    "rank": 10879,
+    "popularity": 10736,
+    "members": 2770,
+    "favorites": 3,
+    "synopsis": "Sequel to Jantama Pong☆.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2634,
+        "type": "anime",
+        "name": "Yostar",
+        "url": "https://myanimelist.net/anime/producer/2634/Yostar"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2870,
+        "type": "anime",
+        "name": "Alke",
+        "url": "https://myanimelist.net/anime/producer/2870/Alke"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50789,
+            "type": "anime",
+            "name": "Jantama Pong☆",
+            "url": "https://myanimelist.net/anime/50789/Jantama_Pong☆"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://mahjongsoul-kang.jp/"
+      },
+      {
+        "name": "@MahjongSoul_JP",
+        "url": "https://twitter.com/MahjongSoul_JP"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@MahjongSoulOfficialYostar"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18390"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31351"
+      }
+    ],
+    "streaming": []
+  }
+}

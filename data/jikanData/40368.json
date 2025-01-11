@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 40368,
+    "url": "https://myanimelist.net/anime/40368/Egg_Car",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/102905t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/102905l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1750/102905.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/102905t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/102905l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Egg Car"
+      },
+      {
+        "type": "Japanese",
+        "title": "EGG CAR エッグカー"
+      }
+    ],
+    "title": "Egg Car",
+    "title_english": null,
+    "title_japanese": "EGG CAR エッグカー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-03T00:00:00+00:00",
+      "to": "2020-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2020
+        }
+      },
+      "string": "Oct 3, 2019 to Oct 1, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20327,
+    "popularity": 18717,
+    "members": 352,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2019,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "18:10",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 18:10 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"What's Your Identity?\" by Sae Otsuka"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/eggcar/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15076"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%83%E3%82%B0%E3%82%AB%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 52867,
+    "url": "https://myanimelist.net/anime/52867/Cap_Kakumei_Bottleman_DX__Side_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/128992.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/128992t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/128992l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/128992.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/128992t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/128992l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cap Kakumei Bottleman DX: Side Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "キャップ革命 ボトルマンDX　サイドストーリー"
+      }
+    ],
+    "title": "Cap Kakumei Bottleman DX: Side Story",
+    "title_english": null,
+    "title_japanese": "キャップ革命 ボトルマンDX　サイドストーリー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-21T00:00:00+00:00",
+      "to": "2022-11-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": 27,
+          "month": 11,
+          "year": 2022
+        }
+      },
+      "string": "Aug 21, 2022 to Nov 27, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19599,
+    "popularity": 20243,
+    "members": 260,
+    "favorites": 0,
+    "synopsis": "Side stories to Cap Kakumei Bottleman DX released biweekly on the Takara Tomy YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1314,
+        "type": "anime",
+        "name": "Gaina",
+        "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 51155,
+            "type": "anime",
+            "name": "Cap Kakumei Bottleman DX",
+            "url": "https://myanimelist.net/anime/51155/Cap_Kakumei_Bottleman_DX"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17232"
+      }
+    ],
+    "streaming": []
+  }
+}

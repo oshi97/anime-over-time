@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 47501,
+    "url": "https://myanimelist.net/anime/47501/Wuliao_Shi_She",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1878/129619.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/129619t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/129619l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1878/129619.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/129619t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/129619l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wuliao Shi She"
+      },
+      {
+        "type": "Japanese",
+        "title": "无聊诗社"
+      }
+    ],
+    "title": "Wuliao Shi She",
+    "title_english": null,
+    "title_japanese": "无聊诗社",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 17, 2017 to ?"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15217,
+    "popularity": 25345,
+    "members": 84,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47503,
+            "type": "anime",
+            "name": "Wuliao Shi She 2nd Season",
+            "url": "https://myanimelist.net/anime/47503/Wuliao_Shi_She_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 47502,
+            "type": "anime",
+            "name": "Wuliao Shi She Fanwai Pian",
+            "url": "https://myanimelist.net/anime/47502/Wuliao_Shi_She_Fanwai_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://baike.baidu.hk/item/%E7%84%A1%E8%81%8A%E8%A9%A9%E7%A4%BE"
+      }
+    ],
+    "streaming": []
+  }
+}

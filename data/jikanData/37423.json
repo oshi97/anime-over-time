@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 37423,
+    "url": "https://myanimelist.net/anime/37423/Shiawase_Pasta_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1163/90948.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1163/90948t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1163/90948l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1163/90948.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1163/90948t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1163/90948l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shiawase Pasta Story"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Carbonara Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "幸せパスタストーリー"
+      },
+      {
+        "type": "English",
+        "title": "Happy Pasta Story"
+      }
+    ],
+    "title": "Shiawase Pasta Story",
+    "title_english": "Happy Pasta Story",
+    "title_japanese": "幸せパスタストーリー",
+    "title_synonyms": [
+      "Happy Carbonara Story"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-11-01T00:00:00+00:00",
+      "to": "2011-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2010
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2011
+        }
+      },
+      "string": "Nov 1, 2010 to Oct 1, 2011"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.75,
+    "scored_by": 217,
+    "rank": 11098,
+    "popularity": 14360,
+    "members": 943,
+    "favorites": 0,
+    "synopsis": "A collaboration campaign between Kraft Parmesan Cheese and World Masterpiece Theater. Eight web shorts were made using seven of the World Masterpiece Theater stories (Flanders no Inu had two episodes); they act as mini side-stories within their respective shows, though Haha wo Tazunete Sanzenri occurs after the show.\n\nAn apprentice fairy called Palme connects all the stories together as she uses her magic (aka sprinkling parmesan) to make \"happy pasta.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 1663,
+            "type": "anime",
+            "name": "Haha wo Tazunete Sanzenri",
+            "url": "https://myanimelist.net/anime/1663/Haha_wo_Tazunete_Sanzenri"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 2553,
+            "type": "anime",
+            "name": "Flanders no Inu",
+            "url": "https://myanimelist.net/anime/2553/Flanders_no_Inu"
+          },
+          {
+            "mal_id": 2576,
+            "type": "anime",
+            "name": "Araiguma Rascal",
+            "url": "https://myanimelist.net/anime/2576/Araiguma_Rascal"
+          },
+          {
+            "mal_id": 283,
+            "type": "anime",
+            "name": "Akage no Anne",
+            "url": "https://myanimelist.net/anime/283/Akage_no_Anne"
+          },
+          {
+            "mal_id": 2577,
+            "type": "anime",
+            "name": "Tom Sawyer no Bouken",
+            "url": "https://myanimelist.net/anime/2577/Tom_Sawyer_no_Bouken"
+          },
+          {
+            "mal_id": 2547,
+            "type": "anime",
+            "name": "Princess Sara",
+            "url": "https://myanimelist.net/anime/2547/Princess_Sara"
+          },
+          {
+            "mal_id": 3199,
+            "type": "anime",
+            "name": "Nanatsu no Umi no Tico",
+            "url": "https://myanimelist.net/anime/3199/Nanatsu_no_Umi_no_Tico"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://promotion.yahoo.co.jp/parme/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E3%81%9B%E3%83%91%E3%82%B9%E3%82%BF%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

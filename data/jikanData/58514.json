@@ -1,0 +1,233 @@
+{
+  "data": {
+    "mal_id": 58514,
+    "url": "https://myanimelist.net/anime/58514/Kusuriya_no_Hitorigoto_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1377/146200.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1377/146200t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1377/146200l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1377/146200.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1377/146200t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1377/146200l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "3BYutu3Pf_0",
+      "url": "https://www.youtube.com/watch?v=3BYutu3Pf_0",
+      "embed_url": "https://www.youtube.com/embed/3BYutu3Pf_0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/3BYutu3Pf_0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/3BYutu3Pf_0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/3BYutu3Pf_0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/3BYutu3Pf_0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/3BYutu3Pf_0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kusuriya no Hitorigoto 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Pharmacist's Monologue"
+      },
+      {
+        "type": "Synonym",
+        "title": "Drugstore Soliloquy"
+      },
+      {
+        "type": "Japanese",
+        "title": "薬屋のひとりごと 第2期"
+      },
+      {
+        "type": "English",
+        "title": "The Apothecary Diaries Season 2"
+      }
+    ],
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "title_english": "The Apothecary Diaries Season 2",
+    "title_japanese": "薬屋のひとりごと 第2期",
+    "title_synonyms": [
+      "The Pharmacist's Monologue",
+      "Drugstore Soliloquy"
+    ],
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2025-01-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 10, 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16997,
+    "popularity": 1715,
+    "members": 140144,
+    "favorites": 754,
+    "synopsis": "Second season of Kusuriya no Hitorigoto.",
+    "background": "Kusuriya no Hitorigoto 2nd Season aired on Nippon TV's Friday Anime Night block.",
+    "season": "winter",
+    "year": 2025,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "23:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 23:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      },
+      {
+        "mal_id": 2705,
+        "type": "anime",
+        "name": "TOHO animation STUDIO",
+        "url": "https://myanimelist.net/anime/producer/2705/TOHO_animation_STUDIO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 67,
+        "type": "anime",
+        "name": "Medical",
+        "url": "https://myanimelist.net/anime/genre/67/Medical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54492,
+            "type": "anime",
+            "name": "Kusuriya no Hitorigoto",
+            "url": "https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 107562,
+            "type": "manga",
+            "name": "Kusuriya no Hitorigoto",
+            "url": "https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto"
+          },
+          {
+            "mal_id": 110929,
+            "type": "manga",
+            "name": "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
+            "url": "https://myanimelist.net/manga/110929/Kusuriya_no_Hitorigoto__Maomao_no_Koukyuu_Nazotoki_Techou"
+          },
+          {
+            "mal_id": 86769,
+            "type": "manga",
+            "name": "Kusuriya no Hitorigoto",
+            "url": "https://myanimelist.net/manga/86769/Kusuriya_no_Hitorigoto"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Hyakka Ryouran (百花繚乱)\" by Lilas Ikuta (幾田りら)"
+      ],
+      "endings": [
+        "\"Shiawase no Recipe (幸せのレシピ)\" by Dai Hirai (平井大)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kusuriyanohitorigoto.jp/season2/"
+      },
+      {
+        "name": "@kusuriya_PR",
+        "url": "https://twitter.com/kusuriya_PR"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18562"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32557"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Apothecary_Diaries#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7296"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/"
+      }
+    ]
+  }
+}

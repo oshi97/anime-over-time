@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 52000,
+    "url": "https://myanimelist.net/anime/52000/Nanamental",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1616/124262.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/124262t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/124262l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1616/124262.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/124262t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/124262l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nanamental"
+      },
+      {
+        "type": "Japanese",
+        "title": "ナナメンタル"
+      }
+    ],
+    "title": "Nanamental",
+    "title_english": null,
+    "title_japanese": "ナナメンタル",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-30T00:00:00+00:00",
+      "to": "2022-06-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": 18,
+          "month": 6,
+          "year": 2022
+        }
+      },
+      "string": "May 30, 2022 to Jun 18, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17855,
+    "popularity": 15237,
+    "members": 731,
+    "favorites": 8,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2179,
+        "type": "anime",
+        "name": "FIREBUG",
+        "url": "https://myanimelist.net/anime/producer/2179/FIREBUG"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/reiou0106"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17429"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25726"
+      }
+    ],
+    "streaming": []
+  }
+}

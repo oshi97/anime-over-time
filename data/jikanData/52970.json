@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 52970,
+    "url": "https://myanimelist.net/anime/52970/Chiichai_Maou-sama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1594/127715.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1594/127715t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1594/127715l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1594/127715.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1594/127715t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1594/127715l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chiichai! Maou-sama!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hataraku Maou-sama!! Mini Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Devil is a Part-Timer! Season 2 Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "ちいちゃい！魔王さま！！"
+      }
+    ],
+    "title": "Chiichai! Maou-sama!!",
+    "title_english": null,
+    "title_japanese": "ちいちゃい！魔王さま！！",
+    "title_synonyms": [
+      "Hataraku Maou-sama!! Mini Anime",
+      "The Devil is a Part-Timer! Season 2 Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-17T00:00:00+00:00",
+      "to": "2023-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Jul 17, 2022 to Oct 1, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.9,
+    "scored_by": 981,
+    "rank": 10419,
+    "popularity": 10541,
+    "members": 2942,
+    "favorites": 3,
+    "synopsis": "Mini anime for Hataraku Maou-sama!! released on Twitter and YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 48413,
+            "type": "anime",
+            "name": "Hataraku Maou-sama!!",
+            "url": "https://myanimelist.net/anime/48413/Hataraku_Maou-sama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://maousama.jp/special/"
+      }
+    ],
+    "streaming": []
+  }
+}

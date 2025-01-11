@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 49907,
+    "url": "https://myanimelist.net/anime/49907/He_Nüer_De_Richang_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/117932.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/117932t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/117932l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/117932.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/117932t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/117932l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "He Nü'er De Richang 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "He Nü'er De Richang Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "和女儿的日常 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Grow Up with My Daughter 2nd Season"
+      }
+    ],
+    "title": "He Nü'er De Richang 2nd Season",
+    "title_english": "Grow Up with My Daughter 2nd Season",
+    "title_japanese": "和女儿的日常 第二季",
+    "title_synonyms": [
+      "He Nü'er De Richang Second Season"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 18,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-21T00:00:00+00:00",
+      "to": "2017-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        }
+      },
+      "string": "Mar 21, 2017 to 2017"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20915,
+    "popularity": 21694,
+    "members": 181,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2304,
+        "type": "anime",
+        "name": "TrioPen Studio",
+        "url": "https://myanimelist.net/anime/producer/2304/TrioPen_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49814,
+            "type": "anime",
+            "name": "He Nü'er De Richang",
+            "url": "https://myanimelist.net/anime/49814/He_Nüer_De_Richang"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49908,
+            "type": "anime",
+            "name": "He Nü'er De Richang 3rd Season",
+            "url": "https://myanimelist.net/anime/49908/He_Nüer_De_Richang_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 47270,
+            "type": "anime",
+            "name": "He Nü'er De Richang 2nd Season Special",
+            "url": "https://myanimelist.net/anime/47270/He_Nüer_De_Richang_2nd_Season_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/27003246/"
+      }
+    ],
+    "streaming": []
+  }
+}

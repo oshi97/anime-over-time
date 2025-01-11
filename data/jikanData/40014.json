@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 40014,
+    "url": "https://myanimelist.net/anime/40014/Fune_wo_Amu_Yokoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/101681.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/101681t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/101681l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/101681.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/101681t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/101681l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fune wo Amu Yokoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fune wo Amu next episode previews"
+      },
+      {
+        "type": "Japanese",
+        "title": "「舟を編む」予告"
+      }
+    ],
+    "title": "Fune wo Amu Yokoku",
+    "title_english": null,
+    "title_japanese": "「舟を編む」予告",
+    "title_synonyms": [
+      "Fune wo Amu next episode previews"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-13T00:00:00+00:00",
+      "to": "2016-12-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": 18,
+          "month": 12,
+          "year": 2016
+        }
+      },
+      "string": "Oct 13, 2016 to Dec 18, 2016"
+    },
+    "duration": "41 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.51,
+    "scored_by": 355,
+    "rank": 12033,
+    "popularity": 12763,
+    "members": 1470,
+    "favorites": 1,
+    "synopsis": "Chibi-style next episode previews for Fune wo Amu that were originally posted on the official Fune wo Amu Twitter page and the noitaminA YouTube channel. They were later included on the DVD and Blu-ray releases as part of the episodes.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 218,
+        "type": "anime",
+        "name": "Zexcs",
+        "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32948,
+            "type": "anime",
+            "name": "Fune wo Amu",
+            "url": "https://myanimelist.net/anime/32948/Fune_wo_Amu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://news.noitamina.tv/funewoamu/story/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11997"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18698"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Great_Passage_(TV_series)"
+      }
+    ],
+    "streaming": []
+  }
+}

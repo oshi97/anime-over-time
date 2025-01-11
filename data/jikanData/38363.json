@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 38363,
+    "url": "https://myanimelist.net/anime/38363/Ohayou_Hakushon_Daimaou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1849/94636.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1849/94636t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1849/94636l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1849/94636.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1849/94636t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1849/94636l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ohayou Hakushon Daimaou"
+      },
+      {
+        "type": "Japanese",
+        "title": "おはようハクション大魔王"
+      }
+    ],
+    "title": "Ohayou Hakushon Daimaou",
+    "title_english": null,
+    "title_japanese": "おはようハクション大魔王",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 237,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-03-31T00:00:00+00:00",
+      "to": "2015-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2014
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2015
+        }
+      },
+      "string": "Mar 31, 2014 to Mar 27, 2015"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.8,
+    "scored_by": 122,
+    "rank": 10891,
+    "popularity": 16630,
+    "members": 528,
+    "favorites": 0,
+    "synopsis": "The 3rd continuation of NTV's ZIP! anime parody shorts. This one focuses on Hakushon Daimaou. Like with the previous season, occasionally the Gatchaman team and now the Mazinger Z team show up in some episodes.",
+    "background": "",
+    "season": "spring",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1947,
+        "type": "anime",
+        "name": "Kate Arrow",
+        "url": "https://myanimelist.net/anime/producer/1947/Kate_Arrow"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 18365,
+            "type": "anime",
+            "name": "Mazinger ZIP!",
+            "url": "https://myanimelist.net/anime/18365/Mazinger_ZIP"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 31699,
+            "type": "anime",
+            "name": "Good Morning!!! Doronjo",
+            "url": "https://myanimelist.net/anime/31699/Good_Morning_Doronjo"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 2892,
+            "type": "anime",
+            "name": "Hakushon Daimaou",
+            "url": "https://myanimelist.net/anime/2892/Hakushon_Daimaou"
+          },
+          {
+            "mal_id": 40983,
+            "type": "anime",
+            "name": "Hakushon Daimaou 2020",
+            "url": "https://myanimelist.net/anime/40983/Hakushon_Daimaou_2020"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20141107072047/http://www.nitteleplus.com/program/anime/hakushon.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%83%8F%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%A4%A7%E9%AD%94%E7%8E%8B"
+      }
+    ],
+    "streaming": []
+  }
+}

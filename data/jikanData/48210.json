@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 48210,
+    "url": "https://myanimelist.net/anime/48210/Biklonz",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/130307.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/130307t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/130307l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/130307.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/130307t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/130307l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Biklonz"
+      },
+      {
+        "type": "Japanese",
+        "title": "바이클론즈"
+      }
+    ],
+    "title": "Biklonz",
+    "title_english": null,
+    "title_japanese": "바이클론즈",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 21,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-08-12T00:00:00+00:00",
+      "to": "2014-09-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 8,
+          "year": 2014
+        },
+        "to": {
+          "day": 3,
+          "month": 9,
+          "year": 2014
+        }
+      },
+      "string": "Aug 12, 2014 to Sep 3, 2014"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19415,
+    "popularity": 23441,
+    "members": 117,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59948,
+            "type": "anime",
+            "name": "Biklonz 2nd Season",
+            "url": "https://myanimelist.net/anime/59948/Biklonz_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%ED%81%B4%EB%A1%A0%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

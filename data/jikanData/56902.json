@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 56902,
+    "url": "https://myanimelist.net/anime/56902/In_App",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/139079.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/139079t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/139079l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/139079.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/139079t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/139079l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "In:App"
+      },
+      {
+        "type": "Japanese",
+        "title": "인앱"
+      }
+    ],
+    "title": "In:App",
+    "title_english": null,
+    "title_japanese": "인앱",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 56,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-21T00:00:00+00:00",
+      "to": "2021-12-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": 18,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Nov 21, 2020 to Dec 18, 2021"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21311,
+    "popularity": 23702,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": "Inside our small smart device is a world very much like our own, where countless Appmen work to run their apps as smoothly as possible. Each of our thoughtless taps or pretty selfies can easily drive Smart World into chaos. But the same goes the other way – when our smartphone malfunctions our days can easily be ruined. \n\nIn this oddly balanced back and forth – where what seems small in one world can become huge in the other – are our protagonists Jackie and Robin. These two don’t quite mesh. They are a team with no teamwork. They just don’t seem reliable enough for us to entrust our smart devices. But they do remind us that their, and our \"Smart Life\" can easily become comedy.\n\n(Source: WelCon)",
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2783,
+        "type": "anime",
+        "name": "ANYZAC",
+        "url": "https://myanimelist.net/anime/producer/2783/ANYZAC"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://anyzac.com/portfolio-item/inapp"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9D%B8:%EC%95%B1"
+      }
+    ],
+    "streaming": []
+  }
+}

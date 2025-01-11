@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 37653,
+    "url": "https://myanimelist.net/anime/37653/Caribadix_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1400/91641.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1400/91641t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1400/91641l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1400/91641.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1400/91641t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1400/91641l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Caribadix 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Deeky and Carina 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Deeky & Carina 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ディッキー&カリーナ 2ndシーズン"
+      },
+      {
+        "type": "English",
+        "title": "Caribadix 2nd Season"
+      }
+    ],
+    "title": "Caribadix 2nd Season",
+    "title_english": "Caribadix 2nd Season",
+    "title_japanese": "ディッキー&カリーナ 2ndシーズン",
+    "title_synonyms": [
+      "Deeky and Carina 2nd Season",
+      "Deeky & Carina 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-01T00:00:00+00:00",
+      "to": "2019-01-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 6,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Apr 1, 2018 to Jan 6, 2019"
+    },
+    "duration": "45 sec per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19611,
+    "popularity": 18214,
+    "members": 392,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Sundays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35517,
+            "type": "anime",
+            "name": "Caribadix",
+            "url": "https://myanimelist.net/anime/35517/Caribadix"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38478,
+            "type": "anime",
+            "name": "Caribadix \"Renai Revolution 21\" Cover MV",
+            "url": "https://myanimelist.net/anime/38478/Caribadix_Renai_Revolution_21_Cover_MV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-osaka.co.jp/ip4/jcd/short_anime.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13999"
+      }
+    ],
+    "streaming": []
+  }
+}

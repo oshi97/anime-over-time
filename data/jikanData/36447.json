@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 36447,
+    "url": "https://myanimelist.net/anime/36447/Lord_of_Vermilion_IV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87965.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87965t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87965l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87965.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87965t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87965l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lord of Vermilion IV"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lord of Vermilion 4"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lord of Vermilion Four"
+      },
+      {
+        "type": "Japanese",
+        "title": "LORD of VERMILION IV"
+      }
+    ],
+    "title": "Lord of Vermilion IV",
+    "title_english": null,
+    "title_japanese": "LORD of VERMILION IV",
+    "title_synonyms": [
+      "Lord of Vermilion 4",
+      "Lord of Vermilion Four"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-03T00:00:00+00:00",
+      "to": "2017-10-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": 26,
+          "month": 10,
+          "year": 2017
+        }
+      },
+      "string": "Sep 3, 2017 to Oct 26, 2017"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.42,
+    "scored_by": 265,
+    "rank": 12316,
+    "popularity": 12423,
+    "members": 1651,
+    "favorites": 0,
+    "synopsis": "Animated commercials for Square Enix's 4th installment of the arcade-based fantasy collectible card game. The commercials feature various characters talking to the viewer giving backstory to the game (Tokyo 2030 post-apocalypse world due to bio-terrorism), their particular character cards, and demanding the viewer use their powers to their full ability to take back the world.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31493,
+            "type": "anime",
+            "name": "Lord of Vermilion III Special Anime Movie",
+            "url": "https://myanimelist.net/anime/31493/Lord_of_Vermilion_III_Special_Anime_Movie"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37601,
+            "type": "anime",
+            "name": "Lord of Vermilion: Guren no Ou",
+            "url": "https://myanimelist.net/anime/37601/Lord_of_Vermilion__Guren_no_Ou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lordofv.com/lov4/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lord_of_Vermilion"
+      }
+    ],
+    "streaming": []
+  }
+}

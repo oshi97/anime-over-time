@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 40939,
+    "url": "https://myanimelist.net/anime/40939/Marumaru_Manul",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1778/105047t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1778/105047l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1778/105047.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1778/105047t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1778/105047l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Marumaru Manul"
+      },
+      {
+        "type": "Japanese",
+        "title": "まるまるマヌル"
+      }
+    ],
+    "title": "Marumaru Manul",
+    "title_english": null,
+    "title_japanese": "まるまるマヌル",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-06T00:00:00+00:00",
+      "to": "2020-12-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 15,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Jan 6, 2020 to Dec 15, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17364,
+    "popularity": 15302,
+    "members": 716,
+    "favorites": 0,
+    "synopsis": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+    "background": "",
+    "season": "winter",
+    "year": 2020,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "00:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 00:30 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 432,
+        "type": "anime",
+        "name": "Kachidoki Studio",
+        "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bs4.jp/marumarumanuru/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15317"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22927"
+      }
+    ],
+    "streaming": []
+  }
+}

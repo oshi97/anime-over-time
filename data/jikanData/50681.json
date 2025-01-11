@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 50681,
+    "url": "https://myanimelist.net/anime/50681/Baby-Hamitang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/120513.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/120513t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/120513l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/120513.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/120513t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/120513l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baby-Hamitang"
+      },
+      {
+        "type": "Japanese",
+        "title": "BABY-HAMITANG"
+      }
+    ],
+    "title": "Baby-Hamitang",
+    "title_english": null,
+    "title_japanese": "BABY-HAMITANG",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-12T00:00:00+00:00",
+      "to": "2022-02-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 16,
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "string": "Jan 12, 2022 to Feb 16, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19193,
+    "popularity": 17632,
+    "members": 433,
+    "favorites": 0,
+    "synopsis": "The episodes will present topics from the list of 17 Sustainable Development Goals (SDG) such as global warming, food waste, and gender equality, in an easy-to-understand manner. Baby Hamitang will then solve the issues.\n\n(Source: ANN)",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "19:26",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 19:26 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 249,
+        "type": "anime",
+        "name": "Robot Communications",
+        "url": "https://myanimelist.net/anime/producer/249/Robot_Communications"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54787,
+            "type": "anime",
+            "name": "Hello-Ni-Zd-Marha-Bon-Hola",
+            "url": "https://myanimelist.net/anime/54787/Hello-Ni-Zd-Marha-Bon-Hola"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Hello-Ni-Zd-Marha-Bon-Hola (ハローニーズドマルハボンオラ)\" by Baby-Hamitang"
+      ],
+      "endings": [
+        "\"Hello-Ni-Zd-Marha-Bon-Hola (ハローニーズドマルハボンオラ)\" by Baby-Hamitang"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://s.mxtv.jp/anime/baby-hamitang"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17083"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25097"
+      }
+    ],
+    "streaming": []
+  }
+}

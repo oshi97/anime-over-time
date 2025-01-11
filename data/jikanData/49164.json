@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 49164,
+    "url": "https://myanimelist.net/anime/49164/Make_My_Day",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1105/137747.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/137747t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/137747l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1105/137747.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/137747t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/137747l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "qYQJbTksHiI",
+      "url": "https://www.youtube.com/watch?v=qYQJbTksHiI",
+      "embed_url": "https://www.youtube.com/embed/qYQJbTksHiI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/qYQJbTksHiI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/qYQJbTksHiI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/qYQJbTksHiI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/qYQJbTksHiI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/qYQJbTksHiI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Make My Day"
+      },
+      {
+        "type": "Japanese",
+        "title": "MAKE MY DAY"
+      }
+    ],
+    "title": "Make My Day",
+    "title_english": null,
+    "title_japanese": "MAKE MY DAY",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 2, 2023"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 1591,
+    "rank": 10738,
+    "popularity": 8137,
+    "members": 6218,
+    "favorites": 11,
+    "synopsis": "On a cold planet of ice and snow, mysterious creatures suddenly have appeared from the dark underground and have begun to attack the inhabitants. Can humanity survive the terror lurking beyond the horizon?\n\n(Source: Netflix)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2264,
+        "type": "anime",
+        "name": "5 Inc.",
+        "url": "https://myanimelist.net/anime/producer/2264/5_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Theme from \"Make My Day\"\" by Kensuke Ushio"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16378"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24443"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ]
+  }
+}

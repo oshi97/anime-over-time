@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 40757,
+    "url": "https://myanimelist.net/anime/40757/Latina_no_Nikki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1089/104459.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/104459t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/104459l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1089/104459.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/104459t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/104459l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Latina no Nikki"
+      },
+      {
+        "type": "Japanese",
+        "title": "ラティナの日記"
+      }
+    ],
+    "title": "Latina no Nikki",
+    "title_english": null,
+    "title_japanese": "ラティナの日記",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 77,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-28T00:00:00+00:00",
+      "to": "2019-09-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 23,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Apr 28, 2019 to Sep 23, 2019"
+    },
+    "duration": "16 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.77,
+    "scored_by": 335,
+    "rank": 11034,
+    "popularity": 13628,
+    "members": 1155,
+    "favorites": 5,
+    "synopsis": "Short specials uploded to the official Twitter in which Latina gives little comments about her life and the people around her.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1978,
+        "type": "anime",
+        "name": "Maho Film",
+        "url": "https://myanimelist.net/anime/producer/1978/Maho_Film"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39324,
+            "type": "anime",
+            "name": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+            "url": "https://myanimelist.net/anime/39324/Uchi_no_Ko_no_Tame_naraba_Ore_wa_Moshikashitara_Maou_mo_Taoseru_kamo_Shirenai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/uchinoko_anime"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 33835,
+    "url": "https://myanimelist.net/anime/33835/PJ_Berri_no_Mogumogu_Munyamunya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81465.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81465t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81465l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81465.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81465t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81465l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "PJ Berri no Mogumogu Munyamunya"
+      },
+      {
+        "type": "Synonym",
+        "title": "PJ Berry no Mogu Mogu Munya Munya"
+      },
+      {
+        "type": "Japanese",
+        "title": "PJベリーのもぐもぐむにゃむにゃ"
+      }
+    ],
+    "title": "PJ Berri no Mogumogu Munyamunya",
+    "title_english": null,
+    "title_japanese": "PJベリーのもぐもぐむにゃむにゃ",
+    "title_synonyms": [
+      "PJ Berry no Mogu Mogu Munya Munya"
+    ],
+    "type": "TV",
+    "source": "Game",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-19T00:00:00+00:00",
+      "to": "2017-03-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 9,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Aug 19, 2016 to Mar 9, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18368,
+    "popularity": 16427,
+    "members": 550,
+    "favorites": 0,
+    "synopsis": "Fuji TV announced that it will air a new series of anime shorts based on the Parappa the Rapper video game franchise. The new anime will center on the P.J. Berri character. Each episode is about 96 seconds long.\n\nThe anime celebrates both the 20th anniversary of the game and the 15th anniversary of the anime series.\n\n(Source: US Anime Direct, edited)",
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 169,
+        "type": "anime",
+        "name": "Fuji TV",
+        "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 95,
+        "type": "anime",
+        "name": "Doga Kobo",
+        "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 35963,
+            "type": "anime",
+            "name": "PJ Berri no Mogumogu Munyamunya Season 2",
+            "url": "https://myanimelist.net/anime/35963/PJ_Berri_no_Mogumogu_Munyamunya_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 3736,
+            "type": "anime",
+            "name": "Parappa the Rapper",
+            "url": "https://myanimelist.net/anime/3736/Parappa_the_Rapper"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://pj-mogumunya.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12326"
+      }
+    ],
+    "streaming": []
+  }
+}

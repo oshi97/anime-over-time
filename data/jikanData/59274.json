@@ -1,0 +1,198 @@
+{
+  "data": {
+    "mal_id": 59274,
+    "url": "https://myanimelist.net/anime/59274/TP_BON_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/144181.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/144181t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/144181l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/144181.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/144181t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/144181l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "T.P BON Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Time-Patrol Bon 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "T・Pぼん"
+      }
+    ],
+    "title": "T.P BON Season 2",
+    "title_english": null,
+    "title_japanese": "T・Pぼん",
+    "title_synonyms": [
+      "Time-Patrol Bon 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 17, 2024"
+    },
+    "duration": "27 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.92,
+    "scored_by": 988,
+    "rank": 4705,
+    "popularity": 11357,
+    "members": 2305,
+    "favorites": 1,
+    "synopsis": "Second season of T.P BON.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1315,
+        "type": "anime",
+        "name": "Fujiko F. Fujio Pro",
+        "url": "https://myanimelist.net/anime/producer/1315/Fujiko_F_Fujio_Pro"
+      },
+      {
+        "mal_id": 1977,
+        "type": "anime",
+        "name": "Netflix",
+        "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Bones",
+        "url": "https://myanimelist.net/anime/producer/4/Bones"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56840,
+            "type": "anime",
+            "name": "T.P BON",
+            "url": "https://myanimelist.net/anime/56840/TP_BON"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 110242,
+            "type": "manga",
+            "name": "Time Patrol Bon",
+            "url": "https://myanimelist.net/manga/110242/Time_Patrol_Bon"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 12529,
+            "type": "anime",
+            "name": "Time-Patrol Bon: Fujiko F. Fujio Anime Special - SF Adventure",
+            "url": "https://myanimelist.net/anime/12529/Time-Patrol_Bon__Fujiko_F_Fujio_Anime_Special_-_SF_Adventure"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18227"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30154"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Time_Patrol_Bon"
+      }
+    ],
+    "streaming": []
+  }
+}

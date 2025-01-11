@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 51543,
+    "url": "https://myanimelist.net/anime/51543/Machikado_Mazoku__2-choume_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1862/122418.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/122418t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/122418l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1862/122418.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/122418t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/122418l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Machikado Mazoku: 2-choume Mini"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Demon Girl Next Door 2 Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "まちカドまぞく 2丁目 みに"
+      }
+    ],
+    "title": "Machikado Mazoku: 2-choume Mini",
+    "title_english": null,
+    "title_japanese": "まちカドまぞく 2丁目 みに",
+    "title_synonyms": [
+      "The Demon Girl Next Door 2 Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "4-koma manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-14T00:00:00+00:00",
+      "to": "2022-10-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": 5,
+          "month": 10,
+          "year": 2022
+        }
+      },
+      "string": "Feb 14, 2022 to Oct 5, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.98,
+    "scored_by": 375,
+    "rank": 9962,
+    "popularity": 12635,
+    "members": 1534,
+    "favorites": 1,
+    "synopsis": "Includes an extra collaboration episode with Mahoutsukai Reimeiki, as well as four episodes that promote the Blu-ray volumes of the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40755,
+            "type": "anime",
+            "name": "Machikado Mazoku Mini",
+            "url": "https://myanimelist.net/anime/40755/Machikado_Mazoku_Mini"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 51349,
+            "type": "anime",
+            "name": "Mahoutsukai Reimeiki Mini Anime",
+            "url": "https://myanimelist.net/anime/51349/Mahoutsukai_Reimeiki_Mini_Anime"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42745,
+            "type": "anime",
+            "name": "Machikado Mazoku: 2-choume",
+            "url": "https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/machikado_staff"
+      }
+    ],
+    "streaming": []
+  }
+}

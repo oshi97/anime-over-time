@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56479,
+    "url": "https://myanimelist.net/anime/56479/Cricket_Pang_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1430/138129.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1430/138129t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1430/138129l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1430/138129.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1430/138129t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1430/138129l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cricket Pang Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "크리켓팡 시즌2"
+      }
+    ],
+    "title": "Cricket Pang Season 2",
+    "title_english": null,
+    "title_japanese": "크리켓팡 시즌2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-13T00:00:00+00:00",
+      "to": "2023-09-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": 15,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Jan 13, 2023 to Sep 15, 2023"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19906,
+    "popularity": 23104,
+    "members": 125,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56478,
+            "type": "anime",
+            "name": "Cricket Pang",
+            "url": "https://myanimelist.net/anime/56478/Cricket_Pang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.imbc.com/cricketpang2"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/크리켓팡"
+      }
+    ],
+    "streaming": []
+  }
+}

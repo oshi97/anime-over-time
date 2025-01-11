@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 48200,
+    "url": "https://myanimelist.net/anime/48200/Meoteoldosa_TV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1591/130309.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/130309t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/130309l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1591/130309.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/130309t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/130309l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meoteoldosa (TV)"
+      },
+      {
+        "type": "Japanese",
+        "title": "머털도사"
+      }
+    ],
+    "title": "Meoteoldosa (TV)",
+    "title_english": null,
+    "title_japanese": "머털도사",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-08-29T00:00:00+00:00",
+      "to": "2012-11-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2012
+        },
+        "to": {
+          "day": 28,
+          "month": 11,
+          "year": 2012
+        }
+      },
+      "string": "Aug 29, 2012 to Nov 28, 2012"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17495,
+    "popularity": 23484,
+    "members": 115,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2012,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 18311,
+            "type": "anime",
+            "name": "Meoteoldosa",
+            "url": "https://myanimelist.net/anime/18311/Meoteoldosa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A8%B8%ED%84%B8%EB%8F%84%EC%82%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

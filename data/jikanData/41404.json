@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 41404,
+    "url": "https://myanimelist.net/anime/41404/Neko_Neko_Nihonshi_5th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/106363t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/106363l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1112/106363.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/106363t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/106363l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko Neko Nihonshi 5th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meow Meow Japanese History"
+      },
+      {
+        "type": "Japanese",
+        "title": "ねこねこ日本史 第5期"
+      }
+    ],
+    "title": "Neko Neko Nihonshi 5th Season",
+    "title_english": null,
+    "title_japanese": "ねこねこ日本史 第5期",
+    "title_synonyms": [
+      "Meow Meow Japanese History"
+    ],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 32,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-08T00:00:00+00:00",
+      "to": "2021-03-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 3,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Apr 8, 2020 to Mar 3, 2021"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17907,
+    "popularity": 17087,
+    "members": 481,
+    "favorites": 0,
+    "synopsis": "Fifth season of Neko Neko Nihonshi.",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "06:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 06:45 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39356,
+            "type": "anime",
+            "name": "Neko Neko Nihonshi 4th Season",
+            "url": "https://myanimelist.net/anime/39356/Neko_Neko_Nihonshi_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 96221,
+            "type": "manga",
+            "name": "Neko Neko Nihonshi",
+            "url": "https://myanimelist.net/manga/96221/Neko_Neko_Nihonshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://neco-neco.jp/index.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15430"
+      }
+    ],
+    "streaming": []
+  }
+}

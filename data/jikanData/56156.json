@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 56156,
+    "url": "https://myanimelist.net/anime/56156/Matatabi_Movie_Labo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1605/137499.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/137499t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/137499l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1605/137499.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/137499t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/137499l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Matatabi Movie Labo"
+      },
+      {
+        "type": "Japanese",
+        "title": "マタタビムービーラボ"
+      }
+    ],
+    "title": "Matatabi Movie Labo",
+    "title_english": null,
+    "title_japanese": "マタタビムービーラボ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 1, 2020 to ?"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17370,
+    "popularity": 23799,
+    "members": 108,
+    "favorites": 0,
+    "synopsis": "A web series created by Karameru that compiles several of his shorts plus new animation sketches.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56458,
+            "type": "anime",
+            "name": "Umi no Jiken Jiko wa 118-ban",
+            "url": "https://myanimelist.net/anime/56458/Umi_no_Jiken_Jiko_wa_118-ban"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 56148,
+            "type": "anime",
+            "name": "Gyakusou Shoujo",
+            "url": "https://myanimelist.net/anime/56148/Gyakusou_Shoujo"
+          },
+          {
+            "mal_id": 56612,
+            "type": "anime",
+            "name": "Kusohamu-chan Happy Birthday!",
+            "url": "https://myanimelist.net/anime/56612/Kusohamu-chan_Happy_Birthday"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Jigoku no Matatabi Song\" by Karameru"
+      ],
+      "endings": [
+        "\"Genkai\" by Karameru"
+      ]
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PL4X5MIgeGzQBl33ajzf7BZXWgC3U_zobD"
+      }
+    ],
+    "streaming": []
+  }
+}

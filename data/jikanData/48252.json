@@ -1,0 +1,215 @@
+{
+  "data": {
+    "mal_id": 48252,
+    "url": "https://myanimelist.net/anime/48252/Ore_Tsushima",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/112514.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/112514t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/112514l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/112514.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/112514t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/112514l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "zJEd90DCAj8",
+      "url": "https://www.youtube.com/watch?v=zJEd90DCAj8",
+      "embed_url": "https://www.youtube.com/embed/zJEd90DCAj8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/zJEd90DCAj8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/zJEd90DCAj8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/zJEd90DCAj8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/zJEd90DCAj8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/zJEd90DCAj8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ore, Tsushima"
+      },
+      {
+        "type": "Synonym",
+        "title": "I am Tsushima"
+      },
+      {
+        "type": "Japanese",
+        "title": "俺、つしま"
+      },
+      {
+        "type": "English",
+        "title": "I, Tsushima"
+      }
+    ],
+    "title": "Ore, Tsushima",
+    "title_english": "I, Tsushima",
+    "title_japanese": "俺、つしま",
+    "title_synonyms": [
+      "I am Tsushima"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-02T00:00:00+00:00",
+      "to": "2021-09-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 18,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jul 2, 2021 to Sep 18, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.94,
+    "scored_by": 8335,
+    "rank": 4610,
+    "popularity": 5132,
+    "members": 19675,
+    "favorites": 169,
+    "synopsis": "One morning, an old lady meets a stray cat searching for food in garbage cans and decides to take him back home to give him a proper meal. Despite being surprised to learn that the cat named Tsushima has the ability to speak, she nevertheless chooses to adopt him and entertains all of his whims. Ore, Tsushima details the hilarious adventures of the gluttonous and lazy Tsushima leopard cat in his new foster family.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": "summer",
+    "year": 2021,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "01:50",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 01:50 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 517,
+        "type": "anime",
+        "name": "Asmik Ace",
+        "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      },
+      {
+        "mal_id": 1045,
+        "type": "anime",
+        "name": "Space Neko Company",
+        "url": "https://myanimelist.net/anime/producer/1045/Space_Neko_Company"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 163546,
+            "type": "manga",
+            "name": "Ore, Tsushima",
+            "url": "https://myanimelist.net/manga/163546/Ore_Tsushima"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49392,
+            "type": "anime",
+            "name": "Ore, Tsushima (ONA)",
+            "url": "https://myanimelist.net/anime/49392/Ore_Tsushima_ONA"
+          },
+          {
+            "mal_id": 51299,
+            "type": "anime",
+            "name": "Ore, Tsushima x Na Mo Naki Nezumi",
+            "url": "https://myanimelist.net/anime/51299/Ore_Tsushima_x_Na_Mo_Naki_Nezumi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tsushima-anime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16071"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24079"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ore,_Tsushima#Anime"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Bahamut Anime Crazy",
+        "url": "https://ani.gamer.com.tw/"
+      },
+      {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com/"
+      },
+      {
+        "name": "Muse Asia",
+        "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+      }
+    ]
+  }
+}

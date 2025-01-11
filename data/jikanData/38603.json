@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 38603,
+    "url": "https://myanimelist.net/anime/38603/Compass",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/95935.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/95935t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/95935l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/95935.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/95935t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/95935l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "#Compass"
+      },
+      {
+        "type": "Japanese",
+        "title": "#コンパス"
+      }
+    ],
+    "title": "#Compass",
+    "title_english": null,
+    "title_japanese": "#コンパス",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-10T00:00:00+00:00",
+      "to": "2019-09-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": 13,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Aug 10, 2018 to Sep 13, 2019"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.94,
+    "scored_by": 131,
+    "rank": 10176,
+    "popularity": 16041,
+    "members": 598,
+    "favorites": 1,
+    "synopsis": "NHN PlayArt and Nico Nico's #Compass [COMbat Providence AnalysiS System] smartphone game has been inspiring a series shorts in which TMS Entertainment is overseeing the production, but different staff members and studios are participating in the project. Each short highlights a different hero from the game. The shorts are posted to #Compass's official YouTube channel.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      },
+      {
+        "mal_id": 1522,
+        "type": "anime",
+        "name": "Echoes",
+        "url": "https://myanimelist.net/anime/producer/1522/Echoes"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53762,
+            "type": "anime",
+            "name": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+            "url": "https://myanimelist.net/anime/53762/Compass_20__Sentou_Setsuri_Kaiseki_System"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://app.nhn-playart.com/compass/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%EF%BC%83%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56916,
+    "url": "https://myanimelist.net/anime/56916/Rainbow_Bubblegem",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/139111.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/139111t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/139111l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/139111.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/139111t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/139111l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rainbow Bubblegem"
+      },
+      {
+        "type": "Japanese",
+        "title": "레인보우 버블젬"
+      },
+      {
+        "type": "English",
+        "title": "Rainbow Bubblegem"
+      }
+    ],
+    "title": "Rainbow Bubblegem",
+    "title_english": "Rainbow Bubblegem",
+    "title_japanese": "레인보우 버블젬",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-30T00:00:00+00:00",
+      "to": "2023-11-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": 30,
+          "month": 11,
+          "year": 2023
+        }
+      },
+      "string": "Aug 30, 2023 to Nov 30, 2023"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18611,
+    "popularity": 21049,
+    "members": 213,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2023,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "08:50",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 08:50 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 2905,
+        "type": "anime",
+        "name": "Campfire Aniworks",
+        "url": "https://myanimelist.net/anime/producer/2905/Campfire_Aniworks"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60689,
+            "type": "anime",
+            "name": "Rainbow Bubblegem 2: Secret",
+            "url": "https://myanimelist.net/anime/60689/Rainbow_Bubblegem_2__Secret"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/레인보우%20버블젬"
+      }
+    ],
+    "streaming": []
+  }
+}

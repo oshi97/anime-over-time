@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 36728,
+    "url": "https://myanimelist.net/anime/36728/Mameneko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/113120.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/113120t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/113120l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/113120.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/113120t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/113120l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "yi9wmIf-YDA",
+      "url": "https://www.youtube.com/watch?v=yi9wmIf-YDA",
+      "embed_url": "https://www.youtube.com/embed/yi9wmIf-YDA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/yi9wmIf-YDA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/yi9wmIf-YDA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/yi9wmIf-YDA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/yi9wmIf-YDA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/yi9wmIf-YDA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mameneko"
+      },
+      {
+        "type": "Japanese",
+        "title": "まめねこ"
+      }
+    ],
+    "title": "Mameneko",
+    "title_english": null,
+    "title_japanese": "まめねこ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-09T00:00:00+00:00",
+      "to": "2018-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Jan 9, 2018 to Mar 27, 2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": 6.07,
+    "scored_by": 462,
+    "rank": 9527,
+    "popularity": 12307,
+    "members": 1707,
+    "favorites": 0,
+    "synopsis": "The series follows the daily lives of a naughty female cat named Azuki and a quiet male cat named Daizu who live with their owner, a 30 year old office lady, and her extended family, including an otaku elder brother and an adopted shiba inu dog who thinks he's a cat.\n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": "winter",
+    "year": 2018,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "01:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 01:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1209,
+        "type": "anime",
+        "name": "Studio A-CAT",
+        "url": "https://myanimelist.net/anime/producer/1209/Studio_A-CAT"
+      },
+      {
+        "mal_id": 1600,
+        "type": "anime",
+        "name": "On-Lead",
+        "url": "https://myanimelist.net/anime/producer/1600/On-Lead"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 856,
+        "type": "anime",
+        "name": "Charaction",
+        "url": "https://myanimelist.net/anime/producer/856/Charaction"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"MIKE\" by Ayaka Segawa (瀬川あやか)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mameneko.club/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13559"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20243"
+      }
+    ],
+    "streaming": []
+  }
+}

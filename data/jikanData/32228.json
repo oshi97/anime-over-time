@@ -1,0 +1,210 @@
+{
+  "data": {
+    "mal_id": 32228,
+    "url": "https://myanimelist.net/anime/32228/Teekyuu_7",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/77830t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/77830l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/77830.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/77830t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/77830l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "p00QymTDr58",
+      "url": "https://www.youtube.com/watch?v=p00QymTDr58",
+      "embed_url": "https://www.youtube.com/embed/p00QymTDr58?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/p00QymTDr58/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/p00QymTDr58/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/p00QymTDr58/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/p00QymTDr58/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/p00QymTDr58/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Teekyuu 7"
+      },
+      {
+        "type": "Japanese",
+        "title": "てーきゅう 7期"
+      },
+      {
+        "type": "English",
+        "title": "Teekyu 7"
+      },
+      {
+        "type": "Spanish",
+        "title": "Teekyu 7"
+      }
+    ],
+    "title": "Teekyuu 7",
+    "title_english": "Teekyu 7",
+    "title_japanese": "てーきゅう 7期",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-12T00:00:00+00:00",
+      "to": "2016-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2016
+        }
+      },
+      "string": "Jan 12, 2016 to Mar 29, 2016"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.62,
+    "scored_by": 9523,
+    "rank": 6344,
+    "popularity": 5368,
+    "members": 17525,
+    "favorites": 13,
+    "synopsis": "Seventh season of the Teekyuu series.",
+    "background": "",
+    "season": "winter",
+    "year": 2016,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "01:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 01:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 315,
+        "type": "anime",
+        "name": "DAX Production",
+        "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+      },
+      {
+        "mal_id": 925,
+        "type": "anime",
+        "name": "Earth Star Entertainment",
+        "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1237,
+        "type": "anime",
+        "name": "Millepensee",
+        "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31440,
+            "type": "anime",
+            "name": "Teekyuu 6",
+            "url": "https://myanimelist.net/anime/31440/Teekyuu_6"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 33811,
+            "type": "anime",
+            "name": "Teekyuu 8",
+            "url": "https://myanimelist.net/anime/33811/Teekyuu_8"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 44949,
+            "type": "manga",
+            "name": "Teekyuu",
+            "url": "https://myanimelist.net/manga/44949/Teekyuu"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 32817,
+            "type": "anime",
+            "name": "Teekyuu 7 Specials",
+            "url": "https://myanimelist.net/anime/32817/Teekyuu_7_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Tsuppari-kun vs Sekitori-man (ツッパリくんvs関取マン)\" by Yuri (Yui Watanabe), Kanae (Suzuko Mimori), Nasuno (Kyoko Narumi), Marimo (Kana Hanazawa)"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.te-kyu.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10820"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17896"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Teekyu"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-249472"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 44591,
+    "url": "https://myanimelist.net/anime/44591/Slime-tachi_no_Idobata_Kaigi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1860/113887.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1860/113887t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1860/113887l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1860/113887.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1860/113887t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1860/113887l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Slime-tachi no Idobata Kaigi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Slime-tachi no Itobata Kaigi: Yokoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "スライムたちの井戸端会議"
+      }
+    ],
+    "title": "Slime-tachi no Idobata Kaigi",
+    "title_english": null,
+    "title_japanese": "スライムたちの井戸端会議",
+    "title_synonyms": [
+      "Slime-tachi no Itobata Kaigi: Yokoku"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-21T00:00:00+00:00",
+      "to": "2020-12-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": 17,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Aug 21, 2020 to Dec 17, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.8,
+    "scored_by": 566,
+    "rank": 10893,
+    "popularity": 11869,
+    "members": 1975,
+    "favorites": 2,
+    "synopsis": "Short Kami-tachi ni Hirowareta Otoko specials posted on the official Twitter account.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1978,
+        "type": "anime",
+        "name": "Maho Film",
+        "url": "https://myanimelist.net/anime/producer/1978/Maho_Film"
+      },
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53955,
+            "type": "anime",
+            "name": "Slime-tachi no Idobata Kaigi 2nd Season",
+            "url": "https://myanimelist.net/anime/53955/Slime-tachi_no_Idobata_Kaigi_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 41312,
+            "type": "anime",
+            "name": "Kami-tachi ni Hirowareta Otoko",
+            "url": "https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kamihiro-anime.com/movie_tweet1/"
+      }
+    ],
+    "streaming": []
+  }
+}

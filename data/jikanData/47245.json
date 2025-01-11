@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 47245,
+    "url": "https://myanimelist.net/anime/47245/Bao_Ji_Qiangshou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/129245.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/129245t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/129245l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/129245.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/129245t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/129245l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bao Ji Qiangshou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Boomguy"
+      },
+      {
+        "type": "Japanese",
+        "title": "暴基枪手"
+      }
+    ],
+    "title": "Bao Ji Qiangshou",
+    "title_english": null,
+    "title_japanese": "暴基枪手",
+    "title_synonyms": [
+      "Boomguy"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-04T00:00:00+00:00",
+      "to": "2016-08-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": 24,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      "string": "Mar 4, 2016 to Aug 24, 2016"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19300,
+    "popularity": 23808,
+    "members": 109,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47246,
+            "type": "anime",
+            "name": "Bao Ji Qiangshou: AK Xiyou",
+            "url": "https://myanimelist.net/anime/47246/Bao_Ji_Qiangshou__AK_Xiyou"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 47247,
+            "type": "anime",
+            "name": "Bao Ji Qiangshou: T de Richang",
+            "url": "https://myanimelist.net/anime/47247/Bao_Ji_Qiangshou__T_de_Richang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep90860?from=search&seid=13644835015081355798"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9A%B4%E5%9F%BA%E6%9E%AA%E6%89%8B/19427784"
+      }
+    ],
+    "streaming": []
+  }
+}

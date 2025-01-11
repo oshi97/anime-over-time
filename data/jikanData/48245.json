@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 48245,
+    "url": "https://myanimelist.net/anime/48245/Porong_Porong_Pororo_7",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1029/130303.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/130303t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/130303l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1029/130303.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/130303t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/130303l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Porong Porong Pororo 7"
+      },
+      {
+        "type": "Japanese",
+        "title": "뽀롱뽀롱 뽀로로 7"
+      },
+      {
+        "type": "English",
+        "title": "Pororo the Little Penguin 7"
+      }
+    ],
+    "title": "Porong Porong Pororo 7",
+    "title_english": "Pororo the Little Penguin 7",
+    "title_japanese": "뽀롱뽀롱 뽀로로 7",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-23T00:00:00+00:00",
+      "to": "2021-02-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": 16,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      "string": "Nov 23, 2020 to Feb 16, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18410,
+    "popularity": 22150,
+    "members": 160,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36530,
+            "type": "anime",
+            "name": "Porong Porong Pororo 6",
+            "url": "https://myanimelist.net/anime/36530/Porong_Porong_Pororo_6"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56909,
+            "type": "anime",
+            "name": "Porong Porong Pororo 8",
+            "url": "https://myanimelist.net/anime/56909/Porong_Porong_Pororo_8"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/pororo/replay/46/list"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%BD%80%EB%A1%B1%EB%BD%80%EB%A1%B1_%EB%BD%80%EB%A1%9C%EB%A1%9C"
+      }
+    ],
+    "streaming": []
+  }
+}

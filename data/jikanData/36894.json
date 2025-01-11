@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 36894,
+    "url": "https://myanimelist.net/anime/36894/Inazma_Delivery__Dougyousha_Attack-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1452/112265.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/112265t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/112265l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1452/112265.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/112265t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/112265l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "obtduFD-3l8",
+      "url": "https://www.youtube.com/watch?v=obtduFD-3l8",
+      "embed_url": "https://www.youtube.com/embed/obtduFD-3l8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/obtduFD-3l8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/obtduFD-3l8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/obtduFD-3l8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/obtduFD-3l8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/obtduFD-3l8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inazma Delivery: Dougyousha Attack-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "イナズマデリバリー 同業者アタック編"
+      }
+    ],
+    "title": "Inazma Delivery: Dougyousha Attack-hen",
+    "title_english": null,
+    "title_japanese": "イナズマデリバリー 同業者アタック編",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-08T00:00:00+00:00",
+      "to": "2018-03-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": 2,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Dec 8, 2017 to Mar 2, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.27,
+    "scored_by": 339,
+    "rank": 8438,
+    "popularity": 14328,
+    "members": 954,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 330,
+        "type": "anime",
+        "name": "Kanaban Graphics",
+        "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34502,
+            "type": "anime",
+            "name": "Inazma Delivery",
+            "url": "https://myanimelist.net/anime/34502/Inazma_Delivery"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37553,
+            "type": "anime",
+            "name": "Bytheway Dance",
+            "url": "https://myanimelist.net/anime/37553/Bytheway_Dance"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.inazma-delivery.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13631"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

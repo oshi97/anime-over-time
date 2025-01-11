@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 49939,
+    "url": "https://myanimelist.net/anime/49939/Petit_Seka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/128206.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/128206t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/128206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/128206.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/128206t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/128206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Petit Seka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Petit Seca"
+      },
+      {
+        "type": "Synonym",
+        "title": "Puchi Seka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Project Sekai Mini Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Petit Sekai"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぷちセカ"
+      }
+    ],
+    "title": "Petit Seka",
+    "title_english": null,
+    "title_japanese": "ぷちセカ",
+    "title_synonyms": [
+      "Petit Seca",
+      "Puchi Seka",
+      "Project Sekai Mini Anime",
+      "Petit Sekai"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-13T00:00:00+00:00",
+      "to": "2022-03-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 18,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Jan 13, 2022 to Mar 18, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.94,
+    "scored_by": 2727,
+    "rank": 4615,
+    "popularity": 8394,
+    "members": 5781,
+    "favorites": 62,
+    "synopsis": "A mini-anime based off the mobile rhythm game \"Project SEKAI: Colorful Stage.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2379,
+        "type": "anime",
+        "name": "Scooter Films",
+        "url": "https://myanimelist.net/anime/producer/2379/Scooter_Films"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 56830,
+            "type": "anime",
+            "name": "Journey to Bloom",
+            "url": "https://myanimelist.net/anime/56830/Journey_to_Bloom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Wo-Wo-World (ワーワーワールド)\" by Hanasato Minori, Azusawa Kohane, Hatsune Miku"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pjsekai.sega.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16808"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24798"
+      }
+    ],
+    "streaming": []
+  }
+}

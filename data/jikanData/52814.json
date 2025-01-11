@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 52814,
+    "url": "https://myanimelist.net/anime/52814/Nanashi_Kaidan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1770/128061.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1770/128061t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1770/128061l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1770/128061.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1770/128061t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1770/128061l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nanashi Kaidan"
+      },
+      {
+        "type": "Japanese",
+        "title": "ななし怪談"
+      }
+    ],
+    "title": "Nanashi Kaidan",
+    "title_english": null,
+    "title_japanese": "ななし怪談",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-08T00:00:00+00:00",
+      "to": "2022-08-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": 19,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Aug 8, 2022 to Aug 19, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.52,
+    "scored_by": 260,
+    "rank": 12007,
+    "popularity": 8692,
+    "members": 5299,
+    "favorites": 51,
+    "synopsis": "The collection of horror short stories center on those uneasy feelings of \"something out there\" that children sense in their lives.\n\n(Source: ANN)",
+    "background": "",
+    "season": "summer",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      },
+      {
+        "mal_id": 1987,
+        "type": "anime",
+        "name": "Tokyo Animator Gakuin",
+        "url": "https://myanimelist.net/anime/producer/1987/Tokyo_Animator_Gakuin"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56105,
+            "type": "anime",
+            "name": "Nanashi Kaidan 2nd Season",
+            "url": "https://myanimelist.net/anime/56105/Nanashi_Kaidan_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ohast.jp/nanasikaidan"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26099"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%AA%E3%81%97%E6%80%AA%E8%AB%87"
+      }
+    ],
+    "streaming": []
+  }
+}

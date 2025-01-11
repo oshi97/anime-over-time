@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 41117,
+    "url": "https://myanimelist.net/anime/41117/Gozonji_Kakuza_Tousan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/105576.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/105576t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/105576l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/105576.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/105576t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/105576l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gozonji! Kakuza Tousan"
+      },
+      {
+        "type": "Japanese",
+        "title": "ご存知!かくざ父さん"
+      }
+    ],
+    "title": "Gozonji! Kakuza Tousan",
+    "title_english": null,
+    "title_japanese": "ご存知!かくざ父さん",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-07-07T00:00:00+00:00",
+      "to": "2007-12-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2007
+        },
+        "to": {
+          "day": 31,
+          "month": 12,
+          "year": 2007
+        }
+      },
+      "string": "Jul 7, 2007 to Dec 31, 2007"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20699,
+    "popularity": 20221,
+    "members": 262,
+    "favorites": 0,
+    "synopsis": "The second season of the Kakuza Tousan franchise.",
+    "background": "",
+    "season": "summer",
+    "year": 2007,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41118,
+            "type": "anime",
+            "name": "Kakuza Tousan",
+            "url": "https://myanimelist.net/anime/41118/Kakuza_Tousan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41116,
+            "type": "anime",
+            "name": "Kakugen! Kakuza Tousan",
+            "url": "https://myanimelist.net/anime/41116/Kakugen_Kakuza_Tousan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/contents/fight_tension2/go_kakuza.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%96%E7%88%B6%E3%81%95%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

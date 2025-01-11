@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 36905,
+    "url": "https://myanimelist.net/anime/36905/Mentori",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/89642.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89642t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89642l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/89642.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89642t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89642l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mentori"
+      },
+      {
+        "type": "Japanese",
+        "title": "めんトリ"
+      }
+    ],
+    "title": "Mentori",
+    "title_english": null,
+    "title_japanese": "めんトリ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-14T00:00:00+00:00",
+      "to": "2018-02-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": 15,
+          "month": 2,
+          "year": 2018
+        }
+      },
+      "string": "Dec 14, 2017 to Feb 15, 2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17498,
+    "popularity": 19630,
+    "members": 294,
+    "favorites": 0,
+    "synopsis": "The \"Mentori\" mascot originates from a series of line stamps meant to evoke the feeling of \"mendou da ga toriaezu henshin\" (it's annoying, but I guess I'll reply). The anime follows the birds in a gag-filled comedy quite often breaking the 4th wall. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1723,
+        "type": "anime",
+        "name": "Anime Beans",
+        "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mendotori.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13638"
+      }
+    ],
+    "streaming": []
+  }
+}

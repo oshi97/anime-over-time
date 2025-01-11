@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 58196,
+    "url": "https://myanimelist.net/anime/58196/Koneko_no_Chi__Ponponraa_Natsuyasumi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/143647.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/143647t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/143647l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/143647.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/143647t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/143647l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "D-NqRlDb1r0",
+      "url": "https://www.youtube.com/watch?v=D-NqRlDb1r0",
+      "embed_url": "https://www.youtube.com/embed/D-NqRlDb1r0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/D-NqRlDb1r0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/D-NqRlDb1r0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/D-NqRlDb1r0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/D-NqRlDb1r0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/D-NqRlDb1r0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koneko no Chi: Ponponraa Natsuyasumi"
+      },
+      {
+        "type": "Japanese",
+        "title": "こねこのチー ポンポンらー夏休み"
+      },
+      {
+        "type": "English",
+        "title": "Chi's Sweet Adventure: Summer Vacation"
+      }
+    ],
+    "title": "Koneko no Chi: Ponponraa Natsuyasumi",
+    "title_english": "Chi's Sweet Adventure: Summer Vacation",
+    "title_japanese": "こねこのチー ポンポンらー夏休み",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2024"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.45,
+    "scored_by": 136,
+    "rank": 7378,
+    "popularity": 15203,
+    "members": 738,
+    "favorites": 0,
+    "synopsis": "Sequel to Koneko no Chi: Ponponra Dairyokou.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 213,
+        "type": "anime",
+        "name": "Half H.P Studio",
+        "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1296,
+        "type": "anime",
+        "name": "Marza Animation Planet",
+        "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36418,
+            "type": "anime",
+            "name": "Koneko no Chi: Ponponra Dairyokou",
+            "url": "https://myanimelist.net/anime/36418/Koneko_no_Chi__Ponponra_Dairyokou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Kokoro Makase (心まかせ)\" by Kobasolo feat. Kopi (こぴ)"
+      ],
+      "endings": [
+        "\"Myr\" by Riko Tanaka"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://koneko-chi.com/"
+      },
+      {
+        "name": "@chi_ssweethome",
+        "url": "https://twitter.com/chi_ssweethome"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18500"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32176"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Chi%27s_Sweet_Home"
+      }
+    ],
+    "streaming": []
+  }
+}

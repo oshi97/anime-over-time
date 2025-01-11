@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 57118,
+    "url": "https://myanimelist.net/anime/57118/Miniforce_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/139581.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/139581t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/139581l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/139581.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/139581t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/139581l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Miniforce Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "최강전사 미니특공대 파트 2"
+      }
+    ],
+    "title": "Miniforce Part 2",
+    "title_english": null,
+    "title_japanese": "최강전사 미니특공대 파트 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-03-02T00:00:00+00:00",
+      "to": "2015-05-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2015
+        },
+        "to": {
+          "day": 25,
+          "month": 5,
+          "year": 2015
+        }
+      },
+      "string": "Mar 2, 2015 to May 25, 2015"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17585,
+    "popularity": 23117,
+    "members": 124,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2015,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2541,
+        "type": "anime",
+        "name": "SAMG Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2541/SAMG_Entertainment_"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35799,
+            "type": "anime",
+            "name": "Miniforce",
+            "url": "https://myanimelist.net/anime/35799/Miniforce"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://samg.net/samg_contents/miniforce/?ckattempt=1"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/최강전사%20미니특공대"
+      }
+    ],
+    "streaming": []
+  }
+}

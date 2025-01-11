@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 37951,
+    "url": "https://myanimelist.net/anime/37951/Ice_Kuritarou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1875/93756.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1875/93756t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1875/93756l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1875/93756.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1875/93756t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1875/93756l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ice Kuritarou"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイスくりたろう"
+      },
+      {
+        "type": "English",
+        "title": "Ice Kuritaro"
+      }
+    ],
+    "title": "Ice Kuritarou",
+    "title_english": "Ice Kuritaro",
+    "title_japanese": "アイスくりたろう",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 49,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-12T00:00:00+00:00",
+      "to": "2018-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Oct 12, 2017 to Sep 27, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21260,
+    "popularity": 19805,
+    "members": 285,
+    "favorites": 0,
+    "synopsis": "A short anime that airs within \"Enkame: That's Enka Tainment\" (and enka variety show) program on Asahi TV. It follows a cast of ice cream characters.",
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "01:39",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 01:39 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1592,
+        "type": "anime",
+        "name": "Kamio Japan",
+        "url": "https://myanimelist.net/anime/producer/1592/Kamio_Japan"
+      },
+      {
+        "mal_id": 1723,
+        "type": "anime",
+        "name": "Anime Beans",
+        "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 37950,
+            "type": "anime",
+            "name": "Ice Kuritarou (Movie)",
+            "url": "https://myanimelist.net/anime/37950/Ice_Kuritarou_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kamiojapan.jp/brand-character/post-3.html"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://icekuritaro.com/category/allposts/animation/"
+      },
+      {
+        "name": "@ice_kuritaro",
+        "url": "https://twitter.com/ice_kuritaro"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14114"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%86%E3%82%A2%E3%83%8B%E3%83%A1#%E3%82%A2%E3%82%A4%E3%82%B9%E3%81%8F%E3%82%8A%E3%81%9F%E3%82%8D%E3%81%86"
+      }
+    ],
+    "streaming": []
+  }
+}

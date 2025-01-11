@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 41401,
+    "url": "https://myanimelist.net/anime/41401/TV_Yarou_Nanaana__Kaibutsu_Kraken_wo_Oe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1201/106347t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1201/106347l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1201/106347.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1201/106347t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1201/106347l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!"
+      },
+      {
+        "type": "Synonym",
+        "title": "TV Yarou Nanaana Season 3"
+      },
+      {
+        "type": "Synonym",
+        "title": "Televi Yarou Nanana"
+      },
+      {
+        "type": "Synonym",
+        "title": "TV Yarou Nana-na"
+      },
+      {
+        "type": "Japanese",
+        "title": "テレビ野郎 ナナーナ 怪物クラーケンを追え!"
+      }
+    ],
+    "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+    "title_english": null,
+    "title_japanese": "テレビ野郎 ナナーナ 怪物クラーケンを追え!",
+    "title_synonyms": [
+      "TV Yarou Nanaana Season 3",
+      "Televi Yarou Nanana",
+      "TV Yarou Nana-na"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-16T00:00:00+00:00",
+      "to": "2020-09-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 24,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Apr 16, 2020 to Sep 24, 2020"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6,
+    "scored_by": 400,
+    "rank": 9906,
+    "popularity": 12844,
+    "members": 1437,
+    "favorites": 2,
+    "synopsis": "Third season of TV Yarou Nanaana.",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "19:53",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 19:53 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1927,
+        "type": "anime",
+        "name": "Studio Crocodile",
+        "url": "https://myanimelist.net/anime/producer/1927/Studio_Crocodile"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39581,
+            "type": "anime",
+            "name": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+            "url": "https://myanimelist.net/anime/39581/TV_Yarou_Nanaana__Wakuwaku_Doukutsu_Land"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/nana-na/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15427"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23074"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E9%87%8E%E9%83%8E_%E3%83%8A%E3%83%8A%E3%83%BC%E3%83%8A"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-277834"
+      }
+    ]
+  }
+}

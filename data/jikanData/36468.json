@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 36468,
+    "url": "https://myanimelist.net/anime/36468/Shoujo_Shuumatsu_Jugyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88044.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88044t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88044l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88044.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88044t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88044l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shoujo Shuumatsu Jugyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Girls' Weekend Class"
+      },
+      {
+        "type": "Japanese",
+        "title": "少女週末授業"
+      },
+      {
+        "type": "English",
+        "title": "Girls' Last Class"
+      }
+    ],
+    "title": "Shoujo Shuumatsu Jugyou",
+    "title_english": "Girls' Last Class",
+    "title_japanese": "少女週末授業",
+    "title_synonyms": [
+      "Girls' Weekend Class"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-06T00:00:00+00:00",
+      "to": "2017-12-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 22,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      "string": "Oct 6, 2017 to Dec 22, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.48,
+    "scored_by": 5494,
+    "rank": 7203,
+    "popularity": 6197,
+    "members": 12157,
+    "favorites": 14,
+    "synopsis": "Super deformed parody shorts of Shoujo Shuumatsu Ryokou streamed on Kadokawa's official YouTube channel. They follow Chito and Yuuri in a classroom setting exploring what \"school\" might have been for people when civilization was still around.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35838,
+            "type": "anime",
+            "name": "Shoujo Shuumatsu Ryokou",
+            "url": "https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://girls-last-tour.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13256"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19827"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Girls%27_Last_Tour"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 52337,
+    "url": "https://myanimelist.net/anime/52337/Sakuretsu_Amabie-hime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1139/134722.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/134722t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/134722l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1139/134722.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/134722t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/134722l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sakuretsu! Amabie-hime."
+      },
+      {
+        "type": "Japanese",
+        "title": "炸裂！あまびえ姫。"
+      }
+    ],
+    "title": "Sakuretsu! Amabie-hime.",
+    "title_english": null,
+    "title_japanese": "炸裂！あまびえ姫。",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-02T00:00:00+00:00",
+      "to": "2022-09-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 24,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Jul 2, 2022 to Sep 24, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18825,
+    "popularity": 18075,
+    "members": 401,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2022,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "17:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 17:55 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2729,
+        "type": "anime",
+        "name": "CANON RECORDINGS",
+        "url": "https://myanimelist.net/anime/producer/2729/CANON_RECORDINGS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54848,
+            "type": "anime",
+            "name": "Sakuretsu! Amabie-hime. Season 2",
+            "url": "https://myanimelist.net/anime/54848/Sakuretsu_Amabie-hime_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Call On Now\" by Étoile Ange"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://canonrecordings.com/sakuretsuamabie/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25952"
+      }
+    ],
+    "streaming": []
+  }
+}

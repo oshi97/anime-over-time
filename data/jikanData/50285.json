@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 50285,
+    "url": "https://myanimelist.net/anime/50285/On_Air_Dekinai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/119155.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/119155t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/119155l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/119155.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/119155t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/119155l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "On Air Dekinai!"
+      },
+      {
+        "type": "Japanese",
+        "title": "オンエアできない!"
+      }
+    ],
+    "title": "On Air Dekinai!",
+    "title_english": null,
+    "title_japanese": "オンエアできない!",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-10T00:00:00+00:00",
+      "to": "2022-03-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 28,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Jan 10, 2022 to Mar 28, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 229,
+    "rank": 10744,
+    "popularity": 11035,
+    "members": 2539,
+    "favorites": 11,
+    "synopsis": "Set in 2014, the anime follows the adventures of 23 years old Mafuneko, a newly minted assistant director who joins the TV production department at Tokyo Hajikko Television, only to discover that the glamorous and glitzy life of working behind-the-scenes making TV shows involves strange and inexplicable tasks such as \"gathering 300 acorns\" and \"making a mosaic out of the images reflected in the camera lens.\" Despite being surrounded by chaos, set-backs, and weirdos, Mafuneko struggles to become a fully-fledged TV producer.\n\n(Source: Crunchyroll, edited)",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "01:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 01:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Pierrot",
+        "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+      },
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 2343,
+        "type": "anime",
+        "name": "WarRock",
+        "url": "https://myanimelist.net/anime/producer/2343/WarRock"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1045,
+        "type": "anime",
+        "name": "Space Neko Company",
+        "url": "https://myanimelist.net/anime/producer/1045/Space_Neko_Company"
+      },
+      {
+        "mal_id": 1517,
+        "type": "anime",
+        "name": "Jinnan Studio",
+        "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 75,
+        "type": "anime",
+        "name": "Showbiz",
+        "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Work out!\" by Izuki Minato (水湊いづき)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/oadekinai/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16955"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24927"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/On_Air_Dekinai!"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%A8%E3%82%A2%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84!"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6221"
+      }
+    ],
+    "streaming": []
+  }
+}

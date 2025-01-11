@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 50995,
+    "url": "https://myanimelist.net/anime/50995/Zenryoku_Usagi_2023",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1654/120887.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1654/120887t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1654/120887l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1654/120887.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1654/120887t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1654/120887l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zenryoku Usagi (2023)"
+      },
+      {
+        "type": "Japanese",
+        "title": "全力ウサギ (2023)"
+      }
+    ],
+    "title": "Zenryoku Usagi (2023)",
+    "title_english": null,
+    "title_japanese": "全力ウサギ (2023)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-07T00:00:00+00:00",
+      "to": "2023-12-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 30,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Oct 7, 2023 to Dec 30, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16024,
+    "popularity": 20053,
+    "members": 272,
+    "favorites": 0,
+    "synopsis": "New anime project for Zenryoku Usagi.",
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "17:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 17:55 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1067,
+        "type": "anime",
+        "name": "Rising Force",
+        "url": "https://myanimelist.net/anime/producer/1067/Rising_Force"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 3704,
+            "type": "anime",
+            "name": "Zenryoku Usagi",
+            "url": "https://myanimelist.net/anime/3704/Zenryoku_Usagi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60280,
+            "type": "anime",
+            "name": "Zenryoku Usagi (2023) 2nd Season",
+            "url": "https://myanimelist.net/anime/60280/Zenryoku_Usagi_2023_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://zenryoku-usagi-anime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17190"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25312"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/全力ウサギ"
+      }
+    ],
+    "streaming": []
+  }
+}

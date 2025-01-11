@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 55078,
+    "url": "https://myanimelist.net/anime/55078/Bubble_Bubble_Cook_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/135467.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/135467t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/135467l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/135467.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/135467t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/135467l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bubble Bubble Cook 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "보글보글 쿡 2기"
+      },
+      {
+        "type": "English",
+        "title": "Bubble Bubble Cook 2nd Season"
+      }
+    ],
+    "title": "Bubble Bubble Cook 2nd Season",
+    "title_english": "Bubble Bubble Cook 2nd Season",
+    "title_japanese": "보글보글 쿡 2기",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-09-01T00:00:00+00:00",
+      "to": "2012-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2011
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2012
+        }
+      },
+      "string": "Sep 2011 to Oct 2012"
+    },
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19523,
+    "popularity": 24058,
+    "members": 104,
+    "favorites": 0,
+    "synopsis": "The second season of Bubble Bubble Cook.",
+    "background": "",
+    "season": "fall",
+    "year": 2011,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2746,
+        "type": "anime",
+        "name": "Studio Vandal",
+        "url": "https://myanimelist.net/anime/producer/2746/Studio_Vandal"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48221,
+            "type": "anime",
+            "name": "Bubble Bubble Cook",
+            "url": "https://myanimelist.net/anime/48221/Bubble_Bubble_Cook"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.aniboxtv.com/program/program_view.php?pidx=1163"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EA%B8%80%EB%B3%B4%EA%B8%80_%EC%BF%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

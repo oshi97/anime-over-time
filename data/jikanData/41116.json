@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 41116,
+    "url": "https://myanimelist.net/anime/41116/Kakugen_Kakuza_Tousan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1552/105575.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/105575t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/105575l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1552/105575.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/105575t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/105575l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kakugen! Kakuza Tousan"
+      },
+      {
+        "type": "Japanese",
+        "title": "格言! かくざ 父さん"
+      }
+    ],
+    "title": "Kakugen! Kakuza Tousan",
+    "title_english": null,
+    "title_japanese": "格言! かくざ 父さん",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-01-05T00:00:00+00:00",
+      "to": "2008-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2008
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2008
+        }
+      },
+      "string": "Jan 5, 2008 to Mar 29, 2008"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16568,
+    "popularity": 21407,
+    "members": 196,
+    "favorites": 0,
+    "synopsis": "The third season of of the Kakuza Tousan franchise.",
+    "background": "",
+    "season": "winter",
+    "year": 2008,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41117,
+            "type": "anime",
+            "name": "Gozonji! Kakuza Tousan",
+            "url": "https://myanimelist.net/anime/41117/Gozonji_Kakuza_Tousan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%96%E7%88%B6%E3%81%95%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

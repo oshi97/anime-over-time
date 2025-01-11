@@ -1,0 +1,255 @@
+{
+  "data": {
+    "mal_id": 42161,
+    "url": "https://myanimelist.net/anime/42161/Poketoon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1941/117693t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1941/117693l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1941/117693.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1941/117693t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1941/117693l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Poketoon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokétoon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Zuruggu to Mimikkyu - Chase the Beans"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hero ni Naritai Yanchamu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yume no Tsubomi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mattete ne! Koiking"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gengar ni Nacchatta!?"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokapoka Magumaggu House"
+      },
+      {
+        "type": "Japanese",
+        "title": "POKÉTOON"
+      },
+      {
+        "type": "English",
+        "title": "Pokétoon"
+      }
+    ],
+    "title": "Poketoon",
+    "title_english": "Pokétoon",
+    "title_japanese": "POKÉTOON",
+    "title_synonyms": [
+      "Pokétoon",
+      "Zuruggu to Mimikkyu - Chase the Beans",
+      "Hero ni Naritai Yanchamu",
+      "Yume no Tsubomi",
+      "Mattete ne! Koiking",
+      "Gengar ni Nacchatta!?",
+      "Pokapoka Magumaggu House"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-04T00:00:00+00:00",
+      "to": "2021-12-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": 28,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Jun 4, 2020 to Dec 28, 2021"
+    },
+    "duration": "8 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.3,
+    "scored_by": 3551,
+    "rank": 2808,
+    "popularity": 7483,
+    "members": 7625,
+    "favorites": 19,
+    "synopsis": "Animations released on Pokémon Kids TV Japan YouTube channel.\n\nEpisodes:\n#1: Zuruggu to Mimikkyu - Chase the Beans (ズルッグとミミッキュ), animated by Dandelion Animation Studio, released June 4, 2020.\n#2: Hero ni Naritai Yanchamu (ヒーローになりたいヤンチャム), animated by Pancakes, released May 5, 2021.\n#3: Yume no Tsubomi (ユメノツボミ), animated by Studio Colorido, released June 6, 2021.\n#4: Mattete ne! Koiking (まっててね！コイキング), animated by Studio Colorido, released July 2, 2021.\n#5: Pokapoka Magumaggu House (ぽかぽかマグマッグハウス), animated by Studio Colorido, released August 5, 2021.\n#6: Gengar ni Nacchatta!? (ゲンガーになっちゃった！？), animated by Studio Colorido, released September 10, 2021.\n#7: Fubuki no Natsu Yasumi (ふぶきのなつやすみ), animated by Mimoid, released October 8, 2021.\n#8: Purin no Uta (プリンのうた), animated by StudioGOONEYS, released December 28, 2021.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 503,
+        "type": "anime",
+        "name": "Nintendo",
+        "url": "https://myanimelist.net/anime/producer/503/Nintendo"
+      },
+      {
+        "mal_id": 1961,
+        "type": "anime",
+        "name": "Creatures Inc.",
+        "url": "https://myanimelist.net/anime/producer/1961/Creatures_Inc"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 207,
+        "type": "anime",
+        "name": "Magic Bus",
+        "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+      },
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      },
+      {
+        "mal_id": 1111,
+        "type": "anime",
+        "name": "DandeLion Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+      },
+      {
+        "mal_id": 1253,
+        "type": "anime",
+        "name": "Studio GOONEYS",
+        "url": "https://myanimelist.net/anime/producer/1253/Studio_GOONEYS"
+      },
+      {
+        "mal_id": 2047,
+        "type": "anime",
+        "name": "Pancake",
+        "url": "https://myanimelist.net/anime/producer/2047/Pancake"
+      },
+      {
+        "mal_id": 2177,
+        "type": "anime",
+        "name": "Mimoid",
+        "url": "https://myanimelist.net/anime/producer/2177/Mimoid"
+      },
+      {
+        "mal_id": 2456,
+        "type": "anime",
+        "name": "team Yamahitsuji",
+        "url": "https://myanimelist.net/anime/producer/2456/team_Yamahitsuji"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59944,
+            "type": "anime",
+            "name": "Poketoon (2024)",
+            "url": "https://myanimelist.net/anime/59944/Poketoon_2024"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40351,
+            "type": "anime",
+            "name": "Pokemon (2019)",
+            "url": "https://myanimelist.net/anime/40351/Pokemon_2019"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.co.jp/ex/poketoon/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15626"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29217"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9toon"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59884,
+    "url": "https://myanimelist.net/anime/59884/Carrie_Haggyogaja",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/145586.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/145586t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/145586l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/145586.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/145586t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/145586l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Carrie! Haggyogaja"
+      },
+      {
+        "type": "Japanese",
+        "title": "캐리야! 학교가자"
+      }
+    ],
+    "title": "Carrie! Haggyogaja",
+    "title_english": null,
+    "title_japanese": "캐리야! 학교가자",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-05-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 4, 2024 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19613,
+    "popularity": 25122,
+    "members": 88,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56374,
+            "type": "anime",
+            "name": "Carrie & Superkola",
+            "url": "https://myanimelist.net/anime/56374/Carrie___Superkola"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/캐리야!%20학교가자"
+      }
+    ],
+    "streaming": []
+  }
+}

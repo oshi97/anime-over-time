@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 50495,
+    "url": "https://myanimelist.net/anime/50495/Garugaku_II__Lucky_Stars",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/120623.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/120623t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/120623l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/120623.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/120623t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/120623l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Garugaku. II: Lucky Stars"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gal-gaku. II"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガル学。II〜Lucky Stars〜"
+      }
+    ],
+    "title": "Garugaku. II: Lucky Stars",
+    "title_english": null,
+    "title_japanese": "ガル学。II〜Lucky Stars〜",
+    "title_synonyms": [
+      "Gal-gaku. II"
+    ],
+    "type": "TV",
+    "source": "Mixed media",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-10T00:00:00+00:00",
+      "to": "2022-03-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 18,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Jan 10, 2022 to Mar 18, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.97,
+    "scored_by": 178,
+    "rank": 10035,
+    "popularity": 12691,
+    "members": 1501,
+    "favorites": 11,
+    "synopsis": "Sequel of Gal-gaku.: Hijiri Girls Square Gakuin, featuring Lucky2 as the cast.",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41381,
+            "type": "anime",
+            "name": "Garugaku.: Sei Girls Square Gakuin",
+            "url": "https://myanimelist.net/anime/41381/Garugaku__Sei_Girls_Square_Gakuin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Ichigo ~Ichigo Ichie~ (Ichigo～一期一会～)\" by Lucky²"
+      ],
+      "endings": [
+        "\"3, 2, 1... Break! (3・2・1...BREAK!)\" by Lucky Lucky"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://garugaku.com/"
+      },
+      {
+        "name": "@garugaku",
+        "url": "https://twitter.com/garugaku/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17017"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25017"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GaruGaku#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AB%E5%AD%A6%E3%80%82"
+      }
+    ],
+    "streaming": []
+  }
+}

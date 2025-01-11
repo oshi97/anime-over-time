@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 51986,
+    "url": "https://myanimelist.net/anime/51986/Pui_Pui_Molcar__Driving_School",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1382/125361.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1382/125361t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1382/125361l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1382/125361.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1382/125361t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1382/125361l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "RcouHCSRjA4",
+      "url": "https://www.youtube.com/watch?v=RcouHCSRjA4",
+      "embed_url": "https://www.youtube.com/embed/RcouHCSRjA4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/RcouHCSRjA4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/RcouHCSRjA4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/RcouHCSRjA4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/RcouHCSRjA4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/RcouHCSRjA4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pui Pui Molcar: Driving School"
+      },
+      {
+        "type": "Japanese",
+        "title": "PUI PUI モルカー DRIVING SCHOOL"
+      }
+    ],
+    "title": "Pui Pui Molcar: Driving School",
+    "title_english": null,
+    "title_japanese": "PUI PUI モルカー DRIVING SCHOOL",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-08T00:00:00+00:00",
+      "to": "2022-12-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 24,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Oct 8, 2022 to Dec 24, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.21,
+    "scored_by": 2530,
+    "rank": 3285,
+    "popularity": 8502,
+    "members": 5614,
+    "favorites": 29,
+    "synopsis": "New series for Pui Pui Molcar.",
+    "background": "",
+    "season": "fall",
+    "year": 2022,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2656,
+        "type": "anime",
+        "name": "UchuPeople",
+        "url": "https://myanimelist.net/anime/producer/2656/UchuPeople"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44235,
+            "type": "anime",
+            "name": "Pui Pui Molcar",
+            "url": "https://myanimelist.net/anime/44235/Pui_Pui_Molcar"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://molcar-anime.com/news/#n797"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17433"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25737"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pui_Pui_Molcar"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Bahamut Anime Crazy",
+        "url": "https://ani.gamer.com.tw/"
+      },
+      {
+        "name": "Muse Asia",
+        "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+      }
+    ]
+  }
+}

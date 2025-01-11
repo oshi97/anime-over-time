@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 59359,
+    "url": "https://myanimelist.net/anime/59359/Net_Miracle_Shopping_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1116/144364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/144364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/144364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1116/144364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/144364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/144364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Net Miracle Shopping 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Online Miracle Shopping 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ネットミラクルショッピング 第2期"
+      }
+    ],
+    "title": "Net Miracle Shopping 2nd Season",
+    "title_english": null,
+    "title_japanese": "ネットミラクルショッピング 第2期",
+    "title_synonyms": [
+      "Online Miracle Shopping 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-08T00:00:00+00:00",
+      "to": "2010-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2010
+        }
+      },
+      "string": "Jan 8, 2010 to Mar 26, 2010"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17940,
+    "popularity": 27531,
+    "members": 59,
+    "favorites": 0,
+    "synopsis": "Second season of Net Miracle Shopping.",
+    "background": "",
+    "season": "winter",
+    "year": 2010,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 143,
+        "type": "anime",
+        "name": "Mainichi Broadcasting System",
+        "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59358,
+            "type": "anime",
+            "name": "Net Miracle Shopping",
+            "url": "https://myanimelist.net/anime/59358/Net_Miracle_Shopping"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20170608151259/http://www.mbs.jp/netmiracle"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

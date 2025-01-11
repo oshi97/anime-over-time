@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 54630,
+    "url": "https://myanimelist.net/anime/54630/Bosanimal",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/133846.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/133846t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/133846l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/133846.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/133846t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/133846l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "uH-Y7ExefQg",
+      "url": "https://www.youtube.com/watch?v=uH-Y7ExefQg",
+      "embed_url": "https://www.youtube.com/embed/uH-Y7ExefQg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/uH-Y7ExefQg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/uH-Y7ExefQg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/uH-Y7ExefQg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/uH-Y7ExefQg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/uH-Y7ExefQg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bosanimal"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぼさにまる"
+      }
+    ],
+    "title": "Bosanimal",
+    "title_english": null,
+    "title_japanese": "ぼさにまる",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 96,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-03T00:00:00+00:00",
+      "to": "2023-09-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 14,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Apr 3, 2023 to Sep 14, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.13,
+    "scored_by": 145,
+    "rank": 9209,
+    "popularity": 13605,
+    "members": 1158,
+    "favorites": 5,
+    "synopsis": "A short anime series based on Sanrio's Bosanimal character line.",
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "09:50",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 09:50 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      },
+      {
+        "mal_id": 1005,
+        "type": "anime",
+        "name": "Oddjob",
+        "url": "https://myanimelist.net/anime/producer/1005/Oddjob"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2819,
+        "type": "anime",
+        "name": "soket",
+        "url": "https://myanimelist.net/anime/producer/2819/soket"
+      },
+      {
+        "mal_id": 2820,
+        "type": "anime",
+        "name": "maroyaka",
+        "url": "https://myanimelist.net/anime/producer/2820/maroyaka"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bosanimal.com/anime/"
+      },
+      {
+        "name": "@bosa_info",
+        "url": "https://twitter.com/bosa_info"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17882"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27220"
+      }
+    ],
+    "streaming": []
+  }
+}

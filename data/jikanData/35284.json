@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 35284,
+    "url": "https://myanimelist.net/anime/35284/Kodoku_no_Gourmet",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88980.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88980t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88980l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88980.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88980t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88980l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kodoku no Gourmet"
+      },
+      {
+        "type": "Japanese",
+        "title": "孤独のグルメ"
+      }
+    ],
+    "title": "Kodoku no Gourmet",
+    "title_english": null,
+    "title_japanese": "孤独のグルメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-29T00:00:00+00:00",
+      "to": "2018-08-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": 31,
+          "month": 8,
+          "year": 2018
+        }
+      },
+      "string": "Nov 29, 2017 to Aug 31, 2018"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.17,
+    "scored_by": 135,
+    "rank": 9003,
+    "popularity": 13192,
+    "members": 1302,
+    "favorites": 0,
+    "synopsis": "Inogashira Gorou eats and indulges at restaurants or ramen shops found on any street corners. He has become a liberal foodie removed from social obligations for a fleeting moment to satisfy his hunger. Solitary Gourmet... That's the solitary process of eating without interruption or worry that gives the most comfort to people equally.\n\n(Source: Jmanga)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1723,
+        "type": "anime",
+        "name": "Anime Beans",
+        "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 4615,
+            "type": "manga",
+            "name": "Kodoku no Gourmet",
+            "url": "https://myanimelist.net/manga/4615/Kodoku_no_Gourmet"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tateanime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13041"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AD%A4%E7%8B%AC%E3%81%AE%E3%82%B0%E3%83%AB%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

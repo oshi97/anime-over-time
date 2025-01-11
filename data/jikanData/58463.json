@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 58463,
+    "url": "https://myanimelist.net/anime/58463/Kumarba",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1119/142107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1119/142107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1119/142107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1119/142107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1119/142107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1119/142107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kumarba"
+      },
+      {
+        "type": "Japanese",
+        "title": "クマーバ"
+      }
+    ],
+    "title": "Kumarba",
+    "title_english": null,
+    "title_japanese": "クマーバ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-06T00:00:00+00:00",
+      "to": "2024-06-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": 22,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "Apr 6, 2024 to Jun 22, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16965,
+    "popularity": 21000,
+    "members": 217,
+    "favorites": 0,
+    "synopsis": "Kumarva is having fun watching videos today with his partner Tavris. One day, they suddenly receive an SOS from a friend on the Internet world. \"Many viruses have arrived! Help Kumarva!\" In order to save their friend from a crisis, Kumarva jump into the world of the internet!\n\n(Source: Official Site, translated)",
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2914,
+        "type": "anime",
+        "name": "Creative House Pocket",
+        "url": "https://myanimelist.net/anime/producer/2914/Creative_House_Pocket"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59123,
+            "type": "anime",
+            "name": "Kumarba Season 2",
+            "url": "https://myanimelist.net/anime/59123/Kumarba_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kumarba.com/pages/tv-anime"
+      },
+      {
+        "name": "@kumarbakids",
+        "url": "https://twitter.com/kumarbakids"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/c/kumarba"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30491"
+      }
+    ],
+    "streaming": []
+  }
+}

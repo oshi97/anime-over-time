@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 51469,
+    "url": "https://myanimelist.net/anime/51469/Ohiru_no_Shocker-san",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/122155.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/122155t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/122155l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/122155.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/122155t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/122155l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ohiru no Shocker-san"
+      },
+      {
+        "type": "Japanese",
+        "title": "お昼のショッカーさん"
+      },
+      {
+        "type": "English",
+        "title": "Shocker During the Day"
+      }
+    ],
+    "title": "Ohiru no Shocker-san",
+    "title_english": "Shocker During the Day",
+    "title_japanese": "お昼のショッカーさん",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-11T00:00:00+00:00",
+      "to": "2023-01-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 6,
+          "month": 1,
+          "year": 2023
+        }
+      },
+      "string": "Jan 11, 2022 to Jan 6, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18088,
+    "popularity": 21313,
+    "members": 201,
+    "favorites": 0,
+    "synopsis": "Centers on the everyday struggles of the lackeys of Shocker, the villain organization in the original Kamen Rider series.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 432,
+        "type": "anime",
+        "name": "Kachidoki Studio",
+        "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 55602,
+            "type": "anime",
+            "name": "Ohiru no Shocker-san: The Movie",
+            "url": "https://myanimelist.net/anime/55602/Ohiru_no_Shocker-san__The_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "1: \"Kotsu Kotsu Sekai Seifuku (こつこつ世界征服)\" by Purupuru (ぷるぷる)",
+        "2: \"Brand new me\" by Sweet Alley",
+        "3: \"Nakayoshi Shoker-san no Uta (なかよしショッカーさんの歌)\" by Purupuru (ぷるぷる) and Miku Aone (青音美玖)",
+        "4: \"Shock THE World (ショック THE ワールド)\" by VALSHE"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.kamen-rider-official.com/news_articles/1497"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16972"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24965"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6234"
+      }
+    ],
+    "streaming": []
+  }
+}

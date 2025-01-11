@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 38112,
+    "url": "https://myanimelist.net/anime/38112/Tales_of_Puppet",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1534/93342.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1534/93342t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1534/93342l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1534/93342.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1534/93342t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1534/93342l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tales of Puppet"
+      },
+      {
+        "type": "Japanese",
+        "title": "TALES OF パペット"
+      },
+      {
+        "type": "English",
+        "title": "Tales of Puppet"
+      }
+    ],
+    "title": "Tales of Puppet",
+    "title_english": "Tales of Puppet",
+    "title_japanese": "TALES OF パペット",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-06-14T00:00:00+00:00",
+      "to": "2019-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 6,
+          "year": 2018
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      "string": "Jun 14, 2018 to Oct 1, 2019"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.95,
+    "scored_by": 187,
+    "rank": 10138,
+    "popularity": 14246,
+    "members": 976,
+    "favorites": 0,
+    "synopsis": "A puppet parody of the Tales of franchise, filled with gags and help explain the popular RPG to newcomers.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38110,
+            "type": "anime",
+            "name": "Tales of HR",
+            "url": "https://myanimelist.net/anime/38110/Tales_of_HR"
+          },
+          {
+            "mal_id": 36955,
+            "type": "anime",
+            "name": "Tales of the Rays Gekijou",
+            "url": "https://myanimelist.net/anime/36955/Tales_of_the_Rays_Gekijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tales-ch.jp/special_index.php?ms_id=168"
+      }
+    ],
+    "streaming": []
+  }
+}

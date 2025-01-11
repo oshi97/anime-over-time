@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 56504,
+    "url": "https://myanimelist.net/anime/56504/Chickip_Dancers_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1833/138170.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/138170t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/138170l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1833/138170.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/138170t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/138170l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "pfQFIgpfyvg",
+      "url": "https://www.youtube.com/watch?v=pfQFIgpfyvg",
+      "embed_url": "https://www.youtube.com/embed/pfQFIgpfyvg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/pfQFIgpfyvg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/pfQFIgpfyvg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/pfQFIgpfyvg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/pfQFIgpfyvg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/pfQFIgpfyvg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chickip Dancers 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "チキップダンサーズ"
+      }
+    ],
+    "title": "Chickip Dancers 3rd Season",
+    "title_english": null,
+    "title_japanese": "チキップダンサーズ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-25T00:00:00+00:00",
+      "to": "2024-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Sep 25, 2023 to Mar 25, 2024"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19746,
+    "popularity": 18214,
+    "members": 391,
+    "favorites": 1,
+    "synopsis": "The third season of Chickip Dancers.",
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "08:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 08:45 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53320,
+            "type": "anime",
+            "name": "Chickip Dancers 2nd Season",
+            "url": "https://myanimelist.net/anime/53320/Chickip_Dancers_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.san-x.co.jp/chickipdancers/anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18151"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29175"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chickip_Dancers"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6802"
+      }
+    ],
+    "streaming": []
+  }
+}

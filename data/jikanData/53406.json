@@ -1,0 +1,193 @@
+{
+  "data": {
+    "mal_id": 53406,
+    "url": "https://myanimelist.net/anime/53406/Kagejitsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/129578.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/129578t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/129578l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/129578.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/129578t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/129578l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kagejitsu!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kage-Jitsu!"
+      },
+      {
+        "type": "Japanese",
+        "title": "かげじつ!"
+      }
+    ],
+    "title": "Kagejitsu!",
+    "title_english": null,
+    "title_japanese": "かげじつ!",
+    "title_synonyms": [
+      "Kage-Jitsu!"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-26T00:00:00+00:00",
+      "to": "2023-02-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 15,
+          "month": 2,
+          "year": 2023
+        }
+      },
+      "string": "Oct 26, 2022 to Feb 15, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.07,
+    "scored_by": 8152,
+    "rank": 4050,
+    "popularity": 5325,
+    "members": 17879,
+    "favorites": 58,
+    "synopsis": "A spin-off chibi anime of Kage no Jitsuryokusha ni Naritakute!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 238,
+        "type": "anime",
+        "name": "AT-X",
+        "url": "https://myanimelist.net/anime/producer/238/AT-X"
+      },
+      {
+        "mal_id": 1680,
+        "type": "anime",
+        "name": "BS NTV",
+        "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+      },
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      },
+      {
+        "mal_id": 1779,
+        "type": "anime",
+        "name": "NewGin",
+        "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+      },
+      {
+        "mal_id": 2435,
+        "type": "anime",
+        "name": "Aiming",
+        "url": "https://myanimelist.net/anime/producer/2435/Aiming"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56842,
+            "type": "anime",
+            "name": "Kagejitsu! Second",
+            "url": "https://myanimelist.net/anime/56842/Kagejitsu_Second"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 48316,
+            "type": "anime",
+            "name": "Kage no Jitsuryokusha ni Naritakute!",
+            "url": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shadow-garden.jp/special/special9.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16073"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30553"
+      }
+    ],
+    "streaming": []
+  }
+}

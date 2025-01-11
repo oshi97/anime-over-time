@@ -1,0 +1,222 @@
+{
+  "data": {
+    "mal_id": 46652,
+    "url": "https://myanimelist.net/anime/46652/Duel_Masters_King",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/111981.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/111981t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/111981l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/111981.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/111981t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/111981l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Duel Masters King!"
+      },
+      {
+        "type": "Japanese",
+        "title": "DUEL MASTERS キング!"
+      }
+    ],
+    "title": "Duel Masters King!",
+    "title_english": null,
+    "title_japanese": "DUEL MASTERS キング!",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 43,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-04T00:00:00+00:00",
+      "to": "2022-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Apr 4, 2021 to Mar 27, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20279,
+    "popularity": 14242,
+    "members": 976,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 08:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      },
+      {
+        "mal_id": 213,
+        "type": "anime",
+        "name": "Half H.P Studio",
+        "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 112,
+        "type": "anime",
+        "name": "Brain's Base",
+        "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+      },
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41529,
+            "type": "anime",
+            "name": "Duel Masters King",
+            "url": "https://myanimelist.net/anime/41529/Duel_Masters_King"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51037,
+            "type": "anime",
+            "name": "Duel Masters King Max",
+            "url": "https://myanimelist.net/anime/51037/Duel_Masters_King_Max"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "1: \"Updating Life\" by DOBERMAN INFINITY (eps 1-23)",
+        "2: \"Sinners\" by NIGHTMARE (eps 24-43)"
+      ],
+      "endings": [
+        "1: \"Act\" by vistlip (eps 1-12)",
+        "2: \"ROOTS\" by Matsuri nine. (祭nine.) (eps 13-23)",
+        "3: \"Minna to Iru Sekai (みんなといる世界)\" by Serena Kouzuki (上月せれな) (eps 24-43)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/dm_king/"
+      },
+      {
+        "name": "@duema_anime",
+        "url": "https://twitter.com/duema_anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16009"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23962"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Duel_Masters"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_%E3%82%AD%E3%83%B3%E3%82%B0"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/5957"
+      }
+    ],
+    "streaming": []
+  }
+}

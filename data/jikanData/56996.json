@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 56996,
+    "url": "https://myanimelist.net/anime/56996/Larva_Family",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1925/139335.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/139335t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/139335l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1925/139335.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/139335t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/139335l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Larva Family"
+      },
+      {
+        "type": "Japanese",
+        "title": "라바 패밀리"
+      }
+    ],
+    "title": "Larva Family",
+    "title_english": null,
+    "title_japanese": "라바 패밀리",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-05-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 5,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 4, 2023"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17069,
+    "popularity": 21935,
+    "members": 168,
+    "favorites": 0,
+    "synopsis": "After yellow and red is captured by Mauve that flies them inside the greenhouse of a new location (that is close to New York, and the island) they begin their adventures inside the greenhouse while raising a baby larva, Magenta. Their parenthood adventures begins now.",
+    "background": "Released on Netflix as nine 20-minutes long episodes.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1292,
+        "type": "anime",
+        "name": "TUBA",
+        "url": "https://myanimelist.net/anime/producer/1292/TUBA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56988,
+            "type": "anime",
+            "name": "Larva Pendant",
+            "url": "https://myanimelist.net/anime/56988/Larva_Pendant"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58379,
+            "type": "anime",
+            "name": "Larva in Mars",
+            "url": "https://myanimelist.net/anime/58379/Larva_in_Mars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

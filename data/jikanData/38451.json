@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 38451,
+    "url": "https://myanimelist.net/anime/38451/Reizouko_no_Tsukenosuke",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/95217t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/95217l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1884/95217.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/95217t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/95217l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Reizouko no Tsukenosuke!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Reizouko no Tsuke no Suke!"
+      },
+      {
+        "type": "Japanese",
+        "title": "れいぞうこのつけのすけ！"
+      }
+    ],
+    "title": "Reizouko no Tsukenosuke!",
+    "title_english": null,
+    "title_japanese": "れいぞうこのつけのすけ！",
+    "title_synonyms": [
+      "Reizouko no Tsuke no Suke!"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 65,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-01T00:00:00+00:00",
+      "to": "2020-03-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 17,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "Oct 1, 2018 to Mar 17, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18636,
+    "popularity": 18649,
+    "members": 356,
+    "favorites": 0,
+    "synopsis": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
+    "background": "",
+    "season": "fall",
+    "year": 2018,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "07:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 07:05 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38010,
+            "type": "anime",
+            "name": "Kaeru Ouji to Imomushi Henry",
+            "url": "https://myanimelist.net/anime/38010/Kaeru_Ouji_to_Imomushi_Henry"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.ohast.jp/info/181001.php"
+      }
+    ],
+    "streaming": []
+  }
+}

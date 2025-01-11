@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56481,
+    "url": "https://myanimelist.net/anime/56481/Dino_Powers_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/138131.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/138131t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/138131l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/138131.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/138131t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/138131l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dino Powers 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "다이노파워즈 2"
+      }
+    ],
+    "title": "Dino Powers 2",
+    "title_english": null,
+    "title_japanese": "다이노파워즈 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-20T00:00:00+00:00",
+      "to": "2024-03-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": 14,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Jul 20, 2023 to Mar 14, 2024"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20107,
+    "popularity": 21698,
+    "members": 180,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56480,
+            "type": "anime",
+            "name": "Dino Powers",
+            "url": "https://myanimelist.net/anime/56480/Dino_Powers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.kbs.co.kr/1tv/culture/dinopowers/pc/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/다이노_파워즈"
+      }
+    ],
+    "streaming": []
+  }
+}

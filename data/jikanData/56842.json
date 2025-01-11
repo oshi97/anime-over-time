@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 56842,
+    "url": "https://myanimelist.net/anime/56842/Kagejitsu_Second",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1512/138927.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/138927t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/138927l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1512/138927.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/138927t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/138927l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kagejitsu! Second"
+      },
+      {
+        "type": "Japanese",
+        "title": "かげじつ！せかんど"
+      }
+    ],
+    "title": "Kagejitsu! Second",
+    "title_english": null,
+    "title_japanese": "かげじつ！せかんど",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-04T00:00:00+00:00",
+      "to": "2023-12-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 20,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Oct 4, 2023 to Dec 20, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.13,
+    "scored_by": 4590,
+    "rank": 3746,
+    "popularity": 6521,
+    "members": 10681,
+    "favorites": 20,
+    "synopsis": "The second season of Kagejitsu!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53406,
+            "type": "anime",
+            "name": "Kagejitsu!",
+            "url": "https://myanimelist.net/anime/53406/Kagejitsu"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 54595,
+            "type": "anime",
+            "name": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+            "url": "https://myanimelist.net/anime/54595/Kage_no_Jitsuryokusha_ni_Naritakute_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57034,
+            "type": "anime",
+            "name": "Ple Ple Pleiades × Kagejitsu!",
+            "url": "https://myanimelist.net/anime/57034/Ple_Ple_Pleiades_×_Kagejitsu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shadow-garden.jp/special/special9.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17877"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30554"
+      }
+    ],
+    "streaming": []
+  }
+}

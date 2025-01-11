@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 47594,
+    "url": "https://myanimelist.net/anime/47594/Xuan_Xuan_Yingxiong_Chuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1345/130171.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/130171t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/130171l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1345/130171.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/130171t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/130171l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xuan Xuan Yingxiong Chuan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wangzhe Wai Chuan 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "王者歪传 第2季"
+      },
+      {
+        "type": "Japanese",
+        "title": "玄玄英雄传"
+      }
+    ],
+    "title": "Xuan Xuan Yingxiong Chuan",
+    "title_english": null,
+    "title_japanese": "玄玄英雄传",
+    "title_synonyms": [
+      "Wangzhe Wai Chuan 2nd Season",
+      "王者歪传 第2季"
+    ],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-02T00:00:00+00:00",
+      "to": "2019-04-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 17,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      "string": "Jan 2, 2019 to Apr 17, 2019"
+    },
+    "duration": "9 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 15749,
+    "popularity": 25292,
+    "members": 85,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39190,
+            "type": "anime",
+            "name": "Wang Zhe Wai Chuan",
+            "url": "https://myanimelist.net/anime/39190/Wang_Zhe_Wai_Chuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrhvul6x.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14652"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://bangumi.tv/subject/271248"
+      }
+    ],
+    "streaming": []
+  }
+}

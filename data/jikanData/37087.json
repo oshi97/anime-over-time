@@ -1,0 +1,179 @@
+{
+  "data": {
+    "mal_id": 37087,
+    "url": "https://myanimelist.net/anime/37087/Overlord__Ple_Ple_Pleiades_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/90101.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/90101t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/90101l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/90101.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/90101t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/90101l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Overlord: Ple Ple Pleiades 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "オーバーロード　ぷれぷれぷれあです2"
+      }
+    ],
+    "title": "Overlord: Ple Ple Pleiades 2",
+    "title_english": null,
+    "title_japanese": "オーバーロード　ぷれぷれぷれあです2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-09T00:00:00+00:00",
+      "to": "2018-04-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": 3,
+          "month": 4,
+          "year": 2018
+        }
+      },
+      "string": "Jan 9, 2018 to Apr 3, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.82,
+    "scored_by": 20751,
+    "rank": 5205,
+    "popularity": 3601,
+    "members": 42475,
+    "favorites": 27,
+    "synopsis": "Super deformed parody shorts of Overlord II streamed on Kadokawa's official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31138,
+            "type": "anime",
+            "name": "Overlord: Ple Ple Pleiades",
+            "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37781,
+            "type": "anime",
+            "name": "Overlord: Ple Ple Pleiades 3",
+            "url": "https://myanimelist.net/anime/37781/Overlord__Ple_Ple_Pleiades_3"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35073,
+            "type": "anime",
+            "name": "Overlord II",
+            "url": "https://myanimelist.net/anime/35073/Overlord_II"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://overlord-anime.com/products/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12952"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Overlord_(novel_series)"
+      }
+    ],
+    "streaming": []
+  }
+}

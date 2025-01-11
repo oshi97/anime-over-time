@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 51738,
+    "url": "https://myanimelist.net/anime/51738/Kakkou_no_Iikagen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1467/123465.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1467/123465t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1467/123465l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1467/123465.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1467/123465t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1467/123465l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kakkou no Iikagen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kakkou no Iinazuke Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "カッコウのいいかげん"
+      }
+    ],
+    "title": "Kakkou no Iikagen",
+    "title_english": null,
+    "title_japanese": "カッコウのいいかげん",
+    "title_synonyms": [
+      "Kakkou no Iinazuke Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-28T00:00:00+00:00",
+      "to": "2022-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Apr 28, 2022 to Sep 30, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.81,
+    "scored_by": 860,
+    "rank": 10859,
+    "popularity": 10839,
+    "members": 2685,
+    "favorites": 3,
+    "synopsis": "Kakkou no Iinazuke mini anime released on the KADOKAWA Anime YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 1468,
+        "type": "anime",
+        "name": "Crunchyroll",
+        "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 48675,
+            "type": "anime",
+            "name": "Kakkou no Iinazuke",
+            "url": "https://myanimelist.net/anime/48675/Kakkou_no_Iinazuke"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

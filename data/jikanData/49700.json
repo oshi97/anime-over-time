@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 49700,
+    "url": "https://myanimelist.net/anime/49700/Arifureta_Shokugyou_de_Sekai_Saikyou_Picture_Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/117391.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/117391t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/117391l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/117391.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/117391t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/117391l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Arifureta Shokugyou de Sekai Saikyou Picture Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "ありふれた職業で世界最強 ピクチャードラマ"
+      },
+      {
+        "type": "English",
+        "title": "Arifureta: From Commonplace to World's Strongest Picture Drama"
+      }
+    ],
+    "title": "Arifureta Shokugyou de Sekai Saikyou Picture Drama",
+    "title_english": "Arifureta: From Commonplace to World's Strongest Picture Drama",
+    "title_japanese": "ありふれた職業で世界最強 ピクチャードラマ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-08T00:00:00+00:00",
+      "to": "2019-10-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 7,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      "string": "Jul 8, 2019 to Oct 7, 2019"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.06,
+    "scored_by": 1063,
+    "rank": 9576,
+    "popularity": 10395,
+    "members": 3068,
+    "favorites": 3,
+    "synopsis": "An online motion graphic spin-off series that provides a comedic interpretation of events that have occurred in conjunction with the Anime. These episodes were originally posted on the series' official Twitter page on a weekly basis that coincided with the debut of each of the anime's episodes, and were later included in the Blu-ray BOX sets. The voice cast for the Picture Dramas is the same as the Anime cast.\n\n(Source: Arifureta Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 36882,
+            "type": "anime",
+            "name": "Arifureta Shokugyou de Sekai Saikyou",
+            "url": "https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://arifureta.com/blu-ray/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13624"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://arifureta.fandom.com/wiki/Arifureta_Picture_Dramas"
+      }
+    ],
+    "streaming": []
+  }
+}

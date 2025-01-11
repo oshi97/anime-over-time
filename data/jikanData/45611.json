@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 45611,
+    "url": "https://myanimelist.net/anime/45611/Tadaima_Chibi_Godzilla_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/113059.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/113059t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/113059l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/113059.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/113059t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/113059l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tadaima! Chibi Godzilla Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "ただいま！ちびゴジラ シーズン２"
+      },
+      {
+        "type": "English",
+        "title": "I'm Home, Chibigodzilla 2nd Season"
+      }
+    ],
+    "title": "Tadaima! Chibi Godzilla Season 2",
+    "title_english": "I'm Home, Chibigodzilla 2nd Season",
+    "title_japanese": "ただいま！ちびゴジラ シーズン２",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-02T00:00:00+00:00",
+      "to": "2021-02-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": 24,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      "string": "Dec 2, 2020 to Feb 24, 2021"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.69,
+    "scored_by": 199,
+    "rank": 11364,
+    "popularity": 16749,
+    "members": 513,
+    "favorites": 0,
+    "synopsis": "Second season of Tadaima! Chibi Godzilla.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42500,
+            "type": "anime",
+            "name": "Tadaima! Chibi Godzilla",
+            "url": "https://myanimelist.net/anime/42500/Tadaima_Chibi_Godzilla"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://godzilla.store/chibigodzilla/"
+      }
+    ],
+    "streaming": []
+  }
+}

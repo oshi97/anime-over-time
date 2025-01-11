@@ -1,0 +1,198 @@
+{
+  "data": {
+    "mal_id": 41555,
+    "url": "https://myanimelist.net/anime/41555/Aikatsu_on_Parade_ONA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1260/122030.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1260/122030t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1260/122030l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1260/122030.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1260/122030t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1260/122030l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "0p4aUH_27gA",
+      "url": "https://www.youtube.com/watch?v=0p4aUH_27gA",
+      "embed_url": "https://www.youtube.com/embed/0p4aUH_27gA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/0p4aUH_27gA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/0p4aUH_27gA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/0p4aUH_27gA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/0p4aUH_27gA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/0p4aUH_27gA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Aikatsu on Parade! (ONA)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Aikatsu on Parade!: Dream Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイカツオンパレード!"
+      }
+    ],
+    "title": "Aikatsu on Parade! (ONA)",
+    "title_english": null,
+    "title_japanese": "アイカツオンパレード!",
+    "title_synonyms": [
+      "Aikatsu on Parade!: Dream Story"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-28T00:00:00+00:00",
+      "to": "2020-07-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 11,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      "string": "Mar 28, 2020 to Jul 11, 2020"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": 6.68,
+    "scored_by": 1268,
+    "rank": 5999,
+    "popularity": 10643,
+    "members": 2856,
+    "favorites": 3,
+    "synopsis": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1543,
+        "type": "anime",
+        "name": "Sunrise Music",
+        "url": "https://myanimelist.net/anime/producer/1543/Sunrise_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1258,
+        "type": "anime",
+        "name": "Bandai Namco Pictures",
+        "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39078,
+            "type": "anime",
+            "name": "Aikatsu Friends!: Kagayaki no Jewel",
+            "url": "https://myanimelist.net/anime/39078/Aikatsu_Friends__Kagayaki_no_Jewel"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 15061,
+            "type": "anime",
+            "name": "Aikatsu!",
+            "url": "https://myanimelist.net/anime/15061/Aikatsu"
+          },
+          {
+            "mal_id": 32717,
+            "type": "anime",
+            "name": "Aikatsu Stars!",
+            "url": "https://myanimelist.net/anime/32717/Aikatsu_Stars"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 40266,
+            "type": "anime",
+            "name": "Aikatsu on Parade!",
+            "url": "https://myanimelist.net/anime/40266/Aikatsu_on_Parade"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.aikatsu.net/webanime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15479"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aikatsu_on_Parade!"
+      }
+    ],
+    "streaming": []
+  }
+}

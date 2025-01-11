@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 48304,
+    "url": "https://myanimelist.net/anime/48304/Yuhuwa_Chingudeul_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1330/134876.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/134876t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/134876l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1330/134876.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/134876t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/134876l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuhuwa Chingudeul 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yuhuwa Chingudeul 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "유후와 친구들 2"
+      }
+    ],
+    "title": "Yuhuwa Chingudeul 2",
+    "title_english": null,
+    "title_japanese": "유후와 친구들 2",
+    "title_synonyms": [
+      "Yuhuwa Chingudeul 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 28,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-10-21T00:00:00+00:00",
+      "to": "2014-05-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 10,
+          "year": 2013
+        },
+        "to": {
+          "day": 24,
+          "month": 5,
+          "year": 2014
+        }
+      },
+      "string": "Oct 21, 2013 to May 24, 2014"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15962,
+    "popularity": 21528,
+    "members": 189,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2013,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36167,
+            "type": "anime",
+            "name": "Yuhuwa Chingudeul",
+            "url": "https://myanimelist.net/anime/36167/Yuhuwa_Chingudeul"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://yoohoo.auroraworld.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/YooHoo_%26_Friends_(2009_TV_series)#Season_2"
+      }
+    ],
+    "streaming": []
+  }
+}

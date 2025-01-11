@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 55796,
+    "url": "https://myanimelist.net/anime/55796/BT21_Universe_3_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1304/136740.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1304/136740t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1304/136740l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1304/136740.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1304/136740t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1304/136740l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BT21 Universe 3 Animation"
+      },
+      {
+        "type": "Synonym",
+        "title": "BT21 Universe Animation 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "BT21 UNIVERSE 3 ANIMATION"
+      }
+    ],
+    "title": "BT21 Universe 3 Animation",
+    "title_english": null,
+    "title_japanese": "BT21 UNIVERSE 3 ANIMATION",
+    "title_synonyms": [
+      "BT21 Universe Animation 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-23T00:00:00+00:00",
+      "to": "2020-07-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 30,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      "string": "Apr 23, 2020 to Jul 30, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19501,
+    "popularity": 21855,
+    "members": 172,
+    "favorites": 0,
+    "synopsis": "If you're into goofy comedy, BT21 will not disappoint.\n\n(Source: BT21's Official Twitter)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55344,
+            "type": "anime",
+            "name": "BT21 Universe Animation",
+            "url": "https://myanimelist.net/anime/55344/BT21_Universe_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53520,
+            "type": "anime",
+            "name": "BT21 Original Story",
+            "url": "https://myanimelist.net/anime/53520/BT21_Original_Story"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

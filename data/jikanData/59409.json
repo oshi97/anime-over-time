@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 59409,
+    "url": "https://myanimelist.net/anime/59409/Ohayou_Unko-sensei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1244/144510.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/144510t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/144510l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1244/144510.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/144510t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/144510l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ohayou! Unko-sensei"
+      },
+      {
+        "type": "Synonym",
+        "title": "Good Morning Mr. Poop!"
+      },
+      {
+        "type": "Japanese",
+        "title": "おはよう！ うんこ先生"
+      }
+    ],
+    "title": "Ohayou! Unko-sensei",
+    "title_english": null,
+    "title_japanese": "おはよう！ うんこ先生",
+    "title_synonyms": [
+      "Good Morning Mr. Poop!"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-07-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 26, 2024 to ?"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18087,
+    "popularity": 20879,
+    "members": 225,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2024,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "16:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 16:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18733"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32867"
+      }
+    ],
+    "streaming": []
+  }
+}

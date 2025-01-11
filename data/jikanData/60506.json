@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 60506,
+    "url": "https://myanimelist.net/anime/60506/Araiguma_Calcal-dan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1425/146939.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1425/146939t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1425/146939l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1425/146939.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1425/146939t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1425/146939l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "Tri0lrVFPSo",
+      "url": "https://www.youtube.com/watch?v=Tri0lrVFPSo",
+      "embed_url": "https://www.youtube.com/embed/Tri0lrVFPSo?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/Tri0lrVFPSo/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/Tri0lrVFPSo/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/Tri0lrVFPSo/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/Tri0lrVFPSo/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/Tri0lrVFPSo/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Araiguma Calcal-dan"
+      },
+      {
+        "type": "Japanese",
+        "title": "あらいぐま カルカル団"
+      }
+    ],
+    "title": "Araiguma Calcal-dan",
+    "title_english": null,
+    "title_japanese": "あらいぐま カルカル団",
+    "title_synonyms": [],
+    "type": null,
+    "source": "Book",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21494,
+    "members": 191,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Nippon Animation",
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 2576,
+            "type": "anime",
+            "name": "Araiguma Rascal",
+            "url": "https://myanimelist.net/anime/2576/Araiguma_Rascal"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://calcaldan.com/"
+      },
+      {
+        "name": "@calcaldan",
+        "url": "https://twitter.com/calcaldan"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rascal_the_Raccoon"
+      }
+    ],
+    "streaming": []
+  }
+}

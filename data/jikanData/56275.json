@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 56275,
+    "url": "https://myanimelist.net/anime/56275/Tea_Tea_Cherry",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/137766.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/137766t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/137766l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/137766.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/137766t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/137766l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tea Tea Cherry"
+      },
+      {
+        "type": "Japanese",
+        "title": "티티체리"
+      }
+    ],
+    "title": "Tea Tea Cherry",
+    "title_english": null,
+    "title_japanese": "티티체리",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-30T00:00:00+00:00",
+      "to": "2022-07-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": 7,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Dec 30, 2021 to Jul 7, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14608,
+    "popularity": 23343,
+    "members": 119,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56276,
+            "type": "anime",
+            "name": "Tea Tea Cherry Specials",
+            "url": "https://myanimelist.net/anime/56276/Tea_Tea_Cherry_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/티티_체리"
+      }
+    ],
+    "streaming": []
+  }
+}

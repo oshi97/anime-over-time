@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48672,
+    "url": "https://myanimelist.net/anime/48672/Tsugu_Tsugumomo_Mini_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/114202.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/114202t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/114202l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/114202.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/114202t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/114202l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsugu Tsugumomo Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "継つぐももミニアニメ"
+      }
+    ],
+    "title": "Tsugu Tsugumomo Mini Anime",
+    "title_english": null,
+    "title_japanese": "継つぐももミニアニメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 59,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-16T00:00:00+00:00",
+      "to": "2020-08-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": 3,
+          "month": 8,
+          "year": 2020
+        }
+      },
+      "string": "Dec 16, 2019 to Aug 3, 2020"
+    },
+    "duration": "45 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.07,
+    "scored_by": 401,
+    "rank": 9550,
+    "popularity": 12374,
+    "members": 1669,
+    "favorites": 2,
+    "synopsis": "Different chibi shorts to Tsugu Tsugumomo released on the anime's Twitter.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1379,
+        "type": "anime",
+        "name": "Zero-G",
+        "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39469,
+            "type": "anime",
+            "name": "Tsugu Tsugumomo",
+            "url": "https://myanimelist.net/anime/39469/Tsugu_Tsugumomo"
+          },
+          {
+            "mal_id": 55033,
+            "type": "anime",
+            "name": "Tsugu Tsugumomo Mini Anime Specials",
+            "url": "https://myanimelist.net/anime/55033/Tsugu_Tsugumomo_Mini_Anime_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tsugumomo.com/package/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14728"
+      }
+    ],
+    "streaming": []
+  }
+}

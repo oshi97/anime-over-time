@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 38609,
+    "url": "https://myanimelist.net/anime/38609/Malta_no_Kamishibai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1397/95953.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1397/95953t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1397/95953l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1397/95953.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1397/95953t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1397/95953l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Malta no Kamishibai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Malta no Bouken: Kamishibai"
+      },
+      {
+        "type": "Japanese",
+        "title": "マルタのかみしばい"
+      }
+    ],
+    "title": "Malta no Kamishibai",
+    "title_english": null,
+    "title_japanese": "マルタのかみしばい",
+    "title_synonyms": [
+      "Malta no Bouken: Kamishibai"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-01T00:00:00+00:00",
+      "to": "2019-01-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": 30,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Aug 1, 2018 to Jan 30, 2019"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17294,
+    "popularity": 21578,
+    "members": 187,
+    "favorites": 0,
+    "synopsis": "Animated kamishibai-style Malta no Bouken episodes streamed on the official YouTube channel of the franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 38166,
+            "type": "anime",
+            "name": "Malta no Bouken Season 3",
+            "url": "https://myanimelist.net/anime/38166/Malta_no_Bouken_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://malta-go.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

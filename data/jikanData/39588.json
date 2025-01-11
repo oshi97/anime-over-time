@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 39588,
+    "url": "https://myanimelist.net/anime/39588/Ojamajo_Doremi__Owarai_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1257/99982.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1257/99982t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1257/99982l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1257/99982.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1257/99982t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1257/99982l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ojamajo Doremi: Owarai Gekijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "おジャ魔女どれみ お笑い劇場"
+      }
+    ],
+    "title": "Ojamajo Doremi: Owarai Gekijou",
+    "title_english": null,
+    "title_japanese": "おジャ魔女どれみ お笑い劇場",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-23T00:00:00+00:00",
+      "to": "2020-03-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 22,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "Mar 23, 2019 to Mar 22, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.46,
+    "scored_by": 578,
+    "rank": 7309,
+    "popularity": 11647,
+    "members": 2119,
+    "favorites": 2,
+    "synopsis": "Ojamajo Doremi: Owarai Gekijou is an special deformed chibi anime for the 20th anniversary of Doremi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 350,
+            "type": "anime",
+            "name": "Ojamajo Doremi",
+            "url": "https://myanimelist.net/anime/350/Ojamajo_Doremi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14793"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22002"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ojamajo_Doremi"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "mal_id": 54144,
+    "url": "https://myanimelist.net/anime/54144/Cardfight_Vanguard__Divinez_Deluxe-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/146945.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/146945t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/146945l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/146945.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/146945t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/146945l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cardfight!! Vanguard: Divinez Deluxe-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "カードファイト!! ヴァンガード Divinez デラックス編"
+      }
+    ],
+    "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
+    "title_english": null,
+    "title_japanese": "カードファイト!! ヴァンガード Divinez デラックス編",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 11, 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 13979,
+    "members": 1051,
+    "favorites": 4,
+    "synopsis": "A tournament to decide the strongest Vanguard cardfighter \"Deluxe,\" Akina and the other fighters have received an invitation to the tournament. This time, many legendary fighters will also be participating!",
+    "background": "",
+    "season": "winter",
+    "year": 2025,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "08:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 08:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 775,
+        "type": "anime",
+        "name": "Bushiroad",
+        "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 290,
+        "type": "anime",
+        "name": "Kinema Citrus",
+        "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+      },
+      {
+        "mal_id": 2299,
+        "type": "anime",
+        "name": "GIFTanimation",
+        "url": "https://myanimelist.net/anime/producer/2299/GIFTanimation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54143,
+            "type": "anime",
+            "name": "Cardfight!! Vanguard: Divinez Season 2",
+            "url": "https://myanimelist.net/anime/54143/Cardfight_Vanguard__Divinez_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54145,
+            "type": "anime",
+            "name": "Cardfight!! Vanguard: D Series Season 9",
+            "url": "https://myanimelist.net/anime/54145/Cardfight_Vanguard__D_Series_Season_9"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Meramera\" by Kis-My-Ft2"
+      ],
+      "endings": [
+        "\"Tenshoku (天色)\" by Hina Aoki (青木陽菜)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime.cf-vanguard.com/vgd/"
+      },
+      {
+        "name": "@cfvanguard_PR",
+        "url": "https://twitter.com/cfvanguard_PR/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19050"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33713"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7330"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Bahamut Anime Crazy",
+        "url": "https://ani.gamer.com.tw/"
+      }
+    ]
+  }
+}

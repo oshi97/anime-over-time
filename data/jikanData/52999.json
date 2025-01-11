@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 52999,
+    "url": "https://myanimelist.net/anime/52999/Ensemble_Stars_Tsuioku_Selection_Element",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1328/133039.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1328/133039t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1328/133039l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1328/133039.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1328/133039t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1328/133039l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "hGvf-c1LWjw",
+      "url": "https://www.youtube.com/watch?v=hGvf-c1LWjw",
+      "embed_url": "https://www.youtube.com/embed/hGvf-c1LWjw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/hGvf-c1LWjw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/hGvf-c1LWjw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/hGvf-c1LWjw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/hGvf-c1LWjw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/hGvf-c1LWjw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ensemble Stars!! Tsuioku Selection Element"
+      },
+      {
+        "type": "Japanese",
+        "title": "あんさんぶるスターズ！！追憶セレクション 『エレメント』"
+      },
+      {
+        "type": "English",
+        "title": "Ensemble Stars!! Reminiscences Selection Element"
+      }
+    ],
+    "title": "Ensemble Stars!! Tsuioku Selection Element",
+    "title_english": "Ensemble Stars!! Reminiscences Selection Element",
+    "title_japanese": "あんさんぶるスターズ！！追憶セレクション 『エレメント』",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-06T00:00:00+00:00",
+      "to": "2023-04-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 11,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "string": "Apr 6, 2023 to Apr 11, 2023"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.54,
+    "scored_by": 709,
+    "rank": 1805,
+    "popularity": 10277,
+    "members": 3168,
+    "favorites": 41,
+    "synopsis": "New Ensemble Stars!! web animated series based on the game story \"Element\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1111,
+        "type": "anime",
+        "name": "DandeLion Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/anime/element/"
+      },
+      {
+        "name": "@enstars_anime",
+        "url": "https://twitter.com/enstars_anime"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=fHIpVTEGOPM&list=PL5wEQ3YUNbnBHtrbn-gLh2YM95QM0Un6u&index=4"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17837"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27029"
+      }
+    ],
+    "streaming": []
+  }
+}

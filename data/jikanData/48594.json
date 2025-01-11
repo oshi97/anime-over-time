@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 48594,
+    "url": "https://myanimelist.net/anime/48594/Pittanko_Nekozakana_2020",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/113821.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/113821t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/113821l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/113821.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/113821t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/113821l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pittanko!! Nekozakana (2020)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぴったんこ!! ねこざかな (2020)"
+      }
+    ],
+    "title": "Pittanko!! Nekozakana (2020)",
+    "title_english": null,
+    "title_japanese": "ぴったんこ!! ねこざかな (2020)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-06T00:00:00+00:00",
+      "to": "2020-09-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 28,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Jul 6, 2020 to Sep 28, 2020"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18361,
+    "popularity": 20976,
+    "members": 219,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "07:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 07:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 126,
+        "type": "anime",
+        "name": "Studio Comet",
+        "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40089,
+            "type": "anime",
+            "name": "Pittanko!! Nekozakana",
+            "url": "https://myanimelist.net/anime/40089/Pittanko_Nekozakana"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/kinder/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15624"
+      }
+    ],
+    "streaming": []
+  }
+}

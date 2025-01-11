@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 54781,
+    "url": "https://myanimelist.net/anime/54781/YouTuNya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1489/134599.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1489/134599t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1489/134599l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1489/134599.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1489/134599t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1489/134599l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "4wgmUZqGRVo",
+      "url": "https://www.youtube.com/watch?v=4wgmUZqGRVo",
+      "embed_url": "https://www.youtube.com/embed/4wgmUZqGRVo?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/4wgmUZqGRVo/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/4wgmUZqGRVo/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/4wgmUZqGRVo/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/4wgmUZqGRVo/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/4wgmUZqGRVo/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "YouTuNya"
+      },
+      {
+        "type": "Japanese",
+        "title": "ユーチューニャー"
+      }
+    ],
+    "title": "YouTuNya",
+    "title_english": null,
+    "title_japanese": "ユーチューニャー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-04T00:00:00+00:00",
+      "to": "2023-07-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 11,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "string": "Apr 4, 2023 to Jul 11, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.76,
+    "scored_by": 151,
+    "rank": 11094,
+    "popularity": 15155,
+    "members": 748,
+    "favorites": 1,
+    "synopsis": "The anime will focus on the everyday lives of three different streamer cats: Nya, who has a minor channel; Tomoneko, who has a popular channel; and Tsuyoneko, who has a channel right in the middle of the struggle. \n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "06:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 06:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1829,
+        "type": "anime",
+        "name": "Lesprit",
+        "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58602,
+            "type": "anime",
+            "name": "YouTuNya 2nd Season",
+            "url": "https://myanimelist.net/anime/58602/YouTuNya_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Bazure! YouTuNya! (バズれ!ユーチューニャー!)\" by Yaneura Shobou (ヤネウラ書房)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtunya.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17923"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27387"
+      }
+    ],
+    "streaming": []
+  }
+}

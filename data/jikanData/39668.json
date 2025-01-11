@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 39668,
+    "url": "https://myanimelist.net/anime/39668/Watanuki-san_Chi_no",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/100414.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/100414t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/100414l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/100414.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/100414t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/100414l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Watanuki-san Chi no"
+      },
+      {
+        "type": "Synonym",
+        "title": "Watanuki's House"
+      },
+      {
+        "type": "Japanese",
+        "title": "四月一日さん家の"
+      }
+    ],
+    "title": "Watanuki-san Chi no",
+    "title_english": null,
+    "title_japanese": "四月一日さん家の",
+    "title_synonyms": [
+      "Watanuki's House"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-19T00:00:00+00:00",
+      "to": "2019-07-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 6,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "Apr 19, 2019 to Jul 6, 2019"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 229,
+    "rank": 10764,
+    "popularity": 10896,
+    "members": 2641,
+    "favorites": 3,
+    "synopsis": "In the story, the three VTubers will play the roles of the Watanuki sisters, who live together in one house in the Shitamachi area of Tokyo after they lost their parents. The series will show the heartwarming everyday lives of the sisters. \n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "00:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 00:55 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41426,
+            "type": "anime",
+            "name": "Watanuki-san Chi to",
+            "url": "https://myanimelist.net/anime/41426/Watanuki-san_Chi_to"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"switch\" by chelmico"
+      ],
+      "endings": [
+        "\"Shigatsu no Kaze (四月の風)\" by SILENT SILEN"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/watanuki/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14783"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9C%88%E4%B8%80%E6%97%A5%E3%81%95%E3%82%93%E5%AE%B6%E3%81%AE"
+      }
+    ],
+    "streaming": []
+  }
+}

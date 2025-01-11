@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 48544,
+    "url": "https://myanimelist.net/anime/48544/Ikinuke_Bakusou_Kusohamu-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/113662.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/113662t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/113662l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/113662.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/113662t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/113662l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ikinuke! Bakusou! Kusohamu-chan!"
+      },
+      {
+        "type": "Japanese",
+        "title": "生き抜け！爆走！クソハムちゃん"
+      },
+      {
+        "type": "English",
+        "title": "Survive! Run Wild! Kusohamu-chan!"
+      }
+    ],
+    "title": "Ikinuke! Bakusou! Kusohamu-chan!",
+    "title_english": "Survive! Run Wild! Kusohamu-chan!",
+    "title_japanese": "生き抜け！爆走！クソハムちゃん",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 103,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-17T00:00:00+00:00",
+      "to": "2023-03-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Mar 17, 2021 to Mar 24, 2023"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21290,
+    "popularity": 20216,
+    "members": 262,
+    "favorites": 0,
+    "synopsis": "The anime's release celebrates the character's \"birthday\" as a stamp character for the LINE messaging service. The character is a hamster that came from space.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1430,
+        "type": "anime",
+        "name": "Shogakukan",
+        "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48988,
+            "type": "anime",
+            "name": "Ikinuke! Bakusou! Kusohamu-chan! Episode 0",
+            "url": "https://myanimelist.net/anime/48988/Ikinuke_Bakusou_Kusohamu-chan_Episode_0"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 56612,
+            "type": "anime",
+            "name": "Kusohamu-chan Happy Birthday!",
+            "url": "https://myanimelist.net/anime/56612/Kusohamu-chan_Happy_Birthday"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtube.com/channel/UCHKoO2zw1TUxr1F4xWzIQTw"
+      }
+    ],
+    "streaming": []
+  }
+}

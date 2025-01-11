@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 50600,
+    "url": "https://myanimelist.net/anime/50600/Insect_Land",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1991/120109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1991/120109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1991/120109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1991/120109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1991/120109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1991/120109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "OHBUDV71Lkg",
+      "url": "https://www.youtube.com/watch?v=OHBUDV71Lkg",
+      "embed_url": "https://www.youtube.com/embed/OHBUDV71Lkg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/OHBUDV71Lkg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/OHBUDV71Lkg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/OHBUDV71Lkg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/OHBUDV71Lkg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/OHBUDV71Lkg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Insect Land"
+      },
+      {
+        "type": "Japanese",
+        "title": "インセクトランド"
+      }
+    ],
+    "title": "Insect Land",
+    "title_english": null,
+    "title_japanese": "インセクトランド",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-04T00:00:00+00:00",
+      "to": "2022-08-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 29,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Apr 4, 2022 to Aug 29, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21322,
+    "popularity": 16752,
+    "members": 514,
+    "favorites": 2,
+    "synopsis": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.\n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2022,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "08:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 08:45 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 444,
+        "type": "anime",
+        "name": "Jinnis Animation Studios",
+        "url": "https://myanimelist.net/anime/producer/444/Jinnis_Animation_Studios"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60127,
+            "type": "anime",
+            "name": "Insect Land (ONA)",
+            "url": "https://myanimelist.net/anime/60127/Insect_Land_ONA"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Hane wo Motsu Koibito (羽を持つ恋人)\" by Dream Come True"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://insect-land.com/anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16495"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25061"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%82%AF%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89"
+      }
+    ],
+    "streaming": []
+  }
+}

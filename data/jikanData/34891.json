@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 34891,
+    "url": "https://myanimelist.net/anime/34891/Buppu_na_Mainichi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/84189.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/84189t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/84189l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/84189.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/84189t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/84189l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Buppu na Mainichi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぶっぷな毎日"
+      }
+    ],
+    "title": "Buppu na Mainichi",
+    "title_english": null,
+    "title_japanese": "ぶっぷな毎日",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-11T00:00:00+00:00",
+      "to": "2017-09-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 9,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      "string": "Mar 11, 2017 to Sep 9, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19546,
+    "popularity": 17393,
+    "members": 452,
+    "favorites": 0,
+    "synopsis": "The story will focus on a cat who begins living with 10 dogs, and the animals' busy everyday life. The story draws inspiration from real-life singer Noriyuki Makihara and his pets. \n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "01:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 01:55 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1077,
+        "type": "anime",
+        "name": "MMDGP",
+        "url": "https://myanimelist.net/anime/producer/1077/MMDGP"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.ktv.jp/buppu/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12805"
+      }
+    ],
+    "streaming": []
+  }
+}

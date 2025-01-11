@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 59123,
+    "url": "https://myanimelist.net/anime/59123/Kumarba_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/144484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/144484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/144484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/144484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/144484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/144484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kumarba Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "クマーバ シーズン2"
+      }
+    ],
+    "title": "Kumarba Season 2",
+    "title_english": null,
+    "title_japanese": "クマーバ シーズン2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-05T00:00:00+00:00",
+      "to": "2024-12-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": 21,
+          "month": 12,
+          "year": 2024
+        }
+      },
+      "string": "Oct 5, 2024 to Dec 21, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16967,
+    "popularity": 21682,
+    "members": 181,
+    "favorites": 1,
+    "synopsis": "Second season of Kumarba.",
+    "background": "",
+    "season": "fall",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2914,
+        "type": "anime",
+        "name": "Creative House Pocket",
+        "url": "https://myanimelist.net/anime/producer/2914/Creative_House_Pocket"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58463,
+            "type": "anime",
+            "name": "Kumarba",
+            "url": "https://myanimelist.net/anime/58463/Kumarba"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kumarba.com/pages/tv-anime"
+      },
+      {
+        "name": "@kumarbakids",
+        "url": "https://twitter.com/kumarbakids"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/c/kumarba"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32830"
+      }
+    ],
+    "streaming": []
+  }
+}

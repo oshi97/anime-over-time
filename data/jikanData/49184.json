@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 49184,
+    "url": "https://myanimelist.net/anime/49184/Gunma-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/118985.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/118985t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/118985l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/118985.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/118985t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/118985l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "xDeUrIE44Kc",
+      "url": "https://www.youtube.com/watch?v=xDeUrIE44Kc",
+      "embed_url": "https://www.youtube.com/embed/xDeUrIE44Kc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/xDeUrIE44Kc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/xDeUrIE44Kc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/xDeUrIE44Kc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/xDeUrIE44Kc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/xDeUrIE44Kc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gunma-chan"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぐんまちゃん"
+      }
+    ],
+    "title": "Gunma-chan",
+    "title_english": null,
+    "title_japanese": "ぐんまちゃん",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-03T00:00:00+00:00",
+      "to": "2021-12-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 26,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Oct 3, 2021 to Dec 26, 2021"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.95,
+    "scored_by": 175,
+    "rank": 10167,
+    "popularity": 14251,
+    "members": 974,
+    "favorites": 2,
+    "synopsis": "An anime series based on the Gunma Prefecture mascot character, Gunma-chan.\n\n(Source: Anilist)",
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "08:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 08:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 473,
+        "type": "anime",
+        "name": "Ascension",
+        "url": "https://myanimelist.net/anime/producer/473/Ascension"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54216,
+            "type": "anime",
+            "name": "Gunma-chan Season 2",
+            "url": "https://myanimelist.net/anime/54216/Gunma-chan_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"SWITCH!\" by Gunma-chan (Karin Takahashi), Aoma (Aya Uchida), Miimi (Yui Ogura)"
+      ],
+      "endings": [
+        "\"Happy\" by Maria Imamura (HKT48)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gunmachan-official.jp/animation/"
+      },
+      {
+        "name": "@gunma_gunmachan",
+        "url": "https://twitter.com/gunma_gunmachan"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16416"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24141"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%93%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6163"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/341168"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283446"
+      }
+    ]
+  }
+}

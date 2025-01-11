@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 47200,
+    "url": "https://myanimelist.net/anime/47200/Juedui_Lingyu__Ji_Zhan_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1042/129234.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1042/129234t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1042/129234l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1042/129234.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1042/129234t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1042/129234l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Juedui Lingyu: Ji Zhan Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "绝对领域极战纪"
+      }
+    ],
+    "title": "Juedui Lingyu: Ji Zhan Ji",
+    "title_english": null,
+    "title_japanese": "绝对领域极战纪",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-15T00:00:00+00:00",
+      "to": "2016-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2016
+        }
+      },
+      "string": "Apr 15, 2016 to Sep 30, 2016"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16454,
+    "popularity": 24673,
+    "members": 94,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47199,
+            "type": "anime",
+            "name": "Juedui Lingyu A. F.",
+            "url": "https://myanimelist.net/anime/47199/Juedui_Lingyu_A_F"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 47201,
+            "type": "anime",
+            "name": "Juedui Lingyu Fanwai Pian",
+            "url": "https://myanimelist.net/anime/47201/Juedui_Lingyu_Fanwai_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://bangumi.tv/subject/178799"
+      }
+    ],
+    "streaming": []
+  }
+}

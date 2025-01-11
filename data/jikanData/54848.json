@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 54848,
+    "url": "https://myanimelist.net/anime/54848/Sakuretsu_Amabie-hime_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1254/134721.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1254/134721t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1254/134721l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1254/134721.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1254/134721t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1254/134721l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sakuretsu! Amabie-hime. Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "炸裂！あまびえ姫。 Season 2"
+      }
+    ],
+    "title": "Sakuretsu! Amabie-hime. Season 2",
+    "title_english": null,
+    "title_japanese": "炸裂！あまびえ姫。 Season 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-09T00:00:00+00:00",
+      "to": "2023-06-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 24,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "string": "Apr 9, 2023 to Jun 24, 2023"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18828,
+    "popularity": 18842,
+    "members": 343,
+    "favorites": 1,
+    "synopsis": "The second season of Sakuretsu! Amabie-hime.",
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "06:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 06:55 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2729,
+        "type": "anime",
+        "name": "CANON RECORDINGS",
+        "url": "https://myanimelist.net/anime/producer/2729/CANON_RECORDINGS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52337,
+            "type": "anime",
+            "name": "Sakuretsu! Amabie-hime.",
+            "url": "https://myanimelist.net/anime/52337/Sakuretsu_Amabie-hime"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57881,
+            "type": "anime",
+            "name": "Sakuretsu! Amabie-hime. Season 3",
+            "url": "https://myanimelist.net/anime/57881/Sakuretsu_Amabie-hime_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"dilemma (慈憐麻)\" by Étoile Ange"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://canonrecordings.com/sakuretsuamabie"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27580"
+      }
+    ],
+    "streaming": []
+  }
+}

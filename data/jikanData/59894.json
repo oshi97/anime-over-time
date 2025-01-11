@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 59894,
+    "url": "https://myanimelist.net/anime/59894/Shooting_Star_Catch_Tiniping",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/145688.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/145688t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/145688l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/145688.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/145688t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/145688l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shooting Star Catch! Tiniping"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Catch! Teenieping"
+      },
+      {
+        "type": "Japanese",
+        "title": "슈팅스타 캐치! 티니핑"
+      }
+    ],
+    "title": "Shooting Star Catch! Tiniping",
+    "title_english": null,
+    "title_japanese": "슈팅스타 캐치! 티니핑",
+    "title_synonyms": [
+      "Star Catch! Teenieping"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-10-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 10, 2024 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14136,
+    "popularity": 19810,
+    "members": 285,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2024,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "18:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 18:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2541,
+        "type": "anime",
+        "name": "SAMG Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2541/SAMG_Entertainment_"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56677,
+            "type": "anime",
+            "name": "Saekomdalkom Catch! Tiniping",
+            "url": "https://myanimelist.net/anime/56677/Saekomdalkom_Catch_Tiniping"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/%EC%8A%88%ED%8C%85%EC%8A%A4%ED%83%80%20%EC%BA%90%EC%B9%98!%20%ED%8B%B0%EB%8B%88%ED%95%91"
+      }
+    ],
+    "streaming": []
+  }
+}

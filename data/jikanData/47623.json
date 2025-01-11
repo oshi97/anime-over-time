@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 47623,
+    "url": "https://myanimelist.net/anime/47623/Chickip_Dancers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/120067.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/120067t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/120067l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/120067.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/120067t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/120067l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chickip Dancers"
+      },
+      {
+        "type": "Japanese",
+        "title": "チキップダンサーズ"
+      }
+    ],
+    "title": "Chickip Dancers",
+    "title_english": null,
+    "title_japanese": "チキップダンサーズ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-05T00:00:00+00:00",
+      "to": "2022-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Oct 5, 2021 to Mar 29, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19745,
+    "popularity": 13951,
+    "members": 1056,
+    "favorites": 6,
+    "synopsis": "TV anime based on San-X's new series of mascot characters \"Chickip Dancers.\" The main characters in the anime will be the apprehensive but curious bone-in chicken Hone Chicken, and the dancing instructor frog Skip Gaeru, who travels by dancing.\n\n(Source: ANN)",
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "17:20",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 17:20 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 261,
+        "type": "anime",
+        "name": "San-X",
+        "url": "https://myanimelist.net/anime/producer/261/San-X"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53320,
+            "type": "anime",
+            "name": "Chickip Dancers 2nd Season",
+            "url": "https://myanimelist.net/anime/53320/Chickip_Dancers_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Chickip Dance (チキップダンス) \" by Erino Yumiki (弓木英梨乃)"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.san-x.co.jp/chickipdancers/"
+      },
+      {
+        "name": "@chickipdancers",
+        "url": "https://twitter.com/chickipdancers"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16050"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24039"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chickip_Dancers"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%AD%E3%83%83%E3%83%97%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%BA#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6157"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/347804"
+      }
+    ],
+    "streaming": []
+  }
+}

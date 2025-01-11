@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 55939,
+    "url": "https://myanimelist.net/anime/55939/Synduality__Kagaku_Kouza",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/137089.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/137089t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/137089l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/137089.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/137089t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/137089l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Synduality: Kagaku Kouza"
+      },
+      {
+        "type": "Japanese",
+        "title": "シンデュアリティ科学講座"
+      }
+    ],
+    "title": "Synduality: Kagaku Kouza",
+    "title_english": null,
+    "title_japanese": "シンデュアリティ科学講座",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Mixed media",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-12T00:00:00+00:00",
+      "to": "2024-03-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": 20,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "string": "Jul 12, 2023 to Mar 20, 2024"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.77,
+    "scored_by": 131,
+    "rank": 11047,
+    "popularity": 15415,
+    "members": 697,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53026,
+            "type": "anime",
+            "name": "Synduality: Noir",
+            "url": "https://myanimelist.net/anime/53026/Synduality__Noir"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@SYN_noir",
+        "url": "https://twitter.com/SYN_noir"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5C4b0mzCH50"
+      }
+    ],
+    "streaming": []
+  }
+}

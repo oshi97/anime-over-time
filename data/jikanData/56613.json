@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 56613,
+    "url": "https://myanimelist.net/anime/56613/Azur_Lane__Bisoku_Zenshin_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1456/138408.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1456/138408t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1456/138408l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1456/138408.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1456/138408t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1456/138408l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "gmcEkzYJRtE",
+      "url": "https://www.youtube.com/watch?v=gmcEkzYJRtE",
+      "embed_url": "https://www.youtube.com/embed/gmcEkzYJRtE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/gmcEkzYJRtE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/gmcEkzYJRtE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/gmcEkzYJRtE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/gmcEkzYJRtE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/gmcEkzYJRtE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Azur Lane: Bisoku Zenshin! Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "アズールレーン びそくぜんしんっ！"
+      },
+      {
+        "type": "English",
+        "title": "Azur Lane: Slow Ahead! Season 2"
+      }
+    ],
+    "title": "Azur Lane: Bisoku Zenshin! Season 2",
+    "title_english": "Azur Lane: Slow Ahead! Season 2",
+    "title_japanese": "アズールレーン びそくぜんしんっ！",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 11104,
+    "members": 2486,
+    "favorites": 8,
+    "synopsis": "Second Season of Azur Lane: Bisoku Zenshin!",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      },
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40930,
+            "type": "anime",
+            "name": "Azur Lane: Bisoku Zenshin!",
+            "url": "https://myanimelist.net/anime/40930/Azur_Lane__Bisoku_Zenshin"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 115955,
+            "type": "manga",
+            "name": "Azur Lane: Bisoku Zenshin!",
+            "url": "https://myanimelist.net/manga/115955/Azur_Lane__Bisoku_Zenshin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.azurlane-bisoku.jp/"
+      },
+      {
+        "name": "@azurlane_bisoku",
+        "url": "https://twitter.com/azurlane_bisoku"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18188"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29823"
+      }
+    ],
+    "streaming": []
+  }
+}

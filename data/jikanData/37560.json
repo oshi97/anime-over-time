@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 37560,
+    "url": "https://myanimelist.net/anime/37560/Mannaka_no_RikkunKin_Tele",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1206/91318.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1206/91318t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1206/91318l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1206/91318.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1206/91318t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1206/91318l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mannaka no Rikkun@Kin Tele"
+      },
+      {
+        "type": "Synonym",
+        "title": "Rikkun in the Middle"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mannaka no Rikkun@Kintere"
+      },
+      {
+        "type": "Japanese",
+        "title": "まんなかのりっくん＠きんてれ"
+      }
+    ],
+    "title": "Mannaka no Rikkun@Kin Tele",
+    "title_english": null,
+    "title_japanese": "まんなかのりっくん＠きんてれ",
+    "title_synonyms": [
+      "Rikkun in the Middle",
+      "Mannaka no Rikkun@Kintere"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-09T00:00:00+00:00",
+      "to": "2019-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      "string": "Jan 9, 2019 to Mar 27, 2019"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17330,
+    "popularity": 16833,
+    "members": 505,
+    "favorites": 0,
+    "synopsis": "The \"home comedy\" centers on the mischievous boy Rikkun and his eccentric family.\n\n(Source: ANN)",
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "07:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 07:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 765,
+        "type": "anime",
+        "name": "Sakura Create",
+        "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 104301,
+            "type": "manga",
+            "name": "Mannaka no Rikkun",
+            "url": "https://myanimelist.net/manga/104301/Mannaka_no_Rikkun"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/kinder/intro/sakuhin13/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13955"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20782"
+      }
+    ],
+    "streaming": []
+  }
+}

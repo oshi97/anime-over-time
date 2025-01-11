@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 53220,
+    "url": "https://myanimelist.net/anime/53220/Penpe_to_Pinpi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1141/130418.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/130418t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/130418l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1141/130418.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/130418t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/130418l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Penpe to Pinpi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ペンぺとピンピ"
+      }
+    ],
+    "title": "Penpe to Pinpi",
+    "title_english": null,
+    "title_japanese": "ペンぺとピンピ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-09T00:00:00+00:00",
+      "to": "2023-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Oct 9, 2022 to Mar 26, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18304,
+    "popularity": 21223,
+    "members": 205,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2961,
+        "type": "anime",
+        "name": "Masaka",
+        "url": "https://myanimelist.net/anime/producer/2961/Masaka"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57103,
+            "type": "anime",
+            "name": "Penpe to Pinpi Season 2",
+            "url": "https://myanimelist.net/anime/57103/Penpe_to_Pinpi_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/aMI87e8i-p0"
+      }
+    ],
+    "streaming": []
+  }
+}

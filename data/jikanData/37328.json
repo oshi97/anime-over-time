@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 37328,
+    "url": "https://myanimelist.net/anime/37328/Oshiete_Mahou_no_Pendulum__Rilu_Rilu_Fairilu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/93548.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/93548t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/93548l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/93548.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/93548t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/93548l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu"
+      },
+      {
+        "type": "Japanese",
+        "title": "おしえて魔法のペンデュラム～リルリルフェアリル～"
+      }
+    ],
+    "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+    "title_english": null,
+    "title_japanese": "おしえて魔法のペンデュラム～リルリルフェアリル～",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-07T00:00:00+00:00",
+      "to": "2019-01-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 5,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Jul 7, 2018 to Jan 5, 2019"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.52,
+    "scored_by": 455,
+    "rank": 6910,
+    "popularity": 12524,
+    "members": 1589,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2018,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "08:15",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 08:15 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 64,
+        "type": "anime",
+        "name": "Sotsu",
+        "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34927,
+            "type": "anime",
+            "name": "Rilu Rilu Fairilu: Mahou no Kagami",
+            "url": "https://myanimelist.net/anime/34927/Rilu_Rilu_Fairilu__Mahou_no_Kagami"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Oshiete Mahou no Pendulum\" by Lip (Hanamori Yumiri) and Spica (Ozawa Ari)"
+      ],
+      "endings": [
+        "\"\"Suki\" no Katachi\" by Lip (Hanamori Yumiri)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://fairilu.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13811"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ]
+  }
+}

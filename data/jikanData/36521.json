@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 36521,
+    "url": "https://myanimelist.net/anime/36521/Dies_Irae__Irasshai_Zonnenji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/88198.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88198t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88198l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/88198.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88198t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88198l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dies Irae: Irasshai Zonnenji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dies Irae Picture Drama"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dies Irae Radio Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "【Dies irae】「いらっしゃい雑念寺」"
+      }
+    ],
+    "title": "Dies Irae: Irasshai Zonnenji",
+    "title_english": null,
+    "title_japanese": "【Dies irae】「いらっしゃい雑念寺」",
+    "title_synonyms": [
+      "Dies Irae Picture Drama",
+      "Dies Irae Radio Drama"
+    ],
+    "type": "ONA",
+    "source": "Visual novel",
+    "episodes": 18,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-06-28T00:00:00+00:00",
+      "to": "2017-10-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 6,
+          "year": 2017
+        },
+        "to": {
+          "day": 18,
+          "month": 10,
+          "year": 2017
+        }
+      },
+      "string": "Jun 28, 2017 to Oct 18, 2017"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.59,
+    "scored_by": 577,
+    "rank": 11801,
+    "popularity": 10060,
+    "members": 3388,
+    "favorites": 1,
+    "synopsis": "A picture drama parody of Dies Irae, but advertised as a radio-style drama. It predominantly follows a chibi-Kasumi and chibi-Rea at the temple.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 179,
+        "type": "anime",
+        "name": "A.C.G.T.",
+        "url": "https://myanimelist.net/anime/producer/179/ACGT"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58794,
+            "type": "anime",
+            "name": "Dies Irae: Irasshai Zonnenji Specials",
+            "url": "https://myanimelist.net/anime/58794/Dies_Irae__Irasshai_Zonnenji_Specials"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32271,
+            "type": "anime",
+            "name": "Dies Irae",
+            "url": "https://myanimelist.net/anime/32271/Dies_Irae"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11204"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)"
+      }
+    ],
+    "streaming": []
+  }
+}

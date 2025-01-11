@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 37017,
+    "url": "https://myanimelist.net/anime/37017/Kensaku_to_Enjin_no_ABC_Days",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/89761.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/89761t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/89761l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/89761.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/89761t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/89761l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kensaku to Enjin no ABC Days"
+      },
+      {
+        "type": "Japanese",
+        "title": "けんさくとえんじんのABC Days"
+      }
+    ],
+    "title": "Kensaku to Enjin no ABC Days",
+    "title_english": null,
+    "title_japanese": "けんさくとえんじんのABC Days",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-23T00:00:00+00:00",
+      "to": "2017-12-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": 20,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      "string": "Nov 23, 2017 to Dec 20, 2017"
+    },
+    "duration": "38 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.68,
+    "scored_by": 104,
+    "rank": 11420,
+    "popularity": 19769,
+    "members": 286,
+    "favorites": 0,
+    "synopsis": "Short educational videos teaching children English words.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 795,
+        "type": "anime",
+        "name": "Yahoo! Japan",
+        "url": "https://myanimelist.net/anime/producer/795/Yahoo_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 38785,
+            "type": "anime",
+            "name": "Kensaku to Enjin no Happy Birthday",
+            "url": "https://myanimelist.net/anime/38785/Kensaku_to_Enjin_no_Happy_Birthday"
+          },
+          {
+            "mal_id": 38786,
+            "type": "anime",
+            "name": "Kensaku to Enjin no Atarashii Tomodachi: Query Toujou!",
+            "url": "https://myanimelist.net/anime/38786/Kensaku_to_Enjin_no_Atarashii_Tomodachi__Query_Toujou"
+          },
+          {
+            "mal_id": 38738,
+            "type": "anime",
+            "name": "Kensaku to Enjin no Christmas",
+            "url": "https://myanimelist.net/anime/38738/Kensaku_to_Enjin_no_Christmas"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 59602,
+            "type": "anime",
+            "name": "Brown & Kensaku",
+            "url": "https://myanimelist.net/anime/59602/Brown___Kensaku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kensakutoenjin.yahoo.co.jp/abcdays/"
+      }
+    ],
+    "streaming": []
+  }
+}

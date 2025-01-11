@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 54216,
+    "url": "https://myanimelist.net/anime/54216/Gunma-chan_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/132675.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/132675t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/132675l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/132675.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/132675t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/132675l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "CWWePxzguEA",
+      "url": "https://www.youtube.com/watch?v=CWWePxzguEA",
+      "embed_url": "https://www.youtube.com/embed/CWWePxzguEA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/CWWePxzguEA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/CWWePxzguEA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/CWWePxzguEA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/CWWePxzguEA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/CWWePxzguEA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gunma-chan Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぐんまちゃん シーズン2"
+      }
+    ],
+    "title": "Gunma-chan Season 2",
+    "title_english": null,
+    "title_japanese": "ぐんまちゃん シーズン2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-08T00:00:00+00:00",
+      "to": "2023-07-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 1,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "string": "Apr 8, 2023 to Jul 1, 2023"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20762,
+    "popularity": 16839,
+    "members": 504,
+    "favorites": 1,
+    "synopsis": "The second season of Gunma-chan, an anime series based on the Gunma Prefecture mascot character, Gunma-chan.",
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:58",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:58 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 473,
+        "type": "anime",
+        "name": "Ascension",
+        "url": "https://myanimelist.net/anime/producer/473/Ascension"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49184,
+            "type": "anime",
+            "name": "Gunma-chan",
+            "url": "https://myanimelist.net/anime/49184/Gunma-chan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gunmachan-official.jp/animation/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17319"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25564"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%93%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283446"
+      }
+    ]
+  }
+}

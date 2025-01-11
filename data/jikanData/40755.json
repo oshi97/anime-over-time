@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 40755,
+    "url": "https://myanimelist.net/anime/40755/Machikado_Mazoku_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1344/104455.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/104455t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/104455l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1344/104455.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/104455t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/104455l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Machikado Mazoku Mini"
+      },
+      {
+        "type": "Japanese",
+        "title": "まちカドまぞく みに"
+      },
+      {
+        "type": "English",
+        "title": "The Demon Girl Next Door Minis"
+      }
+    ],
+    "title": "Machikado Mazoku Mini",
+    "title_english": "The Demon Girl Next Door Minis",
+    "title_japanese": "まちカドまぞく みに",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "4-koma manga",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-06-24T00:00:00+00:00",
+      "to": "2019-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 6,
+          "year": 2019
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Jun 24, 2019 to Sep 30, 2019"
+    },
+    "duration": "25 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.1,
+    "scored_by": 1102,
+    "rank": 9350,
+    "popularity": 8898,
+    "members": 4983,
+    "favorites": 2,
+    "synopsis": "Short specials uploaded to the official Twitter of the anime Machikado Mazoku and later bundled with the BD/DVD.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 306,
+        "type": "anime",
+        "name": "Magic Capsule",
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51543,
+            "type": "anime",
+            "name": "Machikado Mazoku: 2-choume Mini",
+            "url": "https://myanimelist.net/anime/51543/Machikado_Mazoku__2-choume_Mini"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 39071,
+            "type": "anime",
+            "name": "Machikado Mazoku",
+            "url": "https://myanimelist.net/anime/39071/Machikado_Mazoku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tbs.co.jp/anime/machikado/goods/disc.html"
+      }
+    ],
+    "streaming": []
+  }
+}

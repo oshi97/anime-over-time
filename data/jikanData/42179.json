@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 42179,
+    "url": "https://myanimelist.net/anime/42179/Lalalacoco_II",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1354/107937t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1354/107937l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1354/107937.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1354/107937t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1354/107937l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lalalacoco II"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lalalacoco Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "LALALACOCO II"
+      }
+    ],
+    "title": "Lalalacoco II",
+    "title_english": null,
+    "title_japanese": "LALALACOCO II",
+    "title_synonyms": [
+      "Lalalacoco Second Season"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-07T00:00:00+00:00",
+      "to": "2020-09-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 22,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Jul 7, 2020 to Sep 22, 2020"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17028,
+    "popularity": 20077,
+    "members": 270,
+    "favorites": 0,
+    "synopsis": "Second season of Lalalacoco.",
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 126,
+        "type": "anime",
+        "name": "Studio Comet",
+        "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40953,
+            "type": "anime",
+            "name": "Lalalacoco",
+            "url": "https://myanimelist.net/anime/40953/Lalalacoco"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.lalalacoco.net/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15623"
+      }
+    ],
+    "streaming": []
+  }
+}

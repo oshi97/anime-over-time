@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 48169,
+    "url": "https://myanimelist.net/anime/48169/Dudadakung",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/130313.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/130313t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/130313l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/130313.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/130313t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/130313l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dudadakung"
+      },
+      {
+        "type": "Japanese",
+        "title": "두다다쿵"
+      },
+      {
+        "type": "English",
+        "title": "Duda & Dada"
+      }
+    ],
+    "title": "Dudadakung",
+    "title_english": "Duda & Dada",
+    "title_japanese": "두다다쿵",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-18T00:00:00+00:00",
+      "to": "2014-05-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": 21,
+          "month": 5,
+          "year": 2014
+        }
+      },
+      "string": "Dec 18, 2013 to May 21, 2014"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20279,
+    "popularity": 24006,
+    "members": 105,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48170,
+            "type": "anime",
+            "name": "Dudadakung 2nd Season",
+            "url": "https://myanimelist.net/anime/48170/Dudadakung_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%91%90%EB%8B%A4%EB%8B%A4%EC%BF%B5"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 56303,
+    "url": "https://myanimelist.net/anime/56303/Hello_Carbot_Season_8",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1462/137812.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1462/137812t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1462/137812l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1462/137812.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1462/137812t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1462/137812l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot Season 8"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 카봇 시즌8"
+      }
+    ],
+    "title": "Hello Carbot Season 8",
+    "title_english": null,
+    "title_japanese": "헬로 카봇 시즌8",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-05T00:00:00+00:00",
+      "to": "2020-06-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 28,
+          "month": 6,
+          "year": 2020
+        }
+      },
+      "string": "Jan 5, 2020 to Jun 28, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20967,
+    "popularity": 23138,
+    "members": 124,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56299,
+            "type": "anime",
+            "name": "Hello Carbot Season 7",
+            "url": "https://myanimelist.net/anime/56299/Hello_Carbot_Season_7"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56304,
+            "type": "anime",
+            "name": "Hello Carbot Season 9",
+            "url": "https://myanimelist.net/anime/56304/Hello_Carbot_Season_9"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56311,
+            "type": "anime",
+            "name": "Hello Carbot: Dalnalaleul Guhaejwo!",
+            "url": "https://myanimelist.net/anime/56311/Hello_Carbot__Dalnalaleul_Guhaejwo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

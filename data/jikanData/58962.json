@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 58962,
+    "url": "https://myanimelist.net/anime/58962/Pipilu_Anquan_Tegong_Dui_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1538/143372.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/143372t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/143372l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1538/143372.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/143372t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/143372l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pipilu Anquan Tegong Dui 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "皮皮鲁安全特工队3"
+      },
+      {
+        "type": "English",
+        "title": "Pipilu Rangers 3rd Season"
+      }
+    ],
+    "title": "Pipilu Anquan Tegong Dui 3rd Season",
+    "title_english": "Pipilu Rangers 3rd Season",
+    "title_japanese": "皮皮鲁安全特工队3",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-06T00:00:00+00:00",
+      "to": "2021-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Aug 6, 2021 to 2021"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18359,
+    "popularity": 27584,
+    "members": 53,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58960,
+            "type": "anime",
+            "name": "Pipilu Anquan Tegong Dui 2nd Season",
+            "url": "https://myanimelist.net/anime/58960/Pipilu_Anquan_Tegong_Dui_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

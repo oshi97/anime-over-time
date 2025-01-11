@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 56909,
+    "url": "https://myanimelist.net/anime/56909/Porong_Porong_Pororo_8",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1515/139097.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1515/139097t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1515/139097l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1515/139097.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1515/139097t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1515/139097l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Porong Porong Pororo 8"
+      },
+      {
+        "type": "Japanese",
+        "title": "뽀롱뽀롱 뽀로로 8"
+      }
+    ],
+    "title": "Porong Porong Pororo 8",
+    "title_english": null,
+    "title_japanese": "뽀롱뽀롱 뽀로로 8",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-28T00:00:00+00:00",
+      "to": "2023-11-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": 21,
+          "month": 11,
+          "year": 2023
+        }
+      },
+      "string": "Aug 28, 2023 to Nov 21, 2023"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18411,
+    "popularity": 22035,
+    "members": 164,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48245,
+            "type": "anime",
+            "name": "Porong Porong Pororo 7",
+            "url": "https://myanimelist.net/anime/48245/Porong_Porong_Pororo_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/뽀롱뽀롱%20뽀로로"
+      }
+    ],
+    "streaming": []
+  }
+}

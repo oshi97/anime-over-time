@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 51155,
+    "url": "https://myanimelist.net/anime/51155/Cap_Kakumei_Bottleman_DX",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1699/121192.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/121192t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/121192l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1699/121192.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/121192t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/121192l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cap Kakumei Bottleman DX"
+      },
+      {
+        "type": "Japanese",
+        "title": "キャップ革命 ボトルマンDX"
+      },
+      {
+        "type": "English",
+        "title": "Cap Revolution Bottleman DX"
+      }
+    ],
+    "title": "Cap Kakumei Bottleman DX",
+    "title_english": "Cap Revolution Bottleman DX",
+    "title_japanese": "キャップ革命 ボトルマンDX",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Game",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-03T00:00:00+00:00",
+      "to": "2023-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Apr 3, 2022 to Mar 26, 2023"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.15,
+    "scored_by": 182,
+    "rank": 9056,
+    "popularity": 14071,
+    "members": 1023,
+    "favorites": 8,
+    "synopsis": "Second season of Cap Kakumei Bottleman.",
+    "background": "",
+    "season": "spring",
+    "year": 2022,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "09:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 09:30 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1314,
+        "type": "anime",
+        "name": "Gaina",
+        "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 52867,
+            "type": "anime",
+            "name": "Cap Kakumei Bottleman DX: Side Story",
+            "url": "https://myanimelist.net/anime/52867/Cap_Kakumei_Bottleman_DX__Side_Story"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 42890,
+            "type": "anime",
+            "name": "Cap Kakumei Bottleman",
+            "url": "https://myanimelist.net/anime/42890/Cap_Kakumei_Bottleman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bottleman.net/"
+      }
+    ],
+    "streaming": []
+  }
+}

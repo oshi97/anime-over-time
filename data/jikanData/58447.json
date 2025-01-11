@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 58447,
+    "url": "https://myanimelist.net/anime/58447/Shibuya♡Hachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/142078.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/142078t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/142078l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/142078.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/142078t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/142078l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "ttmCOR4okfs",
+      "url": "https://www.youtube.com/watch?v=ttmCOR4okfs",
+      "embed_url": "https://www.youtube.com/embed/ttmCOR4okfs?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/ttmCOR4okfs/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/ttmCOR4okfs/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/ttmCOR4okfs/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/ttmCOR4okfs/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/ttmCOR4okfs/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shibuya♡Hachi"
+      },
+      {
+        "type": "Japanese",
+        "title": "SHIBUYA♡HACHI"
+      }
+    ],
+    "title": "Shibuya♡Hachi",
+    "title_english": null,
+    "title_japanese": "SHIBUYA♡HACHI",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-06T00:00:00+00:00",
+      "to": "2024-06-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": 29,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "Apr 6, 2024 to Jun 29, 2024"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14036,
+    "popularity": 15730,
+    "members": 646,
+    "favorites": 0,
+    "synopsis": "In the anime, Hachi has been watching over the city as the symbol of Shibuya station's loyal dog Hachiko statue. Hachi begins to move in present day Shibuya, spending a relaxed and fun daily life with his cheerful friends.\n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 1344,
+        "type": "anime",
+        "name": "King Records",
+        "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Nippon Animation",
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59485,
+            "type": "anime",
+            "name": "Shibuya♡Hachi Part 2",
+            "url": "https://myanimelist.net/anime/59485/Shibuya♡Hachi_Part_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Dusk\" by HACHI"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nipponanimation.com/program/16325/"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/shibuya-hachi/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18492"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32089"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7067"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 56357,
+    "url": "https://myanimelist.net/anime/56357/Hero_Circle_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1706/137902.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1706/137902t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1706/137902l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1706/137902.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1706/137902t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1706/137902l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hero Circle 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "히어로 써클 2"
+      }
+    ],
+    "title": "Hero Circle 2",
+    "title_english": null,
+    "title_japanese": "히어로 써클 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-29T00:00:00+00:00",
+      "to": "2022-09-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": 21,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Jun 29, 2022 to Sep 21, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20996,
+    "popularity": 23662,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56356,
+            "type": "anime",
+            "name": "Hero Circle",
+            "url": "https://myanimelist.net/anime/56356/Hero_Circle"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/히어로%20써클"
+      }
+    ],
+    "streaming": []
+  }
+}

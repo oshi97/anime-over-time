@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 46119,
+    "url": "https://myanimelist.net/anime/46119/Mashiro_no_Oto_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/111206t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/111206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/111206.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/111206t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/111206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mashiro no Oto Mini"
+      },
+      {
+        "type": "Japanese",
+        "title": "ましろのおと ミニ"
+      }
+    ],
+    "title": "Mashiro no Oto Mini",
+    "title_english": null,
+    "title_japanese": "ましろのおと ミニ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 33,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-15T00:00:00+00:00",
+      "to": "2021-06-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": 21,
+          "month": 6,
+          "year": 2021
+        }
+      },
+      "string": "Jan 15, 2021 to Jun 21, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.69,
+    "scored_by": 261,
+    "rank": 11412,
+    "popularity": 13058,
+    "members": 1345,
+    "favorites": 1,
+    "synopsis": "Mini Mashiro no Oto anime released on the official Twitter account.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1903,
+        "type": "anime",
+        "name": "IMAGICA Lab.",
+        "url": "https://myanimelist.net/anime/producer/1903/IMAGICA_Lab"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42590,
+            "type": "anime",
+            "name": "Mashiro no Oto",
+            "url": "https://myanimelist.net/anime/42590/Mashiro_no_Oto"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15666"
+      }
+    ],
+    "streaming": []
+  }
+}

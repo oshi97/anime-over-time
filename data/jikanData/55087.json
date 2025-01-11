@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 55087,
+    "url": "https://myanimelist.net/anime/55087/Rainbow_Ruby_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1596/135482.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1596/135482t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1596/135482l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1596/135482.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1596/135482t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1596/135482l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rainbow Ruby 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "레인보우 루비2"
+      },
+      {
+        "type": "English",
+        "title": "Rainbow Ruby Season 2"
+      }
+    ],
+    "title": "Rainbow Ruby 2nd Season",
+    "title_english": "Rainbow Ruby Season 2",
+    "title_japanese": "레인보우 루비2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-02T00:00:00+00:00",
+      "to": "2020-06-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 26,
+          "month": 6,
+          "year": 2020
+        }
+      },
+      "string": "Apr 2, 2020 to Jun 26, 2020"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18616,
+    "popularity": 23368,
+    "members": 119,
+    "favorites": 0,
+    "synopsis": "The second season of Rainbow Ruby.",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41277,
+            "type": "anime",
+            "name": "Rainbow Ruby",
+            "url": "https://myanimelist.net/anime/41277/Rainbow_Ruby"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@RainbowRuby"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rainbow_Ruby"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 45104,
+    "url": "https://myanimelist.net/anime/45104/Shenhai_Tegong_Dui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/128162.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/128162t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/128162l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/128162.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/128162t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/128162l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shenhai Tegong Dui"
+      },
+      {
+        "type": "Japanese",
+        "title": "深海特攻队"
+      },
+      {
+        "type": "English",
+        "title": "Deep Sea Ranger"
+      }
+    ],
+    "title": "Shenhai Tegong Dui",
+    "title_english": "Deep Sea Ranger",
+    "title_japanese": "深海特攻队",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 10, 2016 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 13970,
+    "popularity": 25659,
+    "members": 79,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 45105,
+            "type": "anime",
+            "name": "Shenhai Tegong Dui: Chao Neng Jing Shi",
+            "url": "https://myanimelist.net/anime/45105/Shenhai_Tegong_Dui__Chao_Neng_Jing_Shi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/34968932/"
+      }
+    ],
+    "streaming": []
+  }
+}

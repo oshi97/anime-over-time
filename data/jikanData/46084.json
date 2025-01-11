@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 46084,
+    "url": "https://myanimelist.net/anime/46084/Id_Indeed",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1537/111162.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/111162t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/111162l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1537/111162.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/111162t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/111162l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Id:Indeed"
+      },
+      {
+        "type": "Japanese",
+        "title": "イド：インディード"
+      }
+    ],
+    "title": "Id:Indeed",
+    "title_english": null,
+    "title_japanese": "イド：インディード",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-08T00:00:00+00:00",
+      "to": "2021-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Jan 8, 2021 to Mar 26, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.55,
+    "scored_by": 281,
+    "rank": 11906,
+    "popularity": 13264,
+    "members": 1273,
+    "favorites": 0,
+    "synopsis": "It is a comedic spin-off of Id:Invaded, depicting \"chibi\" style versions of characters in a series of fourth-wall breaking skits.\n\n(Source: Id:Invaded Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 951,
+        "type": "anime",
+        "name": "NAZ",
+        "url": "https://myanimelist.net/anime/producer/951/NAZ"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40046,
+            "type": "anime",
+            "name": "Id:Invaded",
+            "url": "https://myanimelist.net/anime/40046/Id_Invaded"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/idinvadedanim"
+      }
+    ],
+    "streaming": []
+  }
+}

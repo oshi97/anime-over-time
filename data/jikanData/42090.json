@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 42090,
+    "url": "https://myanimelist.net/anime/42090/Taeko_no_Nichijou_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/108538t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/108538l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/108538.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/108538t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/108538l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Taeko no Nichijou 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "耐え子の日常"
+      }
+    ],
+    "title": "Taeko no Nichijou 2nd Season",
+    "title_english": null,
+    "title_japanese": "耐え子の日常",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 132,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-01T00:00:00+00:00",
+      "to": "2020-12-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 31,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Jul 1, 2020 to Dec 31, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14492,
+    "popularity": 17445,
+    "members": 448,
+    "favorites": 1,
+    "synopsis": "Sequel of Taeko no Nichijou.",
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40423,
+            "type": "anime",
+            "name": "Taeko no Nichijou",
+            "url": "https://myanimelist.net/anime/40423/Taeko_no_Nichijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.dle.jp/jp/property/taeko.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15581"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%80%90%E3%81%88%E5%AD%90%E3%81%AE%E6%97%A5%E5%B8%B8#%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

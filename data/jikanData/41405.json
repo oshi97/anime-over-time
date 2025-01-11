@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 41405,
+    "url": "https://myanimelist.net/anime/41405/Bakugan__Armored_Alliance",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/106364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/106364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/106364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/106364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/106364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bakugan: Armored Alliance"
+      },
+      {
+        "type": "Japanese",
+        "title": "爆丸アーマードアライアンス"
+      }
+    ],
+    "title": "Bakugan: Armored Alliance",
+    "title_english": null,
+    "title_japanese": "爆丸アーマードアライアンス",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-03T00:00:00+00:00",
+      "to": "2021-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Apr 3, 2020 to Mar 26, 2021"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": 5.71,
+    "scored_by": 1698,
+    "rank": 11301,
+    "popularity": 9203,
+    "members": 4493,
+    "favorites": 6,
+    "synopsis": "Second season of Bakugan: Battle Planet.",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Fridays",
+      "time": "03:04",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 03:04 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39622,
+            "type": "anime",
+            "name": "Bakugan: Battle Planet",
+            "url": "https://myanimelist.net/anime/39622/Bakugan__Battle_Planet"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48555,
+            "type": "anime",
+            "name": "Bakugan: Geogan Rising",
+            "url": "https://myanimelist.net/anime/48555/Bakugan__Geogan_Rising"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"PLANET HERO\" by Dan Kuusou (Rie Takahashi), Dragonoid (Shunsuke Takeuchi)"
+      ],
+      "endings": [
+        "\"Go! Bakugan Blow! (ゴー！爆丸ブロー！)\" by Dragonoid (Shunsuke Takeuchi)"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15431"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23069"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bakugan:_Armored_Alliance"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ]
+  }
+}

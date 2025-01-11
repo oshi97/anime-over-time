@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 53248,
+    "url": "https://myanimelist.net/anime/53248/Shinmai_Renkinjutsushi_no_Tenpo_Keiei_Mini_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1843/128798.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/128798t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/128798l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1843/128798.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/128798t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/128798l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Management of Novice Alchemist Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "新米錬金術師の店舗経営 ミニアニメ"
+      }
+    ],
+    "title": "Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime",
+    "title_english": null,
+    "title_japanese": "新米錬金術師の店舗経営 ミニアニメ",
+    "title_synonyms": [
+      "Management of Novice Alchemist Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-30T00:00:00+00:00",
+      "to": "2022-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Sep 30, 2022 to Dec 23, 2022"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.93,
+    "scored_by": 309,
+    "rank": 10237,
+    "popularity": 14118,
+    "members": 1010,
+    "favorites": 1,
+    "synopsis": "Mini anime episodes posted on the official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1974,
+        "type": "anime",
+        "name": "ENGI",
+        "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 54218,
+            "type": "anime",
+            "name": "Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime: Onsen",
+            "url": "https://myanimelist.net/anime/54218/Shinmai_Renkinjutsushi_no_Tenpo_Keiei_Mini_Anime__Onsen"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 49849,
+            "type": "anime",
+            "name": "Shinmai Renkinjutsushi no Tenpo Keiei",
+            "url": "https://myanimelist.net/anime/49849/Shinmai_Renkinjutsushi_no_Tenpo_Keiei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shinmai-renkin.com/"
+      },
+      {
+        "name": "@shinmai_renkin",
+        "url": "https://twitter.com/shinmai_renkin"
+      }
+    ],
+    "streaming": []
+  }
+}

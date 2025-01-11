@@ -1,0 +1,190 @@
+{
+  "data": {
+    "mal_id": 51132,
+    "url": "https://myanimelist.net/anime/51132/Akachan_Honbuchou_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/121112.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/121112t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/121112l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/121112.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/121112t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/121112l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akachan Honbuchou 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "General Manager of Baby 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "赤ちゃん本部長"
+      },
+      {
+        "type": "English",
+        "title": "Baby in Charge 2nd Season"
+      }
+    ],
+    "title": "Akachan Honbuchou 2nd Season",
+    "title_english": "Baby in Charge 2nd Season",
+    "title_japanese": "赤ちゃん本部長",
+    "title_synonyms": [
+      "General Manager of Baby 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-09T00:00:00+00:00",
+      "to": "2022-02-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 27,
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "string": "Jan 9, 2022 to Feb 27, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18995,
+    "popularity": 18724,
+    "members": 351,
+    "favorites": 0,
+    "synopsis": "The second season of Akachan Honbuchou.",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      },
+      {
+        "mal_id": 1797,
+        "type": "anime",
+        "name": "NHK Enterprises",
+        "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1265,
+        "type": "anime",
+        "name": "Tomovies",
+        "url": "https://myanimelist.net/anime/producer/1265/Tomovies"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48495,
+            "type": "anime",
+            "name": "Akachan Honbuchou",
+            "url": "https://myanimelist.net/anime/48495/Akachan_Honbuchou"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51997,
+            "type": "anime",
+            "name": "Akachan Honbuchou 3rd Season",
+            "url": "https://myanimelist.net/anime/51997/Akachan_Honbuchou_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.jp/p/ts/7PR67N6RJ8/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17123"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E6%9C%AC%E9%83%A8%E9%95%B7"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6250"
+      }
+    ],
+    "streaming": []
+  }
+}

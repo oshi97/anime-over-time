@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 43769,
+    "url": "https://myanimelist.net/anime/43769/OTMGirls_no_Yokiyoki_Channel",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1202/110102.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1202/110102t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1202/110102l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1202/110102.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1202/110102t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1202/110102l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "OTMGirls no Yokiyoki Channel"
+      },
+      {
+        "type": "Japanese",
+        "title": "OTMGirlsのよきよきチャンネル"
+      },
+      {
+        "type": "English",
+        "title": "Official Channel of OTMGirls"
+      }
+    ],
+    "title": "OTMGirls no Yokiyoki Channel",
+    "title_english": "Official Channel of OTMGirls",
+    "title_japanese": "OTMGirlsのよきよきチャンネル",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-02T00:00:00+00:00",
+      "to": "2021-12-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": 18,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Sep 2, 2020 to Dec 18, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.62,
+    "scored_by": 327,
+    "rank": 11678,
+    "popularity": 14457,
+    "members": 919,
+    "favorites": 0,
+    "synopsis": "Manaka, Miggy and Hidarin struggle every day to aim for a global expansion.\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 50111,
+            "type": "anime",
+            "name": "OTMGirls no Yokiyoki Channel: Birthday Special Story",
+            "url": "https://myanimelist.net/anime/50111/OTMGirls_no_Yokiyoki_Channel__Birthday_Special_Story"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 32977,
+            "type": "anime",
+            "name": "Aggressive Retsuko",
+            "url": "https://myanimelist.net/anime/32977/Aggressive_Retsuko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://otmgirls.net/"
+      }
+    ],
+    "streaming": []
+  }
+}

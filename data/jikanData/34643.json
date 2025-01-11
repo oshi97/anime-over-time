@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 34643,
+    "url": "https://myanimelist.net/anime/34643/Kokekkou-san",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83583.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83583t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83583l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83583.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83583t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83583l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kokekkou-san"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wageul-wageul Kokomom"
+      },
+      {
+        "type": "Japanese",
+        "title": "コケッコーさん"
+      },
+      {
+        "type": "English",
+        "title": "Kokomom"
+      }
+    ],
+    "title": "Kokekkou-san",
+    "title_english": "Kokomom",
+    "title_japanese": "コケッコーさん",
+    "title_synonyms": [
+      "Wageul-wageul Kokomom"
+    ],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-11-18T00:00:00+00:00",
+      "to": "2010-05-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 11,
+          "year": 2009
+        },
+        "to": {
+          "day": 19,
+          "month": 5,
+          "year": 2010
+        }
+      },
+      "string": "Nov 18, 2009 to May 19, 2010"
+    },
+    "duration": "26 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16820,
+    "popularity": 20106,
+    "members": 269,
+    "favorites": 0,
+    "synopsis": "Full CG anime series based on artist Karoku-Kobo's series of Kokekko-san picture books. The story about the daily life of Kokekko-san, a motherly egg with chicken features that raises her chicks. Each episode is a 2-part story.\n\n(Source: AniDB)",
+    "background": "This was a collaboration between Japan and South Korea. The CG animation production was completed in South Korea, and the series music and stories were written in Japan.",
+    "season": "fall",
+    "year": 2009,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "16:40",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 16:40 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Genco",
+        "url": "https://myanimelist.net/anime/producer/79/Genco"
+      },
+      {
+        "mal_id": 131,
+        "type": "anime",
+        "name": "G&G Entertainment",
+        "url": "https://myanimelist.net/anime/producer/131/G_G_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 34234,
+            "type": "anime",
+            "name": "Ohayou! Kokekkou-san",
+            "url": "https://myanimelist.net/anime/34234/Ohayou_Kokekkou-san"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kokekko.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7326"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18781"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%83%E3%82%B3%E3%83%BC%E3%81%95%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 40423,
+    "url": "https://myanimelist.net/anime/40423/Taeko_no_Nichijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/142905.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/142905t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/142905l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/142905.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/142905t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/142905l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Taeko no Nichijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Taeko's Everyday Life"
+      },
+      {
+        "type": "Japanese",
+        "title": "耐え子の日常"
+      }
+    ],
+    "title": "Taeko no Nichijou",
+    "title_english": null,
+    "title_japanese": "耐え子の日常",
+    "title_synonyms": [
+      "Taeko's Everyday Life"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-06T00:00:00+00:00",
+      "to": "2020-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "Oct 6, 2019 to Mar 29, 2020"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14491,
+    "popularity": 15800,
+    "members": 635,
+    "favorites": 2,
+    "synopsis": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
+    "background": "",
+    "season": "fall",
+    "year": 2019,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "01:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 01:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1211,
+        "type": "anime",
+        "name": "Tokyo MX",
+        "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+      },
+      {
+        "mal_id": 1415,
+        "type": "anime",
+        "name": "Asahi Broadcasting",
+        "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42090,
+            "type": "anime",
+            "name": "Taeko no Nichijou 2nd Season",
+            "url": "https://myanimelist.net/anime/42090/Taeko_no_Nichijou_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.dle.jp/jp/property/taeko.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15101"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22532"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%80%90%E3%81%88%E5%AD%90%E3%81%AE%E6%97%A5%E5%B8%B8#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

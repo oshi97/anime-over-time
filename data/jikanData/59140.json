@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 59140,
+    "url": "https://myanimelist.net/anime/59140/Tobot_V_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1888/143733.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/143733t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/143733l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1888/143733.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/143733t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/143733l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tobot V Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "또봇 V 시즌 2"
+      },
+      {
+        "type": "English",
+        "title": "Tobot: Galaxy Detectives Season 2"
+      }
+    ],
+    "title": "Tobot V Season 2",
+    "title_english": "Tobot: Galaxy Detectives Season 2",
+    "title_japanese": "또봇 V 시즌 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 48,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-19T00:00:00+00:00",
+      "to": "2021-03-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 4,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Mar 19, 2020 to Mar 4, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14760,
+    "popularity": 26185,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59141,
+            "type": "anime",
+            "name": "Tobot V: Swag's Secret",
+            "url": "https://myanimelist.net/anime/59141/Tobot_V__Swags_Secret"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59147,
+            "type": "anime",
+            "name": "Tobot V: Ujusuhodae",
+            "url": "https://myanimelist.net/anime/59147/Tobot_V__Ujusuhodae"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/%EB%98%90%EB%B4%87%20V?rev=1358#s-3.3"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51621,
+    "url": "https://myanimelist.net/anime/51621/Heroes__Battle_Disk_Densetsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/146506.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/146506t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/146506l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/146506.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/146506t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/146506l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heroes: Battle Disk Densetsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヒーローズ ~バトルディスク伝説~"
+      },
+      {
+        "type": "English",
+        "title": "Heroes: Legend of Battle Disks"
+      }
+    ],
+    "title": "Heroes: Battle Disk Densetsu",
+    "title_english": "Heroes: Legend of Battle Disks",
+    "title_japanese": "ヒーローズ ~バトルディスク伝説~",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 22, 2013 to ?"
+    },
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20997,
+    "popularity": 21231,
+    "members": 206,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 406,
+        "type": "anime",
+        "name": "Asahi Production",
+        "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20130918172814/http://www.asahi-pro.co.jp/heroes/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14333"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15055"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heroes:_Legend_of_the_Battle_Disks"
+      }
+    ],
+    "streaming": []
+  }
+}

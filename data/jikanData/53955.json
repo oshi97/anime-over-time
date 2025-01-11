@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 53955,
+    "url": "https://myanimelist.net/anime/53955/Slime-tachi_no_Idobata_Kaigi_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1555/132039.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/132039t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/132039l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1555/132039.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/132039t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/132039l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Slime-tachi no Idobata Kaigi 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "スライムたちの井戸端会議"
+      }
+    ],
+    "title": "Slime-tachi no Idobata Kaigi 2nd Season",
+    "title_english": null,
+    "title_japanese": "スライムたちの井戸端会議",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-19T00:00:00+00:00",
+      "to": "2023-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Dec 19, 2022 to Mar 25, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.75,
+    "scored_by": 374,
+    "rank": 11104,
+    "popularity": 10354,
+    "members": 3101,
+    "favorites": 9,
+    "synopsis": "Mini anime for Kami-tachi ni Hirowareta Otoko 2nd Season released on Twitter and YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44591,
+            "type": "anime",
+            "name": "Slime-tachi no Idobata Kaigi",
+            "url": "https://myanimelist.net/anime/44591/Slime-tachi_no_Idobata_Kaigi"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49109,
+            "type": "anime",
+            "name": "Kami-tachi ni Hirowareta Otoko 2nd Season",
+            "url": "https://myanimelist.net/anime/49109/Kami-tachi_ni_Hirowareta_Otoko_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kamihiro-anime.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/By_the_Grace_of_the_Gods#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

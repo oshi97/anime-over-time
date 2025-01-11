@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 52935,
+    "url": "https://myanimelist.net/anime/52935/Punirunes",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1246/128731.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1246/128731t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1246/128731l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1246/128731.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1246/128731t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1246/128731l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Punirunes"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぷにるんず"
+      }
+    ],
+    "title": "Punirunes",
+    "title_english": null,
+    "title_japanese": "ぷにるんず",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-02T00:00:00+00:00",
+      "to": "2023-03-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 26,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Oct 2, 2022 to Mar 26, 2023"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": 5.88,
+    "scored_by": 146,
+    "rank": 10527,
+    "popularity": 15843,
+    "members": 627,
+    "favorites": 2,
+    "synopsis": "The anime follows the daily life of PuniRunes—mysterious creatures who love to be coddled—and Yuka, a fourth-grade girl who loves soft, squishy things.\n\n(Source: ANN, edited)",
+    "background": "",
+    "season": "fall",
+    "year": 2022,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "09:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 09:45 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1231,
+        "type": "anime",
+        "name": "OLM Digital",
+        "url": "https://myanimelist.net/anime/producer/1231/OLM_Digital"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59512,
+            "type": "anime",
+            "name": "Punirunes: Puni 2",
+            "url": "https://myanimelist.net/anime/59512/Punirunes__Puni_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Puni Puni Punirunes Punix Version (ぷにぷにぷにるんず ぷにックスバージョン)\" by Nanahira (ななひら)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.punirunes.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17590"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26253"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "mal_id": 40455,
+    "url": "https://myanimelist.net/anime/40455/Sylvanian_Families__Mini_Story_-_Clover",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1090/127712.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1090/127712t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1090/127712l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1090/127712.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1090/127712t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1090/127712l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sylvanian Families: Mini Story - Clover"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sylvanian Families: Mini Episodes - Clover"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sylvanian Families: Mini Story 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "シルバニアファミリー ミニストーリー クローバー"
+      },
+      {
+        "type": "English",
+        "title": "Calico Critters: Mini Episodes - Clover"
+      }
+    ],
+    "title": "Sylvanian Families: Mini Story - Clover",
+    "title_english": "Calico Critters: Mini Episodes - Clover",
+    "title_japanese": "シルバニアファミリー ミニストーリー クローバー",
+    "title_synonyms": [
+      "Sylvanian Families: Mini Episodes - Clover",
+      "Sylvanian Families: Mini Story 3rd Season"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-03T00:00:00+00:00",
+      "to": "2019-12-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 19,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Oct 3, 2019 to Dec 19, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14482,
+    "popularity": 20463,
+    "members": 248,
+    "favorites": 1,
+    "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families.\n\n(Source: ANN)",
+    "background": "Based on the Sylvanian Families animal toy line.",
+    "season": "fall",
+    "year": 2019,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "19:26",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 19:26 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38560,
+            "type": "anime",
+            "name": "Sylvanian Families: Mini Story 2nd Season",
+            "url": "https://myanimelist.net/anime/38560/Sylvanian_Families__Mini_Story_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52968,
+            "type": "anime",
+            "name": "Sylvanian Families: Mini Story - Peony",
+            "url": "https://myanimelist.net/anime/52968/Sylvanian_Families__Mini_Story_-_Peony"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://s.mxtv.jp/anime/sylvanianfamilies_clover/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15112"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26290"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sylvanian_Families"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/5474"
+      }
+    ],
+    "streaming": []
+  }
+}

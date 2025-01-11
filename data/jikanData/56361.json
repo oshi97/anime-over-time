@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 56361,
+    "url": "https://myanimelist.net/anime/56361/Poten_Dogs_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/137906.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/137906t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/137906l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/137906.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/137906t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/137906l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Poten Dogs Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "포텐독 시즌2"
+      },
+      {
+        "type": "English",
+        "title": "PotenDogs 2"
+      }
+    ],
+    "title": "Poten Dogs Season 2",
+    "title_english": "PotenDogs 2",
+    "title_japanese": "포텐독 시즌2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 18,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-27T00:00:00+00:00",
+      "to": "2021-07-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 2,
+          "month": 7,
+          "year": 2021
+        }
+      },
+      "string": "May 27, 2021 to Jul 2, 2021"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18433,
+    "popularity": 24097,
+    "members": 104,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56360,
+            "type": "anime",
+            "name": "Poten Dogs",
+            "url": "https://myanimelist.net/anime/56360/Poten_Dogs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anikids.ebs.co.kr/anikids/program/show/10210365#this"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/포텐독"
+      }
+    ],
+    "streaming": []
+  }
+}

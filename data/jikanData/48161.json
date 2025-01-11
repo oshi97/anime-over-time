@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 48161,
+    "url": "https://myanimelist.net/anime/48161/DinoCore",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/130347.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/130347t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/130347l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/130347.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/130347t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/130347l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "DinoCore"
+      },
+      {
+        "type": "Japanese",
+        "title": "다이노코어"
+      },
+      {
+        "type": "English",
+        "title": "DinoCore"
+      }
+    ],
+    "title": "DinoCore",
+    "title_english": "DinoCore",
+    "title_japanese": "다이노코어",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-26T00:00:00+00:00",
+      "to": "2016-11-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 18,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      "string": "Aug 26, 2016 to Nov 18, 2016"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20103,
+    "popularity": 22445,
+    "members": 145,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56989,
+            "type": "anime",
+            "name": "DinoCore Season 2",
+            "url": "https://myanimelist.net/anime/56989/DinoCore_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9D%B4%EB%85%B8%EC%BD%94%EC%96%B4"
+      }
+    ],
+    "streaming": []
+  }
+}

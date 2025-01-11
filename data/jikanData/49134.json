@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 49134,
+    "url": "https://myanimelist.net/anime/49134/RabbiTube__Creator_ni_Challenge",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/119952.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/119952t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/119952l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/119952.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/119952t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/119952l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "RabbiTube: Creator ni Challenge!"
+      },
+      {
+        "type": "Japanese",
+        "title": "『RabbiTube』クリエイターにチャレンジ！"
+      }
+    ],
+    "title": "RabbiTube: Creator ni Challenge!",
+    "title_english": null,
+    "title_japanese": "『RabbiTube』クリエイターにチャレンジ！",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-24T00:00:00+00:00",
+      "to": "2021-12-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 5,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Jan 24, 2020 to Dec 5, 2021"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.14,
+    "scored_by": 499,
+    "rank": 3692,
+    "popularity": 12555,
+    "members": 1573,
+    "favorites": 10,
+    "synopsis": "Short videos are released each month on YouTube to celebrate the character's birthdays.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2006,
+        "type": "anime",
+        "name": "Bandai Namco Online",
+        "url": "https://myanimelist.net/anime/producer/2006/Bandai_Namco_Online"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1111,
+        "type": "anime",
+        "name": "DandeLion Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33899,
+            "type": "anime",
+            "name": "IDOLiSH7",
+            "url": "https://myanimelist.net/anime/33899/IDOLiSH7"
+          },
+          {
+            "mal_id": 54120,
+            "type": "anime",
+            "name": "RabbiTube Mini",
+            "url": "https://myanimelist.net/anime/54120/RabbiTube_Mini"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLtr_hwio6G1pwiJL7mj4Bum4MwKJH_KYo"
+      }
+    ],
+    "streaming": []
+  }
+}

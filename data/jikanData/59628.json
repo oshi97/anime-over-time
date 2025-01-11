@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 59628,
+    "url": "https://myanimelist.net/anime/59628/Spookiz_Cookie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/144991.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/144991t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/144991l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/144991.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/144991t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/144991l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spookiz Cookie"
+      },
+      {
+        "type": "Japanese",
+        "title": "Spookiz Cookie"
+      }
+    ],
+    "title": "Spookiz Cookie",
+    "title_english": null,
+    "title_japanese": "Spookiz Cookie",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-05T00:00:00+00:00",
+      "to": "2020-02-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 8,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Oct 5, 2019 to Feb 8, 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14416,
+    "popularity": 27569,
+    "members": 55,
+    "favorites": 0,
+    "synopsis": "A special season of Spookiz.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2667,
+        "type": "anime",
+        "name": "Keyring",
+        "url": "https://myanimelist.net/anime/producer/2667/Keyring"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 47373,
+            "type": "anime",
+            "name": "Spookiz",
+            "url": "https://myanimelist.net/anime/47373/Spookiz"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://blog.naver.com/spookiz"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%91%B8%ED%82%A4%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

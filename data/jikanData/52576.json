@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 52576,
+    "url": "https://myanimelist.net/anime/52576/Pokemon_ASMR",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1160/131947.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/131947t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/131947l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1160/131947.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/131947t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/131947l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon ASMR"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon x ASMR"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモン × ASMR"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Pokémon x ASMR"
+      }
+    ],
+    "title": "Pokemon ASMR",
+    "title_english": "Pokémon Kids TV: Pokémon x ASMR",
+    "title_japanese": "ポケモン × ASMR",
+    "title_synonyms": [
+      "Pokemon x ASMR"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-16T00:00:00+00:00",
+      "to": "2022-02-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 11,
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "string": "Jan 16, 2020 to Feb 11, 2022"
+    },
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.74,
+    "scored_by": 292,
+    "rank": 11149,
+    "popularity": 14166,
+    "members": 999,
+    "favorites": 1,
+    "synopsis": "A collection of animated ASMR videos released on the Pokemon Kids TV Japan and Pokemon Official YouTube channels.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 499,
+        "type": "anime",
+        "name": "The Pokemon Company International",
+        "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+      },
+      {
+        "mal_id": 1296,
+        "type": "anime",
+        "name": "Marza Animation Planet",
+        "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLBE2D9BnJJUr3gSb9uh7t0eTEmeQFfwIo"
+      }
+    ],
+    "streaming": []
+  }
+}

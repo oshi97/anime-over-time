@@ -1,0 +1,208 @@
+{
+  "data": {
+    "mal_id": 51037,
+    "url": "https://myanimelist.net/anime/51037/Duel_Masters_King_Max",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1191/122796.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1191/122796t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1191/122796l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1191/122796.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1191/122796t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1191/122796l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Duel Masters King Max"
+      },
+      {
+        "type": "Japanese",
+        "title": "DUEL MASTERS キングMAX"
+      }
+    ],
+    "title": "Duel Masters King Max",
+    "title_english": null,
+    "title_japanese": "DUEL MASTERS キングMAX",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-03T00:00:00+00:00",
+      "to": "2022-08-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 28,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Apr 3, 2022 to Aug 28, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20282,
+    "popularity": 15026,
+    "members": 781,
+    "favorites": 9,
+    "synopsis": "The story of Duel Masters King entered the \"next stage\" with the new series. The theme of the new series is \"time travel.\"\n\n(Source: ANN)",
+    "background": "",
+    "season": "spring",
+    "year": 2022,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 08:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 112,
+        "type": "anime",
+        "name": "Brain's Base",
+        "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+      },
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46652,
+            "type": "anime",
+            "name": "Duel Masters King!",
+            "url": "https://myanimelist.net/anime/46652/Duel_Masters_King"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52460,
+            "type": "anime",
+            "name": "Duel Masters Win",
+            "url": "https://myanimelist.net/anime/52460/Duel_Masters_Win"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Historia (ヒストリア)\" by Beardoord"
+      ],
+      "endings": [
+        "\"Kore Kara (コレカラ)\" by Coeur à Coeur"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/dm_kingmax/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17195"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25357"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Duel_Masters"
+      }
+    ],
+    "streaming": []
+  }
+}

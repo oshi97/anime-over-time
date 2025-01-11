@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 56414,
+    "url": "https://myanimelist.net/anime/56414/Papa_Dog_Season_2_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1246/137998.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1246/137998t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1246/137998l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1246/137998.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1246/137998t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1246/137998l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Papa Dog Season 2 Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "파파독 시즌 2 2부"
+      }
+    ],
+    "title": "Papa Dog Season 2 Part 2",
+    "title_english": null,
+    "title_japanese": "파파독 시즌 2 2부",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-17T00:00:00+00:00",
+      "to": "2019-07-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 10,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "Apr 17, 2019 to Jul 10, 2019"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18278,
+    "popularity": 25292,
+    "members": 85,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56413,
+            "type": "anime",
+            "name": "Papa Dog Season 2",
+            "url": "https://myanimelist.net/anime/56413/Papa_Dog_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/파파독"
+      }
+    ],
+    "streaming": []
+  }
+}

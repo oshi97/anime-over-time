@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 53627,
+    "url": "https://myanimelist.net/anime/53627/Gamera__Rebirth",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1024/134654.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1024/134654t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1024/134654l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1024/134654.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1024/134654t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1024/134654l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "IN06AFa2jBA",
+      "url": "https://www.youtube.com/watch?v=IN06AFa2jBA",
+      "embed_url": "https://www.youtube.com/embed/IN06AFa2jBA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/IN06AFa2jBA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/IN06AFa2jBA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/IN06AFa2jBA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/IN06AFa2jBA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/IN06AFa2jBA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gamera: Rebirth"
+      },
+      {
+        "type": "Japanese",
+        "title": "GAMERA -Rebirth-"
+      }
+    ],
+    "title": "Gamera: Rebirth",
+    "title_english": null,
+    "title_japanese": "GAMERA -Rebirth-",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 7, 2023"
+    },
+    "duration": "44 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "scored_by": 1568,
+    "rank": 7551,
+    "popularity": 9130,
+    "members": 4604,
+    "favorites": 14,
+    "synopsis": "The series will focus on Gamera facing off against five different Kaiju.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1974,
+        "type": "anime",
+        "name": "ENGI",
+        "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56562,
+            "type": "anime",
+            "name": "Daikaijuu Gamenya Shuurai",
+            "url": "https://myanimelist.net/anime/56562/Daikaijuu_Gamenya_Shuurai"
+          },
+          {
+            "mal_id": 56702,
+            "type": "anime",
+            "name": "Gamera VS Kozamera",
+            "url": "https://myanimelist.net/anime/56702/Gamera_VS_Kozamera"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Natsuake (夏暁)\" by WANIMA"
+      ],
+      "endings": [
+        "\"FLY & DIVE\" by WANIMA"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gamera-rebirth.com/"
+      },
+      {
+        "name": "@gamera_rebirth",
+        "url": "https://twitter.com/gamera_rebirth"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17841"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27058"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gamera_Rebirth"
+      }
+    ],
+    "streaming": []
+  }
+}

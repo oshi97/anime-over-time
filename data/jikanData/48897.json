@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 48897,
+    "url": "https://myanimelist.net/anime/48897/Overlord__Ple_Ple_Pleiades_4",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1233/119671.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1233/119671t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1233/119671l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1233/119671.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1233/119671t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1233/119671l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Overlord: Ple Ple Pleiades 4"
+      },
+      {
+        "type": "Japanese",
+        "title": "オーバーロード　ぷれぷれぷれあです4"
+      }
+    ],
+    "title": "Overlord: Ple Ple Pleiades 4",
+    "title_english": null,
+    "title_japanese": "オーバーロード　ぷれぷれぷれあです4",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-05T00:00:00+00:00",
+      "to": "2022-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Jul 5, 2022 to Sep 27, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.69,
+    "scored_by": 5877,
+    "rank": 5953,
+    "popularity": 5478,
+    "members": 16604,
+    "favorites": 22,
+    "synopsis": "Super deformed parody shorts of Overlord IV streamed on Kadokawa's official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37781,
+            "type": "anime",
+            "name": "Overlord: Ple Ple Pleiades 3",
+            "url": "https://myanimelist.net/anime/37781/Overlord__Ple_Ple_Pleiades_3"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 48895,
+            "type": "anime",
+            "name": "Overlord IV",
+            "url": "https://myanimelist.net/anime/48895/Overlord_IV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/equm-6wGVEA"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16296"
+      }
+    ],
+    "streaming": []
+  }
+}

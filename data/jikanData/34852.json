@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 34852,
+    "url": "https://myanimelist.net/anime/34852/Pikaia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/84105.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/84105t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/84105l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/84105.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/84105t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/84105l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pikaia!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "ピカイア!!"
+      }
+    ],
+    "title": "Pikaia!!",
+    "title_english": null,
+    "title_japanese": "ピカイア!!",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-26T00:00:00+00:00",
+      "to": "2017-05-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": 27,
+          "month": 5,
+          "year": 2017
+        }
+      },
+      "string": "Feb 26, 2017 to May 27, 2017"
+    },
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.87,
+    "scored_by": 166,
+    "rank": 10577,
+    "popularity": 15296,
+    "members": 715,
+    "favorites": 2,
+    "synopsis": "Second season of Pikaia!.",
+    "background": "",
+    "season": "winter",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      },
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      },
+      {
+        "mal_id": 1797,
+        "type": "anime",
+        "name": "NHK Enterprises",
+        "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 30386,
+            "type": "anime",
+            "name": "Pikaia!",
+            "url": "https://myanimelist.net/anime/30386/Pikaia"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Kokoro Tsunagaru (ココロツナガル)\" by Himekyun Fruit Kan"
+      ],
+      "endings": [
+        "\"Nie²Bye²\" by Himekyun Fruit Kan"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/seimei/pikaia2.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12789"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 37559,
+    "url": "https://myanimelist.net/anime/37559/Oretacha_Youkai_Ningen_G",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/91310.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/91310t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/91310l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/91310.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/91310t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/91310l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oretacha Youkai Ningen G"
+      },
+      {
+        "type": "Japanese",
+        "title": "俺たちゃ妖怪人間G"
+      }
+    ],
+    "title": "Oretacha Youkai Ningen G",
+    "title_english": null,
+    "title_japanese": "俺たちゃ妖怪人間G",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-05T00:00:00+00:00",
+      "to": "2018-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Apr 5, 2018 to Sep 27, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.61,
+    "scored_by": 128,
+    "rank": 11720,
+    "popularity": 15171,
+    "members": 745,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "02:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 02:05 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36135,
+            "type": "anime",
+            "name": "Oretacha Youkai Ningen",
+            "url": "https://myanimelist.net/anime/36135/Oretacha_Youkai_Ningen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://youkainingen-bem.com/anime_dle/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13953"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20785"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E4%BA%BA%E9%96%93%E3%83%99%E3%83%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

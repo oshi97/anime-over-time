@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 60285,
+    "url": "https://myanimelist.net/anime/60285/Sakamoto_Days_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1031/146460.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/146460t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/146460l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1031/146460.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/146460t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/146460l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sakamoto Days Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "SAKAMOTO DAYS 第２クール"
+      }
+    ],
+    "title": "Sakamoto Days Part 2",
+    "title_english": null,
+    "title_japanese": "SAKAMOTO DAYS 第２クール",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 5576,
+    "members": 15893,
+    "favorites": 18,
+    "synopsis": "Second part of Sakamoto Days.",
+    "background": "",
+    "season": "summer",
+    "year": 2025,
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "00:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 00:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 68,
+        "type": "anime",
+        "name": "Organized Crime",
+        "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58939,
+            "type": "anime",
+            "name": "Sakamoto Days",
+            "url": "https://myanimelist.net/anime/58939/Sakamoto_Days"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 131334,
+            "type": "manga",
+            "name": "Sakamoto Days",
+            "url": "https://myanimelist.net/manga/131334/Sakamoto_Days"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sakamotodays.jp/"
+      },
+      {
+        "name": "@SAKAMOTODAYS_PR",
+        "url": "https://twitter.com/SAKAMOTODAYS_PR"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18984"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sakamoto_Days"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/SAKAMOTO_DAYS#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

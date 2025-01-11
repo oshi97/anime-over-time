@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 59678,
+    "url": "https://myanimelist.net/anime/59678/Momoume",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1365/145113.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/145113t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/145113l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1365/145113.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/145113t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/145113l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Momoume"
+      },
+      {
+        "type": "Synonym",
+        "title": "Momo Ume"
+      },
+      {
+        "type": "Synonym",
+        "title": "Momo and Ume"
+      },
+      {
+        "type": "Japanese",
+        "title": "モモウメ"
+      }
+    ],
+    "title": "Momoume",
+    "title_english": null,
+    "title_japanese": "モモウメ",
+    "title_synonyms": [
+      "Momo Ume",
+      "Momo and Ume"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 229,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-05-24T00:00:00+00:00",
+      "to": "2022-11-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 5,
+          "year": 2018
+        },
+        "to": {
+          "day": 9,
+          "month": 11,
+          "year": 2022
+        }
+      },
+      "string": "May 24, 2018 to Nov 9, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17711,
+    "popularity": 27494,
+    "members": 61,
+    "favorites": 0,
+    "synopsis": "The story revolves around Momo-chan, a 24-year-old rookie office worker, and Ume, a 40-year-old veteran office worker, and depicts office life in a slapstick, laid-back atmosphere that happens with their bosses and colleagues.\n\n(Source: YouTube, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3002,
+        "type": "anime",
+        "name": "CUEBiC Inc.",
+        "url": "https://myanimelist.net/anime/producer/3002/CUEBiC_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 59680,
+            "type": "anime",
+            "name": "Momoume Specials",
+            "url": "https://myanimelist.net/anime/59680/Momoume_Specials"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59679,
+            "type": "anime",
+            "name": "Momoume x Kaunet Collab",
+            "url": "https://myanimelist.net/anime/59679/Momoume_x_Kaunet_Collab"
+          },
+          {
+            "mal_id": 59582,
+            "type": "anime",
+            "name": "Ponkotsu Quest x Momoume",
+            "url": "https://myanimelist.net/anime/59582/Ponkotsu_Quest_x_Momoume"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://momo-and-ume.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2%E3%82%A6%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

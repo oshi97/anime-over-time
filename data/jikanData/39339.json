@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 39339,
+    "url": "https://myanimelist.net/anime/39339/Osomatsu-san_Movie__Gekijou_Koukai_Kinen_-_Original_Tanpen_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1245/99297.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/99297t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/99297l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1245/99297.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/99297t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/99297l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Osomatsu-san Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mr. Osomatsu the Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "えいがのおそ松さん 劇場公開記念 オリジナル短編劇場"
+      }
+    ],
+    "title": "Osomatsu-san Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou",
+    "title_english": null,
+    "title_japanese": "えいがのおそ松さん 劇場公開記念 オリジナル短編劇場",
+    "title_synonyms": [
+      "Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou",
+      "Mr. Osomatsu the Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-01T00:00:00+00:00",
+      "to": "2019-03-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 15,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      "string": "Mar 1, 2019 to Mar 15, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.34,
+    "scored_by": 310,
+    "rank": 7991,
+    "popularity": 12969,
+    "members": 1384,
+    "favorites": 0,
+    "synopsis": "A short series depicting side stories about the brothers' daily life, released on dTV streaming service.\n\nIt received an advance screening together with the movie on March 7 in Tokyo.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Pierrot",
+        "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38201,
+            "type": "anime",
+            "name": "Osomatsu-san Movie",
+            "url": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14697"
+      }
+    ],
+    "streaming": []
+  }
+}

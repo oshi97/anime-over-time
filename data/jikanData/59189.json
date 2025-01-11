@@ -1,0 +1,191 @@
+{
+  "data": {
+    "mal_id": 59189,
+    "url": "https://myanimelist.net/anime/59189/Sentai_Daishikkaku_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1235/146419.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/146419t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/146419l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1235/146419.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/146419t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/146419l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "qnHUeaftnZQ",
+      "url": "https://www.youtube.com/watch?v=qnHUeaftnZQ",
+      "embed_url": "https://www.youtube.com/embed/qnHUeaftnZQ?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/qnHUeaftnZQ/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/qnHUeaftnZQ/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/qnHUeaftnZQ/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/qnHUeaftnZQ/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/qnHUeaftnZQ/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sentai Daishikkaku 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ranger Reject Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "戦隊大失格 2nd Season"
+      },
+      {
+        "type": "English",
+        "title": "Go! Go! Loser Ranger! Season 2"
+      }
+    ],
+    "title": "Sentai Daishikkaku 2nd Season",
+    "title_english": "Go! Go! Loser Ranger! Season 2",
+    "title_japanese": "戦隊大失格 2nd Season",
+    "title_synonyms": [
+      "Ranger Reject Season 2"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 4815,
+    "members": 23008,
+    "favorites": 23,
+    "synopsis": "Second season of Sentai Daishikkaku.",
+    "background": "Sentai Daishikkaku 2nd Season aired on CBC and TBS' Agaru Anime block.",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "23:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 23:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 109,
+        "type": "anime",
+        "name": "Shochiku",
+        "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53770,
+            "type": "anime",
+            "name": "Sentai Daishikkaku",
+            "url": "https://myanimelist.net/anime/53770/Sentai_Daishikkaku"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 132129,
+            "type": "manga",
+            "name": "Sentai Daishikkaku",
+            "url": "https://myanimelist.net/manga/132129/Sentai_Daishikkaku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime-sentai-daishikkaku.com/"
+      },
+      {
+        "name": "@anime_sentai",
+        "url": "https://twitter.com/anime_sentai"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18725"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32857"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Go!_Go!_Loser_Ranger!#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/戦隊大失格#テレビアニメ"
+      }
+    ],
+    "streaming": []
+  }
+}

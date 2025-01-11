@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 59151,
+    "url": "https://myanimelist.net/anime/59151/Wudi_Lu_Zhandui_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/143753.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/143753t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/143753l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/143753.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/143753t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/143753l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wudi Lu Zhandui 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "无敌鹿战队 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Deer Squad 2nd Season"
+      }
+    ],
+    "title": "Wudi Lu Zhandui 2nd Season",
+    "title_english": "Deer Squad 2nd Season",
+    "title_japanese": "无敌鹿战队 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 14, 2022 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15212,
+    "popularity": 27363,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47475,
+            "type": "anime",
+            "name": "Wudi Lu Zhandui",
+            "url": "https://myanimelist.net/anime/47475/Wudi_Lu_Zhandui"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59152,
+            "type": "anime",
+            "name": "Wudi Lu Zhandui 3rd Season",
+            "url": "https://myanimelist.net/anime/59152/Wudi_Lu_Zhandui_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deer_Squad"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%97%A0%E6%95%8C%E9%B9%BF%E6%88%98%E9%98%9F%E7%AC%AC%E4%BA%8C%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

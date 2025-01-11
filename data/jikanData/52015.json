@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52015,
+    "url": "https://myanimelist.net/anime/52015/Yofukashi_no_Uta_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1075/124359.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1075/124359t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1075/124359l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1075/124359.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1075/124359t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1075/124359l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yofukashi no Uta Mini"
+      },
+      {
+        "type": "Synonym",
+        "title": "Call of the Night Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "よふかしのうた ミニ"
+      },
+      {
+        "type": "English",
+        "title": "Call of the Night Mini"
+      }
+    ],
+    "title": "Yofukashi no Uta Mini",
+    "title_english": "Call of the Night Mini",
+    "title_japanese": "よふかしのうた ミニ",
+    "title_synonyms": [
+      "Call of the Night Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-07T00:00:00+00:00",
+      "to": "2022-10-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": 2,
+          "month": 10,
+          "year": 2022
+        }
+      },
+      "string": "Jun 7, 2022 to Oct 2, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.21,
+    "scored_by": 1356,
+    "rank": 8783,
+    "popularity": 8464,
+    "members": 5679,
+    "favorites": 10,
+    "synopsis": "Mini anime of Yofukashi no Uta released on the official Twitter.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50346,
+            "type": "anime",
+            "name": "Yofukashi no Uta",
+            "url": "https://myanimelist.net/anime/50346/Yofukashi_no_Uta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/yofukashi_pr"
+      }
+    ],
+    "streaming": []
+  }
+}

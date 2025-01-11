@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 55524,
+    "url": "https://myanimelist.net/anime/55524/Tsundero_Series",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1654/136208.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1654/136208t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1654/136208l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1654/136208.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1654/136208t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1654/136208l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsundero Series"
+      },
+      {
+        "type": "Japanese",
+        "title": "ツンデロシリーズ"
+      }
+    ],
+    "title": "Tsundero Series",
+    "title_english": null,
+    "title_japanese": "ツンデロシリーズ",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-01T00:00:00+00:00",
+      "to": "2024-02-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 2,
+          "month": 2,
+          "year": 2024
+        }
+      },
+      "string": "Sep 1, 2023 to Feb 2, 2024"
+    },
+    "duration": "16 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 7.18,
+    "scored_by": 2081,
+    "rank": null,
+    "popularity": 8601,
+    "members": 5451,
+    "favorites": 29,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 823,
+        "type": "anime",
+        "name": "Lune-Pictures",
+        "url": "https://myanimelist.net/anime/producer/823/Lune-Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 405,
+        "type": "anime",
+        "name": "T-Rex",
+        "url": "https://myanimelist.net/anime/producer/405/T-Rex"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 12339,
+            "type": "manga",
+            "name": "Tsundero",
+            "url": "https://myanimelist.net/manga/12339/Tsundero"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.lune-soft.jp/ova/25927"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18049"
+      }
+    ],
+    "streaming": []
+  }
+}

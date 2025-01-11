@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 57760,
+    "url": "https://myanimelist.net/anime/57760/D4DJ_Short_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1293/145453.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1293/145453t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1293/145453l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1293/145453.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1293/145453t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1293/145453l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "D4DJ Short Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "D4DJ Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "D4DJ ショートアニメ"
+      }
+    ],
+    "title": "D4DJ Short Anime",
+    "title_english": null,
+    "title_japanese": "D4DJ ショートアニメ",
+    "title_synonyms": [
+      "D4DJ Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Mixed media",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-25T00:00:00+00:00",
+      "to": "2024-01-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 24,
+          "month": 1,
+          "year": 2024
+        }
+      },
+      "string": "Oct 25, 2023 to Jan 24, 2024"
+    },
+    "duration": "50 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19907,
+    "popularity": 23312,
+    "members": 120,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51586,
+            "type": "anime",
+            "name": "D4DJ All Mix",
+            "url": "https://myanimelist.net/anime/51586/D4DJ_All_Mix"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PL-ajWkR0kziB7HrZa2amYSvo_c7TA1OVg"
+      }
+    ],
+    "streaming": []
+  }
+}

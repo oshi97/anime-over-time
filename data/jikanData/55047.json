@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 55047,
+    "url": "https://myanimelist.net/anime/55047/Sinbi_Apartment__Ghost_Ball_Zero",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1850/135377.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1850/135377t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1850/135377l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1850/135377.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1850/135377t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1850/135377l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment: Ghost Ball Zero"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트 고스트볼 ZERO"
+      }
+    ],
+    "title": "Sinbi Apartment: Ghost Ball Zero",
+    "title_english": null,
+    "title_japanese": "신비아파트 고스트볼 ZERO",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-20T00:00:00+00:00",
+      "to": "2023-06-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 15,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "string": "Mar 20, 2023 to Jun 15, 2023"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14258,
+    "popularity": 17840,
+    "members": 418,
+    "favorites": 4,
+    "synopsis": "Fifth season of Sinbi Apartment.",
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48266,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Double X",
+            "url": "https://myanimelist.net/anime/48266/Sinbi_Apartment__Ghost_Ball_Double_X"
+          },
+          {
+            "mal_id": 56290,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Z",
+            "url": "https://myanimelist.net/anime/56290/Sinbi_Apartment__Ghost_Ball_Z"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57006,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Zero - Du Beonjjae Iyagi",
+            "url": "https://myanimelist.net/anime/57006/Sinbi_Apartment__Ghost_Ball_Zero_-_Du_Beonjjae_Iyagi"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56296,
+            "type": "anime",
+            "name": "Sinbi Apartment: Bugiui Balmyeongpumeul Chajala!",
+            "url": "https://myanimelist.net/anime/56296/Sinbi_Apartment__Bugiui_Balmyeongpumeul_Chajala"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tooniverse.cjenm.com/ko/shinbizero/"
+      }
+    ],
+    "streaming": []
+  }
+}

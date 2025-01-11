@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 56368,
+    "url": "https://myanimelist.net/anime/56368/Robocar_Poli__Song_Song_Museum",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/137914.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/137914t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/137914l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/137914.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/137914t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/137914l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Robocar Poli: Song Song Museum"
+      },
+      {
+        "type": "Japanese",
+        "title": "로보카폴리 쏭쏭뮤지엄"
+      },
+      {
+        "type": "English",
+        "title": "Robocar POLI: SongSong Museum"
+      }
+    ],
+    "title": "Robocar Poli: Song Song Museum",
+    "title_english": "Robocar POLI: SongSong Museum",
+    "title_japanese": "로보카폴리 쏭쏭뮤지엄",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-02T00:00:00+00:00",
+      "to": "2020-08-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 13,
+          "month": 8,
+          "year": 2020
+        }
+      },
+      "string": "Jul 2, 2020 to Aug 13, 2020"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18683,
+    "popularity": 23492,
+    "members": 115,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 31898,
+            "type": "anime",
+            "name": "Robocar Poli",
+            "url": "https://myanimelist.net/anime/31898/Robocar_Poli"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://robocarpoli.com/series/songsong"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/로보카폴리_쏭쏭뮤지엄"
+      }
+    ],
+    "streaming": []
+  }
+}

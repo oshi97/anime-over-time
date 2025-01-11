@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 59888,
+    "url": "https://myanimelist.net/anime/59888/On-chan_no_Kyou_wa_Donna_Kanji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1505/145592.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/145592t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/145592l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1505/145592.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/145592t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/145592l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "On-chan no Kyou wa Donna Kanji?"
+      },
+      {
+        "type": "Synonym",
+        "title": "How is On-chan Today?"
+      },
+      {
+        "type": "Japanese",
+        "title": "onちゃんのきょうはどんなかんじ？"
+      }
+    ],
+    "title": "On-chan no Kyou wa Donna Kanji?",
+    "title_english": null,
+    "title_japanese": "onちゃんのきょうはどんなかんじ？",
+    "title_synonyms": [
+      "How is On-chan Today?"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-08T00:00:00+00:00",
+      "to": "2021-07-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 24,
+          "month": 7,
+          "year": 2021
+        }
+      },
+      "string": "May 8, 2021 to Jul 24, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18127,
+    "popularity": 26549,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": "On-chan no Kyou wa Donna Kanji? selects kanji related to Hokkaido that are compulsory for elementary school students in the lower grades, and aims to help with local education. On-chan, a popular mascot character of Hokkaido Television Broadcasting (HTB) that is loved by all generations, takes a single kanji character as a theme and freely imagines its meaning and shape, and performs a cute dance according to the stroke order.\n\n(Source: Taiyo Kikaku, translated)",
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Saturdays at Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 3004,
+        "type": "anime",
+        "name": "Taiyo Kikaku",
+        "url": "https://myanimelist.net/anime/producer/3004/Taiyo_Kikaku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2178,
+        "type": "anime",
+        "name": "Tecarat",
+        "url": "https://myanimelist.net/anime/producer/2178/Tecarat"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59541,
+            "type": "anime",
+            "name": "Kanjigram",
+            "url": "https://myanimelist.net/anime/59541/Kanjigram"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.htb.co.jp/onchan"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PL0ktqkPR2ONAE-8fQ17PboToztUFziSHj"
+      }
+    ],
+    "streaming": []
+  }
+}

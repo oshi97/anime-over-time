@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 45345,
+    "url": "https://myanimelist.net/anime/45345/Happy_Fuzi__Chao_Neng_Pao_Dan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1645/126067.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1645/126067t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1645/126067l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1645/126067.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1645/126067t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1645/126067l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Happy Fuzi: Chao Neng Pao Dan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Father and Son: Super Bubble Egg"
+      },
+      {
+        "type": "Japanese",
+        "title": "哈皮父子之超能泡蛋"
+      }
+    ],
+    "title": "Happy Fuzi: Chao Neng Pao Dan",
+    "title_english": null,
+    "title_japanese": "哈皮父子之超能泡蛋",
+    "title_synonyms": [
+      "Happy Father and Son: Super Bubble Egg"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2010 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20886,
+    "popularity": 26278,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45344,
+            "type": "anime",
+            "name": "Happy Fuzi",
+            "url": "https://myanimelist.net/anime/45344/Happy_Fuzi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45347,
+            "type": "anime",
+            "name": "Happy Fuzi: Yu Shui Jingang",
+            "url": "https://myanimelist.net/anime/45347/Happy_Fuzi__Yu_Shui_Jingang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Nx411W7T7?from=search&seid=10379627545421165310"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/24530537/"
+      }
+    ],
+    "streaming": []
+  }
+}

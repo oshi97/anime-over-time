@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 59740,
+    "url": "https://myanimelist.net/anime/59740/Pinkfong-gwa_Hogi__Sae_Chingu_Ninimo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1552/145268.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/145268t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/145268l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1552/145268.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/145268t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/145268l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pinkfong-gwa Hogi: Sae Chingu Ninimo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pinkfong & Hogi: New Friend Ninimo"
+      },
+      {
+        "type": "Japanese",
+        "title": "핑크퐁과 호기: 새 친구 니니모"
+      }
+    ],
+    "title": "Pinkfong-gwa Hogi: Sae Chingu Ninimo",
+    "title_english": null,
+    "title_japanese": "핑크퐁과 호기: 새 친구 니니모",
+    "title_synonyms": [
+      "Pinkfong & Hogi: New Friend Ninimo"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-09-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 9,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 21, 2024 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18347,
+    "popularity": 22199,
+    "members": 158,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2024,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "14:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 14:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 2851,
+        "type": "anime",
+        "name": "Pinkfong",
+        "url": "https://myanimelist.net/anime/producer/2851/Pinkfong"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54293,
+            "type": "anime",
+            "name": "Myeongtamjeong Pinkfong-gwa Hogi",
+            "url": "https://myanimelist.net/anime/54293/Myeongtamjeong_Pinkfong-gwa_Hogi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

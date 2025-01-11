@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 37611,
+    "url": "https://myanimelist.net/anime/37611/Future_Card_Buddyfight_Battsu__All-Star_Fight",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1924/95069.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1924/95069t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1924/95069l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1924/95069.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1924/95069t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1924/95069l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Future Card Buddyfight Battsu: All-Star Fight"
+      },
+      {
+        "type": "Synonym",
+        "title": "Future Card Buddyfight X: All-Star Fight"
+      },
+      {
+        "type": "Japanese",
+        "title": "フューチャーカード バディファイト バッツ オールスターファイト"
+      }
+    ],
+    "title": "Future Card Buddyfight Battsu: All-Star Fight",
+    "title_english": null,
+    "title_japanese": "フューチャーカード バディファイト バッツ オールスターファイト",
+    "title_synonyms": [
+      "Future Card Buddyfight X: All-Star Fight"
+    ],
+    "type": "TV",
+    "source": "Card game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-07T00:00:00+00:00",
+      "to": "2018-05-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 26,
+          "month": 5,
+          "year": 2018
+        }
+      },
+      "string": "Apr 7, 2018 to May 26, 2018"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": 6.79,
+    "scored_by": 1443,
+    "rank": 5384,
+    "popularity": 10439,
+    "members": 3032,
+    "favorites": 5,
+    "synopsis": "The fifth season of Future Card Buddyfight.",
+    "background": "",
+    "season": "spring",
+    "year": 2018,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "08:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 08:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 775,
+        "type": "anime",
+        "name": "Bushiroad",
+        "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Xebec",
+        "url": "https://myanimelist.net/anime/producer/27/Xebec"
+      },
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34836,
+            "type": "anime",
+            "name": "Future Card Buddyfight Battsu",
+            "url": "https://myanimelist.net/anime/34836/Future_Card_Buddyfight_Battsu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37739,
+            "type": "anime",
+            "name": "Future Card Shin Buddyfight",
+            "url": "https://myanimelist.net/anime/37739/Future_Card_Shin_Buddyfight"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Buddyfight×Buddyfighter\" by Jun Shirota"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/fc-buddyfight/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13984"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20812"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89_%E3%83%90%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 56989,
+    "url": "https://myanimelist.net/anime/56989/DinoCore_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/139300.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/139300t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/139300l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/139300.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/139300t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/139300l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "DinoCore Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "다이노코어 시즌 2"
+      }
+    ],
+    "title": "DinoCore Season 2",
+    "title_english": null,
+    "title_japanese": "다이노코어 시즌 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-17T00:00:00+00:00",
+      "to": "2017-06-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 11,
+          "month": 6,
+          "year": 2017
+        }
+      },
+      "string": "Mar 17, 2017 to Jun 11, 2017"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20106,
+    "popularity": 23651,
+    "members": 110,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48161,
+            "type": "anime",
+            "name": "DinoCore",
+            "url": "https://myanimelist.net/anime/48161/DinoCore"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56990,
+            "type": "anime",
+            "name": "DinoCore Season 3",
+            "url": "https://myanimelist.net/anime/56990/DinoCore_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.dino-core.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/다이노코어"
+      }
+    ],
+    "streaming": []
+  }
+}

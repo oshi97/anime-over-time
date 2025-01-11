@@ -1,0 +1,187 @@
+{
+  "data": {
+    "mal_id": 58959,
+    "url": "https://myanimelist.net/anime/58959/Pipilu_Anquan_Tegong_Dui_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1909/143369.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/143369t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/143369l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1909/143369.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/143369t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/143369l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pipilu Anquan Tegong Dui Part 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pipilu Anjeonteukgongdae Part 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "皮皮鲁安全特工队"
+      },
+      {
+        "type": "Japanese",
+        "title": "피피루 안전특공대 2부"
+      },
+      {
+        "type": "English",
+        "title": "Pipilu Rangers Part 2"
+      }
+    ],
+    "title": "Pipilu Anquan Tegong Dui Part 2",
+    "title_english": "Pipilu Rangers Part 2",
+    "title_japanese": "피피루 안전특공대 2부",
+    "title_synonyms": [
+      "Pipilu Anjeonteukgongdae Part 2",
+      "皮皮鲁安全特工队"
+    ],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-12T00:00:00+00:00",
+      "to": "2019-08-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 23,
+          "month": 8,
+          "year": 2019
+        }
+      },
+      "string": "Jul 12, 2019 to Aug 23, 2019"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18360,
+    "popularity": 27546,
+    "members": 57,
+    "favorites": 0,
+    "synopsis": "Second part of the first season of Pipilu Anquan Tegong Dui.",
+    "background": "",
+    "season": "summer",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 1301,
+        "type": "anime",
+        "name": "CCTV Animation",
+        "url": "https://myanimelist.net/anime/producer/1301/CCTV_Animation"
+      },
+      {
+        "mal_id": 1427,
+        "type": "anime",
+        "name": "EBS",
+        "url": "https://myanimelist.net/anime/producer/1427/EBS"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47806,
+            "type": "anime",
+            "name": "Pipilu Anquan Tegong Dui",
+            "url": "https://myanimelist.net/anime/47806/Pipilu_Anquan_Tegong_Dui"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58960,
+            "type": "anime",
+            "name": "Pipilu Anquan Tegong Dui 2nd Season",
+            "url": "https://myanimelist.net/anime/58960/Pipilu_Anquan_Tegong_Dui_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/pipilurangers/main"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%ED%94%BC%ED%94%BC%EB%A3%A8_%EC%95%88%EC%A0%84%ED%8A%B9%EA%B3%B5%EB%8C%80"
+      }
+    ],
+    "streaming": []
+  }
+}

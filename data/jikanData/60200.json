@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 60200,
+    "url": "https://myanimelist.net/anime/60200/Terra_Live",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/146276.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/146276t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/146276l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/146276.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/146276t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/146276l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Terra Live"
+      },
+      {
+        "type": "Synonym",
+        "title": "U探泰拉,U Tan Tai La"
+      },
+      {
+        "type": "Japanese",
+        "title": "テラライブ"
+      },
+      {
+        "type": "English",
+        "title": "U Takes Terra"
+      }
+    ],
+    "title": "Terra Live",
+    "title_english": "U Takes Terra",
+    "title_japanese": "テラライブ",
+    "title_synonyms": [
+      "U探泰拉,U Tan Tai La"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 50205,
+            "type": "anime",
+            "name": "Arknights: Reimei Zensou",
+            "url": "https://myanimelist.net/anime/50205/Arknights__Reimei_Zensou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

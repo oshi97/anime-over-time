@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 57952,
+    "url": "https://myanimelist.net/anime/57952/Jijia_Yingxiong__Ji_Dou_Yongzhe_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/141139.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/141139.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jijia Yingxiong: Ji Dou Yongzhe 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "機甲英雄 機鬥勇者"
+      },
+      {
+        "type": "English",
+        "title": "Hero of Robots 2nd Season"
+      }
+    ],
+    "title": "Jijia Yingxiong: Ji Dou Yongzhe 2nd Season",
+    "title_english": "Hero of Robots 2nd Season",
+    "title_japanese": "機甲英雄 機鬥勇者",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-10T00:00:00+00:00",
+      "to": "2023-12-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": 29,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Nov 10, 2023 to Dec 29, 2023"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16316,
+    "popularity": 23211,
+    "members": 122,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Fridays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 406,
+        "type": "anime",
+        "name": "Asahi Production",
+        "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47838,
+            "type": "anime",
+            "name": "Jijia Yingxiong: Ji Dou Yongzhe",
+            "url": "https://myanimelist.net/anime/47838/Jijia_Yingxiong__Ji_Dou_Yongzhe"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://herorobots2.igsgame.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E8%8B%B1%E9%9B%84_%E6%A9%9F%E9%AC%A5%E5%8B%87%E8%80%85"
+      }
+    ],
+    "streaming": []
+  }
+}

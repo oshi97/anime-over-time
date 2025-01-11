@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 59512,
+    "url": "https://myanimelist.net/anime/59512/Punirunes__Puni_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/144697.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/144697t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/144697l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/144697.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/144697t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/144697l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "jJM5MTuAcGk",
+      "url": "https://www.youtube.com/watch?v=jJM5MTuAcGk",
+      "embed_url": "https://www.youtube.com/embed/jJM5MTuAcGk?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/jJM5MTuAcGk/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/jJM5MTuAcGk/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/jJM5MTuAcGk/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/jJM5MTuAcGk/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/jJM5MTuAcGk/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Punirunes: Puni 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぷにるんず ぷに2"
+      }
+    ],
+    "title": "Punirunes: Puni 2",
+    "title_english": null,
+    "title_japanese": "ぷにるんず ぷに2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-10-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 6, 2024 to ?"
+    },
+    "duration": "12 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18456,
+    "popularity": 20081,
+    "members": 270,
+    "favorites": 0,
+    "synopsis": "Second season of Punirunes.",
+    "background": "",
+    "season": "fall",
+    "year": 2024,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "09:15",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 09:15 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1231,
+        "type": "anime",
+        "name": "OLM Digital",
+        "url": "https://myanimelist.net/anime/producer/1231/OLM_Digital"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52935,
+            "type": "anime",
+            "name": "Punirunes",
+            "url": "https://myanimelist.net/anime/52935/Punirunes"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Puni Puni Punirunes Punix Version (ぷにぷにぷにるんず ぷにックスバージョン)\" by Nanahira (ななひら)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.punirunes.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18877"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32911"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B7%E3%81%AB%E3%82%8B%E3%82%93%E3%81%9A#%E6%A6%82%E8%A6%81%EF%BC%88%E7%AC%AC2%E6%9C%9F%EF%BC%89"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7244"
+      }
+    ],
+    "streaming": []
+  }
+}

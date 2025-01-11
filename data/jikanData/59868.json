@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 59868,
+    "url": "https://myanimelist.net/anime/59868/Jibi_Eopseo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/146411.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/146411t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/146411l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/146411.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/146411t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/146411l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "1VYoBwKC2bA",
+      "url": "https://www.youtube.com/watch?v=1VYoBwKC2bA",
+      "embed_url": "https://www.youtube.com/embed/1VYoBwKC2bA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/1VYoBwKC2bA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/1VYoBwKC2bA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/1VYoBwKC2bA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/1VYoBwKC2bA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/1VYoBwKC2bA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jibi Eopseo"
+      },
+      {
+        "type": "Synonym",
+        "title": "No Home"
+      },
+      {
+        "type": "Japanese",
+        "title": "집이 없어"
+      }
+    ],
+    "title": "Jibi Eopseo",
+    "title_english": null,
+    "title_japanese": "집이 없어",
+    "title_synonyms": [
+      "No Home"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-11-01T00:00:00+00:00",
+      "to": "2024-11-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2024
+        },
+        "to": {
+          "day": 15,
+          "month": 11,
+          "year": 2024
+        }
+      },
+      "string": "Nov 1, 2024 to Nov 15, 2024"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.75,
+    "scored_by": 201,
+    "rank": 5579,
+    "popularity": 13349,
+    "members": 1241,
+    "favorites": 3,
+    "synopsis": "Go Hae-jun, who ran away from home, and Baek Eun-young, a troublemaker who lives in a tent without a home. The two people who met through bad luck end up living together in an old, abandoned dormitory. \n\nA difficult coming-of-age story of two people who dislike both the dormitory and each other but have nowhere else to go.\n\n(Source: Laftel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147769,
+            "type": "manga",
+            "name": "No Home",
+            "url": "https://myanimelist.net/manga/147769/No_Home"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52881,
+            "type": "anime",
+            "name": "Jibi Eopseo PV",
+            "url": "https://myanimelist.net/anime/52881/Jibi_Eopseo_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Home Soon\" by Lee Won Seok (이원석)"
+      ],
+      "endings": [
+        "\"Maeum (마음; Heart)\" by RIPLEY (리플리)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://laftel.net/item/41593"
+      }
+    ],
+    "streaming": []
+  }
+}

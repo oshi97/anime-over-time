@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 45567,
+    "url": "https://myanimelist.net/anime/45567/Gekidan_Nanatsu_no_Taizai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1633/111052.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/111052t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/111052l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1633/111052.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/111052t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/111052l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gekidan Nanatsu no Taizai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nanatsu no Taizai Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇団七つの大罪"
+      },
+      {
+        "type": "English",
+        "title": "The Seven Deadly Sins Theater"
+      }
+    ],
+    "title": "Gekidan Nanatsu no Taizai",
+    "title_english": "The Seven Deadly Sins Theater",
+    "title_japanese": "劇団七つの大罪",
+    "title_synonyms": [
+      "Nanatsu no Taizai Mini Anime"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-24T00:00:00+00:00",
+      "to": "2021-01-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": 5,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Dec 24, 2020 to Jan 5, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.67,
+    "scored_by": 1873,
+    "rank": 11480,
+    "popularity": 7701,
+    "members": 7120,
+    "favorites": 13,
+    "synopsis": "Mini anime of Nanatsu no Taizai parodying six fairy tales: \"Little Match Girl,\" \"Urashima Tarou,\" \"Tsuru no Ongaeshi,\" \"Snow White's Scary Adventures,\" \"The Honest Woodcutter,\" and \"Momotarou.\" They were released daily on the official VAP Youtube channel and on the official Twitter account.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41491,
+            "type": "anime",
+            "name": "Nanatsu no Taizai: Funnu no Shinpan",
+            "url": "https://myanimelist.net/anime/41491/Nanatsu_no_Taizai__Funnu_no_Shinpan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://7-taizai.net/special/minianime/"
+      }
+    ],
+    "streaming": []
+  }
+}

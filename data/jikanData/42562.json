@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 42562,
+    "url": "https://myanimelist.net/anime/42562/Kyokou_Uranai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/108679t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/108679l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/108679.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/108679t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/108679l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyokou Uranai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Invented Divination"
+      },
+      {
+        "type": "Japanese",
+        "title": "虚構占い"
+      }
+    ],
+    "title": "Kyokou Uranai",
+    "title_english": null,
+    "title_japanese": "虚構占い",
+    "title_synonyms": [
+      "Invented Divination"
+    ],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-17T00:00:00+00:00",
+      "to": "2020-04-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 3,
+          "month": 4,
+          "year": 2020
+        }
+      },
+      "string": "Jan 17, 2020 to Apr 3, 2020"
+    },
+    "duration": "55 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6.1,
+    "scored_by": 1531,
+    "rank": 9354,
+    "popularity": 7309,
+    "members": 8176,
+    "favorites": 2,
+    "synopsis": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 39017,
+            "type": "anime",
+            "name": "Kyokou Suiri",
+            "url": "https://myanimelist.net/anime/39017/Kyokou_Suiri"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kyokousuiri.jp/movie/live2d/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14602"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "mal_id": 36265,
+    "url": "https://myanimelist.net/anime/36265/Sylvanian_Families__Mini_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87597.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87597t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87597l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87597.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87597t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87597l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sylvanian Families: Mini Story"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sylvanian Families: Mini Episodes"
+      },
+      {
+        "type": "Japanese",
+        "title": "シルバニアファミリー ミニストーリー"
+      },
+      {
+        "type": "English",
+        "title": "Calico Critters: Mini Episodes"
+      },
+      {
+        "type": "Spanish",
+        "title": "Sylvanian Families: Miniepisodios"
+      }
+    ],
+    "title": "Sylvanian Families: Mini Story",
+    "title_english": "Calico Critters: Mini Episodes",
+    "title_japanese": "シルバニアファミリー ミニストーリー",
+    "title_synonyms": [
+      "Sylvanian Families: Mini Episodes"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-07T00:00:00+00:00",
+      "to": "2017-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      "string": "Oct 7, 2017 to Dec 23, 2017"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14474,
+    "popularity": 17209,
+    "members": 469,
+    "favorites": 2,
+    "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families. \n\n(Source: ANN)",
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38560,
+            "type": "anime",
+            "name": "Sylvanian Families: Mini Story 2nd Season",
+            "url": "https://myanimelist.net/anime/38560/Sylvanian_Families__Mini_Story_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 30961,
+            "type": "anime",
+            "name": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+            "url": "https://myanimelist.net/anime/30961/Sylvanian_Families_Mini_Gekijou__Omoigakenai_Okyakusama"
+          },
+          {
+            "mal_id": 8644,
+            "type": "anime",
+            "name": "Sylvanian Families",
+            "url": "https://myanimelist.net/anime/8644/Sylvanian_Families"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://sylvanian-families.jp/special/tv/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13423"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26288"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sylvanian_Families"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6508"
+      }
+    ],
+    "streaming": []
+  }
+}

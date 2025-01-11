@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 60370,
+    "url": "https://myanimelist.net/anime/60370/Liang_Bu_Yi_2nd_Season_Small_Theater",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1786/146660.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1786/146660t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1786/146660l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1786/146660.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1786/146660t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1786/146660l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Liang Bu Yi 2nd Season Small Theater"
+      },
+      {
+        "type": "Synonym",
+        "title": "Liang Bu Yi 2nd Season Miniseries"
+      },
+      {
+        "type": "Japanese",
+        "title": "两不疑 第二季小剧场"
+      },
+      {
+        "type": "English",
+        "title": "No Doubt In Us 2nd Season Small Theater"
+      }
+    ],
+    "title": "Liang Bu Yi 2nd Season Small Theater",
+    "title_english": "No Doubt In Us 2nd Season Small Theater",
+    "title_japanese": "两不疑 第二季小剧场",
+    "title_synonyms": [
+      "Liang Bu Yi 2nd Season Miniseries"
+    ],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-01T00:00:00+00:00",
+      "to": "2023-04-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "string": "Oct 2022 to Apr 2023"
+    },
+    "duration": "45 sec per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17107,
+    "popularity": 21678,
+    "members": 182,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 60369,
+            "type": "anime",
+            "name": "Liang Bu Yi Small Theater",
+            "url": "https://myanimelist.net/anime/60369/Liang_Bu_Yi_Small_Theater"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 50403,
+            "type": "anime",
+            "name": "Liang Bu Yi 2nd Season",
+            "url": "https://myanimelist.net/anime/50403/Liang_Bu_Yi_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep692322/?share_source=copy_web"
+      }
+    ],
+    "streaming": []
+  }
+}

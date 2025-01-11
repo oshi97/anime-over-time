@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 38067,
+    "url": "https://myanimelist.net/anime/38067/Harukana_Receive__Yokoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1980/93259.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/93259t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/93259l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1980/93259.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/93259t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/93259l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Harukana Receive: Yokoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Harukana Receive next episode previews"
+      },
+      {
+        "type": "Japanese",
+        "title": "『はるかなレシーブ』予告"
+      },
+      {
+        "type": "English",
+        "title": "Harukana Receive: Web Previews"
+      }
+    ],
+    "title": "Harukana Receive: Yokoku",
+    "title_english": "Harukana Receive: Web Previews",
+    "title_japanese": "『はるかなレシーブ』予告",
+    "title_synonyms": [
+      "Harukana Receive next episode previews"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-11T00:00:00+00:00",
+      "to": "2018-09-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 19,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Jul 11, 2018 to Sep 19, 2018"
+    },
+    "duration": "20 sec per ep",
+    "rating": "PG - Children",
+    "score": 5.84,
+    "scored_by": 777,
+    "rank": 10707,
+    "popularity": 9959,
+    "members": 3501,
+    "favorites": 0,
+    "synopsis": "Web-exclusive next episode previews for Harukana Receive. These contain unique chibi animations and are released on Kadokawa's official YouTube channel. They are released about 2 days prior to the full episode airing.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 605,
+        "type": "anime",
+        "name": "C2C",
+        "url": "https://myanimelist.net/anime/producer/605/C2C"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35983,
+            "type": "anime",
+            "name": "Harukana Receive",
+            "url": "https://myanimelist.net/anime/35983/Harukana_Receive"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.harukana-receive.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13296"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Harukana_Receive"
+      }
+    ],
+    "streaming": []
+  }
+}

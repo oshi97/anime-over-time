@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 56282,
+    "url": "https://myanimelist.net/anime/56282/Hello_Carbot_Season_4",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1177/137773.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1177/137773t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1177/137773l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1177/137773.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1177/137773t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1177/137773l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot Season 4"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 카봇 시즌4"
+      }
+    ],
+    "title": "Hello Carbot Season 4",
+    "title_english": null,
+    "title_japanese": "헬로 카봇 시즌4",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-07-16T00:00:00+00:00",
+      "to": "2017-02-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 7,
+          "year": 2016
+        },
+        "to": {
+          "day": 11,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      "string": "Jul 16, 2016 to Feb 11, 2017"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20961,
+    "popularity": 23548,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56280,
+            "type": "anime",
+            "name": "Hello Carbot Season 3",
+            "url": "https://myanimelist.net/anime/56280/Hello_Carbot_Season_3"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56283,
+            "type": "anime",
+            "name": "Hello Carbot Season 5",
+            "url": "https://myanimelist.net/anime/56283/Hello_Carbot_Season_5"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/헬로%20카봇"
+      }
+    ],
+    "streaming": []
+  }
+}

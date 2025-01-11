@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 41426,
+    "url": "https://myanimelist.net/anime/41426/Watanuki-san_Chi_to",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/111640.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/111640t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/111640l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/111640.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/111640t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/111640l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Watanuki-san Chi to"
+      },
+      {
+        "type": "Synonym",
+        "title": "Watanuki's House Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "四月一日さん家と"
+      }
+    ],
+    "title": "Watanuki-san Chi to",
+    "title_english": null,
+    "title_japanese": "四月一日さん家と",
+    "title_synonyms": [
+      "Watanuki's House Second Season"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-06T00:00:00+00:00",
+      "to": "2020-06-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 22,
+          "month": 6,
+          "year": 2020
+        }
+      },
+      "string": "Apr 6, 2020 to Jun 22, 2020"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.02,
+    "scored_by": 151,
+    "rank": 9791,
+    "popularity": 12278,
+    "members": 1728,
+    "favorites": 5,
+    "synopsis": "Second season of Watanuki-san Chi no.",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "01:35",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 01:35 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39668,
+            "type": "anime",
+            "name": "Watanuki-san Chi no",
+            "url": "https://myanimelist.net/anime/39668/Watanuki-san_Chi_no"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"V.V Kirikomimasu! (V・V・斬り込みます！)\" by The April Fools"
+      ],
+      "endings": [
+        "\"Hana ga Saitara (花が咲いたら)\" by The April Fools"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://watanukisantino.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15520"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24224"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9C%88%E4%B8%80%E6%97%A5%E3%81%95%E3%82%93%E5%AE%B6%E3%81%AE"
+      }
+    ],
+    "streaming": []
+  }
+}
