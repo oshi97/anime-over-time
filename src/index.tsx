@@ -52,11 +52,35 @@ root.render(
  * After that, we will need to aggregate:
  * 1. membership count on MAL
  * 2. rating on MAL
- * 3. season and year
+ * 3. season and year (manami)
  * 4. Genres and themes on mal. Comedy and romance are genres, harem, is a theme (apparently, lol). 
  * Mal does not consider Alya a harem, and Blue Box is a "love polygon". Fair enough.
  * 5. tags from the manami database
- * 
+ * 6. image url (medium size) and title for purposes of the "best anime of the season" graph (mal)
+ **/
+
+/**
+ * The data schema will be as follows
+ */
+export interface AnimeData {
+  membershipCount: number,
+  malRating: number,
+  malGenres: string[],
+  malThemes: string[],
+  manamiTags: string[],
+  malImageURL: string,
+  title: string
+}
+
+export type SEASON = 'WINTER' | 'SPRING' | 'SUMMER' | 'FALL'
+
+export interface YearToSeasonToAnime {
+  [key: number]: {
+    [season in SEASON]: AnimeData[]
+  }
+}
+
+ /**
  * We will need to generate graphs for the following scenarios:
  * 1. number of anime per season, 4x/year
  * 2. membership over time on MAL.
@@ -87,4 +111,6 @@ root.render(
  * as a bar graph with each bar broken up into 3 colors. In essence, it is 2 numbers. Percent of the top 3, and percent of the middle 3.
  * Choosing to end at 9, of course, is somewhat arbitrary, but I can't think of a way to help that. (it, at least currently,
  *  can't be helped, at least not by me, in other words)
+ * 
+ * reach goal) group by year instead of year + season
  */
