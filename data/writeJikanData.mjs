@@ -37,6 +37,6 @@ async function writeJikanDataFile(p, retryCount = 0) {
     JSON.stringify(jsonData, null, 2))
 }
 
-function getJikanDataFilepath(malId) {
+export function getJikanDataFilepath(malId) {
   return resolvePath(path.join('jikanData', `${malId}.json`));
 }
