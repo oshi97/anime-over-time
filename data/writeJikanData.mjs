@@ -3,9 +3,7 @@ import path from 'path';
 import resolvePath from './resolvePath.mjs';
 import potentialAnime from './potentialAnime.json' with { type: "json" };
 
-writeJikanData();
-
-async function writeJikanData() {
+export async function writeJikanData() {
   for (const p of potentialAnime) {
     if (!fs.existsSync(getJikanDataFilepath(p.malId))) {
       await writeJikanDataFile(p);
