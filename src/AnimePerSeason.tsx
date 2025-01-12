@@ -1,36 +1,43 @@
-import React from 'react';
-import { Line } from 'react-chartjs-2';
-import './App.css';
-import seasonalAnime from './seasonalAnime.min.json'
-import iterateThroughSeasons from './iterateThroughSeasons.ts'
-import getChartOptions from './getChartOptions.ts';
+import { Line } from 'react-chartjs-2'
+import './App.css'
+import getSeasonLabels from './utils/getSeasonLabels'
+import iterateThroughSeasons from './utils/iterateThroughSeasons'
+import getChartOptions from './utils/getChartOptions'
+import { BLUE_LINE, CHART_BACKGROUND, RED_LINE } from './utils/colors'
 
-const seasons: string[] = [];
 const animeData: number[] = []
-iterateThroughSeasons((y, s) => {
-  let seasonLabel = s.substring(0, 1)
-  if (['SPRING', 'SUMMER'].includes(s)) {
-    seasonLabel += s.substring(1, 2).toLowerCase()
-  }
-  seasons.push(`${y}`.substring(2) + '\'' + seasonLabel)
-  const seasonalCount = seasonalAnime[y][s].length
+iterateThroughSeasons(animeSeason => {
+  const seasonalCount = animeSeason.length
   animeData.push(seasonalCount)
 })
 
+const filteredData: number[] = []
+iterateThroughSeasons(animeSeason => {
+  const seasonalCount = animeSeason.filter(a => a.episodeCount > 6).length
+  filteredData.push(seasonalCount)
+})
+
 export const data = {
-  labels: seasons,
+  labels: getSeasonLabels(),
   datasets: [
     {
       label: 'Anime per season',
       data: animeData,
-      borderColor: 'rgb(255, 99, 132)',
-      backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      borderColor: RED_LINE,
+      backgroundColor: CHART_BACKGROUND
     },
-  ],
-};
+    {
+      label: 'filtering episode count > 6',
+      data: filteredData,
+      borderColor: BLUE_LINE,
+      backgroundColor: CHART_BACKGROUND,
+      hidden: true
+    }
+  ]
+}
 
 const options = getChartOptions('# of Seasonal Anime per Season')
 
 export default function AnimePerSeason() {
-  return <Line options={options} data={data} />;
+  return <Line options={options} data={data} />
 }

@@ -1,4 +1,5 @@
 import resolvePath from './resolvePath.mjs';
+import fs from 'fs'
 
 export default function writePotentialAnime() {
   const database = JSON.parse(fs.readFileSync(resolvePath('./anime-offline-database.json')));
@@ -10,7 +11,7 @@ function filterByJapaneseAnime(database) {
   const potentialAnime = []
   for (const { animeSeason, tags, type, episodes, title, sources } of database.data) {
     const { season, year } = animeSeason;
-    if (isUnwanted({ season, tags, type, episodes, title, year })) {
+    if (isUnwanted({ season, tags, type, title, year })) {
       continue;
     }
     const malSource = sources.find(s => s.includes('myanimelist.net'));
@@ -27,25 +28,25 @@ function filterByJapaneseAnime(database) {
   return potentialAnime
 }
 
-function isUnwanted({ title, year, episodes, tags, season, type}) {
+function isUnwanted({ title, year, tags, season, type}) {
   return (
-    title.includes('Xiong') ||
-    title.includes('Chuanqi') ||
-    title.includes('Caslon') ||
-    title.includes('Zhu') ||
-    title.includes('zhu') ||
-    title.includes('Xiao') ||
-    title.includes('xiao') ||
-    title.includes('Chong') ||
-    title.includes('Jing') ||
-    title.includes('Dong') ||
-    title.includes('dong') ||
-    title.toUpperCase().includes('ARNOLD & PUPPETS') ||
-    title.includes('Muzik Tiger') ||
-    year < 2004 || episodes < 6 || 
+    // title.includes('Xiong') ||
+    // title.includes('Chuanqi') ||
+    // title.includes('Caslon') ||
+    // title.includes('Zhu') ||
+    // title.includes('zhu') ||
+    // title.includes('Xiao') ||
+    // title.includes('xiao') ||
+    // title.includes('Chong') ||
+    // title.includes('Jing') ||
+    // title.includes('Dong') ||
+    // title.includes('dong') ||
+    // title.toUpperCase().includes('ARNOLD & PUPPETS') ||
+    // title.includes('Muzik Tiger') ||
+    year < 2004 ||
     tags.includes('chinese animation') || 
-    tags.includes('korean animation') || 
-    season === 'UNDEFINED' ||
+    tags.includes('korean animation')) 
+    // season === 'UNDEFINED' ||
     // type === 'ONA' || 
-    type === 'SPECIAL')
+    // type === 'SPECIAL')
 }

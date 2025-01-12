@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App.tsx';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import './index.css'
+import App from './App'
 
 import {
   Chart as ChartJS,
@@ -11,8 +11,8 @@ import {
   LineElement,
   Title,
   Tooltip,
-  Legend,
-} from 'chart.js';
+  Legend
+} from 'chart.js'
 
 ChartJS.register(
   CategoryScale,
@@ -22,14 +22,11 @@ ChartJS.register(
   Title,
   Tooltip,
   Legend
-);
+)
 
-
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
+const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);
+)
