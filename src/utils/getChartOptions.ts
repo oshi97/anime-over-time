@@ -1,8 +1,12 @@
 import cloneDeep from 'lodash/cloneDeep'
 import type { ChartOptions, AnimationSpec } from 'chart.js/auto'
 
-const delayBetweenPoints = 3;
-const previousY = (ctx: any) => ctx.index === 0 ? ctx.chart.scales.y.getPixelForValue(100) : ctx.chart.getDatasetMeta(ctx.datasetIndex).data[ctx.index - 1].getProps(['y'], true).y;
+const delayBetweenPoints = 3
+const previousY = (ctx: any) =>
+  ctx.index === 0
+    ? ctx.chart.scales.y.getPixelForValue(100)
+    : ctx.chart.getDatasetMeta(ctx.datasetIndex).data[ctx.index - 1].getProps(['y'], true)
+        .y
 const animation = {
   x: {
     type: 'number',
@@ -11,10 +15,10 @@ const animation = {
     from: NaN, // the point is initially skipped
     delay(ctx: any) {
       if (ctx.type !== 'data' || ctx.xStarted) {
-        return 0;
+        return 0
       }
-      ctx.xStarted = true;
-      return ctx.index * delayBetweenPoints;
+      ctx.xStarted = true
+      return ctx.index * delayBetweenPoints
     }
   },
   y: {
@@ -24,13 +28,13 @@ const animation = {
     from: previousY,
     delay(ctx: any) {
       if (ctx.type !== 'data' || ctx.yStarted) {
-        return 0;
+        return 0
       }
-      ctx.yStarted = true;
-      return ctx.index * delayBetweenPoints;
+      ctx.yStarted = true
+      return ctx.index * delayBetweenPoints
     }
   }
-};
+}
 
 const transitions = {
   show: {
@@ -54,7 +58,6 @@ const transitions = {
     }
   }
 }
-
 
 export const options: ChartOptions = {
   responsive: true,

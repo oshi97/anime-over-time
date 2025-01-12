@@ -53,6 +53,6 @@ export default function writeSeasonalAnime() {
   }
 
   fs.writeFileSync(resolvePath('seasonalAnime.json'), JSON.stringify(yearToSeasonToAnime, null, 2))
-  fs.writeFileSync(resolvePath('../src/seasonalAnime.min.json'), JSON.stringify(yearToSeasonToAnime))
+  fs.writeFileSync(resolvePath('seasonalAnime.min.json'), JSON.stringify(yearToSeasonToAnime))
   console.log('anime count! -', animeCount, 'pruned - ', potentialAnime.length - animeCount)
 }

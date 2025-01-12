@@ -1,14 +1,14 @@
-import { JSX } from "react"
-import { AnimeData, SEASON } from "../types"
+import { JSX } from 'react'
+import { AnimeData, SEASON } from '../types'
 
 export interface SeasonData {
-  season: SEASON,
-  year: string,
+  season: SEASON
+  year: string
   shows: AnimeData[]
 }
 
 export default function AnimeList(props: {
-  seasonData: SeasonData[],
+  seasonData: SeasonData[]
   renderShow: (a: AnimeData) => JSX.Element
 }) {
   return (
@@ -16,7 +16,9 @@ export default function AnimeList(props: {
       {props.seasonData.map(season => {
         return (
           <li key={season.year + season.season} className='border flex'>
-            <div className='w-32'>{season.year} {season.season}</div>
+            <div className='w-32'>
+              {season.year} {season.season}
+            </div>
             {season.shows.map(props.renderShow)}
           </li>
         )

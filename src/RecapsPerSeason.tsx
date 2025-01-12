@@ -1,21 +1,11 @@
 import { Line } from 'react-chartjs-2'
 import './App.css'
-import seasonalAnime from './seasonalAnime.min.json'
-import iterateThroughSeasons from './utils/iterateThroughSeasons'
 import getChartOptions from './utils/getChartOptions'
-import { AnimeData, SEASON } from './types'
+import { AnimeData } from './types'
 import getSeasonLabels from './utils/getSeasonLabels'
-import AnimeList, { SeasonData } from './ui-blocks/AnimeList'
+import AnimeList from './ui-blocks/AnimeList'
 import ImageWithPlaceholder from './ui-blocks/ImageWithPlaceholder'
-
-const recapsPerSeason: SeasonData[] = []
-iterateThroughSeasons((animeSeason, year, season) => {
-  recapsPerSeason.push({
-    year,
-    season,
-    shows: animeSeason.filter(a => a.manamiTags.includes('recap'))
-  })
-})
+import recapsPerSeason from './data/recapsPerSeason.json'
 
 export const data = {
   labels: getSeasonLabels(),
@@ -33,20 +23,28 @@ const options = getChartOptions('# of Recaps per Season')
 
 const renderShow = (a: AnimeData) => (
   <div key={a.title} className='rounded p-1'>
-    <ImageWithPlaceholder className='w-32 h-40' src={a.malImageURL} placeholderSrc={a.malSmallImageURL}/>
+    <ImageWithPlaceholder
+      className='w-32 h-40'
+      src={a.malImageURL}
+      placeholderSrc={a.malSmallImageURL}
+    />
     <div className='w-32 flex flex-col'>
-      <div><span className='font-bold text-sm'>{a.episodeCount}</span> Episodes</div>
-      <div><span className='italic'>{a.duration}</span></div>
-      <div className="text-xs">{a.title}</div>
+      <div>
+        <span className='font-bold text-sm'>{a.episodeCount}</span> Episodes
+      </div>
+      <div>
+        <span className='italic'>{a.duration}</span>
+      </div>
+      <div className='text-xs'>{a.title}</div>
     </div>
   </div>
 )
 
 export default function RecapsPerSeason() {
   return (
-  <>
-    <Line options={options} data={data} />
-    <AnimeList seasonData={recapsPerSeason} renderShow={renderShow}/>
-  </>
+    <>
+      <Line options={options} data={data} />
+      <AnimeList seasonData={recapsPerSeason} renderShow={renderShow} />
+    </>
   )
 }

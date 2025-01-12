@@ -1,15 +1,15 @@
-import { useState } from "react";
+import { useState } from 'react'
 
 export default function ImageWithPlaceholder(props: {
-  src: string,
-  placeholderSrc: string,
+  src: string
+  placeholderSrc: string
   className: string
 }) {
-  const [imageLoaded, setImageLoaded] = useState(false);
+  const [imageLoaded, setImageLoaded] = useState(false)
 
   return (
     <div>
-      {!imageLoaded && <img src={props.placeholderSrc} className={props.className}/>}
+      {!imageLoaded && <img src={props.placeholderSrc} className={props.className} />}
       <img
         className={props.className}
         src={props.src}
@@ -17,5 +17,5 @@ export default function ImageWithPlaceholder(props: {
         onLoad={() => setImageLoaded(true)}
       />
     </div>
-  );
+  )
 }

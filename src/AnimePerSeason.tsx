@@ -1,34 +1,24 @@
 import { Line } from 'react-chartjs-2'
 import './App.css'
 import getSeasonLabels from './utils/getSeasonLabels'
-import iterateThroughSeasons from './utils/iterateThroughSeasons'
 import getChartOptions from './utils/getChartOptions'
 import { BLUE_BACKGROUND, BLUE_LINE, RED_BACKGROUND, RED_LINE } from './utils/colors'
-
-const animeData: number[] = []
-iterateThroughSeasons(animeSeason => {
-  const seasonalCount = animeSeason.length
-  animeData.push(seasonalCount)
-})
-
-const filteredData: number[] = []
-iterateThroughSeasons(animeSeason => {
-  const seasonalCount = animeSeason.filter(a => a.episodeCount > 6).length
-  filteredData.push(seasonalCount)
-})
+import processedData from './data/animePerSeason.json'
 
 export const data = {
   labels: getSeasonLabels(),
   datasets: [
     {
       label: 'Anime per season',
-      data: animeData,
+      data: processedData.animeData,
       borderColor: RED_LINE,
       backgroundColor: RED_BACKGROUND
     },
     {
       label: 'filtering episode count > 6',
-      data: filteredData,
+      // wow my naming is freaking awful lol. I'd rather write this comment than update it right now though
+      // and think myself rather witty
+      data: processedData.filteredData,
       borderColor: BLUE_LINE,
       backgroundColor: BLUE_BACKGROUND,
       hidden: true
