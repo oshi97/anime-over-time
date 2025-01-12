@@ -1,6 +1,6 @@
-import iterateThroughSeasons from "./iterateThroughSeasons.mjs"
+import iterateThroughSeasons from "../iterateThroughSeasons.mjs"
 import fs from 'fs'
-import resolvePath from "../resolvePath.mjs"
+import resolvePath from "../../resolvePath.mjs"
 
 export default function forAnimePerSeason() {
   const animeData = []

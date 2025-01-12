@@ -88,3 +88,5 @@
 // Do I count it as a seasonal anime? Do I try to spread it out evenly from 2007 to 2017? Do I omit it?
 // None of these options seem to be good. For now I'm going to leave it at as Winter 2007 because that's the easiest
 // to code, and I think impacts the other data the least, but I'm really not sure how to deal with it.
+
+// TODO, someday, A "hide ratings" button

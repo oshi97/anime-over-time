@@ -1,7 +1,7 @@
 import cloneDeep from 'lodash/cloneDeep'
 import type { ChartOptions, AnimationSpec } from 'chart.js/auto'
 
-const delayBetweenPoints = 3
+const delayBetweenPoints = 2
 const previousY = (ctx: any) =>
   ctx.index === 0
     ? ctx.chart.scales.y.getPixelForValue(100)

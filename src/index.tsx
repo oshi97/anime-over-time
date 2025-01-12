@@ -27,6 +27,8 @@ ChartJS.register(
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>
-    <App />
+    <div className='mt-1 ml-1 mr-1'>
+      <App />
+    </div>
   </React.StrictMode>
 )

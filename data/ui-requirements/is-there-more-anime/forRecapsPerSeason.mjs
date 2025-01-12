@@ -1,7 +1,6 @@
-import cloneDeep from "lodash/cloneDeep.js";
-import iterateThroughSeasons from "./iterateThroughSeasons.mjs";
+import iterateThroughSeasons from "../iterateThroughSeasons.mjs";
 import fs from 'fs'
-import resolvePath from "../resolvePath.mjs";
+import resolvePath from "../../resolvePath.mjs";
 
 
 export default function forRecapsPerSeason() {
