@@ -3,7 +3,7 @@ import './App.css'
 import getChartOptions from './utils/getChartOptions'
 import { AnimeData } from './types'
 import getSeasonLabels from './utils/getSeasonLabels'
-import AnimeList from './ui-blocks/AnimeList'
+import AnimeList, { SeasonData } from './ui-blocks/AnimeList'
 import ImageWithPlaceholder from './ui-blocks/ImageWithPlaceholder'
 import recapsPerSeason from './data/recapsPerSeason.json'
 
@@ -44,7 +44,7 @@ export default function RecapsPerSeason() {
   return (
     <>
       <Line options={options} data={data} />
-      <AnimeList seasonData={recapsPerSeason} renderShow={renderShow} />
+      <AnimeList seasonData={recapsPerSeason as SeasonData[]} renderShow={renderShow} />
     </>
   )
 }
