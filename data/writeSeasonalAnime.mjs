@@ -44,8 +44,10 @@ export default function writeSeasonalAnime() {
       // manamiTags: p.tags.filter(t => ['harem', 'comedy', 'romance', 'romantic comedy', 'male harem', 'female harem'].includes(t)),
       manamiTags: p.tags,
       malImageURL: jikanData.images.jpg.image_url,
+      malSmallImageURL: jikanData.images.jpg.small_image_url,
       title: jikanData.title,
-      episodeCount: jikanData.episodes
+      episodeCount: jikanData.episodes,
+      duration: jikanData.duration
     })
     animeCount++
   }

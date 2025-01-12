@@ -3,5 +3,7 @@
 }
 
 .link {
-  color: blue;
+  color: white;
+  display: flex;
+  background-color: rgb(29 78 216 / var(--tw-bg-opacity, 1));
 }

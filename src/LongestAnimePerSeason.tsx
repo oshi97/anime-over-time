@@ -2,6 +2,7 @@ import { cloneDeep } from "lodash";
 import { AnimeData, SEASON } from "./types";
 import iterateThroughSeasons from "./utils/iterateThroughSeasons";
 import AnimeList from "./ui-blocks/AnimeList";
+import ImageWithPlaceholder from "./ui-blocks/ImageWithPlaceholder";
 
 interface LongestShows {
   season: SEASON,
@@ -23,7 +24,7 @@ iterateThroughSeasons((animeSeason, year, season) => {
 
 const renderShow = (a: AnimeData) => (
   <div key={a.title} className='rounded p-1'>
-    <img className='w-32 h-40' src={a.malImageURL}/>
+    <ImageWithPlaceholder className='w-32 h-40' src={a.malImageURL} placeholderSrc={a.malSmallImageURL}/>
     <div className='w-32 flex flex-col'>
       <div><span className='font-bold'>{a.episodeCount}</span> Episodes</div>
       <div className="text-xs">{a.title}</div>

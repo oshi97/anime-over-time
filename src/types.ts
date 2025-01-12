@@ -10,8 +10,10 @@ export interface AnimeData {
   malRating: number
   malGenres: string[]
   malThemes: string[]
+  duration: string
   manamiTags: string[]
   malImageURL: string
+  malSmallImageURL: string
   episodeCount: number
   title: string
 }

@@ -6,6 +6,7 @@ import getChartOptions from './utils/getChartOptions'
 import { AnimeData, SEASON } from './types'
 import getSeasonLabels from './utils/getSeasonLabels'
 import AnimeList, { SeasonData } from './ui-blocks/AnimeList'
+import ImageWithPlaceholder from './ui-blocks/ImageWithPlaceholder'
 
 const recapsPerSeason: SeasonData[] = []
 iterateThroughSeasons((animeSeason, year, season) => {
@@ -32,9 +33,10 @@ const options = getChartOptions('# of Recaps per Season')
 
 const renderShow = (a: AnimeData) => (
   <div key={a.title} className='rounded p-1'>
-    <img className='w-32 h-40' src={a.malImageURL}/>
+    <ImageWithPlaceholder className='w-32 h-40' src={a.malImageURL} placeholderSrc={a.malSmallImageURL}/>
     <div className='w-32 flex flex-col'>
-      <div><span className='font-bold'>{a.episodeCount}</span> Episodes</div>
+      <div><span className='font-bold text-sm'>{a.episodeCount}</span> Episodes</div>
+      <div><span className='italic'>{a.duration}</span></div>
       <div className="text-xs">{a.title}</div>
     </div>
   </div>

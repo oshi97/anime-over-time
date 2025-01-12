@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route, NavLink } from 'react-router'
+import type { PropsWithChildren } from 'react'
 import AnimePerSeason from './AnimePerSeason'
 import EpisodesPerSeason from './EpisodesPerSeason'
 import './App.css';
@@ -6,14 +7,33 @@ import residentsleeper from './icons/residentsleeper.png'
 import LongestAnimePerSeason from './LongestAnimePerSeason';
 import RecapsPerSeason from './RecapsPerSeason';
 
-const Links = () => (
-  <div className='flex flex-col'>
-    <NavLink to='/anime-per-season' className='link'>Anime Per Season</NavLink>
-    <NavLink to='/episodes-per-season' className='link'>Episodes Per Season</NavLink>
-    <NavLink to='/resident-sleepers-per-season' className='link flex'>
-      <img className='w-6 h-6' src={residentsleeper}/>s (Recaps) Per Season
+// whee. tailwind
+const Button = (props: PropsWithChildren<{
+  to: string
+}>) => (
+  <button type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
+    <NavLink to={props.to}>
+      {props.children}
     </NavLink>
-    <NavLink to='/longest-anime-per-season' className='link'>Longest Anime Per Season</NavLink>
+  </button>
+)
+
+const Links = () => (
+  <div className='mt-1'>
+      <Button to='/anime-per-season'>
+        Anime Per Season
+      </Button>
+    <Button to='/episodes-per-season'>
+      Episodes Per Season
+    </Button>
+    <Button to='/resident-sleepers-per-season'>
+      <div className='flex'>
+        <img className='h-4' src={residentsleeper}/>s (Recaps) Per Season
+      </div>
+    </Button>
+    <Button to='/longest-anime-per-season'>
+      Longest Anime Per Season
+    </Button>
   </div>
 )
 
@@ -21,7 +41,7 @@ const App = () => (
   <BrowserRouter>
     <Links />
     <Routes>
-      <Route path='/' element={null} />
+      <Route path='/' element={<div>Click a button doofus</div>} />
       <Route path='/anime-per-season' element={<AnimePerSeason />} />
       <Route path='/episodes-per-season' element={<EpisodesPerSeason />} />
       <Route path='/resident-sleepers-per-season' element={<RecapsPerSeason />} />
