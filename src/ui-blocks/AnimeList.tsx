@@ -1,25 +1,3 @@
-import { cloneDeep } from "lodash";
-import { AnimeData, SEASON } from "./types";
-import iterateThroughSeasons from "./utils/iterateThroughSeasons";
-
-interface LongestShows {
-  season: SEASON,
-  year: string,
-  shows: AnimeData[]
-}
-
-const longestShows: LongestShows[] = []
-iterateThroughSeasons((animeSeason, year, season) => {
-  const sortedSeason = cloneDeep(animeSeason);
-  sortedSeason.sort((a, b) => b.episodeCount - a.episodeCount)
-  longestShows.push({
-    year,
-    season,
-    // Probably don't need more than 9 shows
-    shows: sortedSeason.slice(0,9)
-  })
-})
-
 export default function LongestAnimePerSeason() {
   return (
     <ul>

@@ -3,12 +3,22 @@ import './App.css'
 import seasonalAnime from './seasonalAnime.min.json'
 import iterateThroughSeasons from './utils/iterateThroughSeasons'
 import getChartOptions from './utils/getChartOptions'
-import { AnimeData } from './types'
+import { AnimeData, SEASON } from './types'
 import getSeasonLabels from './utils/getSeasonLabels'
 
-const animeData: { episodes: number, entries: number}[] = []
-iterateThroughSeasons((y, s) => {
-  const animeSeason: AnimeData[] = seasonalAnime[y][s]
+interface RecapData {
+  year: string,
+  season: SEASON,
+  recaps: AnimeData[]
+}
+
+const recapsPerSeason: RecapData[] = []
+iterateThroughSeasons((animeSeason, year, season) => {
+  recapsPerSeason.push({
+    year,
+    season,
+    recaps: animeSeason.filter(a => a.manamiTags.includes('recap'))
+  })
 })
 
 export const data = {
@@ -16,7 +26,7 @@ export const data = {
   datasets: [
     {
       label: 'Recaps per season',
-      data: animeData.map(a => a.total),
+      data: recapsPerSeason,
       borderColor: 'rgb(255, 99, 132)',
       backgroundColor: 'rgba(255, 99, 132, 0.5)'
     }

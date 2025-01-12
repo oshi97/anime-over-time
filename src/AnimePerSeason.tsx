@@ -3,7 +3,7 @@ import './App.css'
 import getSeasonLabels from './utils/getSeasonLabels'
 import iterateThroughSeasons from './utils/iterateThroughSeasons'
 import getChartOptions from './utils/getChartOptions'
-import { BLUE_LINE, CHART_BACKGROUND, RED_LINE } from './utils/colors'
+import { BLUE_BACKGROUND, BLUE_LINE, RED_BACKGROUND, RED_LINE } from './utils/colors'
 
 const animeData: number[] = []
 iterateThroughSeasons(animeSeason => {
@@ -24,13 +24,13 @@ export const data = {
       label: 'Anime per season',
       data: animeData,
       borderColor: RED_LINE,
-      backgroundColor: CHART_BACKGROUND
+      backgroundColor: RED_BACKGROUND
     },
     {
       label: 'filtering episode count > 6',
       data: filteredData,
       borderColor: BLUE_LINE,
-      backgroundColor: CHART_BACKGROUND,
+      backgroundColor: BLUE_BACKGROUND,
       hidden: true
     }
   ]

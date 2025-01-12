@@ -4,6 +4,7 @@ import EpisodesPerSeason from './EpisodesPerSeason'
 import './App.css';
 import residentsleeper from './icons/residentsleeper.png'
 import LongestAnimePerSeason from './LongestAnimePerSeason';
+import RecapsPerSeason from './RecapsPerSeason';
 
 const Links = () => (
   <div className='flex flex-col'>
@@ -23,7 +24,7 @@ const App = () => (
       <Route path='/' element={null} />
       <Route path='/anime-per-season' element={<AnimePerSeason />} />
       <Route path='/episodes-per-season' element={<EpisodesPerSeason />} />
-      <Route path='/resident-sleepers-per-season' element={<EpisodesPerSeason />} />
+      <Route path='/resident-sleepers-per-season' element={<RecapsPerSeason />} />
       <Route path='/longest-anime-per-season' element={<LongestAnimePerSeason />} />
     </Routes>
   </BrowserRouter>
