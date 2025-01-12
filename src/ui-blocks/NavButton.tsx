@@ -12,15 +12,14 @@ const NavButton = (
 ) => (
   <NavLink end={props.end} to={props.to}>
     {({ isActive }) => {
-      console.log(isActive, props.to)
       return (
-      <button
-        type='button'
-        // whee. tailwind
-        className={isActive ? CLASSNAMES + ' underline' : CLASSNAMES}
-      >
-        {props.children}
-      </button>
+        <button
+          type='button'
+          // whee. tailwind
+          className={isActive ? CLASSNAMES + ' underline' : CLASSNAMES}
+        >
+          {props.children}
+        </button>
       )
     }}
   </NavLink>

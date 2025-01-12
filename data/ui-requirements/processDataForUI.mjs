@@ -4,6 +4,7 @@ import forLongestAnimePerSeason from "./is-there-more-anime/forLongestAnimePerSe
 import forRecapsPerSeason from "./is-there-more-anime/forRecapsPerSeason.mjs"
 import forMostPopularAnimePerSeason from "./is-anime-more-popular/forMostPopularAnimePerSeason.mjs"
 import forTotalMembersPerSeason from "./is-anime-more-popular/forTotalMembersPerSeason.mjs"
+import forMalRatings from "./is-anime-getting-better/forMalRatings.mjs"
 
 export default function processDataForUI() {
   // forAnimePerSeason()
@@ -11,7 +12,9 @@ export default function processDataForUI() {
   // forRecapsPerSeason()
   // forLongestAnimePerSeason()
 
-  forMostPopularAnimePerSeason()
-  forTotalMembersPerSeason()
+  // forMostPopularAnimePerSeason()
+  // forTotalMembersPerSeason()
+
+  forMalRatings()
 }
 

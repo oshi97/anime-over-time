@@ -60,6 +60,9 @@
  *   5. (yes the 5 is intentional) We will highlight the periods of before during and after covid. As well as perhaps genshin impact and... vtubers?
  * 3. Is anime getting better?
  *   a. The rating of the number 1 show every season. Individually, and also, adjusted by membership counts.
+ actually looking back I'm not sure why I cared to adjust by membership counts...? or what that even really means anymore?
+ Did I mean I would multiply it by the membership count? A sort of, "total number of rating points given" to a season as a whole?
+ I don't know if I like that...
  *   b. The average rating of the top 10 shows every season. Similarly adjusted both ways.
  *   c. Every show in a season. Adjusted both ways.
  * 4. Is anime more "serious?"
