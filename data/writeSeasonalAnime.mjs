@@ -4,17 +4,13 @@ import resolvePath from './resolvePath.mjs';
 import potentialAnime from './potentialAnime.json' with { type: "json" };
 
 function warn(...msg) {
-  console.warn(...msg)
+  // console.warn(...msg)
 }
 
 export default function writeSeasonalAnime() {
   let animeCount = 0
   const yearToSeasonToAnime = {}
   for (const p of potentialAnime) {
-    if (p.malId !== "58091") {
-      continue
-    }
-    console.log('hi')
     const { year, season } = p.animeSeason
     const jikanDataPath = getJikanDataFilepath(p.malId);
     if (p.tags.includes('adult audience only') || p.tags.includes('hentai') || !fs.existsSync(jikanDataPath)) {
@@ -30,7 +26,7 @@ export default function writeSeasonalAnime() {
       warn('Skipping case 3', p.title)
       continue
     }
-    if (parseInt(jikanData.duration.split(" min")[0]) < 19) {
+    if (!jikanData.duration.includes('hr') && parseInt(jikanData.duration.split(" min")[0]) < 19) {
       warn('Skipping case 4', p.title, jikanData.duration.split(" min")[0] )
       continue
     }
