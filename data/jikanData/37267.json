@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 37267,
+    "url": "https://myanimelist.net/anime/37267/Go-chan__Moko_to_Koori_no_Ue_no_Yakusoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1037/90455.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1037/90455t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1037/90455l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1037/90455.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1037/90455t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1037/90455l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "_B6Txt8fq7U",
+      "url": "https://www.youtube.com/watch?v=_B6Txt8fq7U",
+      "embed_url": "https://www.youtube.com/embed/_B6Txt8fq7U?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/_B6Txt8fq7U/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/_B6Txt8fq7U/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/_B6Txt8fq7U/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/_B6Txt8fq7U/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/_B6Txt8fq7U/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Go-chan.: Moko to Koori no Ue no Yakusoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゴーちゃん. ~モコと氷の上の約束~"
+      },
+      {
+        "type": "English",
+        "title": "Go-chan and Moko Forever Friends on Ice"
+      }
+    ],
+    "title": "Go-chan.: Moko to Koori no Ue no Yakusoku",
+    "title_english": "Go-chan and Moko Forever Friends on Ice",
+    "title_japanese": "ゴーちゃん. ~モコと氷の上の約束~",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 18, 2018"
+    },
+    "duration": "51 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20667,
+    "popularity": 19475,
+    "members": 303,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 55,
+        "type": "anime",
+        "name": "TV Asahi",
+        "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 118,
+        "type": "anime",
+        "name": "SynergySP",
+        "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+      },
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34527,
+            "type": "anime",
+            "name": "Gou-chan.: Moko to Chinjuu no Mori no Nakama-tachi",
+            "url": "https://myanimelist.net/anime/34527/Gou-chan__Moko_to_Chinjuu_no_Mori_no_Nakama-tachi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-asahi.co.jp/go-chan/movie2/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13788"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20637"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%80%82"
+      }
+    ],
+    "streaming": []
+  }
+}

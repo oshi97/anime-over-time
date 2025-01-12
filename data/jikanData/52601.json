@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 52601,
+    "url": "https://myanimelist.net/anime/52601/Onna_no_Sono_no_Hoshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1295/128027.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1295/128027t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1295/128027l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1295/128027.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1295/128027t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1295/128027l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Onna no Sono no Hoshi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hoshi of Girls' Garden"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hoshi of the Garden of Girls"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Star of Girls' Garden"
+      },
+      {
+        "type": "Japanese",
+        "title": "女の園の星"
+      }
+    ],
+    "title": "Onna no Sono no Hoshi",
+    "title_english": null,
+    "title_japanese": "女の園の星",
+    "title_synonyms": [
+      "Hoshi of Girls' Garden",
+      "Hoshi of the Garden of Girls",
+      "The Star of Girls' Garden"
+    ],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 8, 2022"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.48,
+    "scored_by": 272,
+    "rank": 7195,
+    "popularity": 10397,
+    "members": 3067,
+    "favorites": 4,
+    "synopsis": "Hoshi-sensei, a Japanese language teacher at an all-girls school, is at the mercy of his students and colleagues. Students challenge him to their shiritori word games illustrated in their daily notes, convince him to bring a dog into the classroom, and seek his advice on becoming a manga artist, while colleagues drag him along on their rounds to the pub. Matter-of-fact interactions between a cast of unique characters make for an offbeat comedy. \n\n(Source: Japan Media Arts Festival, edited)",
+    "background": "Bundled with the third limited edition volume of the manga.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1828,
+        "type": "anime",
+        "name": "Lapin Track",
+        "url": "https://myanimelist.net/anime/producer/1828/Lapin_Track"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 43,
+        "type": "anime",
+        "name": "Josei",
+        "url": "https://myanimelist.net/anime/genre/43/Josei"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 131443,
+            "type": "manga",
+            "name": "Onna no Sono no Hoshi",
+            "url": "https://myanimelist.net/manga/131443/Onna_no_Sono_no_Hoshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.shodensha.co.jp/onnanosono_special/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17549"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Onna_no_Sono_no_Hoshi#Original_video_animation"
+      }
+    ],
+    "streaming": []
+  }
+}

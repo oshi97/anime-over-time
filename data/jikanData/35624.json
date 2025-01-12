@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 35624,
+    "url": "https://myanimelist.net/anime/35624/Neko_ga_Kureta_Marui_Shiawase",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/85878.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/85878t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/85878l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/85878.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/85878t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/85878l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko ga Kureta Marui Shiawase"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫がくれたまぁるいしあわせ"
+      }
+    ],
+    "title": "Neko ga Kureta Marui Shiawase",
+    "title_english": null,
+    "title_japanese": "猫がくれたまぁるいしあわせ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-22T00:00:00+00:00",
+      "to": "2018-03-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": 23,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "May 22, 2017 to Mar 23, 2018"
+    },
+    "duration": "53 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 324,
+    "rank": 8929,
+    "popularity": 12982,
+    "members": 1380,
+    "favorites": 2,
+    "synopsis": "Protagonist Mari Hirakura joined the workforce almost 10 years ago. Even though she talks to her friends about things like jobs, marriage, age, and family, she still feels like everyone's troubles can be varied and complicated. She does her best every day but still wonders if she is okay the way she is. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1687,
+        "type": "anime",
+        "name": "Yokohama Animation Laboratory",
+        "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Laboratory"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38058,
+            "type": "anime",
+            "name": "Oi-san to 40 no Monogatari",
+            "url": "https://myanimelist.net/anime/38058/Oi-san_to_40_no_Monogatari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.0101.co.jp/marui-shiawase/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13183"
+      }
+    ],
+    "streaming": []
+  }
+}

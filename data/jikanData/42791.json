@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 42791,
+    "url": "https://myanimelist.net/anime/42791/Sakura_Kakumei__Hanasaku_Otome-tachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/110195.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/110195t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/110195l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/110195.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/110195t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/110195l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sakura Kakumei: Hanasaku Otome-tachi"
+      },
+      {
+        "type": "Japanese",
+        "title": "サクラ革命 ～華咲く乙女たち～"
+      }
+    ],
+    "title": "Sakura Kakumei: Hanasaku Otome-tachi",
+    "title_english": null,
+    "title_japanese": "サクラ革命 ～華咲く乙女たち～",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2, 2020"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.91,
+    "scored_by": 459,
+    "rank": 10380,
+    "popularity": 12472,
+    "members": 1625,
+    "favorites": 0,
+    "synopsis": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+    "background": "This anime was released to coincide with the announcement of the smartphone game Sakura Kakumei: Hanasaku Otome-tachi.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 213,
+        "type": "anime",
+        "name": "Half H.P Studio",
+        "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+      },
+      {
+        "mal_id": 2135,
+        "type": "anime",
+        "name": "Imagine",
+        "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 561,
+            "type": "anime",
+            "name": "Sakura Taisen",
+            "url": "https://myanimelist.net/anime/561/Sakura_Taisen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"SAKURA HIKARU Revolution\" by Teikoku Kagekidan (帝国華撃団)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sakura-kakumei.sega.jp/movie/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15710"
+      }
+    ],
+    "streaming": []
+  }
+}

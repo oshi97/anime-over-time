@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 55302,
+    "url": "https://myanimelist.net/anime/55302/Tsuru_ga_Mau_Yoru_ni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1034/135878.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/135878t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/135878l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1034/135878.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/135878t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/135878l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsuru ga Mau Yoru ni"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gratitude of the Crane in Timeless"
+      },
+      {
+        "type": "Japanese",
+        "title": "鶴が舞う夜に"
+      }
+    ],
+    "title": "Tsuru ga Mau Yoru ni",
+    "title_english": null,
+    "title_japanese": "鶴が舞う夜に",
+    "title_synonyms": [
+      "Gratitude of the Crane in Timeless"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 31, 2023"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": 6.31,
+    "scored_by": 167,
+    "rank": 8197,
+    "popularity": 17530,
+    "members": 442,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1751,
+        "type": "anime",
+        "name": "pH Studio",
+        "url": "https://myanimelist.net/anime/producer/1751/pH_Studio"
+      },
+      {
+        "mal_id": 2303,
+        "type": "anime",
+        "name": "Noovo",
+        "url": "https://myanimelist.net/anime/producer/2303/Noovo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55301,
+            "type": "anime",
+            "name": "Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara",
+            "url": "https://myanimelist.net/anime/55301/Moshi_Meta__Moshi_Joshikousei_ga_Metaverse_de_Miko_ni_Nattara"
+          },
+          {
+            "mal_id": 55299,
+            "type": "anime",
+            "name": "Nico/Agony",
+            "url": "https://myanimelist.net/anime/55299/Nico_Agony"
+          },
+          {
+            "mal_id": 55300,
+            "type": "anime",
+            "name": "Wander Burabura Bakkamu",
+            "url": "https://myanimelist.net/anime/55300/Wander_Burabura_Bakkamu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animenotane.jp/anim_info/truga-mau-yoni/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17895"
+      }
+    ],
+    "streaming": []
+  }
+}

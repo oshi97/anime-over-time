@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 51413,
+    "url": "https://myanimelist.net/anime/51413/Rockn_Oyone",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/121843.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/121843t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/121843l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/121843.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/121843t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/121843l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rock'n Oyone"
+      },
+      {
+        "type": "Japanese",
+        "title": "ロックンおヨネ"
+      }
+    ],
+    "title": "Rock'n Oyone",
+    "title_english": null,
+    "title_japanese": "ロックンおヨネ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2022"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 18706,
+    "popularity": 19525,
+    "members": 300,
+    "favorites": 0,
+    "synopsis": "Oyone, who moved into a group home for senior citizens, forms a band with the other elderly residents. She relives the memories of her youth through a concert on Christmas night.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1521,
+        "type": "anime",
+        "name": "Studio Elle",
+        "url": "https://myanimelist.net/anime/producer/1521/Studio_Elle"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49844,
+            "type": "anime",
+            "name": "Kirakira Kirari",
+            "url": "https://myanimelist.net/anime/49844/Kirakira_Kirari"
+          },
+          {
+            "mal_id": 51412,
+            "type": "anime",
+            "name": "Tenjin",
+            "url": "https://myanimelist.net/anime/51412/Tenjin"
+          },
+          {
+            "mal_id": 51414,
+            "type": "anime",
+            "name": "Uchuu Camper Chicchi",
+            "url": "https://myanimelist.net/anime/51414/Uchuu_Camper_Chicchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animenotane.jp/2022-01-26/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16448"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25245"
+      }
+    ],
+    "streaming": []
+  }
+}

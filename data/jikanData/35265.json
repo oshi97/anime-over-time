@@ -1,0 +1,208 @@
+{
+  "data": {
+    "mal_id": 35265,
+    "url": "https://myanimelist.net/anime/35265/Monster_Strike__Katsubou_no_Hate_no_Risoukyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/84955.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/84955t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/84955l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/84955.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/84955t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/84955l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Monster Strike: Katsubou no Hate no Risoukyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Monster Strike 2 Episode 0"
+      },
+      {
+        "type": "Synonym",
+        "title": "Monsuto Anime: Katsubou no Hate no Risoukyou"
+      },
+      {
+        "type": "Japanese",
+        "title": "モンストアニメ 渇望の果ての理想郷"
+      },
+      {
+        "type": "English",
+        "title": "The Night Before Special: The Long-Awaited Utopia"
+      },
+      {
+        "type": "German",
+        "title": "Monster Strike the Anime Staffel 2 Folge 0"
+      },
+      {
+        "type": "Spanish",
+        "title": "Monster Strike the Anime Temporada 2. Episodio 0"
+      },
+      {
+        "type": "French",
+        "title": "Monster Strike the Anime Saison 2 Épisode 0"
+      }
+    ],
+    "title": "Monster Strike: Katsubou no Hate no Risoukyou",
+    "title_english": "The Night Before Special: The Long-Awaited Utopia",
+    "title_japanese": "モンストアニメ 渇望の果ての理想郷",
+    "title_synonyms": [
+      "Monster Strike 2 Episode 0",
+      "Monsuto Anime: Katsubou no Hate no Risoukyou"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 25, 2017"
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.99,
+    "scored_by": 780,
+    "rank": 9954,
+    "popularity": 11056,
+    "members": 2525,
+    "favorites": 0,
+    "synopsis": "Episode 0 of Monsuto Anime. It is the first item in the franchise to be completely animated in CG.\n\nThe big threat is passed, but the gang's still got little threats to handle. The monsters are becoming a part of daily life, but there's one big thing missing: Oragon. One day, a powerful monster appears in the middle of town. It's got Oragon inside!\n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 537,
+        "type": "anime",
+        "name": "SANZIGEN",
+        "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+      },
+      {
+        "mal_id": 1573,
+        "type": "anime",
+        "name": "XFLAG Pictures",
+        "url": "https://myanimelist.net/anime/producer/1573/XFLAG_Pictures"
+      },
+      {
+        "mal_id": 1687,
+        "type": "anime",
+        "name": "Yokohama Animation Laboratory",
+        "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Laboratory"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34661,
+            "type": "anime",
+            "name": "Monster Strike: Zoku Saishuu-banashi - Pandora no Hako",
+            "url": "https://myanimelist.net/anime/34661/Monster_Strike__Zoku_Saishuu-banashi_-_Pandora_no_Hako"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 34670,
+            "type": "anime",
+            "name": "Monster Strike Anime",
+            "url": "https://myanimelist.net/anime/34670/Monster_Strike_Anime"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Light\" by Yuki Tsujimura"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://anime.monster-strike.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12703"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18986"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-271995"
+      }
+    ]
+  }
+}

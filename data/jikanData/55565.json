@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 55565,
+    "url": "https://myanimelist.net/anime/55565/Onegai_Wooper_Looper",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/136282.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/136282t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/136282l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/136282.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/136282t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/136282l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Onegai! Wooper Looper"
+      },
+      {
+        "type": "Japanese",
+        "title": "おねがい！ウーパールーパー"
+      },
+      {
+        "type": "English",
+        "title": "Oh! Wooper Looper"
+      }
+    ],
+    "title": "Onegai! Wooper Looper",
+    "title_english": "Oh! Wooper Looper",
+    "title_japanese": "おねがい！ウーパールーパー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-02-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 2,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 15, 2013"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18146,
+    "popularity": 23583,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": "The first work by Piso Studio.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pisostudio.com/characters/wooper"
+      }
+    ],
+    "streaming": []
+  }
+}

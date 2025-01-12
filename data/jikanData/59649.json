@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 59649,
+    "url": "https://myanimelist.net/anime/59649/Nanashi_Kaidan_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/145060.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/145060t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/145060l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/145060.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/145060t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/145060l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nanashi Kaidan 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ななし怪談 第3作"
+      }
+    ],
+    "title": "Nanashi Kaidan 3rd Season",
+    "title_english": null,
+    "title_japanese": "ななし怪談 第3作",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-26T00:00:00+00:00",
+      "to": "2024-08-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": 30,
+          "month": 8,
+          "year": 2024
+        }
+      },
+      "string": "Aug 26, 2024 to Aug 30, 2024"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17870,
+    "popularity": 14352,
+    "members": 947,
+    "favorites": 0,
+    "synopsis": "Third season of Nanashi Kaidan.",
+    "background": "",
+    "season": "summer",
+    "year": 2024,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56105,
+            "type": "anime",
+            "name": "Nanashi Kaidan 2nd Season",
+            "url": "https://myanimelist.net/anime/56105/Nanashi_Kaidan_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ohast.jp/nanasikaidan/index.php"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%AA%E3%81%97%E6%80%AA%E8%AB%87"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 50515,
+    "url": "https://myanimelist.net/anime/50515/Artiswitch_Picture_Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1457/119884.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/119884t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/119884l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1457/119884.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/119884t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/119884l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Artiswitch Picture Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "Artiswitch Picture Drama"
+      }
+    ],
+    "title": "Artiswitch Picture Drama",
+    "title_english": null,
+    "title_japanese": "Artiswitch Picture Drama",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-03T00:00:00+00:00",
+      "to": "2022-02-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": 4,
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "string": "Dec 3, 2021 to Feb 4, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 572,
+    "rank": 6601,
+    "popularity": 12566,
+    "members": 1570,
+    "favorites": 4,
+    "synopsis": "Picture drama exploring more the story of Artiswitch characters.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 49066,
+            "type": "anime",
+            "name": "Artiswitch",
+            "url": "https://myanimelist.net/anime/49066/Artiswitch"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Tobu Saihate (feat. Kana Adachi) (飛ぶ、サイハテ。(feat. 足立佳奈))\" by yonkey"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://artiswitch.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLCG8xmcftgWlVHHmFeHNbHGsnnduZKkGz"
+      }
+    ],
+    "streaming": []
+  }
+}

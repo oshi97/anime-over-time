@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 50090,
+    "url": "https://myanimelist.net/anime/50090/Inko_Colors_the_Animation_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/118733.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/118733t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/118733l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/118733.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/118733t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/118733l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inko Colors the Animation 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "インコカラーズ The animation２"
+      },
+      {
+        "type": "English",
+        "title": "Inko Colors the Animation 2"
+      }
+    ],
+    "title": "Inko Colors the Animation 2",
+    "title_english": "Inko Colors the Animation 2",
+    "title_japanese": "インコカラーズ The animation２",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 9, 2021"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 6.22,
+    "scored_by": 260,
+    "rank": 8740,
+    "popularity": 16355,
+    "members": 561,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38520,
+            "type": "anime",
+            "name": "Inko Colors the Animation",
+            "url": "https://myanimelist.net/anime/38520/Inko_Colors_the_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=gz6io64ntWg&t"
+      }
+    ],
+    "streaming": []
+  }
+}

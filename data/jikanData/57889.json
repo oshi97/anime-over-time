@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 57889,
+    "url": "https://myanimelist.net/anime/57889/Aru_Hi_no_Gogo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/141004.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/141004t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/141004l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/141004.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/141004t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/141004l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Aru Hi no Gogo"
+      },
+      {
+        "type": "Japanese",
+        "title": "ある日の午後"
+      }
+    ],
+    "title": "Aru Hi no Gogo",
+    "title_english": null,
+    "title_japanese": "ある日の午後",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 19, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.91,
+    "scored_by": 295,
+    "rank": 10344,
+    "popularity": 14988,
+    "members": 793,
+    "favorites": 1,
+    "synopsis": "Short animation shown during the 2nd year anniversary stream for NEEDY GIRL OVERDOSE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50980,
+            "type": "anime",
+            "name": "Internet Overdose",
+            "url": "https://myanimelist.net/anime/50980/Internet_Overdose"
+          },
+          {
+            "mal_id": 57890,
+            "type": "anime",
+            "name": "Yume Juuya",
+            "url": "https://myanimelist.net/anime/57890/Yume_Juuya"
+          },
+          {
+            "mal_id": 56706,
+            "type": "anime",
+            "name": "Internet Yamero",
+            "url": "https://myanimelist.net/anime/56706/Internet_Yamero"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=v0gaClScVCA"
+      }
+    ],
+    "streaming": []
+  }
+}

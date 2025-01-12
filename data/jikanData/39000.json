@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 39000,
+    "url": "https://myanimelist.net/anime/39000/Color_Cycling",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1929/98223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1929/98223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1929/98223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1929/98223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1929/98223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1929/98223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Color Cycling"
+      },
+      {
+        "type": "Japanese",
+        "title": "カラーサイクリング"
+      },
+      {
+        "type": "English",
+        "title": "Color Cycling"
+      }
+    ],
+    "title": "Color Cycling",
+    "title_english": "Color Cycling",
+    "title_japanese": "カラーサイクリング",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 10, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.18,
+    "scored_by": 218,
+    "rank": 12888,
+    "popularity": 16902,
+    "members": 499,
+    "favorites": 0,
+    "synopsis": "A work with the theme of color following a soul and the circle of life as color and colorlessness wax and wane.\n\nThe short had an updated version uploaded on February 21, 2019 which has some minor color changes for some scenes.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1328,
+        "type": "anime",
+        "name": "Decovocal",
+        "url": "https://myanimelist.net/anime/producer/1328/Decovocal"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://decovocal.com/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

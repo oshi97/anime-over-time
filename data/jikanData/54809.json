@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 54809,
+    "url": "https://myanimelist.net/anime/54809/Neko_to_Wakai_se_na",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1311/134662.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/134662t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/134662l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1311/134662.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/134662t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/134662l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko to Wakai se na"
+      },
+      {
+        "type": "Japanese",
+        "title": "ネコと和解せな"
+      }
+    ],
+    "title": "Neko to Wakai se na",
+    "title_english": null,
+    "title_japanese": "ネコと和解せな",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 22, 2023"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.84,
+    "scored_by": 543,
+    "rank": 10720,
+    "popularity": 13506,
+    "members": 1193,
+    "favorites": 0,
+    "synopsis": "The music film is a part of TOHO animation's 10th anniversary project.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54009,
+            "type": "anime",
+            "name": "Tentai Kansoku",
+            "url": "https://myanimelist.net/anime/54009/Tentai_Kansoku"
+          },
+          {
+            "mal_id": 54725,
+            "type": "anime",
+            "name": "Himitsu no Hana no Niwa",
+            "url": "https://myanimelist.net/anime/54725/Himitsu_no_Hana_no_Niwa"
+          },
+          {
+            "mal_id": 54810,
+            "type": "anime",
+            "name": "Detarame na Sekai no Melodrama",
+            "url": "https://myanimelist.net/anime/54810/Detarame_na_Sekai_no_Melodrama"
+          },
+          {
+            "mal_id": 54005,
+            "type": "anime",
+            "name": "COLORs",
+            "url": "https://myanimelist.net/anime/54005/COLORs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Semi (蝉)\" by Hentai Shinshi Club (変態紳士クラブ)"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tohoanimation.jp/10thanniversary/special/event7/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=iy02RoMj-Ko"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17900"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27332"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 56702,
+    "url": "https://myanimelist.net/anime/56702/Gamera_VS_Kozamera",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1769/138604.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1769/138604t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1769/138604l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1769/138604.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1769/138604t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1769/138604l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gamera VS Kozamera"
+      },
+      {
+        "type": "Synonym",
+        "title": "Odekake Kozame x GAMERA -Rebirth-"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガメラVS子ザメラ"
+      }
+    ],
+    "title": "Gamera VS Kozamera",
+    "title_english": null,
+    "title_japanese": "ガメラVS子ザメラ",
+    "title_synonyms": [
+      "Odekake Kozame x GAMERA -Rebirth-"
+    ],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 20, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.29,
+    "scored_by": 395,
+    "rank": 8335,
+    "popularity": 14796,
+    "members": 833,
+    "favorites": 1,
+    "synopsis": "Special episode of Odekake Kozame promoting Gamera: Rebirth.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1974,
+        "type": "anime",
+        "name": "ENGI",
+        "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55463,
+            "type": "anime",
+            "name": "Odekake Kozame",
+            "url": "https://myanimelist.net/anime/55463/Odekake_Kozame"
+          },
+          {
+            "mal_id": 53627,
+            "type": "anime",
+            "name": "Gamera: Rebirth",
+            "url": "https://myanimelist.net/anime/53627/Gamera__Rebirth"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ppk9DZoR2nQ"
+      }
+    ],
+    "streaming": []
+  }
+}

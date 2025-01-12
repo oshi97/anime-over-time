@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 37050,
+    "url": "https://myanimelist.net/anime/37050/Sore_Ike_Anpanman__Kagayake_Kurun_to_Inochi_no_Hoshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1765/111043.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1765/111043t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1765/111043l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1765/111043.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1765/111043t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1765/111043l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sore Ike! Anpanman: Kagayake! Kurun to Inochi no Hoshi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Let's go! Anpanman: Shine! Kurun and the Star of Life"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sore Ike! Anpanman Movie 30"
+      },
+      {
+        "type": "Japanese",
+        "title": "それいけ! アンパンマン かがやけ! クルンといのちの星"
+      },
+      {
+        "type": "English",
+        "title": "Anpanman: Shine! Kulun and the Stars of Life"
+      }
+    ],
+    "title": "Sore Ike! Anpanman: Kagayake! Kurun to Inochi no Hoshi",
+    "title_english": "Anpanman: Shine! Kulun and the Stars of Life",
+    "title_japanese": "それいけ! アンパンマン かがやけ! クルンといのちの星",
+    "title_synonyms": [
+      "Let's go! Anpanman: Shine! Kurun and the Star of Life",
+      "Sore Ike! Anpanman Movie 30"
+    ],
+    "type": "Movie",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-06-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 6,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 30, 2018"
+    },
+    "duration": "1 hr 1 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14354,
+    "popularity": 16212,
+    "members": 576,
+    "favorites": 1,
+    "synopsis": "The story begins in Anpanman World, where everybody is bustling around, getting ready for the annual Star Festival. On that day, an egg emerges from Baikinman's garbage box, and when it hatches, a mysterious boy named Kurun emerges from within. Though Kurun does not know where he came from, he spends his days having fun with everybody. But one day, black stars begin raining down. Anpanman thinks that something suspicious might be occurring at the Star of Life, and he heads there.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 1960,
+            "type": "anime",
+            "name": "Sore Ike! Anpanman",
+            "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.anpanman.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13714"
+      }
+    ],
+    "streaming": []
+  }
+}

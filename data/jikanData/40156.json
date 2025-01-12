@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 40156,
+    "url": "https://myanimelist.net/anime/40156/Digimon_Survive__Prologue_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/102198.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/102198t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/102198l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/102198.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/102198t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/102198l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Digimon Survive: Prologue Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "『デジモンサヴァイブ』プロローグムービー"
+      },
+      {
+        "type": "English",
+        "title": "Digimon Survive - Opening Movie"
+      }
+    ],
+    "title": "Digimon Survive: Prologue Movie",
+    "title_english": "Digimon Survive - Opening Movie",
+    "title_japanese": "『デジモンサヴァイブ』プロローグムービー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 22, 2019"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.48,
+    "scored_by": 1940,
+    "rank": 7163,
+    "popularity": 8072,
+    "members": 6342,
+    "favorites": 6,
+    "synopsis": "A prologue movie released on Bandai Namco's official YouTube channels for the eventual 2020 release of the Digimon Survive game. The movie was first shown at the Anime Expo's panel \"The Future of Digimon\" and then later posted online.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 552,
+            "type": "anime",
+            "name": "Digimon Adventure",
+            "url": "https://myanimelist.net/anime/552/Digimon_Adventure"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://digimon-sur.bn-ent.net/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digimon_Survive"
+      }
+    ],
+    "streaming": []
+  }
+}

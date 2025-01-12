@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 40425,
+    "url": "https://myanimelist.net/anime/40425/Neko_Neko_Nihonshi_Movie__Ryouma_no_Hachamecha_Time_Travel_ze_yo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1288/104637.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/104637t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/104637l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1288/104637.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/104637t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/104637l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "-KjKxNL6CIc",
+      "url": "https://www.youtube.com/watch?v=-KjKxNL6CIc",
+      "embed_url": "https://www.youtube.com/embed/-KjKxNL6CIc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/-KjKxNL6CIc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/-KjKxNL6CIc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/-KjKxNL6CIc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/-KjKxNL6CIc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/-KjKxNL6CIc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meow Meow Japanese History: Ryoma's Crazy Time Travel"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画 ねこねこ日本史 ~龍馬のはちゃめちゃタイムトラベルぜよ!~"
+      }
+    ],
+    "title": "Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!",
+    "title_english": null,
+    "title_japanese": "映画 ねこねこ日本史 ~龍馬のはちゃめちゃタイムトラベルぜよ!~",
+    "title_synonyms": [
+      "Meow Meow Japanese History: Ryoma's Crazy Time Travel"
+    ],
+    "type": "Movie",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 22, 2020"
+    },
+    "duration": "1 hr 13 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17918,
+    "popularity": 17703,
+    "members": 428,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39356,
+            "type": "anime",
+            "name": "Neko Neko Nihonshi 4th Season",
+            "url": "https://myanimelist.net/anime/39356/Neko_Neko_Nihonshi_4th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Guru Guru (ぐるぐる)\" by Girls²"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://neco-neco-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15104"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E6%97%A5%E6%9C%AC%E5%8F%B2"
+      }
+    ],
+    "streaming": []
+  }
+}

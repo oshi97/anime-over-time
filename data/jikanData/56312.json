@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56312,
+    "url": "https://myanimelist.net/anime/56312/Hello_Carbot__Susanghan_Masuldanui_Bimil",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/137820.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/137820t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/137820l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/137820.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/137820t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/137820l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot: Susanghan Masuldanui Bimil"
+      },
+      {
+        "type": "Japanese",
+        "title": "극장판 헬로카봇: 수상한 마술단의 비밀"
+      },
+      {
+        "type": "English",
+        "title": "Hello Carbot the Movie: The Secret of the Suspicious Magic Troupe"
+      }
+    ],
+    "title": "Hello Carbot: Susanghan Masuldanui Bimil",
+    "title_english": "Hello Carbot the Movie: The Secret of the Suspicious Magic Troupe",
+    "title_japanese": "극장판 헬로카봇: 수상한 마술단의 비밀",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 28, 2022"
+    },
+    "duration": "1 hr 19 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20975,
+    "popularity": 23875,
+    "members": 108,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56304,
+            "type": "anime",
+            "name": "Hello Carbot Season 9",
+            "url": "https://myanimelist.net/anime/56304/Hello_Carbot_Season_9"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

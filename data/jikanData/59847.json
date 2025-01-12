@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 59847,
+    "url": "https://myanimelist.net/anime/59847/21_Emon___Doraemon__Youkoso_Hotel_Tsuzureya_e",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1618/145513.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/145513t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/145513l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1618/145513.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/145513t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/145513l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "21 Emon & Doraemon: Youkoso!! Hotel Tsuzureya e"
+      },
+      {
+        "type": "Synonym",
+        "title": "21 Emon & Doraemon: Welcome to Hotel Tsuzureya"
+      },
+      {
+        "type": "Japanese",
+        "title": "21エモン＆ドラえもん ようこそ！！ホテルつづれ屋へ"
+      }
+    ],
+    "title": "21 Emon & Doraemon: Youkoso!! Hotel Tsuzureya e",
+    "title_english": null,
+    "title_japanese": "21エモン＆ドラえもん ようこそ！！ホテルつづれ屋へ",
+    "title_synonyms": [
+      "21 Emon & Doraemon: Welcome to Hotel Tsuzureya"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-10-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 3, 2012"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18937,
+    "popularity": 26067,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Screened at the Fujiko F. Fujio Museum starting from October 3, 2012.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 5628,
+            "type": "anime",
+            "name": "21 Emon",
+            "url": "https://myanimelist.net/anime/5628/21_Emon"
+          },
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://fujiko-museum.com/blog/?p=32779/"
+      }
+    ],
+    "streaming": []
+  }
+}

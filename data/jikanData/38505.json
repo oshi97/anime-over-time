@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 38505,
+    "url": "https://myanimelist.net/anime/38505/Kunchi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/95530.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/95530t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/95530l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/95530.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/95530t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/95530l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kunchi"
+      },
+      {
+        "type": "Japanese",
+        "title": "くんち"
+      },
+      {
+        "type": "English",
+        "title": "Kunchi"
+      }
+    ],
+    "title": "Kunchi",
+    "title_english": "Kunchi",
+    "title_japanese": "くんち",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-10-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 9, 2012"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 4.83,
+    "scored_by": 166,
+    "rank": 13326,
+    "popularity": 18139,
+    "members": 397,
+    "favorites": 0,
+    "synopsis": "An early work of Saigo no Shudan, this movie is collaboration with the artist to-kichi. The motif is \"Nagasaki Kunchi\" which is the most famous festival in Nagasaki, Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1934,
+        "type": "anime",
+        "name": "Saigo no Shudan",
+        "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.saigono.info/works.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "mal_id": 36642,
+    "url": "https://myanimelist.net/anime/36642/Kakusansei_Million_Arthur",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88538.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88538t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88538l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88538.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88538t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88538l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kakusansei Million Arthur"
+      },
+      {
+        "type": "Japanese",
+        "title": "拡散性ミリオンアーサー"
+      },
+      {
+        "type": "English",
+        "title": "Kaku-San-Sei Million Arthur"
+      }
+    ],
+    "title": "Kakusansei Million Arthur",
+    "title_english": "Kaku-San-Sei Million Arthur",
+    "title_japanese": "拡散性ミリオンアーサー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Card game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-03-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 3,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 23, 2012"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.49,
+    "scored_by": 342,
+    "rank": 12098,
+    "popularity": 13879,
+    "members": 1073,
+    "favorites": 0,
+    "synopsis": "The animated opening for Square Enix's Kakusansei Million Arthur RPG mobile card game launched for iOS on April 9, 2012 and for Android on May 24, 2012. The mobile game was terminated on March 30, 2015.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36643,
+            "type": "anime",
+            "name": "Kairisei Million Arthur",
+            "url": "https://myanimelist.net/anime/36643/Kairisei_Million_Arthur"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 62545,
+            "type": "manga",
+            "name": "Kakusansei Million Arthur: Gunjou no Sorcery Lord",
+            "url": "https://myanimelist.net/manga/62545/Kakusansei_Million_Arthur__Gunjou_no_Sorcery_Lord"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 30954,
+            "type": "anime",
+            "name": "Jakusansei Million Arthur",
+            "url": "https://myanimelist.net/anime/30954/Jakusansei_Million_Arthur"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38386,
+            "type": "anime",
+            "name": "Koukyousei Million Arthur",
+            "url": "https://myanimelist.net/anime/38386/Koukyousei_Million_Arthur"
+          },
+          {
+            "mal_id": 38744,
+            "type": "anime",
+            "name": "Hangyakusei Million Arthur PV",
+            "url": "https://myanimelist.net/anime/38744/Hangyakusei_Million_Arthur_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.square-enix.co.jp/smart/ma/#movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%8B%A1%E6%95%A3%E6%80%A7%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

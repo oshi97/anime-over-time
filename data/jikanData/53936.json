@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 53936,
+    "url": "https://myanimelist.net/anime/53936/Sumikko_Gurashi_Movie_3__Tsugihagi_Koujou_no_Fushigi_na_Ko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1801/138498.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/138498t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/138498l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1801/138498.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/138498t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/138498l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "kTwSdqZ7238",
+      "url": "https://www.youtube.com/watch?v=kTwSdqZ7238",
+      "embed_url": "https://www.youtube.com/embed/kTwSdqZ7238?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/kTwSdqZ7238/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/kTwSdqZ7238/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/kTwSdqZ7238/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/kTwSdqZ7238/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/kTwSdqZ7238/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sumikko Gurashi: The Patched-Up Toy Factory in the Woods"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画すみっコぐらし ツギハギ工場のふしぎなコ"
+      }
+    ],
+    "title": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
+    "title_english": null,
+    "title_japanese": "映画すみっコぐらし ツギハギ工場のふしぎなコ",
+    "title_synonyms": [
+      "Sumikko Gurashi: The Patched-Up Toy Factory in the Woods"
+    ],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 3, 2023"
+    },
+    "duration": "1 hr 9 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14448,
+    "popularity": 16918,
+    "members": 499,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43780,
+            "type": "anime",
+            "name": "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko",
+            "url": "https://myanimelist.net/anime/43780/Sumikko_Gurashi_Movie_2__Aoi_Tsukiyo_no_Mahou_no_Ko"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56997,
+            "type": "anime",
+            "name": "Sumikko Gurashi: Sorairo no Mainichi",
+            "url": "https://myanimelist.net/anime/56997/Sumikko_Gurashi__Sorairo_no_Mainichi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Sumikko Disco (すみっコディスコ)\" by Perfume"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sumikkogurashi-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17793"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sumikko_Gurashi"
+      }
+    ],
+    "streaming": []
+  }
+}

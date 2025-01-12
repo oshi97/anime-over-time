@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 35682,
+    "url": "https://myanimelist.net/anime/35682/Milky_Panic__Twelve",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/89200.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/89200t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/89200l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/89200.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/89200t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/89200l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Milky Panic: Twelve"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wakate Animator Ikusei Project"
+      },
+      {
+        "type": "Synonym",
+        "title": "2018 Young Animator Training Project"
+      },
+      {
+        "type": "Synonym",
+        "title": "Anime Tamago"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミルキーパニック twelve"
+      }
+    ],
+    "title": "Milky Panic: Twelve",
+    "title_english": null,
+    "title_japanese": "ミルキーパニック twelve",
+    "title_synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2018 Young Animator Training Project",
+      "Anime Tamago"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 10, 2018"
+    },
+    "duration": "30 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17565,
+    "popularity": 16648,
+    "members": 525,
+    "favorites": 1,
+    "synopsis": "Part of Anime Tamago 2018.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 587,
+        "type": "anime",
+        "name": "Tomason",
+        "url": "https://myanimelist.net/anime/producer/587/Tomason"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35681,
+            "type": "anime",
+            "name": "Engimon",
+            "url": "https://myanimelist.net/anime/35681/Engimon"
+          },
+          {
+            "mal_id": 35683,
+            "type": "anime",
+            "name": "Midnight Crazy Trail",
+            "url": "https://myanimelist.net/anime/35683/Midnight_Crazy_Trail"
+          },
+          {
+            "mal_id": 35680,
+            "type": "anime",
+            "name": "Time Driver: Bokura ga Kaita Mirai",
+            "url": "https://myanimelist.net/anime/35680/Time_Driver__Bokura_ga_Kaita_Mirai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animetamago.jp/index.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13213"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20663"
+      }
+    ],
+    "streaming": []
+  }
+}

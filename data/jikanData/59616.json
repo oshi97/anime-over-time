@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 59616,
+    "url": "https://myanimelist.net/anime/59616/PokeMinutes",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/144942.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/144942t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/144942l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/144942.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/144942t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/144942l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "PokeMinutes"
+      },
+      {
+        "type": "Synonym",
+        "title": "PokéMinutes"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケミニッツ"
+      }
+    ],
+    "title": "PokeMinutes",
+    "title_english": null,
+    "title_japanese": "ポケミニッツ",
+    "title_synonyms": [
+      "PokéMinutes"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2024 to ?"
+    },
+    "duration": "15 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18382,
+    "popularity": 19892,
+    "members": 280,
+    "favorites": 1,
+    "synopsis": "A series of videos showcasing snapshots of time spent with different Pokemon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2992,
+        "type": "anime",
+        "name": "R11R",
+        "url": "https://myanimelist.net/anime/producer/2992/R11R"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

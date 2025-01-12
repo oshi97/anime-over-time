@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 56382,
+    "url": "https://myanimelist.net/anime/56382/Specter_from_the_Abyssal_Zone",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1804/137937.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/137937t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/137937l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1804/137937.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/137937t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/137937l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Specter from the Abyssal Zone"
+      },
+      {
+        "type": "Japanese",
+        "title": "SPECTER FROM THE ABYSSAL ZONE"
+      }
+    ],
+    "title": "Specter from the Abyssal Zone",
+    "title_english": null,
+    "title_japanese": "SPECTER FROM THE ABYSSAL ZONE",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-11T00:00:00+00:00",
+      "to": "2023-08-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": 11,
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "string": "Aug 11, 2022 to Aug 11, 2023"
+    },
+    "duration": "30 sec",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Umibouzu plays with metamorphosis.\n\nTribute to Gegege no Kitaro, screened at Kitaro Expo that was held at Ikebukuro Sunshine.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37140,
+            "type": "anime",
+            "name": "Gegege no Kitarou (2018)",
+            "url": "https://myanimelist.net/anime/37140/Gegege_no_Kitarou_2018"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

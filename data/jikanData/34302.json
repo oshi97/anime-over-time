@@ -1,0 +1,183 @@
+{
+  "data": {
+    "mal_id": 34302,
+    "url": "https://myanimelist.net/anime/34302/Precure_Dream_Stars_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1332/142469.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/142469t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/142469l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1332/142469.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/142469t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/142469l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "AlgYzsCdjkc",
+      "url": "https://www.youtube.com/watch?v=AlgYzsCdjkc",
+      "embed_url": "https://www.youtube.com/embed/AlgYzsCdjkc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/AlgYzsCdjkc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/AlgYzsCdjkc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/AlgYzsCdjkc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/AlgYzsCdjkc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/AlgYzsCdjkc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Precure Dream Stars! Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eiga Precure Dream Stars!"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画プリキュアドリームスターズ!"
+      }
+    ],
+    "title": "Precure Dream Stars! Movie",
+    "title_english": null,
+    "title_japanese": "映画プリキュアドリームスターズ!",
+    "title_synonyms": [
+      "Eiga Precure Dream Stars!"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 18, 2017"
+    },
+    "duration": "1 hr 11 min",
+    "rating": "G - All Ages",
+    "score": 7,
+    "scored_by": 1793,
+    "rank": 4378,
+    "popularity": 9156,
+    "members": 4557,
+    "favorites": 13,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1653,
+        "type": "anime",
+        "name": "Kinoshita Group Holdings",
+        "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32160,
+            "type": "anime",
+            "name": "Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou",
+            "url": "https://myanimelist.net/anime/32160/Precure_All_Stars_Movie__Minna_de_Utau♪_-_Kiseki_no_Mahou"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36995,
+            "type": "anime",
+            "name": "Precure Super Stars! Movie",
+            "url": "https://myanimelist.net/anime/36995/Precure_Super_Stars_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Sakura Mission ~Precure Relations~ (桜MISSION～プリキュアリレーション～)\" by Rie Kitagawa w. Mayumi Gojou, Yuka Uchiyae"
+      ],
+      "endings": [
+        "\"Kimi wo Yobu Basho (君を呼ぶ場所)\" by Yoshino Kimura"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.precure-dreamstars.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12509"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19257"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB_%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!"
+      }
+    ],
+    "streaming": []
+  }
+}

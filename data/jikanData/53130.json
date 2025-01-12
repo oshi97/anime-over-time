@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 53130,
+    "url": "https://myanimelist.net/anime/53130/Eisen_Flügel",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/128319.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/128319t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/128319l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/128319.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/128319t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/128319l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "xk7v4MdUh4M",
+      "url": "https://www.youtube.com/watch?v=xk7v4MdUh4M",
+      "embed_url": "https://www.youtube.com/embed/xk7v4MdUh4M?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/xk7v4MdUh4M/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/xk7v4MdUh4M/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/xk7v4MdUh4M/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/xk7v4MdUh4M/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/xk7v4MdUh4M/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eisen Flügel"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイゼンフリューゲル"
+      }
+    ],
+    "title": "Eisen Flügel",
+    "title_english": null,
+    "title_japanese": "アイゼンフリューゲル",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 8319,
+    "members": 5894,
+    "favorites": 8,
+    "synopsis": "In a world where dragons rule the skies, mankind still dreams about taking to the skies and dominating the heavens in their place. Even during wartime, the passionate young pilot Karl Schuniz pursues his dreams, taking up his steel wings—the revolutionary new aircraft, the Blitz Vogel—to challenge the Kaiser Drache, the fastest dragon capable of supersonic flight.\n\n(Source: MAL News)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "A-1 Pictures",
+        "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 43805,
+            "type": "manga",
+            "name": "Eisen Flügel",
+            "url": "https://myanimelist.net/manga/43805/Eisen_Flügel"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eisen-flugel.com"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17638"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26375"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eisen_Fl%C3%BCgel"
+      }
+    ],
+    "streaming": []
+  }
+}

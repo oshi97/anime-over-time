@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 59685,
+    "url": "https://myanimelist.net/anime/59685/Yongisanda",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1894/145130.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1894/145130t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1894/145130l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1894/145130.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1894/145130t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1894/145130l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "16HCL74184k",
+      "url": "https://www.youtube.com/watch?v=16HCL74184k",
+      "embed_url": "https://www.youtube.com/embed/16HCL74184k?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/16HCL74184k/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/16HCL74184k/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/16HCL74184k/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/16HCL74184k/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/16HCL74184k/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yongisanda"
+      },
+      {
+        "type": "Japanese",
+        "title": "용이산다"
+      },
+      {
+        "type": "English",
+        "title": "The Dragon Next Door"
+      }
+    ],
+    "title": "Yongisanda",
+    "title_english": "The Dragon Next Door",
+    "title_japanese": "용이산다",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-08-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 27, 2024 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15892,
+    "popularity": 15967,
+    "members": 610,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2024,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 64675,
+            "type": "manga",
+            "name": "The Dragon Next Door",
+            "url": "https://myanimelist.net/manga/64675/The_Dragon_Next_Door"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/용이산다(애니메이션)"
+      }
+    ],
+    "streaming": []
+  }
+}

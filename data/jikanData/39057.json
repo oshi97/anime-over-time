@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 39057,
+    "url": "https://myanimelist.net/anime/39057/A_New_Journey",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/98385.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/98385t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/98385l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/98385.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/98385t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/98385l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "A New Journey"
+      },
+      {
+        "type": "Synonym",
+        "title": "Season 2019: A New Journey | League of Legends"
+      },
+      {
+        "type": "Japanese",
+        "title": "A New Journey"
+      }
+    ],
+    "title": "A New Journey",
+    "title_english": null,
+    "title_japanese": "A New Journey",
+    "title_synonyms": [
+      "Season 2019: A New Journey | League of Legends"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2019"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.1,
+    "scored_by": 1289,
+    "rank": 9385,
+    "popularity": 11010,
+    "members": 2553,
+    "favorites": 4,
+    "synopsis": "League of Legends commercial animated by P.A. Works, published on League of Legends YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 132,
+        "type": "anime",
+        "name": "P.A. Works",
+        "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://signup.jp.leagueoflegends.com/ja/signup/overview"
+      }
+    ],
+    "streaming": []
+  }
+}

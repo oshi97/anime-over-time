@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 51883,
+    "url": "https://myanimelist.net/anime/51883/Pikachu_no_Asa_no_Nikka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1535/123951.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1535/123951t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1535/123951l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1535/123951.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1535/123951t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1535/123951l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pikachu no Asa no Nikka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ピカチュウのあさ"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Pikachu's Morning Routine"
+      }
+    ],
+    "title": "Pikachu no Asa no Nikka",
+    "title_english": "Pokémon Kids TV: Pikachu's Morning Routine",
+    "title_japanese": "ピカチュウのあさ",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 10, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": 5.66,
+    "scored_by": 331,
+    "rank": 11544,
+    "popularity": 14905,
+    "members": 810,
+    "favorites": 2,
+    "synopsis": "Now, let's take a look at a morning of a Pikachu and find out what kind of routine it goes through.\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/lSi-2GEqyBE"
+      }
+    ],
+    "streaming": []
+  }
+}

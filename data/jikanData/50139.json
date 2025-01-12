@@ -1,0 +1,225 @@
+{
+  "data": {
+    "mal_id": 50139,
+    "url": "https://myanimelist.net/anime/50139/Disney__Twisted-Wonderland_The_Animation_-_Episode_of_Heartslabyul",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1962/146590.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1962/146590t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1962/146590l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1962/146590.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1962/146590t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1962/146590l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Disney: Twisted-Wonderland The Animation - Episode of Heartslabyul"
+      },
+      {
+        "type": "Japanese",
+        "title": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル"
+      }
+    ],
+    "title": "Disney: Twisted-Wonderland The Animation - Episode of Heartslabyul",
+    "title_english": null,
+    "title_japanese": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 6973,
+    "members": 9128,
+    "favorites": 84,
+    "synopsis": null,
+    "background": "Based on the adventure and rhythm mobile game created by Aniplex and Walt Disney Japan.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 96,
+        "type": "anime",
+        "name": "Yumeta Company",
+        "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+      },
+      {
+        "mal_id": 894,
+        "type": "anime",
+        "name": "Graphinica",
+        "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60348,
+            "type": "anime",
+            "name": "Disney: Twisted-Wonderland The Animation - Episode of Savanaclaw",
+            "url": "https://myanimelist.net/anime/60348/Disney__Twisted-Wonderland_The_Animation_-_Episode_of_Savanaclaw"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 163637,
+            "type": "manga",
+            "name": "Disney Twisted-Wonderland the Novel",
+            "url": "https://myanimelist.net/manga/163637/Disney_Twisted-Wonderland_the_Novel"
+          },
+          {
+            "mal_id": 135861,
+            "type": "manga",
+            "name": "Disney Twisted-Wonderland the Comic: Episode of Heartslabyul",
+            "url": "https://myanimelist.net/manga/135861/Disney_Twisted-Wonderland_the_Comic__Episode_of_Heartslabyul"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57738,
+            "type": "anime",
+            "name": "Disney: Twisted-Wonderland CMs",
+            "url": "https://myanimelist.net/anime/57738/Disney__Twisted-Wonderland_CMs"
+          },
+          {
+            "mal_id": 48952,
+            "type": "anime",
+            "name": "Twisted-Wonderland 1-shuunen Kinen PV",
+            "url": "https://myanimelist.net/anime/48952/Twisted-Wonderland_1-shuunen_Kinen_PV"
+          },
+          {
+            "mal_id": 52216,
+            "type": "anime",
+            "name": "Twisted-Wonderland 2-shuunen Kinen PV",
+            "url": "https://myanimelist.net/anime/52216/Twisted-Wonderland_2-shuunen_Kinen_PV"
+          },
+          {
+            "mal_id": 57746,
+            "type": "anime",
+            "name": "Twisted-Wonderland: Glorious Masquerade PV",
+            "url": "https://myanimelist.net/anime/57746/Twisted-Wonderland__Glorious_Masquerade_PV"
+          },
+          {
+            "mal_id": 54745,
+            "type": "anime",
+            "name": "Twisted-Wonderland 3-shuunen Kinen PV",
+            "url": "https://myanimelist.net/anime/54745/Twisted-Wonderland_3-shuunen_Kinen_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16908"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24872"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disney:_Twisted-Wonderland"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC_%E3%83%84%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%89%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Disney+",
+        "url": "https://www.disneyplus.com/"
+      }
+    ]
+  }
+}

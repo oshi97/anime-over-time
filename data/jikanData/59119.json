@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 59119,
+    "url": "https://myanimelist.net/anime/59119/Imaria",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1928/143671.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/143671t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/143671l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1928/143671.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/143671t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/143671l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Imaria"
+      },
+      {
+        "type": "Synonym",
+        "title": "Imagination Real"
+      },
+      {
+        "type": "Japanese",
+        "title": "いまりあ"
+      }
+    ],
+    "title": "Imaria",
+    "title_english": null,
+    "title_japanese": "いまりあ",
+    "title_synonyms": [
+      "Imagination Real"
+    ],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-08-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 30, 2024 to ?"
+    },
+    "duration": "16 min",
+    "rating": "Rx - Hentai",
+    "score": 6.85,
+    "scored_by": 629,
+    "rank": null,
+    "popularity": 11418,
+    "members": 2265,
+    "favorites": 8,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 823,
+        "type": "anime",
+        "name": "Lune-Pictures",
+        "url": "https://myanimelist.net/anime/producer/823/Lune-Pictures"
+      },
+      {
+        "mal_id": 2500,
+        "type": "anime",
+        "name": "Antechinus",
+        "url": "https://myanimelist.net/anime/producer/2500/Antechinus"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 405,
+        "type": "anime",
+        "name": "T-Rex",
+        "url": "https://myanimelist.net/anime/producer/405/T-Rex"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 22387,
+            "type": "manga",
+            "name": "Ima♡Ria",
+            "url": "https://myanimelist.net/manga/22387/Ima♡Ria"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.lune-soft.jp/ova/27312"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://www.lune-soft.jp/ova/27336"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18666"
+      }
+    ],
+    "streaming": []
+  }
+}

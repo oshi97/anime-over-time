@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 54193,
+    "url": "https://myanimelist.net/anime/54193/Joseito_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/143940.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/143940t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/143940l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1583/143940.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1583/143940t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1583/143940l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Joseito (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "女生徒"
+      },
+      {
+        "type": "English",
+        "title": "School Girl (Movie)"
+      }
+    ],
+    "title": "Joseito (Movie)",
+    "title_english": "School Girl (Movie)",
+    "title_japanese": "女生徒",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-09-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 9,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 20, 2014"
+    },
+    "duration": "14 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 16441,
+    "popularity": 20791,
+    "members": 230,
+    "favorites": 0,
+    "synopsis": "While a narrator reads from Osamu Dazai's \"Schoolgirl\", a day in the life of a young girl in Showa-era Tokyo unfolds featuring various retro items from the era.\n\n(Source: IMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 6266,
+            "type": "anime",
+            "name": "Joseito",
+            "url": "https://myanimelist.net/anime/6266/Joseito"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://iyasakado.com/works/joseito_dazai/"
+      }
+    ],
+    "streaming": []
+  }
+}

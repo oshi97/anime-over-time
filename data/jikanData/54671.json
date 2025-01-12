@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 54671,
+    "url": "https://myanimelist.net/anime/54671/Blue_Eyes__In_Harbor_Tale",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1816/134003.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1816/134003t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1816/134003l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1816/134003.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1816/134003t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1816/134003l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Blue Eyes: In Harbor Tale"
+      },
+      {
+        "type": "Japanese",
+        "title": "Blue Eyes -in HARBOR TALE-"
+      },
+      {
+        "type": "English",
+        "title": "Blue Eyes: In Harbor Tale"
+      }
+    ],
+    "title": "Blue Eyes: In Harbor Tale",
+    "title_english": "Blue Eyes: In Harbor Tale",
+    "title_japanese": "Blue Eyes -in HARBOR TALE-",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2014"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19454,
+    "popularity": 21852,
+    "members": 172,
+    "favorites": 0,
+    "synopsis": "In a port town \"Y\", where there are many old artifacts which are animated through a long time, a piece of brick lives as a pilot for the \"guests\" from overseas. One day, he meets a doll girl on a river and another tiny story begins.\n\n(Source: Official site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 28759,
+            "type": "anime",
+            "name": "Harbor Tale",
+            "url": "https://myanimelist.net/anime/28759/Harbor_Tale"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://harbortale.tumblr.com/en"
+      }
+    ],
+    "streaming": []
+  }
+}

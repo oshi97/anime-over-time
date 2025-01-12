@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59091,
+    "url": "https://myanimelist.net/anime/59091/Douwa_Revenger",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1921/143615.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/143615t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/143615l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1921/143615.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/143615t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/143615l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Douwa Revenger"
+      },
+      {
+        "type": "Japanese",
+        "title": "童話リベンジャーズ"
+      }
+    ],
+    "title": "Douwa Revenger",
+    "title_english": null,
+    "title_japanese": "童話リベンジャーズ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-10-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 27, 2024 to ?"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20258,
+    "popularity": 10232,
+    "members": 3210,
+    "favorites": 5,
+    "synopsis": "A mini-anime which will adapt various fairy tale stories with the characters from Tokyo Revengers.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42249,
+            "type": "anime",
+            "name": "Tokyo Revengers",
+            "url": "https://myanimelist.net/anime/42249/Tokyo_Revengers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32822"
+      }
+    ],
+    "streaming": []
+  }
+}

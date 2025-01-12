@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 36799,
+    "url": "https://myanimelist.net/anime/36799/Kyoto_Animation_Koushiki_Twitter__Itsumo_Arigatou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/89017.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/89017t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/89017l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/89017.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/89017t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/89017l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou"
+      },
+      {
+        "type": "Japanese",
+        "title": "京都アニメーション公式Twitter いつも ありがとう"
+      }
+    ],
+    "title": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou",
+    "title_english": null,
+    "title_japanese": "京都アニメーション公式Twitter いつも ありがとう",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 17, 2016"
+    },
+    "duration": "23 sec",
+    "rating": "G - All Ages",
+    "score": 5.61,
+    "scored_by": 587,
+    "rank": 11715,
+    "popularity": 13577,
+    "members": 1170,
+    "favorites": 0,
+    "synopsis": "A short animation created to celebrate Kyoto Animation reaching 50,000 Twitter followers.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 35965,
+            "type": "anime",
+            "name": "Baja no Studio",
+            "url": "https://myanimelist.net/anime/35965/Baja_no_Studio"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 51424,
+    "url": "https://myanimelist.net/anime/51424/Metamon_to_Purin_no_Stage",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1457/121877.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/121877t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/121877l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1457/121877.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/121877t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/121877l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Metamon to! Purin no Stage"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jigglypuff's Mini Concert with Ditto"
+      },
+      {
+        "type": "Japanese",
+        "title": "メタモンと！プリンのステージ"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Jigglypuff's Mini Concert"
+      }
+    ],
+    "title": "Metamon to! Purin no Stage",
+    "title_english": "Pokémon Kids TV: Jigglypuff's Mini Concert",
+    "title_japanese": "メタモンと！プリンのステージ",
+    "title_synonyms": [
+      "Jigglypuff's Mini Concert with Ditto"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 26, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.76,
+    "scored_by": 360,
+    "rank": 11091,
+    "popularity": 14762,
+    "members": 844,
+    "favorites": 1,
+    "synopsis": "Jigglypuff is looking for something in the forest but could not find it.\nSeeing sad Jigglypuff, Ditto decided to transform into something!\nLet's see what Ditto will transform into!\n\n(Source: Pokémon Kids TV)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3004,
+        "type": "anime",
+        "name": "Taiyo Kikaku",
+        "url": "https://myanimelist.net/anime/producer/3004/Taiyo_Kikaku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2178,
+        "type": "anime",
+        "name": "Tecarat",
+        "url": "https://myanimelist.net/anime/producer/2178/Tecarat"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50840,
+            "type": "anime",
+            "name": "Metamon to! Oyasumi Mokurou",
+            "url": "https://myanimelist.net/anime/50840/Metamon_to_Oyasumi_Mokurou"
+          },
+          {
+            "mal_id": 51150,
+            "type": "anime",
+            "name": "Metamon to! Wooper to Katazuke",
+            "url": "https://myanimelist.net/anime/51150/Metamon_to_Wooper_to_Katazuke"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/_dcRsxghfxk"
+      }
+    ],
+    "streaming": []
+  }
+}

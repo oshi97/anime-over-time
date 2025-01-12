@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 52244,
+    "url": "https://myanimelist.net/anime/52244/Korashime_2__Kyouikuteki_Depaga_Shidou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/124928.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/124928t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/124928l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/124928.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/124928t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/124928l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Korashime 2: Kyouikuteki Depaga Shidou"
+      },
+      {
+        "type": "Japanese",
+        "title": "懲らしめ2～狂育的デパガ指導～"
+      }
+    ],
+    "title": "Korashime 2: Kyouikuteki Depaga Shidou",
+    "title_english": null,
+    "title_japanese": "懲らしめ2～狂育的デパガ指導～",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-30T00:00:00+00:00",
+      "to": "2023-10-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": 27,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Sep 30, 2022 to Oct 27, 2023"
+    },
+    "duration": "24 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 6.37,
+    "scored_by": 996,
+    "rank": null,
+    "popularity": 10204,
+    "members": 3246,
+    "favorites": 7,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 365,
+        "type": "anime",
+        "name": "PoRO",
+        "url": "https://myanimelist.net/anime/producer/365/PoRO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 3382,
+            "type": "anime",
+            "name": "Korashime",
+            "url": "https://myanimelist.net/anime/3382/Korashime"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 94713,
+            "type": "manga",
+            "name": "Korashime 2: Kyouikuteki Depaga Shidou",
+            "url": "https://myanimelist.net/manga/94713/Korashime_2__Kyouikuteki_Depaga_Shidou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17482"
+      }
+    ],
+    "streaming": []
+  }
+}

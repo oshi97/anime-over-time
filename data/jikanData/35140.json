@@ -1,0 +1,225 @@
+{
+  "data": {
+    "mal_id": 35140,
+    "url": "https://myanimelist.net/anime/35140/Heisei_Matsue_Kaidan__Ayashi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84746.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84746t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84746l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84746.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84746t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84746l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heisei Matsue Kaidan: Ayashi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eagle Talon"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Frogman Show"
+      },
+      {
+        "type": "Synonym",
+        "title": "Taka no Tsume"
+      },
+      {
+        "type": "Japanese",
+        "title": "平成松江怪談～怪し～"
+      }
+    ],
+    "title": "Heisei Matsue Kaidan: Ayashi",
+    "title_english": null,
+    "title_japanese": "平成松江怪談～怪し～",
+    "title_synonyms": [
+      "Eagle Talon",
+      "The Frogman Show",
+      "Taka no Tsume"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-17T00:00:00+00:00",
+      "to": "2018-04-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 1,
+          "month": 4,
+          "year": 2018
+        }
+      },
+      "string": "Mar 17, 2017 to Apr 1, 2018"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20951,
+    "popularity": 17169,
+    "members": 474,
+    "favorites": 0,
+    "synopsis": "A Matsue City collaboration anime with Eagle Talon. Yoshida book-ends the story as horror tales, both modern and historical, originated within the city are narrated by another person.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37667,
+            "type": "anime",
+            "name": "Heisei Matsue Kaidan",
+            "url": "https://myanimelist.net/anime/37667/Heisei_Matsue_Kaidan"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 13207,
+            "type": "anime",
+            "name": "Himitsukessha Taka no Tsume Gaiden: Mukashi no Yoshida-kun",
+            "url": "https://myanimelist.net/anime/13207/Himitsukessha_Taka_no_Tsume_Gaiden__Mukashi_no_Yoshida-kun"
+          },
+          {
+            "mal_id": 37666,
+            "type": "anime",
+            "name": "3-pun de Wakaru Koizumi Yakumo no Kaidan",
+            "url": "https://myanimelist.net/anime/37666/3-pun_de_Wakaru_Koizumi_Yakumo_no_Kaidan"
+          },
+          {
+            "mal_id": 35142,
+            "type": "anime",
+            "name": "Yoshida no Matsue Beauty Daisakusen",
+            "url": "https://myanimelist.net/anime/35142/Yoshida_no_Matsue_Beauty_Daisakusen"
+          },
+          {
+            "mal_id": 35143,
+            "type": "anime",
+            "name": "Yoshida no Matsue Beauty Daisakusen Prologue",
+            "url": "https://myanimelist.net/anime/35143/Yoshida_no_Matsue_Beauty_Daisakusen_Prologue"
+          },
+          {
+            "mal_id": 37665,
+            "type": "anime",
+            "name": "Yoshida no Time Slip Fumai-kou",
+            "url": "https://myanimelist.net/anime/37665/Yoshida_no_Time_Slip_Fumai-kou"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35141,
+            "type": "anime",
+            "name": "Matsue Kankou Taishi Sanri ga Iku! Matsue Ghost Tour",
+            "url": "https://myanimelist.net/anime/35141/Matsue_Kankou_Taishi_Sanri_ga_Iku_Matsue_Ghost_Tour"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://xn--u9j429qiq1a.jp/matsue/kaidan/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13022"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E9%B7%B9%E3%81%AE%E7%88%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

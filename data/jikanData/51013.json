@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 51013,
+    "url": "https://myanimelist.net/anime/51013/A_Ripple_in_Time",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/120922.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/120922t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/120922l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/120922.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/120922t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/120922l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "A Ripple in Time"
+      },
+      {
+        "type": "Synonym",
+        "title": "Daniel Arsham × Pokémon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Toki no Hamon"
+      },
+      {
+        "type": "Japanese",
+        "title": "A Ripple in Time / 時の波紋"
+      }
+    ],
+    "title": "A Ripple in Time",
+    "title_english": null,
+    "title_japanese": "A Ripple in Time / 時の波紋",
+    "title_synonyms": [
+      "Daniel Arsham × Pokémon",
+      "Toki no Hamon"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 12, 2022"
+    },
+    "duration": "6 min",
+    "rating": "PG - Children",
+    "score": 6.13,
+    "scored_by": 808,
+    "rank": 9204,
+    "popularity": 12253,
+    "members": 1735,
+    "favorites": 1,
+    "synopsis": "Satoshi and Pikachu were having a Pokemon battle with a certain trainer. In the midst of an incandescent battle, he is suddenly surrounded by a large light and is blown to a strange place. What Satoshi and his friends see after chasing Celebi, the only clue to return to the original place ...!?\n\n(Source: YouTube)",
+    "background": "As an art work, it was created in collaboration with New York-based artist Daniel Arsham and director Kunihiko Yuyama, who was the general director of the 1997 TV anime \"Pokemon\" and is still involved as a creative supervisor.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://arsham-pokemon.nanzuka.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 60334,
+    "url": "https://myanimelist.net/anime/60334/Anne_Shirley",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1369/146570.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1369/146570t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1369/146570l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1369/146570.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1369/146570t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1369/146570l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Anne Shirley"
+      },
+      {
+        "type": "Japanese",
+        "title": "アン・シャーリー"
+      }
+    ],
+    "title": "Anne Shirley",
+    "title_english": null,
+    "title_japanese": "アン・シャーリー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 9528,
+    "members": 4019,
+    "favorites": 13,
+    "synopsis": "Life isn't easy for Anne Shirley, an 11-year-old orphan with a vast imagination and a short temper. In a twist of fate, she gets taken into the Cuthbert house in Avonlea. The elderly occupants Marilla and Matthew Cuthbert were looking for a young boy to help in the fields, but they're in for quite a shock when they realize Anne is a girl.\n\nAdapted from the acclaimed classic by L. M. Montgomery, Akage no Anne portrays Anne's upbringing from 11 to 17 years of age and her encounters and separations with various people. Only time will tell what major decision Anne has to make that will change her life forever.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 229,
+        "type": "anime",
+        "name": "The Answer Studio",
+        "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 10282,
+            "type": "manga",
+            "name": "Akage no Anne",
+            "url": "https://myanimelist.net/manga/10282/Akage_no_Anne"
+          },
+          {
+            "mal_id": 177704,
+            "type": "manga",
+            "name": "Anne Shirley",
+            "url": "https://myanimelist.net/manga/177704/Anne_Shirley"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 283,
+            "type": "anime",
+            "name": "Akage no Anne",
+            "url": "https://myanimelist.net/anime/283/Akage_no_Anne"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime-ann-e.jp/"
+      },
+      {
+        "name": "@anime_ann_e",
+        "url": "https://twitter.com/anime_ann_e"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19002"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34066"
+      }
+    ],
+    "streaming": []
+  }
+}

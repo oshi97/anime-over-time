@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 39011,
+    "url": "https://myanimelist.net/anime/39011/Madan_no_Ou_to_Vanadis__Tigre-kun_to_Vanadi-chu_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/98274.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/98274t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/98274l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/98274.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/98274t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/98274l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "ティグルくんとヴァナディーちゅ 第0話"
+      }
+    ],
+    "title": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0",
+    "title_english": null,
+    "title_japanese": "ティグルくんとヴァナディーちゅ 第0話",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-10-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 10,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 5, 2014"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.1,
+    "scored_by": 1878,
+    "rank": 9356,
+    "popularity": 8782,
+    "members": 5158,
+    "favorites": 2,
+    "synopsis": "Episode 0 of Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 102,
+        "type": "anime",
+        "name": "Funimation",
+        "url": "https://myanimelist.net/anime/producer/102/Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 27857,
+            "type": "anime",
+            "name": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu",
+            "url": "https://myanimelist.net/anime/27857/Madan_no_Ou_to_Vanadis__Tigre-kun_to_Vanadi-chu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 24455,
+            "type": "anime",
+            "name": "Madan no Ou to Vanadis",
+            "url": "https://myanimelist.net/anime/24455/Madan_no_Ou_to_Vanadis"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.madan-anime.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10744"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16170"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Madan_no_%C5%8C_to_Vanadis"
+      }
+    ],
+    "streaming": []
+  }
+}

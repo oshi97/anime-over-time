@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 56311,
+    "url": "https://myanimelist.net/anime/56311/Hello_Carbot__Dalnalaleul_Guhaejwo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/137819.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/137819t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/137819l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/137819.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/137819t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/137819l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot: Dalnalaleul Guhaejwo!"
+      },
+      {
+        "type": "Japanese",
+        "title": "극장판 헬로카봇: 달나라를 구해줘!"
+      },
+      {
+        "type": "English",
+        "title": "Hello Carbot the Movie: Save the Moon"
+      }
+    ],
+    "title": "Hello Carbot: Dalnalaleul Guhaejwo!",
+    "title_english": "Hello Carbot the Movie: Save the Moon",
+    "title_japanese": "극장판 헬로카봇: 달나라를 구해줘!",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 4, 2019"
+    },
+    "duration": "1 hr 16 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20973,
+    "popularity": 24341,
+    "members": 99,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56303,
+            "type": "anime",
+            "name": "Hello Carbot Season 8",
+            "url": "https://myanimelist.net/anime/56303/Hello_Carbot_Season_8"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

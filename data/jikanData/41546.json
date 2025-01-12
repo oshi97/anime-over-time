@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 41546,
+    "url": "https://myanimelist.net/anime/41546/Ninja_Box_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/108530.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/108530t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/108530l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/108530.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/108530t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/108530l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ninja Box 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ninja Box Side Stories"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ninja Box Season 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "ニンジャボックス シーズン３"
+      }
+    ],
+    "title": "Ninja Box 3rd Season",
+    "title_english": null,
+    "title_japanese": "ニンジャボックス シーズン３",
+    "title_synonyms": [
+      "Ninja Box Side Stories",
+      "Ninja Box Season 3"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-03-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 26, 2020 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17978,
+    "popularity": 20786,
+    "members": 230,
+    "favorites": 0,
+    "synopsis": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41199,
+            "type": "anime",
+            "name": "Ninja Box 2nd Season",
+            "url": "https://myanimelist.net/anime/41199/Ninja_Box_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ninjabox.bn-ent.net/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9"
+      }
+    ],
+    "streaming": []
+  }
+}

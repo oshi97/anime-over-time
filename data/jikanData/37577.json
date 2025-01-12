@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 37577,
+    "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1043/92924.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1043/92924t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1043/92924l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1043/92924.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1043/92924t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1043/92924l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hibike! Euphonium Movie: Photo Session e Youkoso"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hibike! Euphonium Movie: Todoketai Melody Theater Manners"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版 響け！ユーフォニアム～フォトセッションへようこそ"
+      }
+    ],
+    "title": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+    "title_english": null,
+    "title_japanese": "劇場版 響け！ユーフォニアム～フォトセッションへようこそ",
+    "title_synonyms": [
+      "Hibike! Euphonium Movie: Todoketai Melody Theater Manners"
+    ],
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 30, 2017"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.22,
+    "scored_by": 1089,
+    "rank": 8736,
+    "popularity": 9172,
+    "members": 4540,
+    "favorites": 4,
+    "synopsis": "Short theater manners animations shown before Hibike! Euphonium Movie: Todoketai Melody.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35082,
+            "type": "anime",
+            "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+            "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://anime-eupho.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12962"
+      }
+    ],
+    "streaming": []
+  }
+}

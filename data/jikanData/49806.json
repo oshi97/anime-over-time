@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 49806,
+    "url": "https://myanimelist.net/anime/49806/Inzai_Aru_Aru_Monogatari",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/117670.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/117670t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/117670l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/117670.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/117670t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/117670l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inzai Aru Aru Monogatari"
+      },
+      {
+        "type": "Synonym",
+        "title": "Inzai Aruaru"
+      },
+      {
+        "type": "Japanese",
+        "title": "印西あるある物語"
+      }
+    ],
+    "title": "Inzai Aru Aru Monogatari",
+    "title_english": null,
+    "title_japanese": "印西あるある物語",
+    "title_synonyms": [
+      "Inzai Aruaru"
+    ],
+    "type": "ONA",
+    "source": "4-koma manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 14, 2022"
+    },
+    "duration": "18 min",
+    "rating": "G - All Ages",
+    "score": 5.74,
+    "scored_by": 126,
+    "rank": 11182,
+    "popularity": 15902,
+    "members": 619,
+    "favorites": 0,
+    "synopsis": "The story centers on a 10-year-old girl named Shirushi Nishizumi who lives in the city, and the alien she meets after it crash lands in Inzai. The alien needs \"Aruaru Energy\" to be able to power back up its spaceship.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1399,
+        "type": "anime",
+        "name": "Asura Film",
+        "url": "https://myanimelist.net/anime/producer/1399/Asura_Film"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Starcast\" by Kaori Ishihara"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://makeinzaioriginal.com"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16665"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24721"
+      }
+    ],
+    "streaming": []
+  }
+}

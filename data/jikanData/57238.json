@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 57238,
+    "url": "https://myanimelist.net/anime/57238/Dreamfaireez",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/139782.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/139782t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/139782l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/139782.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/139782t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/139782l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dreamfaireez"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dreamfaireez Dance-Off!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dreamfaireez - Encore"
+      },
+      {
+        "type": "Japanese",
+        "title": "Dreamfaireez"
+      }
+    ],
+    "title": "Dreamfaireez",
+    "title_english": null,
+    "title_japanese": "Dreamfaireez",
+    "title_synonyms": [
+      "Dreamfaireez Dance-Off!",
+      "Dreamfaireez - Encore"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-07T00:00:00+00:00",
+      "to": "2023-10-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": 16,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Jul 7, 2023 to Oct 16, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20265,
+    "popularity": 20431,
+    "members": 251,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2854,
+        "type": "anime",
+        "name": "Volca",
+        "url": "https://myanimelist.net/anime/producer/2854/Volca"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49771,
+            "type": "anime",
+            "name": "Fire Emblem Heroes: Chibi Playhouse",
+            "url": "https://myanimelist.net/anime/49771/Fire_Emblem_Heroes__Chibi_Playhouse"
+          },
+          {
+            "mal_id": 53639,
+            "type": "anime",
+            "name": "Fire Emblem Heroes: Askr Oukoku Teiten Camera (Eir no 1-nichi)",
+            "url": "https://myanimelist.net/anime/53639/Fire_Emblem_Heroes__Askr_Oukoku_Teiten_Camera_Eir_no_1-nichi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ba2rP5TkTJ0"
+      }
+    ],
+    "streaming": []
+  }
+}

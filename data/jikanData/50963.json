@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 50963,
+    "url": "https://myanimelist.net/anime/50963/Delicious_Party♡Precure_Movie__Yume_Miru_Oko-sama_Lunch",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1548/126145.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1548/126145t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1548/126145l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1548/126145.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1548/126145t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1548/126145l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "3B8BtzGnoi0",
+      "url": "https://www.youtube.com/watch?v=3B8BtzGnoi0",
+      "embed_url": "https://www.youtube.com/embed/3B8BtzGnoi0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/3B8BtzGnoi0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/3B8BtzGnoi0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/3B8BtzGnoi0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/3B8BtzGnoi0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/3B8BtzGnoi0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Delicious Party♡Pretty Cure Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ！"
+      }
+    ],
+    "title": "Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!",
+    "title_english": null,
+    "title_japanese": "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ！",
+    "title_synonyms": [
+      "Delicious Party♡Pretty Cure Movie"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 23, 2022"
+    },
+    "duration": "1 hr 4 min",
+    "rating": "G - All Ages",
+    "score": 6.8,
+    "scored_by": 1016,
+    "rank": 5313,
+    "popularity": 11211,
+    "members": 2408,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 50281,
+            "type": "anime",
+            "name": "Delicious Party♡Precure",
+            "url": "https://myanimelist.net/anime/50281/Delicious_Party♡Precure"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53196,
+            "type": "anime",
+            "name": "Watashi dake no Okosama Lunch",
+            "url": "https://myanimelist.net/anime/53196/Watashi_dake_no_Okosama_Lunch"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Youkoso, Okosama♡Dreamia (ようこそ、お子さま♡ドリーミア)\" by Moeha Nochimoto (後本萌葉)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://2022.precure-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17176"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26065"
+      }
+    ],
+    "streaming": []
+  }
+}

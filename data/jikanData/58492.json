@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 58492,
+    "url": "https://myanimelist.net/anime/58492/Mono",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/145368.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/145368t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/145368l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/145368.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/145368t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/145368l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "PrJlMnG3JiE",
+      "url": "https://www.youtube.com/watch?v=PrJlMnG3JiE",
+      "embed_url": "https://www.youtube.com/embed/PrJlMnG3JiE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/PrJlMnG3JiE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/PrJlMnG3JiE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/PrJlMnG3JiE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/PrJlMnG3JiE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/PrJlMnG3JiE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mono"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mono: Weekend Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "mono"
+      }
+    ],
+    "title": "Mono",
+    "title_english": null,
+    "title_japanese": "mono",
+    "title_synonyms": [
+      "Mono: Weekend Animation"
+    ],
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10441,
+    "members": 3034,
+    "favorites": 5,
+    "synopsis": "The Photography Club is in danger of shutting down?! And the Cinema Club too?! Fret not, for they shall merge and become... Cinephoto Club! Now club members Satsuki, An, and Sakurako are asked to be the main characters for manga artist Haruno's latest work that's centered around action cameras. The girls head out to capture the lovely sights of Japan, experimenting with gadgets beyond photography and film equipment, and of course, chomping on the local delicacies along the way!\n\n(Source: Yen Press)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      },
+      {
+        "mal_id": 797,
+        "type": "anime",
+        "name": "Houbunsha",
+        "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2917,
+        "type": "anime",
+        "name": "Soigne",
+        "url": "https://myanimelist.net/anime/producer/2917/Soigne"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 111798,
+            "type": "manga",
+            "name": "Mono",
+            "url": "https://myanimelist.net/manga/111798/Mono"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://mono-weekend.photo/"
+      },
+      {
+        "name": "@mono_weekend",
+        "url": "https://twitter.com/mono_weekend"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18546"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32545"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Mono_(漫画)"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 56882,
+    "url": "https://myanimelist.net/anime/56882/Ochibi-san_Tanpen_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/139009.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/139009t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/139009l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/139009.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/139009t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/139009l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ochibi-san Tanpen Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "オチビサン短編ムービー"
+      }
+    ],
+    "title": "Ochibi-san Tanpen Movie",
+    "title_english": null,
+    "title_japanese": "オチビサン短編ムービー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-05T00:00:00+00:00",
+      "to": "2021-06-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 16,
+          "month": 6,
+          "year": 2021
+        }
+      },
+      "string": "Jul 5, 2019 to Jun 16, 2021"
+    },
+    "duration": "42 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18081,
+    "popularity": 20019,
+    "members": 274,
+    "favorites": 0,
+    "synopsis": "Short videos to commemorate the releases of volumes 9 and 10 of Ochibi-san.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Khara",
+        "url": "https://myanimelist.net/anime/producer/47/Khara"
+      },
+      {
+        "mal_id": 3042,
+        "type": "anime",
+        "name": "Project Studio Q",
+        "url": "https://myanimelist.net/anime/producer/3042/Project_Studio_Q"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 69047,
+            "type": "manga",
+            "name": "Ochibi-san",
+            "url": "https://myanimelist.net/manga/69047/Ochibi-san"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56588,
+            "type": "anime",
+            "name": "Ochibi-san",
+            "url": "https://myanimelist.net/anime/56588/Ochibi-san"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

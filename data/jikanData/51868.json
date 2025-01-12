@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51868,
+    "url": "https://myanimelist.net/anime/51868/Dokidoki_Ghost_Mansion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/123925.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/123925t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/123925l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/123925.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/123925t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/123925l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dokidoki Ghost Mansion"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokémon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドキドキ ゴーストマンション"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Mysterious Ghost Manor"
+      }
+    ],
+    "title": "Dokidoki Ghost Mansion",
+    "title_english": "Pokémon Kids TV: Mysterious Ghost Manor",
+    "title_japanese": "ドキドキ ゴーストマンション",
+    "title_synonyms": [
+      "Pokémon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 20, 2019"
+    },
+    "duration": "5 min",
+    "rating": "PG - Children",
+    "score": 5.44,
+    "scored_by": 246,
+    "rank": 12253,
+    "popularity": 15990,
+    "members": 606,
+    "favorites": 0,
+    "synopsis": "Join Mimikyu as it explores a mansion filled with spooky scary Pokémon!\nWith Ghost type Pokémon haunting every nook and cranny of the mansion…\nWill Mimikyu even make it back safe and sound?\nWatch and find out!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/6iBpgMAD1Fw"
+      }
+    ],
+    "streaming": []
+  }
+}

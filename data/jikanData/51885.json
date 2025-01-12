@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 51885,
+    "url": "https://myanimelist.net/anime/51885/Pikachu_Pochama_to_Fushigi_na_Nendo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1853/123953.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1853/123953t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1853/123953l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1853/123953.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1853/123953t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1853/123953l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pikachu, Pochama to Fushigi na Nendo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ピカチュウ・ポッチャマとふしぎなねんど"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Pikachu, Piplup and the Playful Clay!"
+      }
+    ],
+    "title": "Pikachu, Pochama to Fushigi na Nendo",
+    "title_english": "Pokémon Kids TV: Pikachu, Piplup and the Playful Clay!",
+    "title_japanese": "ピカチュウ・ポッチャマとふしぎなねんど",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 7, 2022"
+    },
+    "duration": "8 min",
+    "rating": "PG - Children",
+    "score": 5.44,
+    "scored_by": 313,
+    "rank": 12238,
+    "popularity": 14991,
+    "members": 791,
+    "favorites": 0,
+    "synopsis": "Pikachu and Piplup accidentally found mysterious clay.\nLet's watch the video and see what Pikachu and Piplup will do with it!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/eXMlq5RFvLE"
+      }
+    ],
+    "streaming": []
+  }
+}

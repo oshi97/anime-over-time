@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 48177,
+    "url": "https://myanimelist.net/anime/48177/Ichiban_Chikakute_Tooi_Hoshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1867/122710.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1867/122710t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/122710l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1867/122710.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1867/122710t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/122710l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ichiban Chikakute Tooi Hoshi"
+      },
+      {
+        "type": "Japanese",
+        "title": "一番近くて遠い星"
+      },
+      {
+        "type": "English",
+        "title": "The Nearest Distant Star"
+      }
+    ],
+    "title": "Ichiban Chikakute Tooi Hoshi",
+    "title_english": "The Nearest Distant Star",
+    "title_japanese": "一番近くて遠い星",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 23, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 6.34,
+    "scored_by": 1669,
+    "rank": 8041,
+    "popularity": 9731,
+    "members": 3785,
+    "favorites": 6,
+    "synopsis": "A four-minute concept animation that exists within the same world as Summer Ghost.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2067,
+        "type": "anime",
+        "name": "Flat Studio",
+        "url": "https://myanimelist.net/anime/producer/2067/Flat_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 48171,
+            "type": "anime",
+            "name": "Summer Ghost",
+            "url": "https://myanimelist.net/anime/48171/Summer_Ghost"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://pjt.loundraw.jp/zkai"
+      }
+    ],
+    "streaming": []
+  }
+}

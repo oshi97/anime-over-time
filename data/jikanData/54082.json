@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 54082,
+    "url": "https://myanimelist.net/anime/54082/Peter_Pan_to_Hoshi_no_Kuni_e_Ikou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1166/132355.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1166/132355t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1166/132355l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1166/132355.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1166/132355t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1166/132355l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Peter Pan to Hoshi no Kuni e Ikou!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Fantasia: Peter Pan to Neverland e Ikou!"
+      },
+      {
+        "type": "Synonym",
+        "title": "スターファンタジア ピーターパンとネバーランドへ行こう！"
+      },
+      {
+        "type": "Japanese",
+        "title": "ピーターパンとほしのくにへいこう！"
+      }
+    ],
+    "title": "Peter Pan to Hoshi no Kuni e Ikou!",
+    "title_english": null,
+    "title_japanese": "ピーターパンとほしのくにへいこう！",
+    "title_synonyms": [
+      "Star Fantasia: Peter Pan to Neverland e Ikou!",
+      "スターファンタジア ピーターパンとネバーランドへ行こう！"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2004-11-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2004
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 21, 2004"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18319,
+    "popularity": 24138,
+    "members": 103,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2673,
+        "type": "anime",
+        "name": "Goto Inc.",
+        "url": "https://myanimelist.net/anime/producer/2673/Goto_Inc"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54092,
+            "type": "anime",
+            "name": "Peter Pan to Uchuu e GO! Taiyoukei wo Bouken da",
+            "url": "https://myanimelist.net/anime/54092/Peter_Pan_to_Uchuu_e_GO_Taiyoukei_wo_Bouken_da"
+          },
+          {
+            "mal_id": 54093,
+            "type": "anime",
+            "name": "Peter Pan no Bouken (Movie)",
+            "url": "https://myanimelist.net/anime/54093/Peter_Pan_no_Bouken_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

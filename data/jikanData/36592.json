@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 36592,
+    "url": "https://myanimelist.net/anime/36592/High___Low__G-Sword_OVA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88441.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88441t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88441l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88441.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88441t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88441l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "High & Low: G-Sword OVA"
+      },
+      {
+        "type": "Japanese",
+        "title": "HiGH&LOW g-sword OVA"
+      }
+    ],
+    "title": "High & Low: G-Sword OVA",
+    "title_english": null,
+    "title_japanese": "HiGH&LOW g-sword OVA",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 17, 2017"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21027,
+    "popularity": 17841,
+    "members": 419,
+    "favorites": 0,
+    "synopsis": "Bundled with the limited edition volume 5 of the High &amp; Low: G-Sword manga. The DVD contained all the episodes of the previously released G-Sword anime (the TV eps, the Movie eps, the Special theme park eps), as well as containing 5 brand new episodes focusing primarily on rival gangs.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41054,
+            "type": "anime",
+            "name": "High & Low: G-Sword (Special)",
+            "url": "https://myanimelist.net/anime/41054/High___Low__G-Sword_Special"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 105222,
+            "type": "manga",
+            "name": "High & Low: G-Sword",
+            "url": "https://myanimelist.net/manga/105222/High___Low__G-Sword"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35156,
+            "type": "anime",
+            "name": "High & Low: G-Sword",
+            "url": "https://myanimelist.net/anime/35156/High___Low__G-Sword"
+          },
+          {
+            "mal_id": 39032,
+            "type": "anime",
+            "name": "High & Low: G-Sword (Movie)",
+            "url": "https://myanimelist.net/anime/39032/High___Low__G-Sword_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

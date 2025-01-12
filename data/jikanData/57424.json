@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 57424,
+    "url": "https://myanimelist.net/anime/57424/Azur_Lane_Port_Diary",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/140127.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/140127t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/140127l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/140127.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/140127t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/140127l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Azur Lane Port Diary"
+      },
+      {
+        "type": "Japanese",
+        "title": "Azur Lane Port Diary"
+      }
+    ],
+    "title": "Azur Lane Port Diary",
+    "title_english": null,
+    "title_japanese": "Azur Lane Port Diary",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 23, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.79,
+    "scored_by": 127,
+    "rank": 10932,
+    "popularity": 18408,
+    "members": 377,
+    "favorites": 0,
+    "synopsis": "Commander, for this episode of the AzurLane Port Diary series, let's find out what happened to Hammann and Yorktown on a peaceful day!\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55351,
+            "type": "anime",
+            "name": "Azur Lane CMs",
+            "url": "https://myanimelist.net/anime/55351/Azur_Lane_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vmQs-4r-WcE"
+      }
+    ],
+    "streaming": []
+  }
+}

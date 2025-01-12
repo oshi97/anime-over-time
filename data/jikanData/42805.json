@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 42805,
+    "url": "https://myanimelist.net/anime/42805/Tasuuketsu__Judgement_Assizes",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1572/110031.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1572/110031t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1572/110031l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1572/110031.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1572/110031t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1572/110031l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tasuuketsu: Judgement Assizes"
+      },
+      {
+        "type": "Japanese",
+        "title": "多数欠 -Judgement Assizes-"
+      }
+    ],
+    "title": "Tasuuketsu: Judgement Assizes",
+    "title_english": null,
+    "title_japanese": "多数欠 -Judgement Assizes-",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2021"
+    },
+    "duration": "7 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 14600,
+    "popularity": 15336,
+    "members": 710,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1903,
+        "type": "anime",
+        "name": "IMAGICA Lab.",
+        "url": "https://myanimelist.net/anime/producer/1903/IMAGICA_Lab"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      },
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 125330,
+            "type": "manga",
+            "name": "Tasuuketsu",
+            "url": "https://myanimelist.net/manga/125330/Tasuuketsu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57945,
+            "type": "anime",
+            "name": "Tasuuketsu",
+            "url": "https://myanimelist.net/anime/57945/Tasuuketsu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"JESUS KNOWS\" by EXiNA"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@tasuketsu_ganma",
+        "url": "https://twitter.com/tasuketsu_ganma"
+      }
+    ],
+    "streaming": []
+  }
+}

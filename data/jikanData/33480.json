@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 33480,
+    "url": "https://myanimelist.net/anime/33480/Wakuwaku_Koma-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/80508.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80508t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80508l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/80508.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80508t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80508l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wakuwaku Koma-chan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Waku Waku Koma-chan"
+      },
+      {
+        "type": "Japanese",
+        "title": "THE CURIOUS KITTY & FRIENDS 「ワクワクこまちゃん」"
+      },
+      {
+        "type": "English",
+        "title": "The Curious Kitty & Friends"
+      }
+    ],
+    "title": "Wakuwaku Koma-chan",
+    "title_english": "The Curious Kitty & Friends",
+    "title_japanese": "THE CURIOUS KITTY & FRIENDS 「ワクワクこまちゃん」",
+    "title_synonyms": [
+      "Waku Waku Koma-chan"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 17, 2016"
+    },
+    "duration": "11 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15038,
+    "popularity": 19182,
+    "members": 322,
+    "favorites": 0,
+    "synopsis": "The Curious Kitty and Friends is a preschool stop-motion animated show, where we will join the upbeat and colorful adventures of kitty cat Komaneko as she explores the wonderful world with her friends Mimmi Bear, Radibo, and Yeti. With her trusty video camera and knapsack in tow, creative and curious Komaneko makes her own movies,usually starring her two favorite dolls, Wink and Ink. \n\n(Source: Amazon)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1133,
+        "type": "anime",
+        "name": "dwarf",
+        "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 7547,
+            "type": "anime",
+            "name": "Komadori Movie: Komaneko",
+            "url": "https://myanimelist.net/anime/7547/Komadori_Movie__Komaneko"
+          },
+          {
+            "mal_id": 7461,
+            "type": "anime",
+            "name": "Komaneko no Christmas: Maigo ni Natta Present",
+            "url": "https://myanimelist.net/anime/7461/Komaneko_no_Christmas__Maigo_ni_Natta_Present"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.dw-f.jp/CUKI/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12232"
+      }
+    ],
+    "streaming": []
+  }
+}

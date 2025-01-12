@@ -1,0 +1,179 @@
+{
+  "data": {
+    "mal_id": 35321,
+    "url": "https://myanimelist.net/anime/35321/Haikyuu_Tokushuu_Haru-kou_Volley_ni_Kaketa_Seishun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/87162.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/87162t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/87162l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/87162.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/87162t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/87162l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou OVA"
+      },
+      {
+        "type": "Synonym",
+        "title": "Haikyuu!! OVA"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハイキュー!! 特集！春高バレーに賭けた青春"
+      },
+      {
+        "type": "English",
+        "title": "Haikyuu!! Special Feature! The Spring Tournament of Their Youth"
+      }
+    ],
+    "title": "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+    "title_english": "Haikyuu!! Special Feature! The Spring Tournament of Their Youth",
+    "title_japanese": "ハイキュー!! 特集！春高バレーに賭けた青春",
+    "title_synonyms": [
+      "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou OVA",
+      "Haikyuu!! OVA"
+    ],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 4, 2017"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.52,
+    "scored_by": 13450,
+    "rank": 1870,
+    "popularity": 3661,
+    "members": 41247,
+    "favorites": 39,
+    "synopsis": "The OVA episode revisits the primary matches from the spring tournament and features interviews with players.\n\n(Source: MAL News)",
+    "background": "Bundled with the 27th volume of the manga.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 28891,
+            "type": "anime",
+            "name": "Haikyuu!! Second Season",
+            "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season"
+          },
+          {
+            "mal_id": 32935,
+            "type": "anime",
+            "name": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+            "url": "https://myanimelist.net/anime/32935/Haikyuu_Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.j-haikyu.com/anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13332"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Haiky%C5%AB!!"
+      }
+    ],
+    "streaming": []
+  }
+}

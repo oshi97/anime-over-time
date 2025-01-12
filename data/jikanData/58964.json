@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 58964,
+    "url": "https://myanimelist.net/anime/58964/Ninja_Batman_tai_Yakuza_League",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/144025.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/144025t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/144025l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/144025.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/144025t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/144025l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "EK5Kllx_R4U",
+      "url": "https://www.youtube.com/watch?v=EK5Kllx_R4U",
+      "embed_url": "https://www.youtube.com/embed/EK5Kllx_R4U?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/EK5Kllx_R4U/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/EK5Kllx_R4U/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/EK5Kllx_R4U/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/EK5Kllx_R4U/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/EK5Kllx_R4U/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ninja Batman tai Yakuza League"
+      },
+      {
+        "type": "Japanese",
+        "title": "ニンジャバットマン対ヤクザリーグ"
+      },
+      {
+        "type": "English",
+        "title": "Batman Ninja vs. Yakuza League"
+      }
+    ],
+    "title": "Ninja Batman tai Yakuza League",
+    "title_english": "Batman Ninja vs. Yakuza League",
+    "title_japanese": "ニンジャバットマン対ヤクザリーグ",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-03-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 21, 2025"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 8531,
+    "members": 5568,
+    "favorites": 9,
+    "synopsis": "Sequel to Ninja Batman.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 415,
+        "type": "anime",
+        "name": "Warner Bros. Japan",
+        "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      },
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36517,
+            "type": "anime",
+            "name": "Ninja Batman",
+            "url": "https://myanimelist.net/anime/36517/Ninja_Batman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://wwws.warnerbros.co.jp/batman-ninja/"
+      },
+      {
+        "name": "@batmanninja2018",
+        "url": "https://twitter.com/batmanninja2018"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18664"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32783"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Batman_Ninja_vs._Yakuza_League"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/497110"
+      }
+    ],
+    "streaming": []
+  }
+}

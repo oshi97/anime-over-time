@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48606,
+    "url": "https://myanimelist.net/anime/48606/Fastening_Days_4",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1478/113826.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/113826t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/113826l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1478/113826.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/113826t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/113826l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fastening Days 4"
+      },
+      {
+        "type": "Japanese",
+        "title": "FASTENING DAYS 4"
+      }
+    ],
+    "title": "Fastening Days 4",
+    "title_english": null,
+    "title_japanese": "FASTENING DAYS 4",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-05T00:00:00+00:00",
+      "to": "2019-12-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": 19,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Dec 5, 2019 to Dec 19, 2019"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.14,
+    "scored_by": 475,
+    "rank": 9140,
+    "popularity": 14275,
+    "members": 968,
+    "favorites": 1,
+    "synopsis": "Youji, Kei, Kelly, and the bear-shaped robot Oscar save the town yet again using Fastening Machines! This time, they meet a kindhearted young boy named Samhen and his AI robot Jack. Shy Samhen, who transfers into Kei and Kelly's class, doesn't seem to like talking about himself much, but his chatty little buddy Jack is more than happy to help him communicate. One peaceful afternoon, the young heroes must protect the town from sudden and serious danger! Will they be able to save everyone? Pay attention to the bond between AI and humans, which the children take action to protect!\n\n(Source: Official website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48605,
+            "type": "anime",
+            "name": "Fastening Days 3",
+            "url": "https://myanimelist.net/anime/48605/Fastening_Days_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Dream Fighter\" by Perfume"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ykkfastening.com/fd/en/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15303"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19757"
+      }
+    ],
+    "streaming": []
+  }
+}

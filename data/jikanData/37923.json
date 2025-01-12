@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 37923,
+    "url": "https://myanimelist.net/anime/37923/Baa-cha_no_Kingyo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/93031.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/93031t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/93031l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/93031.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/93031t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/93031l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baa-cha no Kingyo"
+      },
+      {
+        "type": "Japanese",
+        "title": "婆ちゃの金魚"
+      },
+      {
+        "type": "English",
+        "title": "A Grandma's Goldfish"
+      }
+    ],
+    "title": "Baa-cha no Kingyo",
+    "title_english": "A Grandma's Goldfish",
+    "title_japanese": "婆ちゃの金魚",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-10-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 28, 2012"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": 6.24,
+    "scored_by": 797,
+    "rank": 8582,
+    "popularity": 12903,
+    "members": 1406,
+    "favorites": 1,
+    "synopsis": "Short animation by Kaori Iwase.\n\nThe story follows an old lady that is very fond of her gold fish and the dream she has revolving it. She recalls an event in her younger years as a child and the reason behind her love for gold fishes.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1524,
+        "type": "anime",
+        "name": "Geidai Animation",
+        "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://kaoriiwase.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AVUO-5X2Qts"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10121"
+      }
+    ],
+    "streaming": []
+  }
+}

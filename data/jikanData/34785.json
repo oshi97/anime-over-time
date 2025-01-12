@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 34785,
+    "url": "https://myanimelist.net/anime/34785/Tamashichi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88295.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88295t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88295l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88295.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88295t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88295l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tamashichi!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tama-Sichi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tama Schichi!"
+      },
+      {
+        "type": "Japanese",
+        "title": "たましち！"
+      }
+    ],
+    "title": "Tamashichi!",
+    "title_english": null,
+    "title_japanese": "たましち！",
+    "title_synonyms": [
+      "Tama-Sichi",
+      "Tama Schichi!"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-08-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 6, 2015"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.64,
+    "scored_by": 222,
+    "rank": 11616,
+    "popularity": 16786,
+    "members": 510,
+    "favorites": 0,
+    "synopsis": "The show follows Maya's day at work at the Tamaya Shichi Pawn Shop.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 605,
+        "type": "anime",
+        "name": "C2C",
+        "url": "https://myanimelist.net/anime/producer/605/C2C"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34782,
+            "type": "anime",
+            "name": "Tama Pawns",
+            "url": "https://myanimelist.net/anime/34782/Tama_Pawns"
+          },
+          {
+            "mal_id": 44063,
+            "type": "anime",
+            "name": "Tamaya Shichiten Tanjoubi-hen CM",
+            "url": "https://myanimelist.net/anime/44063/Tamaya_Shichiten_Tanjoubi-hen_CM"
+          },
+          {
+            "mal_id": 50349,
+            "type": "anime",
+            "name": "Tamaya CM: Takusareta Omoi-hen",
+            "url": "https://myanimelist.net/anime/50349/Tamaya_CM__Takusareta_Omoi-hen"
+          },
+          {
+            "mal_id": 52834,
+            "type": "anime",
+            "name": "Tamaya CM: Sono Saki e-hen",
+            "url": "https://myanimelist.net/anime/52834/Tamaya_CM__Sono_Saki_e-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tamasichi.net/job/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

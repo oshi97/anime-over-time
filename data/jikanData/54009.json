@@ -1,0 +1,188 @@
+{
+  "data": {
+    "mal_id": 54009,
+    "url": "https://myanimelist.net/anime/54009/Tentai_Kansoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1722/132107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/132107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/132107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1722/132107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/132107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/132107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tentai Kansoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "天体観測"
+      }
+    ],
+    "title": "Tentai Kansoku",
+    "title_english": null,
+    "title_japanese": "天体観測",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 20, 2023"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "scored_by": 853,
+    "rank": 5286,
+    "popularity": 12152,
+    "members": 1804,
+    "favorites": 1,
+    "synopsis": "The music film is a part of TOHO animation's 10th anniversary project.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      },
+      {
+        "mal_id": 1858,
+        "type": "anime",
+        "name": "Sonilude",
+        "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2067,
+        "type": "anime",
+        "name": "Flat Studio",
+        "url": "https://myanimelist.net/anime/producer/2067/Flat_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54725,
+            "type": "anime",
+            "name": "Himitsu no Hana no Niwa",
+            "url": "https://myanimelist.net/anime/54725/Himitsu_no_Hana_no_Niwa"
+          },
+          {
+            "mal_id": 54809,
+            "type": "anime",
+            "name": "Neko to Wakai se na",
+            "url": "https://myanimelist.net/anime/54809/Neko_to_Wakai_se_na"
+          },
+          {
+            "mal_id": 54810,
+            "type": "anime",
+            "name": "Detarame na Sekai no Melodrama",
+            "url": "https://myanimelist.net/anime/54810/Detarame_na_Sekai_no_Melodrama"
+          },
+          {
+            "mal_id": 54005,
+            "type": "anime",
+            "name": "COLORs",
+            "url": "https://myanimelist.net/anime/54005/COLORs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Tentai Kansoku (天体観測)\" by BUMP OF CHICKEN"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tohoanimation.jp/10thanniversary/special/event7/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5lygiL4Y3kU"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17898"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27330"
+      }
+    ],
+    "streaming": []
+  }
+}

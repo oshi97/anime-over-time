@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 57003,
+    "url": "https://myanimelist.net/anime/57003/Meitantei_Pikachu__Kareinaru_Morning_Routine",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1961/139330.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1961/139330t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1961/139330l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1961/139330.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1961/139330t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1961/139330l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Pikachu: Kareinaru Morning Routine"
+      },
+      {
+        "type": "Synonym",
+        "title": "Detective Pikachu: Splendid Morning Routine"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵ピカチュウ ～華麗なるモーニングルーティン～"
+      },
+      {
+        "type": "English",
+        "title": "Detective Pikachu & the Mystery of the Missing Flan"
+      }
+    ],
+    "title": "Meitantei Pikachu: Kareinaru Morning Routine",
+    "title_english": "Detective Pikachu & the Mystery of the Missing Flan",
+    "title_japanese": "名探偵ピカチュウ ～華麗なるモーニングルーティン～",
+    "title_synonyms": [
+      "Detective Pikachu: Splendid Morning Routine"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 25, 2023"
+    },
+    "duration": "6 min",
+    "rating": "PG - Children",
+    "score": 6.07,
+    "scored_by": 382,
+    "rank": 9530,
+    "popularity": 14945,
+    "members": 804,
+    "favorites": 0,
+    "synopsis": "Detective Pikachu just wants to film his morning routine, but Tim has a bigger problem: his flan has disappeared from the fridge! It's definitely a mysterious case, but if anyone can solve it, this dynamic duo can in this animated short!\n\n(Source: YouTube)",
+    "background": "This short was released worldwide in 19 countries and regions. (Source: YouTube)",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 499,
+        "type": "anime",
+        "name": "The Pokemon Company International",
+        "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+      },
+      {
+        "mal_id": 1255,
+        "type": "anime",
+        "name": "Glovision",
+        "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+      },
+      {
+        "mal_id": 1961,
+        "type": "anime",
+        "name": "Creatures Inc.",
+        "url": "https://myanimelist.net/anime/producer/1961/Creatures_Inc"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1023,
+        "type": "anime",
+        "name": "Polygon Pictures",
+        "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40351,
+            "type": "anime",
+            "name": "Pokemon (2019)",
+            "url": "https://myanimelist.net/anime/40351/Pokemon_2019"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=jlX72oLqDag"
+      }
+    ],
+    "streaming": []
+  }
+}

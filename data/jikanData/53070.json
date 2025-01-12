@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 53070,
+    "url": "https://myanimelist.net/anime/53070/Eroriman_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1379/128052.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1379/128052t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1379/128052l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1379/128052.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1379/128052t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1379/128052l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eroriman 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "エロリーマン2"
+      }
+    ],
+    "title": "Eroriman 2",
+    "title_english": null,
+    "title_japanese": "エロリーマン2",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-28T00:00:00+00:00",
+      "to": "2022-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Oct 28, 2022 to Dec 23, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 6.29,
+    "scored_by": 1022,
+    "rank": null,
+    "popularity": 10358,
+    "members": 3098,
+    "favorites": 4,
+    "synopsis": "A single man uses a dating site for his kids, especially with high school students, but what he didn't expect is for one of the girls to be his niece.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 365,
+        "type": "anime",
+        "name": "PoRO",
+        "url": "https://myanimelist.net/anime/producer/365/PoRO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51088,
+            "type": "anime",
+            "name": "Eroriman",
+            "url": "https://myanimelist.net/anime/51088/Eroriman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17538"
+      }
+    ],
+    "streaming": []
+  }
+}

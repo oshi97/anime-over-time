@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 36746,
+    "url": "https://myanimelist.net/anime/36746/1_100_Shibuya_Crossing",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88867.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88867t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88867l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88867.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88867t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88867l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "1/100 Shibuya Crossing"
+      },
+      {
+        "type": "Japanese",
+        "title": "1/100 SHIBUYA Crossing"
+      },
+      {
+        "type": "English",
+        "title": "1/100 SHIBUYA Crossing"
+      }
+    ],
+    "title": "1/100 Shibuya Crossing",
+    "title_english": "1/100 SHIBUYA Crossing",
+    "title_japanese": "1/100 SHIBUYA Crossing",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-06-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 6,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 28, 2015"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.12,
+    "scored_by": 620,
+    "rank": 12993,
+    "popularity": 13842,
+    "members": 1083,
+    "favorites": 1,
+    "synopsis": "A thousand Genki-kun figures scramble across the famous Shibuya Crossing in Tokyo—the busiest street intersection in the world. Despite it being so crowded, everyone manages to safely make it across!\n\n[Written by MAL Rewrite]",
+    "background": "1/100 Shibuya Crossing is a frame-by-frame time-lapse animation featuring Terada Naoki's laser-cut paper figures called Genki-kun, developed with his 1/100 Architectural Model Accessories Series set. It is part of the Terada Mokei project established in 2011. It is the first animation in a trilogy, followed by 1/100 Rice Planting and 1/100 Train Station.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1752,
+        "type": "anime",
+        "name": "Terada Mokei",
+        "url": "https://myanimelist.net/anime/producer/1752/Terada_Mokei"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36745,
+            "type": "anime",
+            "name": "1/100 Rice Planting",
+            "url": "https://myanimelist.net/anime/36745/1_100_Rice_Planting"
+          },
+          {
+            "mal_id": 36747,
+            "type": "anime",
+            "name": "1/100 Train Station",
+            "url": "https://myanimelist.net/anime/36747/1_100_Train_Station"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.teradamokei.jp/teradamokeipictures/teradamokeipictures/shibuya-crossing.html"
+      }
+    ],
+    "streaming": []
+  }
+}

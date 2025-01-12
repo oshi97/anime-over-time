@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 58483,
+    "url": "https://myanimelist.net/anime/58483/Ben_Yue_Fu_Yan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1600/142152.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/142152t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/142152l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1600/142152.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/142152t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/142152l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ben Yue Fu Yan"
+      },
+      {
+        "type": "Japanese",
+        "title": "奔月赴宴"
+      },
+      {
+        "type": "English",
+        "title": "Flying to the Moon and Banquet"
+      }
+    ],
+    "title": "Ben Yue Fu Yan",
+    "title_english": "Flying to the Moon and Banquet",
+    "title_japanese": "奔月赴宴",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 21, 2023"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19388,
+    "popularity": 27750,
+    "members": 41,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1768,
+        "type": "anime",
+        "name": "Sparkly Key Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1w8411P75Z/"
+      }
+    ],
+    "streaming": []
+  }
+}

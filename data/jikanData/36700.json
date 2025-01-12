@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 36700,
+    "url": "https://myanimelist.net/anime/36700/Yumearu_Ugoku_Ehon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/88705.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88705t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88705l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/88705.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88705t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88705l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yumearu Ugoku Ehon"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゆめある動く絵本"
+      }
+    ],
+    "title": "Yumearu Ugoku Ehon",
+    "title_english": null,
+    "title_japanese": "ゆめある動く絵本",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2015-03-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 3,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 19, 2015 to ?"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15985,
+    "popularity": 19468,
+    "members": 302,
+    "favorites": 0,
+    "synopsis": "Short animations for the Ugoku Ehon (Moving Picture Book) line by the Yumearu company. Yumearu specializes in children's education.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1749,
+        "type": "anime",
+        "name": "Yumearu",
+        "url": "https://myanimelist.net/anime/producer/1749/Yumearu"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.yumearu-ehon.com"
+      }
+    ],
+    "streaming": []
+  }
+}

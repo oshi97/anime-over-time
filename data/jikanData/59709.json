@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 59709,
+    "url": "https://myanimelist.net/anime/59709/Inazuma_Eleven__Soushuuhen_Densetsu_no_Kickoff",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1986/145194.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/145194t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/145194l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1986/145194.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/145194t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/145194l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inazuma Eleven: Soushuuhen Densetsu no Kickoff"
+      },
+      {
+        "type": "Synonym",
+        "title": "Inazuma Eleven Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eiga Inazuma Eleven: Soushuuhen Densetsu no Kickoff"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画 イナズマイレブン総集編 伝説のキックオフ"
+      },
+      {
+        "type": "English",
+        "title": "Inazuma Eleven Movie: The Legendary Kickoff"
+      }
+    ],
+    "title": "Inazuma Eleven: Soushuuhen Densetsu no Kickoff",
+    "title_english": "Inazuma Eleven Movie: The Legendary Kickoff",
+    "title_japanese": "映画 イナズマイレブン総集編 伝説のキックオフ",
+    "title_synonyms": [
+      "Inazuma Eleven Movie",
+      "Eiga Inazuma Eleven: Soushuuhen Densetsu no Kickoff"
+    ],
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-12-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 12,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 27, 2024"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21319,
+    "popularity": 13001,
+    "members": 1370,
+    "favorites": 4,
+    "synopsis": "This is a compilation of the matches from Inazuma Eleven Football Frontier, the first game in the Inazuma Eleven series.\nThe Raimon Junior High soccer team, led by the protagonist Endou Mamoru, aims to win the national tournament, Football Frontier.\nThanks to the efforts of legendary striker Gouenji Shuya, who joins the team, they beat strong schools and make it through the regional qualifiers despite fierce battles. With their former rival, Teikoku Gakuen's genius game maker Kidou Arihito, now on board, Raimon Junior High School advances to the finals, but they are faced with the overwhelming strength of Zeus Junior High!\n\n(Source: Official Website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      },
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 5231,
+            "type": "anime",
+            "name": "Inazuma Eleven",
+            "url": "https://myanimelist.net/anime/5231/Inazuma_Eleven"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.inazuma.jp/movie/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18848"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33453"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      }
+    ],
+    "streaming": []
+  }
+}

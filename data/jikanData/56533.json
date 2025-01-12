@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 56533,
+    "url": "https://myanimelist.net/anime/56533/Otenki_Pokojiro",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/138229.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/138229t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/138229l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/138229.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/138229t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/138229l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Otenki Pokojiro"
+      },
+      {
+        "type": "Japanese",
+        "title": "お天気ポコ次郎"
+      },
+      {
+        "type": "English",
+        "title": "Pokojiro's Weather Report"
+      }
+    ],
+    "title": "Otenki Pokojiro",
+    "title_english": "Pokojiro's Weather Report",
+    "title_japanese": "お天気ポコ次郎",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-05-31T00:00:00+00:00",
+      "to": "2013-12-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 5,
+          "year": 2013
+        },
+        "to": {
+          "day": 2,
+          "month": 12,
+          "year": 2013
+        }
+      },
+      "string": "May 31, 2013 to Dec 2, 2013"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18211,
+    "popularity": 24798,
+    "members": 92,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1762,
+        "type": "anime",
+        "name": "Piso Studio",
+        "url": "https://myanimelist.net/anime/producer/1762/Piso_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pisostudio.com/characters/pokojiro"
+      }
+    ],
+    "streaming": []
+  }
+}

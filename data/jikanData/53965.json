@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 53965,
+    "url": "https://myanimelist.net/anime/53965/Muumindani_no_Monogatari__Hoshi_to_Hana_no_Serenade",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1096/132049.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/132049t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/132049l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1096/132049.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/132049t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/132049l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Muumindani no Monogatari: Hoshi to Hana no Serenade"
+      },
+      {
+        "type": "Japanese",
+        "title": "ムーミン谷の物語　星と花のセレナーデ"
+      }
+    ],
+    "title": "Muumindani no Monogatari: Hoshi to Hana no Serenade",
+    "title_english": null,
+    "title_japanese": "ムーミン谷の物語　星と花のセレナーデ",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2004-05-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 5,
+          "year": 2004
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 23, 2004"
+    },
+    "duration": "45 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17807,
+    "popularity": 21698,
+    "members": 181,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 5712,
+            "type": "anime",
+            "name": "Tanoshii Muumin Ikka Bouken Nikki",
+            "url": "https://myanimelist.net/anime/5712/Tanoshii_Muumin_Ikka_Bouken_Nikki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

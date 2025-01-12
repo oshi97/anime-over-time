@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 33669,
+    "url": "https://myanimelist.net/anime/33669/Cure_Miracle_to_Mofurun_no_Mahou_Lesson",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/80943.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80943t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80943l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/80943.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80943t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80943l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cure Miracle to Mofurun no Mahou Lesson"
+      },
+      {
+        "type": "Japanese",
+        "title": "キュアミラクルとモフルンの魔法レッスン"
+      },
+      {
+        "type": "English",
+        "title": "Cure Miracle and Cure Mofurun's Magic Lesson"
+      }
+    ],
+    "title": "Cure Miracle to Mofurun no Mahou Lesson",
+    "title_english": "Cure Miracle and Cure Mofurun's Magic Lesson",
+    "title_japanese": "キュアミラクルとモフルンの魔法レッスン",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 29, 2016"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": 5.9,
+    "scored_by": 620,
+    "rank": 10419,
+    "popularity": 12706,
+    "members": 1497,
+    "favorites": 0,
+    "synopsis": "Short screened alongside the Mahoutsukai Precure! Movie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1653,
+        "type": "anime",
+        "name": "Kinoshita Group Holdings",
+        "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31884,
+            "type": "anime",
+            "name": "Mahoutsukai Precure!",
+            "url": "https://myanimelist.net/anime/31884/Mahoutsukai_Precure"
+          },
+          {
+            "mal_id": 33183,
+            "type": "anime",
+            "name": "Mahoutsukai Precure! Movie: Kiseki no Henshin! Cure Mofurun!",
+            "url": "https://myanimelist.net/anime/33183/Mahoutsukai_Precure_Movie__Kiseki_no_Henshin_Cure_Mofurun"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Tadashii Mahou no Tsukaikata (正しい魔法の使い方)\" by Mayu Watanabe"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12274"
+      }
+    ],
+    "streaming": []
+  }
+}

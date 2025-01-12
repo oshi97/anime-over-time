@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51871,
+    "url": "https://myanimelist.net/anime/51871/Hisui_Kobanashi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1127/123934.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/123934t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/123934l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1127/123934.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/123934t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/123934l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hisui Kobanashi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokémon stop motion animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヒスイ小噺"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Hisuian Voltorb is Berry Sorry"
+      }
+    ],
+    "title": "Hisui Kobanashi",
+    "title_english": "Pokémon Kids TV: Hisuian Voltorb is Berry Sorry",
+    "title_japanese": "ヒスイ小噺",
+    "title_synonyms": [
+      "Pokémon stop motion animation"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-10T00:00:00+00:00",
+      "to": "2021-12-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": 14,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Dec 10, 2021 to Dec 14, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": 5.7,
+    "scored_by": 322,
+    "rank": 11341,
+    "popularity": 15123,
+    "members": 756,
+    "favorites": 0,
+    "synopsis": "It's said that Hisuian Voltorb has a friendly personality...but it frequently shocks nearby Pokémon when it gets excited. \nSee what happens when Hisuian Voltorb gets carried away!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1133,
+        "type": "anime",
+        "name": "dwarf",
+        "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/am15Ic6-oQw"
+      }
+    ],
+    "streaming": []
+  }
+}

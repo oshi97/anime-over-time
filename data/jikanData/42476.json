@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 42476,
+    "url": "https://myanimelist.net/anime/42476/Meitantei_Conan__Shakunetsu_no_Ginga_Tetsudou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1318/108547.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1318/108547t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1318/108547l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1318/108547.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1318/108547t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1318/108547l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Conan: Shakunetsu no Ginga Tetsudou"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵コナン 灼熱の銀河鉄道"
+      },
+      {
+        "type": "English",
+        "title": "Detective Conan: The Burning Galactic Railway"
+      }
+    ],
+    "title": "Meitantei Conan: Shakunetsu no Ginga Tetsudou",
+    "title_english": "Detective Conan: The Burning Galactic Railway",
+    "title_japanese": "名探偵コナン 灼熱の銀河鉄道",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 1, 2020"
+    },
+    "duration": "30 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "scored_by": 383,
+    "rank": 5060,
+    "popularity": 11792,
+    "members": 2021,
+    "favorites": 4,
+    "synopsis": "Ran, Sonoko, Conan, and the detective boys board the galactic railway train of Ihatov World, a theme park that reproduces the world of Kenji Miyazawa. While they are enjoying the fantastic starry sky, suddenly a notice from Kid arrives. It's time for a battle for treasure with Kid! But there was an unexpected trap...",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1753,
+        "type": "anime",
+        "name": "D & D Pictures",
+        "url": "https://myanimelist.net/anime/producer/1753/D___D_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 235,
+            "type": "anime",
+            "name": "Meitantei Conan",
+            "url": "https://myanimelist.net/anime/235/Meitantei_Conan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.expocenter.or.jp/?page_id=51"
+      }
+    ],
+    "streaming": []
+  }
+}

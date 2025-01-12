@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 40282,
+    "url": "https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/102716.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/102716t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/102716l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/102716.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/102716t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/102716l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nendo no Tatakai (2019)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ねんどのたたかい"
+      },
+      {
+        "type": "English",
+        "title": "Battle of Clay"
+      }
+    ],
+    "title": "Nendo no Tatakai (2019)",
+    "title_english": "Battle of Clay",
+    "title_japanese": "ねんどのたたかい",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 22, 2019"
+    },
+    "duration": "1 min",
+    "rating": "PG - Children",
+    "score": 3.74,
+    "scored_by": 1068,
+    "rank": 13727,
+    "popularity": 12433,
+    "members": 1645,
+    "favorites": 1,
+    "synopsis": "Over a decade since its first rendition, the same classic rivalry between the red and yellow claymen continues in 2D!\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 11897,
+            "type": "anime",
+            "name": "Nendo no Tatakai",
+            "url": "https://myanimelist.net/anime/11897/Nendo_no_Tatakai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ak6tUo_rvbo"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15053"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%84%E3%81%88%E3%81%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

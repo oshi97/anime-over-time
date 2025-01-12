@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 58646,
+    "url": "https://myanimelist.net/anime/58646/Moja_to_Majo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/142554.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/142554t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/142554l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/142554.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/142554t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/142554l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Moja to Majo"
+      },
+      {
+        "type": "Japanese",
+        "title": "もじゃとまじょ"
+      }
+    ],
+    "title": "Moja to Majo",
+    "title_english": null,
+    "title_japanese": "もじゃとまじょ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 28, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17692,
+    "popularity": 27524,
+    "members": 60,
+    "favorites": 0,
+    "synopsis": "This is a stop motion animation of the cotton enchantress Moja and the sewing witch. Their day begins with making Moja's body.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 58605,
+            "type": "anime",
+            "name": "Moja to Majo (TV Special)",
+            "url": "https://myanimelist.net/anime/58605/Moja_to_Majo_TV_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

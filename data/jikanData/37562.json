@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 37562,
+    "url": "https://myanimelist.net/anime/37562/Robot_Girls_Neo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1806/93449.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/93449t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/93449l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1806/93449.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/93449t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/93449l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "IketwIFpmYs",
+      "url": "https://www.youtube.com/watch?v=IketwIFpmYs",
+      "embed_url": "https://www.youtube.com/embed/IketwIFpmYs?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/IketwIFpmYs/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/IketwIFpmYs/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/IketwIFpmYs/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/IketwIFpmYs/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/IketwIFpmYs/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Robot Girls Neo"
+      },
+      {
+        "type": "Japanese",
+        "title": "ロボットガールズNEO"
+      }
+    ],
+    "title": "Robot Girls Neo",
+    "title_english": null,
+    "title_japanese": "ロボットガールズNEO",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-18T00:00:00+00:00",
+      "to": "2018-09-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": 1,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Aug 18, 2018 to Sep 1, 2018"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.76,
+    "scored_by": 209,
+    "rank": 11095,
+    "popularity": 12244,
+    "members": 1741,
+    "favorites": 0,
+    "synopsis": "In a ruined future Nerima, a photon energy disaster is said to have devastated the area. No one knows whether that is true or not, and details are hard to come by. All that is left is the photon research facility tower that stands as a monument at the center of the devastation. Z-chan and Gre-chan live together in the Shutter District, which spreads from the base of the tower. Their home is made from salvaged materials that they have named Photon House. The advanced photon energy that flowed through the place is now gone, and the world is now ruled by the Getter Rays that rain down from space. But even now, Z-chan and Gre-chan use the highly efficient photon energy to power their home.\n\n(Source: ANN)",
+    "background": "The anime was released on PlayStation's Animax app.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 10954,
+            "type": "anime",
+            "name": "Toei Robot Girls",
+            "url": "https://myanimelist.net/anime/10954/Toei_Robot_Girls"
+          },
+          {
+            "mal_id": 19799,
+            "type": "anime",
+            "name": "Robot Girls Z",
+            "url": "https://myanimelist.net/anime/19799/Robot_Girls_Z"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.robot-girlsz.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13957"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21271"
+      }
+    ],
+    "streaming": []
+  }
+}

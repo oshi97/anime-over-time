@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 48512,
+    "url": "https://myanimelist.net/anime/48512/Shichigahama_de_Mitsuketa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/113590.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/113590t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/113590l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/113590.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/113590t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/113590l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shichigahama de Mitsuketa"
+      },
+      {
+        "type": "Japanese",
+        "title": "七ヶ浜でみつけた"
+      },
+      {
+        "type": "English",
+        "title": "I Found it in Shichigahama"
+      }
+    ],
+    "title": "Shichigahama de Mitsuketa",
+    "title_english": "I Found it in Shichigahama",
+    "title_japanese": "七ヶ浜でみつけた",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 10, 2021"
+    },
+    "duration": "20 min",
+    "rating": "G - All Ages",
+    "score": 5.71,
+    "scored_by": 204,
+    "rank": 11290,
+    "popularity": 15295,
+    "members": 717,
+    "favorites": 2,
+    "synopsis": "A short anime with the theme of earthquake disaster and reconstruction released by Shichigahama, a town in Miyagi Prefecture.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2210,
+        "type": "anime",
+        "name": "Jichitai Anime",
+        "url": "https://myanimelist.net/anime/producer/2210/Jichitai_Anime"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://jianime.com/shichi"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16119"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24130"
+      }
+    ],
+    "streaming": []
+  }
+}

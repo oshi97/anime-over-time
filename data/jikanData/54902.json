@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 54902,
+    "url": "https://myanimelist.net/anime/54902/Gundam_Build_Metaverse",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1907/135919.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/135919t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/135919l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1907/135919.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/135919t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/135919l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "Vb_FSLNo1RI",
+      "url": "https://www.youtube.com/watch?v=Vb_FSLNo1RI",
+      "embed_url": "https://www.youtube.com/embed/Vb_FSLNo1RI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/Vb_FSLNo1RI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/Vb_FSLNo1RI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/Vb_FSLNo1RI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/Vb_FSLNo1RI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/Vb_FSLNo1RI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gundam Build Metaverse"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガンダムビルドメタバース"
+      }
+    ],
+    "title": "Gundam Build Metaverse",
+    "title_english": null,
+    "title_japanese": "ガンダムビルドメタバース",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-06T00:00:00+00:00",
+      "to": "2023-10-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 20,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Oct 6, 2023 to Oct 20, 2023"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.82,
+    "scored_by": 1592,
+    "rank": 10800,
+    "popularity": 9358,
+    "members": 4255,
+    "favorites": 6,
+    "synopsis": "A boy named Rio is enjoying Gunpla Battle in the new Internet service known as the Gundam Metaverse Project. After installing a login set in his room at home, he dives into the Metaverse, together with the Lah Gundam he created with this day in mind. \n\n(Source: Gundaminfo)",
+    "background": "A short web series celebrating the tenth anniversary of the Gundam Build franchise.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 406,
+        "type": "anime",
+        "name": "Asahi Production",
+        "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2004,
+        "type": "anime",
+        "name": "Sunrise Beyond",
+        "url": "https://myanimelist.net/anime/producer/2004/Sunrise_Beyond"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 19319,
+            "type": "anime",
+            "name": "Gundam Build Fighters",
+            "url": "https://myanimelist.net/anime/19319/Gundam_Build_Fighters"
+          },
+          {
+            "mal_id": 37245,
+            "type": "anime",
+            "name": "Gundam Build Divers",
+            "url": "https://myanimelist.net/anime/37245/Gundam_Build_Divers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Hikari to Kaze (ヒカリトカゼ)\" by BACK-ON"
+      ],
+      "endings": [
+        "\"Days of Birth\" by LINKL PLANET"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gundam-bm.net/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17959"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27687"
+      }
+    ],
+    "streaming": []
+  }
+}

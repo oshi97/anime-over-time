@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 55526,
+    "url": "https://myanimelist.net/anime/55526/Sleepless_Nocturne_The_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/136209.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/136209t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/136209l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/136209.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/136209t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/136209l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sleepless Nocturne The Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "SLEEPLESS Nocturne The Animation"
+      }
+    ],
+    "title": "Sleepless Nocturne The Animation",
+    "title_english": null,
+    "title_japanese": "SLEEPLESS Nocturne The Animation",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-25T00:00:00+00:00",
+      "to": "2023-10-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": 27,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Aug 25, 2023 to Oct 27, 2023"
+    },
+    "duration": "17 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 5.61,
+    "scored_by": 1188,
+    "rank": null,
+    "popularity": 10130,
+    "members": 3327,
+    "favorites": 7,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2215,
+        "type": "anime",
+        "name": "Showten",
+        "url": "https://myanimelist.net/anime/producer/2215/Showten"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1093,
+        "type": "anime",
+        "name": "BreakBottle",
+        "url": "https://myanimelist.net/anime/producer/1093/BreakBottle"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51722,
+            "type": "anime",
+            "name": "Sleepless: A Midsummer Night's Dream - The Animation",
+            "url": "https://myanimelist.net/anime/51722/Sleepless__A_Midsummer_Nights_Dream_-_The_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18047"
+      }
+    ],
+    "streaming": []
+  }
+}

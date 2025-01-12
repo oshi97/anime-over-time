@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 42346,
+    "url": "https://myanimelist.net/anime/42346/Hakata_Bus_Terminal_Gorou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1724/108301.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/108301t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/108301l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1724/108301.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/108301t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/108301l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hakata Bus Terminal Gorou"
+      },
+      {
+        "type": "Japanese",
+        "title": "博多バスターミナル吾郎"
+      }
+    ],
+    "title": "Hakata Bus Terminal Gorou",
+    "title_english": null,
+    "title_japanese": "博多バスターミナル吾郎",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-31T00:00:00+00:00",
+      "to": "2020-01-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 30,
+          "month": 1,
+          "year": 2020
+        }
+      },
+      "string": "Mar 31, 2019 to Jan 30, 2020"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20847,
+    "popularity": 21028,
+    "members": 216,
+    "favorites": 0,
+    "synopsis": "Absurd web series by Takashi Taniguchi for the Hakata Bus Terminal in Fukuoka, Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42347,
+            "type": "anime",
+            "name": "Hakata Bus Terminal Blues",
+            "url": "https://myanimelist.net/anime/42347/Hakata_Bus_Terminal_Blues"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.h-bt.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

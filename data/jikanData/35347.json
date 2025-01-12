@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 35347,
+    "url": "https://myanimelist.net/anime/35347/Kemono_Friends__Bus-teki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86031.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86031t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86031l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86031.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86031t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86031l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kemono Friends: Bus-teki"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kemono Friends Episode 12.1"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kemono Friends: Bus-like"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kemono Friends: Basuteki"
+      },
+      {
+        "type": "Japanese",
+        "title": "けものフレンズ　12.1話「ばすてき」"
+      }
+    ],
+    "title": "Kemono Friends: Bus-teki",
+    "title_english": null,
+    "title_japanese": "けものフレンズ　12.1話「ばすてき」",
+    "title_synonyms": [
+      "Kemono Friends Episode 12.1",
+      "Kemono Friends: Bus-like",
+      "Kemono Friends: Basuteki"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 4, 2017"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": 6.55,
+    "scored_by": 2212,
+    "rank": 6729,
+    "popularity": 8333,
+    "members": 5876,
+    "favorites": 3,
+    "synopsis": "Special episode 12.1 of Kemono Friends, streamed online.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1560,
+        "type": "anime",
+        "name": "Yaoyorozu",
+        "url": "https://myanimelist.net/anime/producer/1560/Yaoyorozu"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 33089,
+            "type": "anime",
+            "name": "Kemono Friends",
+            "url": "https://myanimelist.net/anime/33089/Kemono_Friends"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12057"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kemono_Friends#Bonus_episodes"
+      }
+    ],
+    "streaming": []
+  }
+}

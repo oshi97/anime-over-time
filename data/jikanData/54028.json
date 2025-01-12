@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 54028,
+    "url": "https://myanimelist.net/anime/54028/Turkey",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/143699.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/143699t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/143699l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/143699.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/143699t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/143699l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "wbIXzzv0eZE",
+      "url": "https://www.youtube.com/watch?v=wbIXzzv0eZE",
+      "embed_url": "https://www.youtube.com/embed/wbIXzzv0eZE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/wbIXzzv0eZE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/wbIXzzv0eZE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/wbIXzzv0eZE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/wbIXzzv0eZE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/wbIXzzv0eZE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Turkey!"
+      },
+      {
+        "type": "Japanese",
+        "title": "Turkey!"
+      }
+    ],
+    "title": "Turkey!",
+    "title_english": null,
+    "title_japanese": "Turkey!",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10117,
+    "members": 3338,
+    "favorites": 12,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1984,
+        "type": "anime",
+        "name": "Bakken Record",
+        "url": "https://myanimelist.net/anime/producer/1984/Bakken_Record"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://turkey-project.com/"
+      },
+      {
+        "name": "@Turkey_PJ",
+        "url": "https://twitter.com/Turkey_PJ"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17801"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26773"
+      }
+    ],
+    "streaming": []
+  }
+}

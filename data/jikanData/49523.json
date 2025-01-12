@@ -1,0 +1,197 @@
+{
+  "data": {
+    "mal_id": 49523,
+    "url": "https://myanimelist.net/anime/49523/Digimon_Adventure_02__The_Beginning",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/137453.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/137453t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/137453l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/137453.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/137453t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/137453l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "geoltwC6vBg",
+      "url": "https://www.youtube.com/watch?v=geoltwC6vBg",
+      "embed_url": "https://www.youtube.com/embed/geoltwC6vBg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/geoltwC6vBg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/geoltwC6vBg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/geoltwC6vBg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/geoltwC6vBg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/geoltwC6vBg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Digimon Adventure 02: The Beginning"
+      },
+      {
+        "type": "Synonym",
+        "title": "Digimon Adventure 02 Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "デジモンアドベンチャー02 THE BEGINNING"
+      }
+    ],
+    "title": "Digimon Adventure 02: The Beginning",
+    "title_english": null,
+    "title_japanese": "デジモンアドベンチャー02 THE BEGINNING",
+    "title_synonyms": [
+      "Digimon Adventure 02 Movie"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 27, 2023"
+    },
+    "duration": "1 hr 20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.75,
+    "scored_by": 3750,
+    "rank": 5576,
+    "popularity": 6352,
+    "members": 11388,
+    "favorites": 29,
+    "synopsis": "Two years after the battle against Eosmon, Davis Motomiya, Ken Ichijouji, Yolei Inoue, Cody Hida, T.K. Takaishi, and Kari Kamiya meet a boy named Rui Owada, who is found with a depowered Digivice and claims to be the first Digidestined ever. In addition, a Digimon named Ukkomon appears in the real world, who wants every person in the world to have their own Digimon partner.\n\n(Source: Wikipedia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 1737,
+        "type": "anime",
+        "name": "Shout! Factory",
+        "url": "https://myanimelist.net/anime/producer/1737/Shout_Factory"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 96,
+        "type": "anime",
+        "name": "Yumeta Company",
+        "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38088,
+            "type": "anime",
+            "name": "Digimon Adventure: Last Evolution Kizuna",
+            "url": "https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1313,
+            "type": "anime",
+            "name": "Digimon Adventure 02",
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Target: Akai Shougeki\" by Kouji Wada"
+      ],
+      "endings": [
+        "\"Various Colors\" by AiM"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.toei-anim.co.jp/movie/digimon-adventure/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16509"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26162"
+      }
+    ],
+    "streaming": []
+  }
+}

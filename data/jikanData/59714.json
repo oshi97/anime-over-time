@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 59714,
+    "url": "https://myanimelist.net/anime/59714/Bunchou_Colors",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1917/145207.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/145207t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/145207l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1917/145207.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/145207t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/145207l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bunchou Colors"
+      },
+      {
+        "type": "Japanese",
+        "title": "文鳥カラーズ"
+      }
+    ],
+    "title": "Bunchou Colors",
+    "title_english": null,
+    "title_japanese": "文鳥カラーズ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 27, 2024"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19553,
+    "popularity": 20078,
+    "members": 270,
+    "favorites": 1,
+    "synopsis": "Five finches meet everyday in a club to help other birds.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 38520,
+            "type": "anime",
+            "name": "Inko Colors the Animation",
+            "url": "https://myanimelist.net/anime/38520/Inko_Colors_the_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@Mine_ichi",
+        "url": "https://twitter.com/Mine_ichi"
+      }
+    ],
+    "streaming": []
+  }
+}

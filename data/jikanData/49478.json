@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 49478,
+    "url": "https://myanimelist.net/anime/49478/Junk_Head_1",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1686/116666.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1686/116666t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1686/116666l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1686/116666.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1686/116666t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1686/116666l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Junk Head 1"
+      },
+      {
+        "type": "Japanese",
+        "title": "Junk Head 1"
+      },
+      {
+        "type": "English",
+        "title": "Junk Head 1"
+      }
+    ],
+    "title": "Junk Head 1",
+    "title_english": "Junk Head 1",
+    "title_japanese": "Junk Head 1",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-11-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 11,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 16, 2013"
+    },
+    "duration": "30 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.51,
+    "scored_by": 165,
+    "rank": 6986,
+    "popularity": 17155,
+    "members": 475,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2564,
+        "type": "anime",
+        "name": "Yamiken",
+        "url": "https://myanimelist.net/anime/producer/2564/Yamiken"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 39833,
+            "type": "anime",
+            "name": "Junk Head",
+            "url": "https://myanimelist.net/anime/39833/Junk_Head"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.yamiken.com"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11907"
+      }
+    ],
+    "streaming": []
+  }
+}

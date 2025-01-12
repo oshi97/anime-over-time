@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 53942,
+    "url": "https://myanimelist.net/anime/53942/Sore_Ike_Anpanman__Hoshi_no_Iro_to_Sora_no_Iro",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1860/132022.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1860/132022t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1860/132022l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1860/132022.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1860/132022t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1860/132022l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sore Ike! Anpanman: Hoshi no Iro to Sora no Iro"
+      },
+      {
+        "type": "Japanese",
+        "title": "それいけ！アンパンマン～星の色と空の色～"
+      }
+    ],
+    "title": "Sore Ike! Anpanman: Hoshi no Iro to Sora no Iro",
+    "title_english": null,
+    "title_japanese": "それいけ！アンパンマン～星の色と空の色～",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-12-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 12,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 11, 2010"
+    },
+    "duration": "26 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14351,
+    "popularity": 22688,
+    "members": 138,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 1960,
+            "type": "anime",
+            "name": "Sore Ike! Anpanman",
+            "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

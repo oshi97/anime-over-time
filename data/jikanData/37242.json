@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 37242,
+    "url": "https://myanimelist.net/anime/37242/Hoshi_to_Tsubasa_no_Paradox",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1874/112322.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1874/112322t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1874/112322l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1874/112322.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1874/112322t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1874/112322l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hoshi to Tsubasa no Paradox"
+      },
+      {
+        "type": "Japanese",
+        "title": "星と翼のパラドクス"
+      },
+      {
+        "type": "English",
+        "title": "Starwing Paradox"
+      }
+    ],
+    "title": "Hoshi to Tsubasa no Paradox",
+    "title_english": "Starwing Paradox",
+    "title_japanese": "星と翼のパラドクス",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-07T00:00:00+00:00",
+      "to": "2018-11-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": 7,
+          "month": 11,
+          "year": 2018
+        }
+      },
+      "string": "Feb 7, 2018 to Nov 7, 2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.71,
+    "scored_by": 193,
+    "rank": 11318,
+    "popularity": 14443,
+    "members": 923,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Hoshi to Tsubasa no Paradox is an arcade game created by Square Enix in collaboration with animation studio Sunrise.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 58,
+        "type": "anime",
+        "name": "Square Enix",
+        "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+      },
+      {
+        "mal_id": 1287,
+        "type": "anime",
+        "name": "Q-Tec",
+        "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+      },
+      {
+        "mal_id": 1856,
+        "type": "anime",
+        "name": "dugout",
+        "url": "https://myanimelist.net/anime/producer/1856/dugout"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://starwing.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Starwing_Paradox"
+      }
+    ],
+    "streaming": []
+  }
+}

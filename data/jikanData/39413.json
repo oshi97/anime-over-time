@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 39413,
+    "url": "https://myanimelist.net/anime/39413/Kaishain_Nourin_Suisan-shou_e_Iku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/99497.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/99497t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/99497l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/99497.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/99497t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/99497l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaishain! Nourin Suisan-shou e Iku"
+      },
+      {
+        "type": "Japanese",
+        "title": "貝社員！農林水産省へ行く"
+      }
+    ],
+    "title": "Kaishain! Nourin Suisan-shou e Iku",
+    "title_english": null,
+    "title_japanese": "貝社員！農林水産省へ行く",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 1, 2019"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16527,
+    "popularity": 18439,
+    "members": 374,
+    "favorites": 0,
+    "synopsis": "A collaboration between Asa da yo! Kaishain and Japanese Ministry of Agriculture, Forestry, and Fisheries (MAFF); specifically the Fisheries department. As the Kaishain cast get lost in MAFF and learn about the work culture and business done at the ministry. This is in part to promote new job openings there.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33044,
+            "type": "anime",
+            "name": "Asa da yo! Kaishain",
+            "url": "https://myanimelist.net/anime/33044/Asa_da_yo_Kaishain"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.maff.go.jp/j/joinus/recruit/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12024"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/貝社員"
+      }
+    ],
+    "streaming": []
+  }
+}

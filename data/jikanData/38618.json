@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 38618,
+    "url": "https://myanimelist.net/anime/38618/Shimajirou_no_Wow_Movie_7_ Shimajirou_to_Ururu_no_Hero_Land",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1082/95967.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1082/95967t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1082/95967l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1082/95967.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1082/95967t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1082/95967l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shimajirou no Wow! Movie 7: Shimajirou to Ururu no Hero Land"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画しまじろう しまじろうとうるるのヒーローランド"
+      }
+    ],
+    "title": "Shimajirou no Wow! Movie 7: Shimajirou to Ururu no Hero Land",
+    "title_english": null,
+    "title_japanese": "映画しまじろう しまじろうとうるるのヒーローランド",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2019"
+    },
+    "duration": "58 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14082,
+    "popularity": 19520,
+    "members": 300,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1043,
+        "type": "anime",
+        "name": "Benesse Corporation",
+        "url": "https://myanimelist.net/anime/producer/1043/Benesse_Corporation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 229,
+        "type": "anime",
+        "name": "The Answer Studio",
+        "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 18941,
+            "type": "anime",
+            "name": "Shimajirou no Wow!",
+            "url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"HERO\" by Momoclo-chanz (Momoiro Clover Z Kids-Targetted Project)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kodomo.benesse.ne.jp/open/movie/2019/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14470"
+      }
+    ],
+    "streaming": []
+  }
+}

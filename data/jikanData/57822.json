@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 57822,
+    "url": "https://myanimelist.net/anime/57822/Atashinchi_Next",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/144180.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/144180t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/144180l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/144180.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/144180t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/144180l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Atashin'chi Next"
+      },
+      {
+        "type": "Japanese",
+        "title": "あたしンちNEXT"
+      }
+    ],
+    "title": "Atashin'chi Next",
+    "title_english": null,
+    "title_japanese": "あたしンちNEXT",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-06-05T00:00:00+00:00",
+      "to": "2024-10-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 6,
+          "year": 2024
+        },
+        "to": {
+          "day": 5,
+          "month": 10,
+          "year": 2024
+        }
+      },
+      "string": "Jun 5, 2024 to Oct 5, 2024"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19142,
+    "popularity": 20345,
+    "members": 254,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 16621,
+            "type": "manga",
+            "name": "Atashin'chi",
+            "url": "https://myanimelist.net/manga/16621/Atashinchi"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 3006,
+            "type": "anime",
+            "name": "Atashin'chi",
+            "url": "https://myanimelist.net/anime/3006/Atashinchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://atashinchi30th-anime.shin-ei-animation.jp/"
+      },
+      {
+        "name": "@atashinchimovie",
+        "url": "https://twitter.com/atashinchimovie"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18633"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31487"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 49284,
+    "url": "https://myanimelist.net/anime/49284/Shabake_ONA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1782/116029.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/116029t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/116029l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1782/116029.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/116029t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/116029l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shabake (ONA)"
+      },
+      {
+        "type": "Japanese",
+        "title": "しゃばけ"
+      }
+    ],
+    "title": "Shabake (ONA)",
+    "title_english": null,
+    "title_japanese": "しゃばけ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.92,
+    "scored_by": 185,
+    "rank": 10307,
+    "popularity": 15997,
+    "members": 605,
+    "favorites": 0,
+    "synopsis": "Special produced to celebrate the 20th anniversary of the Shabake novel series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1119,
+        "type": "anime",
+        "name": "Shuka",
+        "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 60378,
+            "type": "anime",
+            "name": "Shabake",
+            "url": "https://myanimelist.net/anime/60378/Shabake"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.shinchosha.co.jp/shabake/news/0624.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16398"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%83%E3%81%B0%E3%81%91"
+      }
+    ],
+    "streaming": []
+  }
+}

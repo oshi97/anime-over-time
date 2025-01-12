@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 35709,
+    "url": "https://myanimelist.net/anime/35709/Arara",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/86134.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86134t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86134l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/86134.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86134t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86134l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Arara"
+      },
+      {
+        "type": "Japanese",
+        "title": "あらら"
+      },
+      {
+        "type": "English",
+        "title": "Oh Dear"
+      }
+    ],
+    "title": "Arara",
+    "title_english": "Oh Dear",
+    "title_japanese": "あらら",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2014"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.5,
+    "scored_by": 934,
+    "rank": 12074,
+    "popularity": 12319,
+    "members": 1698,
+    "favorites": 1,
+    "synopsis": "Naoko had a fight with her brother over a trivial thing and pushed him away. She knew she was childish but she ran away from home.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1524,
+        "type": "anime",
+        "name": "Geidai Animation",
+        "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

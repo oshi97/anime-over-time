@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51867,
+    "url": "https://myanimelist.net/anime/51867/Pokemon_Inai_Inai_Baa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1500/123924.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1500/123924t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1500/123924l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1500/123924.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1500/123924t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1500/123924l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Inai Inai Baa!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモン いないいないばあ!"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Peek-a-boo!"
+      }
+    ],
+    "title": "Pokemon Inai Inai Baa!",
+    "title_english": "Pokémon Kids TV: Peek-a-boo!",
+    "title_japanese": "ポケモン いないいないばあ!",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2019"
+    },
+    "duration": "5 min",
+    "rating": "PG - Children",
+    "score": 5.07,
+    "scored_by": 383,
+    "rank": 13075,
+    "popularity": 13904,
+    "members": 1067,
+    "favorites": 0,
+    "synopsis": "What's in store for us today? \nCan you see the hiding Pokémon?\nAll will be revealed in the end!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/FRPL-GASUyo"
+      }
+    ],
+    "streaming": []
+  }
+}

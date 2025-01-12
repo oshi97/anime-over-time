@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 57488,
+    "url": "https://myanimelist.net/anime/57488/Kabigon_to_Karakara",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/140236t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/140236.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/140236t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/140236l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kabigon to Karakara"
+      },
+      {
+        "type": "Japanese",
+        "title": "カビゴンとカラカラ"
+      },
+      {
+        "type": "English",
+        "title": "The Adventures of Snorlax & Cubone"
+      }
+    ],
+    "title": "Kabigon to Karakara",
+    "title_english": "The Adventures of Snorlax & Cubone",
+    "title_japanese": "カビゴンとカラカラ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-08T00:00:00+00:00",
+      "to": "2023-12-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": 29,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Dec 8, 2023 to Dec 29, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": 6.38,
+    "scored_by": 231,
+    "rank": 7793,
+    "popularity": 16516,
+    "members": 540,
+    "favorites": 1,
+    "synopsis": "The friendship between Cubone and Snorlax blossoms over the course of all four seasons!\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1255,
+        "type": "anime",
+        "name": "Glovision",
+        "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1023,
+        "type": "anime",
+        "name": "Polygon Pictures",
+        "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53876,
+            "type": "anime",
+            "name": "Pokemon (2023)",
+            "url": "https://myanimelist.net/anime/53876/Pokemon_2023"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@project_kabigon",
+        "url": "https://twitter.com/project_kabigon"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xGffu81kRfA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "mal_id": 59619,
+    "url": "https://myanimelist.net/anime/59619/Ame_to_Kimi_to",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1762/144968.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1762/144968t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1762/144968l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1762/144968.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1762/144968t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1762/144968l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ame to Kimi to"
+      },
+      {
+        "type": "Synonym",
+        "title": "With You and the Rain"
+      },
+      {
+        "type": "Synonym",
+        "title": "Rain"
+      },
+      {
+        "type": "Synonym",
+        "title": "You"
+      },
+      {
+        "type": "Synonym",
+        "title": "and..."
+      },
+      {
+        "type": "Japanese",
+        "title": "雨と君と"
+      }
+    ],
+    "title": "Ame to Kimi to",
+    "title_english": null,
+    "title_japanese": "雨と君と",
+    "title_synonyms": [
+      "With You and the Rain",
+      "Rain",
+      "You",
+      "and..."
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10943,
+    "members": 2604,
+    "favorites": 4,
+    "synopsis": "During a rainy day, a woman comes across a strange animal waiting by the side of the road. Pleading to be taken in, the creature offers the woman an umbrella in an attempt to show off its appeal. Intrigued by its clever nature, she brings the dog-like creature home and thus begins their life together.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 159,
+        "type": "anime",
+        "name": "Kodansha",
+        "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 129418,
+            "type": "manga",
+            "name": "Ame to Kimi to",
+            "url": "https://myanimelist.net/manga/129418/Ame_to_Kimi_to"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://amekimi-anime.com/"
+      },
+      {
+        "name": "@amekimi_anime",
+        "url": "https://twitter.com/amekimi_anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18824"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33349"
+      }
+    ],
+    "streaming": []
+  }
+}

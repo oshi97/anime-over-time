@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 50872,
+    "url": "https://myanimelist.net/anime/50872/Honekami",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1106/120612.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1106/120612t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1106/120612l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1106/120612.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1106/120612t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1106/120612l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Honekami"
+      },
+      {
+        "type": "Japanese",
+        "title": "骨嚙み"
+      },
+      {
+        "type": "English",
+        "title": "A Bite of Bone"
+      }
+    ],
+    "title": "Honekami",
+    "title_english": "A Bite of Bone",
+    "title_japanese": "骨嚙み",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 26, 2021"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.24,
+    "scored_by": 112,
+    "rank": 8597,
+    "popularity": 17935,
+    "members": 412,
+    "favorites": 0,
+    "synopsis": "A little girl reflects on her last summer with her father at his funeral.\n\nSet on a small island in Japan where the director was born and raised, the film explores the relationship between the death of her father and the bomb storage in the mountain behind the family house.\n\n(Source: IMDB)",
+    "background": "Radiance Film Festival (2021) Winner: Best Animation Short. Ottawa International Animation Festival (OIAF): Grand Prize for short animation in the event's 45th anniversary.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2648,
+        "type": "anime",
+        "name": "Au Praxinoscope",
+        "url": "https://myanimelist.net/anime/producer/2648/Au_Praxinoscope"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17235"
+      }
+    ],
+    "streaming": []
+  }
+}

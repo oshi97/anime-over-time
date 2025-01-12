@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 53153,
+    "url": "https://myanimelist.net/anime/53153/Accept",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1956/128494.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1956/128494t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1956/128494l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1956/128494.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1956/128494t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1956/128494l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Accept"
+      },
+      {
+        "type": "Japanese",
+        "title": "ACCEPT"
+      }
+    ],
+    "title": "Accept",
+    "title_english": null,
+    "title_japanese": "ACCEPT",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18970,
+    "popularity": 21820,
+    "members": 174,
+    "favorites": 0,
+    "synopsis": "A husband's final moments with his dying wife.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shoan.portfoliobox.net/shortfilm"
+      }
+    ],
+    "streaming": []
+  }
+}

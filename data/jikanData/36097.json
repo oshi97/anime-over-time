@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 36097,
+    "url": "https://myanimelist.net/anime/36097/Happy_Forest",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/87223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/87223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/87223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/87223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/87223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/87223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Happy Forest"
+      },
+      {
+        "type": "Japanese",
+        "title": "HAPPY FOREST"
+      }
+    ],
+    "title": "Happy Forest",
+    "title_english": null,
+    "title_japanese": "HAPPY FOREST",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 7,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 4, 2015"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.38,
+    "scored_by": 269,
+    "rank": 12440,
+    "popularity": 16463,
+    "members": 547,
+    "favorites": 0,
+    "synopsis": "A short film created to demonstrate Real Time Engine technology. It features a young, curious dragon exploring the forest.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1296,
+        "type": "anime",
+        "name": "Marza Animation Planet",
+        "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=gQpEWDmcXhM"
+      }
+    ],
+    "streaming": []
+  }
+}

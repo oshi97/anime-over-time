@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 53861,
+    "url": "https://myanimelist.net/anime/53861/Ryuukyuu_Timeline_2__Tedako_no_Machi_Tanbou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1635/131865.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1635/131865t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1635/131865l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1635/131865.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1635/131865t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1635/131865l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou"
+      },
+      {
+        "type": "Japanese",
+        "title": "琉球タイムライン2 -てだこのまち探訪-"
+      },
+      {
+        "type": "English",
+        "title": "Ryukyu Timeline 2: Searching for the City of the Tedako"
+      }
+    ],
+    "title": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+    "title_english": "Ryukyu Timeline 2: Searching for the City of the Tedako",
+    "title_japanese": "琉球タイムライン2 -てだこのまち探訪-",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 21, 2022"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": 5.57,
+    "scored_by": 303,
+    "rank": 11869,
+    "popularity": 14437,
+    "members": 924,
+    "favorites": 2,
+    "synopsis": "A historical fantasy that unfolds a mysterious story between a high-school girls – Akari, Sarah and Tsubasa – and Satto, the king of the Ryukyu Kingdom.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2311,
+        "type": "anime",
+        "name": "Gyorai Eizo Inc.",
+        "url": "https://myanimelist.net/anime/producer/2311/Gyorai_Eizo_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53860,
+            "type": "anime",
+            "name": "Ryuukyuu Timeline: Mirai Shoujo to Inishie no Ou",
+            "url": "https://myanimelist.net/anime/53860/Ryuukyuu_Timeline__Mirai_Shoujo_to_Inishie_no_Ou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Tropical Sunset (トロピカルサンセット)\" by Harumi Ooki"
+      ],
+      "endings": [
+        "\"Churashima (美ら島)\" by Cojaco"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/QJX9EqKpaWo"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17757"
+      }
+    ],
+    "streaming": []
+  }
+}

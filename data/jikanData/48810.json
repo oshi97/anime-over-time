@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 48810,
+    "url": "https://myanimelist.net/anime/48810/Battle_Spirits__Mirage",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1314/120786.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/120786t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/120786l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1314/120786.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/120786t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/120786l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Battle Spirits: Mirage"
+      },
+      {
+        "type": "Japanese",
+        "title": "バトルスピリッツミラージュ"
+      }
+    ],
+    "title": "Battle Spirits: Mirage",
+    "title_english": null,
+    "title_japanese": "バトルスピリッツミラージュ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Card game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-29T00:00:00+00:00",
+      "to": "2022-04-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 1,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "string": "Oct 29, 2021 to Apr 1, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.3,
+    "scored_by": 212,
+    "rank": 8234,
+    "popularity": 13619,
+    "members": 1157,
+    "favorites": 4,
+    "synopsis": "Sequel to Battle Spirits: Kakumei no Galette.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1258,
+        "type": "anime",
+        "name": "Bandai Namco Pictures",
+        "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      },
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41137,
+            "type": "anime",
+            "name": "Battle Spirits: Kakumei no Galette",
+            "url": "https://myanimelist.net/anime/41137/Battle_Spirits__Kakumei_no_Galette"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Open the GATE\" by Nami Tamaki & Hiroshi Kidatani"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bn-pictures.co.jp/battlespirits/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16276"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24935"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%AB%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84_%E8%B5%AB%E7%9B%9F%E3%81%AE%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88"
+      }
+    ],
+    "streaming": []
+  }
+}

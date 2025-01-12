@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 48582,
+    "url": "https://myanimelist.net/anime/48582/The_King_of_Fighters_XV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1520/122192.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/122192t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/122192l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1520/122192.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/122192t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/122192l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The King of Fighters XV"
+      },
+      {
+        "type": "Synonym",
+        "title": "KOF XV"
+      },
+      {
+        "type": "Japanese",
+        "title": "ザ・キング・オブ・ファイターズ XV"
+      }
+    ],
+    "title": "The King of Fighters XV",
+    "title_english": null,
+    "title_japanese": "ザ・キング・オブ・ファイターズ XV",
+    "title_synonyms": [
+      "KOF XV"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 500,
+    "rank": 6656,
+    "popularity": 12914,
+    "members": 1400,
+    "favorites": 4,
+    "synopsis": "Animated special produced as a tie-in to The King of Fighters XV game. Directed by Masami Oobari.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 427,
+        "type": "anime",
+        "name": "Studio G-1Neo",
+        "url": "https://myanimelist.net/anime/producer/427/Studio_G-1Neo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      },
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 825,
+            "type": "anime",
+            "name": "King of Fighters: Another Day",
+            "url": "https://myanimelist.net/anime/825/King_of_Fighters__Another_Day"
+          },
+          {
+            "mal_id": 35204,
+            "type": "anime",
+            "name": "The King of Fighters: Destiny",
+            "url": "https://myanimelist.net/anime/35204/The_King_of_Fighters__Destiny"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.snk-corp.co.jp/us/games/kof-xv/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XV#Development"
+      }
+    ],
+    "streaming": []
+  }
+}

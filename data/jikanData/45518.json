@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 45518,
+    "url": "https://myanimelist.net/anime/45518/Urvan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/112507.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/112507t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/112507l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/112507.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/112507t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/112507l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Urvan"
+      },
+      {
+        "type": "Japanese",
+        "title": "URVAN"
+      }
+    ],
+    "title": "Urvan",
+    "title_english": null,
+    "title_japanese": "URVAN",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 12, 2021"
+    },
+    "duration": "5 min",
+    "rating": "PG - Children",
+    "score": 6,
+    "scored_by": 527,
+    "rank": 9907,
+    "popularity": 13578,
+    "members": 1169,
+    "favorites": 1,
+    "synopsis": "An unnamed girl appears in a school. She traverses through a cyberpunk version of the town of Sasebo, collecting lanterns while being pursued by an ominous figure.",
+    "background": "\"URVAN\" is set in Sasebo City, which was produced by Toei Animation's new IP research and development team \"PEROs\" with the cooperation of Nagasaki International University. By utilizing remote location scouting and the latest communication tools, it is a work that challenged the production of animation during the Corona pandemic, creating a new charm of the area without going to Sasebo, which was the stage. \"URVAN\" is said to be the etymology of \"Obon,\" that is, \"Urabone\". It refers to the ancient Avestan word \"Ulvane (soul)\" around the 7th century BC. (Source: AniDB)",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/V4xzPH3NZuo"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16052"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24040"
+      }
+    ],
+    "streaming": []
+  }
+}

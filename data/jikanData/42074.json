@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 42074,
+    "url": "https://myanimelist.net/anime/42074/Gon_Movie__Gon_the_Little_Fox",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/107736t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/107736l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1194/107736.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/107736t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/107736l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "70qbN_gSmY8",
+      "url": "https://www.youtube.com/watch?v=70qbN_gSmY8",
+      "embed_url": "https://www.youtube.com/embed/70qbN_gSmY8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/70qbN_gSmY8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/70qbN_gSmY8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/70qbN_gSmY8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/70qbN_gSmY8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/70qbN_gSmY8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gon Movie: Gon, the Little Fox"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版ごん ‒ GON, THE LITTLE FOX-"
+      },
+      {
+        "type": "English",
+        "title": "Gon, the Little Fox"
+      }
+    ],
+    "title": "Gon Movie: Gon, the Little Fox",
+    "title_english": "Gon, the Little Fox",
+    "title_japanese": "劇場版ごん ‒ GON, THE LITTLE FOX-",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 28, 2020"
+    },
+    "duration": "28 min",
+    "rating": "PG - Children",
+    "score": 6.67,
+    "scored_by": 236,
+    "rank": 6084,
+    "popularity": 14448,
+    "members": 919,
+    "favorites": 1,
+    "synopsis": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
+    "background": "This stop-motion movie is inspired by Nakichi Niimi's Gongitsune novel. Winner of the Excellence Award at the 23rd Japan Media Arts Festival.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3004,
+        "type": "anime",
+        "name": "Taiyo Kikaku",
+        "url": "https://myanimelist.net/anime/producer/3004/Taiyo_Kikaku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2178,
+        "type": "anime",
+        "name": "Tecarat",
+        "url": "https://myanimelist.net/anime/producer/2178/Tecarat"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 9535,
+            "type": "anime",
+            "name": "Gongitsune",
+            "url": "https://myanimelist.net/anime/9535/Gongitsune"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gon-cinema.jp/en/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gon,_the_Little_Fox#Adaption"
+      }
+    ],
+    "streaming": []
+  }
+}

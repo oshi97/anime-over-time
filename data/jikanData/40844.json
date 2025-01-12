@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 40844,
+    "url": "https://myanimelist.net/anime/40844/Fantastic_World",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1994/104691.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1994/104691t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1994/104691l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1994/104691.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1994/104691t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1994/104691l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fantastic World"
+      },
+      {
+        "type": "Japanese",
+        "title": "ファンタスティックワールド"
+      },
+      {
+        "type": "English",
+        "title": "Fantastic World"
+      }
+    ],
+    "title": "Fantastic World",
+    "title_english": "Fantastic World",
+    "title_japanese": "ファンタスティックワールド",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-31T00:00:00+00:00",
+      "to": "2018-08-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": 31,
+          "month": 8,
+          "year": 2018
+        }
+      },
+      "string": "Oct 31, 2016 to Aug 31, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20387,
+    "popularity": 20729,
+    "members": 233,
+    "favorites": 0,
+    "synopsis": "Animated commercials made by Ryo Hirano to promote his manga Fantastic World getting physical releases.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 123234,
+            "type": "manga",
+            "name": "Fantastic World",
+            "url": "https://myanimelist.net/manga/123234/Fantastic_World"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://to-ti.in/product/fw"
+      }
+    ],
+    "streaming": []
+  }
+}

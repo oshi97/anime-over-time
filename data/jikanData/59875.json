@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 59875,
+    "url": "https://myanimelist.net/anime/59875/Dan_Yuan_Meng_Changjiu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1685/145577.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/145577t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/145577l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1685/145577.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/145577t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/145577l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dan Yuan Meng Changjiu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon-tachi to Aki no Tsuki"
+      },
+      {
+        "type": "Synonym",
+        "title": "ポケモンたちと秋の月"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "但愿梦长久"
+      },
+      {
+        "type": "English",
+        "title": "Pokemon and the Autumn Moon"
+      }
+    ],
+    "title": "Dan Yuan Meng Changjiu",
+    "title_english": "Pokemon and the Autumn Moon",
+    "title_japanese": "但愿梦长久",
+    "title_synonyms": [
+      "Pokemon-tachi to Aki no Tsuki",
+      "ポケモンたちと秋の月",
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-09-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 9,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 14, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20016,
+    "popularity": 20899,
+    "members": 226,
+    "favorites": 0,
+    "synopsis": "On a full moon day, Pikachu meets many Pokemon. The Pokemon who gather and dance also make an appearance!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/37040063/"
+      }
+    ],
+    "streaming": []
+  }
+}

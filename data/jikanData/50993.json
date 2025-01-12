@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 50993,
+    "url": "https://myanimelist.net/anime/50993/Shiyakusho",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1713/120885.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1713/120885t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1713/120885l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1713/120885.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1713/120885t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1713/120885l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shiyakusho"
+      },
+      {
+        "type": "Japanese",
+        "title": "死役所"
+      },
+      {
+        "type": "English",
+        "title": "Death Hall"
+      }
+    ],
+    "title": "Shiyakusho",
+    "title_english": "Death Hall",
+    "title_japanese": "死役所",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2022"
+    },
+    "duration": "11 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.86,
+    "scored_by": 580,
+    "rank": 4990,
+    "popularity": 12769,
+    "members": 1468,
+    "favorites": 4,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Frontier Works",
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+      },
+      {
+        "mal_id": 1550,
+        "type": "anime",
+        "name": "Shinchosha",
+        "url": "https://myanimelist.net/anime/producer/1550/Shinchosha"
+      },
+      {
+        "mal_id": 2402,
+        "type": "anime",
+        "name": "Stay Luck",
+        "url": "https://myanimelist.net/anime/producer/2402/Stay_Luck"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1340,
+        "type": "anime",
+        "name": "Typhoon Graphics",
+        "url": "https://myanimelist.net/anime/producer/1340/Typhoon_Graphics"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 71699,
+            "type": "manga",
+            "name": "Shiyakusho",
+            "url": "https://myanimelist.net/manga/71699/Shiyakusho"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/3KSAu5Ik2h0"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17187"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25309"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/死役所#Webアニメ"
+      }
+    ],
+    "streaming": []
+  }
+}

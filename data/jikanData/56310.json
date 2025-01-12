@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 56310,
+    "url": "https://myanimelist.net/anime/56310/Hello_Carbot__Ompaloseu_Seomui_Bimil",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1094/137850.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/137850t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/137850l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1094/137850.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/137850t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/137850l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot: Ompaloseu Seomui Bimil"
+      },
+      {
+        "type": "Japanese",
+        "title": "극장판 헬로카봇: 옴파로스 섬의 비밀"
+      },
+      {
+        "type": "English",
+        "title": "Hello Carbot the Movie: The Secret of Omphalos Island"
+      }
+    ],
+    "title": "Hello Carbot: Ompaloseu Seomui Bimil",
+    "title_english": "Hello Carbot the Movie: The Secret of Omphalos Island",
+    "title_japanese": "극장판 헬로카봇: 옴파로스 섬의 비밀",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 31, 2019"
+    },
+    "duration": "1 hr 18 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20974,
+    "popularity": 24102,
+    "members": 104,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56299,
+            "type": "anime",
+            "name": "Hello Carbot Season 7",
+            "url": "https://myanimelist.net/anime/56299/Hello_Carbot_Season_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

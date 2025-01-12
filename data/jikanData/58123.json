@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 58123,
+    "url": "https://myanimelist.net/anime/58123/Dearest_Blue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1423/142059.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1423/142059t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1423/142059l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1423/142059.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1423/142059t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1423/142059l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dearest Blue"
+      },
+      {
+        "type": "Japanese",
+        "title": "ディアレストブルー"
+      }
+    ],
+    "title": "Dearest Blue",
+    "title_english": null,
+    "title_japanese": "ディアレストブルー",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-04-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 26, 2024 to ?"
+    },
+    "duration": "23 min",
+    "rating": "Rx - Hentai",
+    "score": 5.61,
+    "scored_by": 425,
+    "rank": null,
+    "popularity": 11971,
+    "members": 1919,
+    "favorites": 5,
+    "synopsis": "Rio and Mamoru are childhood friends and love each other, but have not yet managed to confess their feelings to each other. Rio won a beauty contest where she became an idol and now works under a big agency. There's just one problem: With her increasing popularity, Rio is falling into the eyes of some powerful malevolent men who are playing a more macabre game. This game is about watching Rio suffer and making her sacrifice everything. When Mamoru finds out about this, he sets his sights on protecting Rio, but will he really be able to protect her?",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 365,
+        "type": "anime",
+        "name": "PoRO",
+        "url": "https://myanimelist.net/anime/producer/365/PoRO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42757,
+            "type": "anime",
+            "name": "White Blue",
+            "url": "https://myanimelist.net/anime/42757/White_Blue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18444"
+      }
+    ],
+    "streaming": []
+  }
+}

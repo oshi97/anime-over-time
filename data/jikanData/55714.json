@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 55714,
+    "url": "https://myanimelist.net/anime/55714/Retro_Future",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/136566.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/136566t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/136566l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1360/136566.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/136566t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/136566l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Retro Future"
+      },
+      {
+        "type": "Japanese",
+        "title": "RETRO FUTURE"
+      }
+    ],
+    "title": "Retro Future",
+    "title_english": null,
+    "title_japanese": "RETRO FUTURE",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18659,
+    "popularity": 21335,
+    "members": 200,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1249,
+        "type": "anime",
+        "name": "Mirai Film",
+        "url": "https://myanimelist.net/anime/producer/1249/Mirai_Film"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 28587,
+            "type": "anime",
+            "name": "Modern",
+            "url": "https://myanimelist.net/anime/28587/Modern"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "L'Alternativa",
+        "url": "https://alternativa.cccb.org/2016/en/films/hall/retro-future"
+      },
+      {
+        "name": "Vimeo",
+        "url": "https://vimeo.com/273498744"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 54923,
+    "url": "https://myanimelist.net/anime/54923/Pole_Princess_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/138485.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/138485t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/138485l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1213/138485.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1213/138485t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1213/138485l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "66i70FRmQvw",
+      "url": "https://www.youtube.com/watch?v=66i70FRmQvw",
+      "embed_url": "https://www.youtube.com/embed/66i70FRmQvw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/66i70FRmQvw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/66i70FRmQvw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/66i70FRmQvw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/66i70FRmQvw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/66i70FRmQvw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pole Princess!! Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版 ポールプリンセス!!"
+      }
+    ],
+    "title": "Pole Princess!! Movie",
+    "title_english": null,
+    "title_japanese": "劇場版 ポールプリンセス!!",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 23, 2023"
+    },
+    "duration": "59 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.29,
+    "scored_by": 224,
+    "rank": 8364,
+    "popularity": 11305,
+    "members": 2339,
+    "favorites": 9,
+    "synopsis": "Theatrical release of Pole Princess!!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1284,
+        "type": "anime",
+        "name": "Avex Pictures",
+        "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 103,
+        "type": "anime",
+        "name": "Tatsunoko Production",
+        "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53680,
+            "type": "anime",
+            "name": "Pole Princess!!",
+            "url": "https://myanimelist.net/anime/53680/Pole_Princess"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://poleprincess.jp/"
+      },
+      {
+        "name": "@polpri_staff",
+        "url": "https://twitter.com/polpri_staff"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@polpri_staff"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17971"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27752"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pole_Princess!!"
+      }
+    ],
+    "streaming": []
+  }
+}

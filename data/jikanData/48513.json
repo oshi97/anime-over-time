@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 48513,
+    "url": "https://myanimelist.net/anime/48513/Netokano",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1597/113707.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/113707t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/113707l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1597/113707.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/113707t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/113707l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Netokano"
+      },
+      {
+        "type": "Japanese",
+        "title": "ネトカノ"
+      }
+    ],
+    "title": "Netokano",
+    "title_english": null,
+    "title_japanese": "ネトカノ",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 4, 2021"
+    },
+    "duration": "16 min",
+    "rating": "Rx - Hentai",
+    "score": 5.89,
+    "scored_by": 3784,
+    "rank": null,
+    "popularity": 7269,
+    "members": 8282,
+    "favorites": 37,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 823,
+        "type": "anime",
+        "name": "Lune-Pictures",
+        "url": "https://myanimelist.net/anime/producer/823/Lune-Pictures"
+      },
+      {
+        "mal_id": 2500,
+        "type": "anime",
+        "name": "Antechinus",
+        "url": "https://myanimelist.net/anime/producer/2500/Antechinus"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 405,
+        "type": "anime",
+        "name": "T-Rex",
+        "url": "https://myanimelist.net/anime/producer/405/T-Rex"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 138654,
+            "type": "manga",
+            "name": "Netokano",
+            "url": "https://myanimelist.net/manga/138654/Netokano"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 48889,
+            "type": "anime",
+            "name": "Netoshisu",
+            "url": "https://myanimelist.net/anime/48889/Netoshisu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lune-soft.jp/ova/21475"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16065"
+      }
+    ],
+    "streaming": []
+  }
+}

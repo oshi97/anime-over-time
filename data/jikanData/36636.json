@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 36636,
+    "url": "https://myanimelist.net/anime/36636/Ankoku_Cat_VS",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88532.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88532t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88532l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88532.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88532t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88532l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ankoku Cat VS"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dark Side Cat Versus"
+      },
+      {
+        "type": "Synonym",
+        "title": "Darkness Cat Versus"
+      },
+      {
+        "type": "Japanese",
+        "title": "暗黒キャットVS"
+      }
+    ],
+    "title": "Ankoku Cat VS",
+    "title_english": null,
+    "title_japanese": "暗黒キャットVS",
+    "title_synonyms": [
+      "Dark Side Cat Versus",
+      "Darkness Cat Versus"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-21T00:00:00+00:00",
+      "to": "2012-01-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": 9,
+          "month": 1,
+          "year": 2012
+        }
+      },
+      "string": "Jan 21, 2011 to Jan 9, 2012"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.63,
+    "scored_by": 190,
+    "rank": 11635,
+    "popularity": 16725,
+    "members": 517,
+    "favorites": 0,
+    "synopsis": "The sequel to the Ankoku Cat ONA series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 6721,
+            "type": "anime",
+            "name": "Ankoku Cat",
+            "url": "https://myanimelist.net/anime/6721/Ankoku_Cat"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.doppioland.com/ds_cat/ds_cat.html"
+      }
+    ],
+    "streaming": []
+  }
+}

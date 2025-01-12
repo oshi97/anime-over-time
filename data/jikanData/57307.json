@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57307,
+    "url": "https://myanimelist.net/anime/57307/Qingwa_Wangguo__Qihuan_Nuwang_Lixian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/139919.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/139919t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/139919l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/139919.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/139919t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/139919l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qingwa Wangguo: Qihuan Nuwang Lixian"
+      },
+      {
+        "type": "Japanese",
+        "title": "青蛙王国之奇幻女王历险"
+      }
+    ],
+    "title": "Qingwa Wangguo: Qihuan Nuwang Lixian",
+    "title_english": null,
+    "title_japanese": "青蛙王国之奇幻女王历险",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2023"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18589,
+    "popularity": 24992,
+    "members": 90,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 57306,
+            "type": "anime",
+            "name": "Qingwa Wangguo: Jixian Yundong",
+            "url": "https://myanimelist.net/anime/57306/Qingwa_Wangguo__Jixian_Yundong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/青蛙王国之奇幻女王历险/53402899"
+      }
+    ],
+    "streaming": []
+  }
+}

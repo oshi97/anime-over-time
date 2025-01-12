@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 59850,
+    "url": "https://myanimelist.net/anime/59850/Doraemon___Chinpui__Eri-sama_Ai_no_Present_Daisakusen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1553/145517.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1553/145517t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1553/145517l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1553/145517.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1553/145517t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1553/145517l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon & Chinpui: Eri-sama Ai no Present Daisakusen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Doraemon & Chinpui: Eri-sama's Gift of Love Mission"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」"
+      }
+    ],
+    "title": "Doraemon & Chinpui: Eri-sama Ai no Present Daisakusen",
+    "title_english": null,
+    "title_japanese": "ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」",
+    "title_synonyms": [
+      "Doraemon & Chinpui: Eri-sama's Gift of Love Mission"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-09-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 9,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 3, 2014"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20191,
+    "popularity": 27313,
+    "members": 64,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Screened at the Fujiko F. Fujio Museum starting from September 3, 2014.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 5908,
+            "type": "anime",
+            "name": "Chinpui",
+            "url": "https://myanimelist.net/anime/5908/Chinpui"
+          },
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://fujiko-museum.com/blog/?p=30675/"
+      }
+    ],
+    "streaming": []
+  }
+}

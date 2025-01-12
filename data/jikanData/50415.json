@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 50415,
+    "url": "https://myanimelist.net/anime/50415/Kowarekake_no_Orgel__Manner_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/119552.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/119552t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/119552l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/119552.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/119552t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/119552l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kowarekake no Orgel: Manner Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "こわれかけのオルゴール マナームービー"
+      }
+    ],
+    "title": "Kowarekake no Orgel: Manner Movie",
+    "title_english": null,
+    "title_japanese": "こわれかけのオルゴール マナームービー",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2010"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.9,
+    "scored_by": 194,
+    "rank": 10428,
+    "popularity": 15653,
+    "members": 657,
+    "favorites": 0,
+    "synopsis": "A short manner movie where Flower explains that it's illegal to record movies from the cinema with a handycam, etc...\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Actas",
+        "url": "https://myanimelist.net/anime/producer/60/Actas"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 10918,
+            "type": "anime",
+            "name": "Kowarekake no Orgel (Movie)",
+            "url": "https://myanimelist.net/anime/10918/Kowarekake_no_Orgel_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6271"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "mal_id": 58837,
+    "url": "https://myanimelist.net/anime/58837/Odekake_Kozame_Movie__Tokai_no_Otomodachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/147013.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/147013t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/147013l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/147013.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/147013t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/147013l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "JQtgQuexYhA",
+      "url": "https://www.youtube.com/watch?v=JQtgQuexYhA",
+      "embed_url": "https://www.youtube.com/embed/JQtgQuexYhA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/JQtgQuexYhA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/JQtgQuexYhA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/JQtgQuexYhA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/JQtgQuexYhA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/JQtgQuexYhA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Odekake Kozame Movie: Tokai no Otomodachi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Little Shark's Outings"
+      },
+      {
+        "type": "Synonym",
+        "title": "Outgoing Baby Shark"
+      },
+      {
+        "type": "Synonym",
+        "title": "Little Shark's Day Out"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画 おでかけ子ザメ とかいのおともだち"
+      }
+    ],
+    "title": "Odekake Kozame Movie: Tokai no Otomodachi",
+    "title_english": null,
+    "title_japanese": "映画 おでかけ子ザメ とかいのおともだち",
+    "title_synonyms": [
+      "Little Shark's Outings",
+      "Outgoing Baby Shark",
+      "Little Shark's Day Out"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 16198,
+    "members": 579,
+    "favorites": 3,
+    "synopsis": "Movie of Odekake Kozame.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      },
+      {
+        "mal_id": 1856,
+        "type": "anime",
+        "name": "dugout",
+        "url": "https://myanimelist.net/anime/producer/1856/dugout"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1974,
+        "type": "anime",
+        "name": "ENGI",
+        "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 158220,
+            "type": "manga",
+            "name": "Odekake Kozame",
+            "url": "https://myanimelist.net/manga/158220/Odekake_Kozame"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 55463,
+            "type": "anime",
+            "name": "Odekake Kozame",
+            "url": "https://myanimelist.net/anime/55463/Odekake_Kozame"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://odekake-kozame.com/"
+      },
+      {
+        "name": "@kozame_info",
+        "url": "https://twitter.com/kozame_info"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32725"
+      }
+    ],
+    "streaming": []
+  }
+}

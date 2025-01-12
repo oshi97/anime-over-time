@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 20673,
+    "url": "https://myanimelist.net/anime/20673/Hinata_no_Aoshigure",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1775/121961.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1775/121961.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "SUfWjDfYGtM",
+      "url": "https://www.youtube.com/watch?v=SUfWjDfYGtM",
+      "embed_url": "https://www.youtube.com/embed/SUfWjDfYGtM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/SUfWjDfYGtM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/SUfWjDfYGtM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/SUfWjDfYGtM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/SUfWjDfYGtM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/SUfWjDfYGtM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hinata no Aoshigure"
+      },
+      {
+        "type": "Synonym",
+        "title": "Rain in the Sunshine"
+      },
+      {
+        "type": "Japanese",
+        "title": "陽なたのアオシグレ"
+      },
+      {
+        "type": "English",
+        "title": "Sonny Boy & Dewdrop Girl"
+      }
+    ],
+    "title": "Hinata no Aoshigure",
+    "title_english": "Sonny Boy & Dewdrop Girl",
+    "title_japanese": "陽なたのアオシグレ",
+    "title_synonyms": [
+      "Rain in the Sunshine"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-11-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 11,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 9, 2013"
+    },
+    "duration": "18 min",
+    "rating": "PG - Children",
+    "score": 6.86,
+    "scored_by": 9727,
+    "rank": 5023,
+    "popularity": 4524,
+    "members": 26725,
+    "favorites": 46,
+    "synopsis": "Hinata is very good at drawing and falls in love with his classmate, Shigure; however, Hinata is not good at talking to people, so he keeps his feelings in his imagination and drawings. Then, Shigure's family decides to move to another town. On the day of their move, Hinata says to himself, \"I must tell her my feelings!\" and starts to chase after the train which is taking Shigure away.\n\n(Source: MAL)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://colorido.co.jp/2013/aoshigure/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10086"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19756"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283057"
+      }
+    ]
+  }
+}

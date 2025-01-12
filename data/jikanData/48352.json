@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 48352,
+    "url": "https://myanimelist.net/anime/48352/100-nichikan_Ikita_Wani",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/115717.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/115717t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/115717l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/115717.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/115717t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/115717l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "cSFTKjgTfHw",
+      "url": "https://www.youtube.com/watch?v=cSFTKjgTfHw",
+      "embed_url": "https://www.youtube.com/embed/cSFTKjgTfHw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/cSFTKjgTfHw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/cSFTKjgTfHw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/cSFTKjgTfHw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/cSFTKjgTfHw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/cSFTKjgTfHw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "100-nichikan Ikita Wani"
+      },
+      {
+        "type": "Synonym",
+        "title": "A Crocodile Who Lived For 100 Days"
+      },
+      {
+        "type": "Japanese",
+        "title": "100日間生きたワニ"
+      }
+    ],
+    "title": "100-nichikan Ikita Wani",
+    "title_english": null,
+    "title_japanese": "100日間生きたワニ",
+    "title_synonyms": [
+      "A Crocodile Who Lived For 100 Days"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 9, 2021"
+    },
+    "duration": "1 hr 2 min",
+    "rating": "G - All Ages",
+    "score": 5.82,
+    "scored_by": 155,
+    "rank": 10786,
+    "popularity": 13588,
+    "members": 1166,
+    "favorites": 1,
+    "synopsis": "The story centers on a crocodile living a normal life, unaware that he is due to die in 100 days. The crocodile spends ordinary days with his animal companions.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2057,
+        "type": "anime",
+        "name": "Toho Interactive Animation",
+        "url": "https://myanimelist.net/anime/producer/2057/Toho_Interactive_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 126399,
+            "type": "manga",
+            "name": "100-nichigo ni Shinu Wani",
+            "url": "https://myanimelist.net/manga/126399/100-nichigo_ni_Shinu_Wani"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49414,
+            "type": "anime",
+            "name": "100-nichikan Ikita Wani X Bourbon",
+            "url": "https://myanimelist.net/anime/49414/100-nichikan_Ikita_Wani_X_Bourbon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"TSUZUKU\" by Ikimonogakari"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.100wani-movie.com/news/index.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15455"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/100_Nichi_Go_ni_Shinu_Wani"
+      }
+    ],
+    "streaming": []
+  }
+}

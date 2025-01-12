@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 58281,
+    "url": "https://myanimelist.net/anime/58281/Enomoto_The_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/141727.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/141727t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/141727l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/141727.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/141727t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/141727l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Enomoto The Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "えの素 The Animation"
+      }
+    ],
+    "title": "Enomoto The Animation",
+    "title_english": null,
+    "title_japanese": "えの素 The Animation",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 7, 2022"
+    },
+    "duration": "20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20344,
+    "popularity": 25035,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": "An anime film of Shunji Enomoto's legendary short-gag manga.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 28989,
+            "type": "manga",
+            "name": "Enomoto: New Elements that Shake the World",
+            "url": "https://myanimelist.net/manga/28989/Enomoto__New_Elements_that_Shake_the_World"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17621"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%AE%E7%B4%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 59710,
+    "url": "https://myanimelist.net/anime/59710/Inazuma_Eleven__Aratanaru_Eiyuu-tachi_no_Joshou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1453/145195.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1453/145195t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1453/145195l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1453/145195.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1453/145195t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1453/145195l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Inazuma Eleven Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gekijouban Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版 イナズマイレブン 新たなる英雄たちの序章"
+      },
+      {
+        "type": "English",
+        "title": "Inazuma Eleven the Movie: Prologue to the New Heroes"
+      }
+    ],
+    "title": "Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou",
+    "title_english": "Inazuma Eleven the Movie: Prologue to the New Heroes",
+    "title_japanese": "劇場版 イナズマイレブン 新たなる英雄たちの序章",
+    "title_synonyms": [
+      "Inazuma Eleven Movie",
+      "Gekijouban Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou"
+    ],
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-12-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 12,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 27, 2024"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21324,
+    "popularity": 12978,
+    "members": 1381,
+    "favorites": 6,
+    "synopsis": "The protagonist, Sasanami Unmei, transfers to Nagumohara Junior High School in Nagasaki in search of a soccer-free environment, wishing that soccer would disappear. Meanwhile, Endou Haru, who has demonstrated his natural talent and reigns at the top of his generation, also has complicated feelings about soccer. The unexpected encounter between these two opens the door to new heroes.\n\n(Source: Official Website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 569,
+        "type": "anime",
+        "name": "MAPPA",
+        "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      },
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 5231,
+            "type": "anime",
+            "name": "Inazuma Eleven",
+            "url": "https://myanimelist.net/anime/5231/Inazuma_Eleven"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.inazuma.jp/movie/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18849"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33454"
+      }
+    ],
+    "streaming": []
+  }
+}

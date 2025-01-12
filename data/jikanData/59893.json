@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59893,
+    "url": "https://myanimelist.net/anime/59893/WBB_Short_Short_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/146470.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/146470t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/146470l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/146470.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/146470t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/146470l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "WBB Short Short Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "WBB short short animation"
+      }
+    ],
+    "title": "WBB Short Short Animation",
+    "title_english": null,
+    "title_japanese": "WBB short short animation",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-09-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2, 2024 to ?"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15110,
+    "popularity": 25572,
+    "members": 81,
+    "favorites": 0,
+    "synopsis": "Spin-off series of the original short animation Wander Burabura Bakkamu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1522,
+        "type": "anime",
+        "name": "Echoes",
+        "url": "https://myanimelist.net/anime/producer/1522/Echoes"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 55300,
+            "type": "anime",
+            "name": "Wander Burabura Bakkamu",
+            "url": "https://myanimelist.net/anime/55300/Wander_Burabura_Bakkamu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://echoes-echoes.com/works/short-animation-hatako"
+      }
+    ],
+    "streaming": []
+  }
+}

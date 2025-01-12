@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 54434,
+    "url": "https://myanimelist.net/anime/54434/Chan_Chiho_Challenge_Channel",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/134548.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/134548t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/134548l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/134548.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/134548t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/134548l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chan Chiho Challenge Channel"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chanchiho Challenge Channel"
+      },
+      {
+        "type": "Japanese",
+        "title": "チャンチホチャレンジチャンネル"
+      }
+    ],
+    "title": "Chan Chiho Challenge Channel",
+    "title_english": null,
+    "title_japanese": "チャンチホチャレンジチャンネル",
+    "title_synonyms": [
+      "Chanchiho Challenge Channel"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2023-02-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 10, 2023 to ?"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19640,
+    "popularity": 18631,
+    "members": 358,
+    "favorites": 0,
+    "synopsis": "Video distributor Chan Chiho delivers various challenges related to Pokemon \"Chan Chiho Challenge Channel.\"\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1229,
+        "type": "anime",
+        "name": "Pie in the sky",
+        "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/0Y6dvXAgbPo"
+      }
+    ],
+    "streaming": []
+  }
+}

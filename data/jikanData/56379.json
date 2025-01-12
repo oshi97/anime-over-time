@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 56379,
+    "url": "https://myanimelist.net/anime/56379/Mameushi-kun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/137933.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/137933t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/137933l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/137933.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/137933t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/137933l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mameushi-kun"
+      },
+      {
+        "type": "Japanese",
+        "title": "まめうしくん"
+      }
+    ],
+    "title": "Mameushi-kun",
+    "title_english": null,
+    "title_japanese": "まめうしくん",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Picture book",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-08-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 25, 2006"
+    },
+    "duration": "8 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17303,
+    "popularity": 24569,
+    "members": 95,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 12185,
+            "type": "anime",
+            "name": "Mameushi-kun (TV)",
+            "url": "https://myanimelist.net/anime/12185/Mameushi-kun_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.mameushi.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%81%E3%81%86%E3%81%97%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "streaming": []
+  }
+}

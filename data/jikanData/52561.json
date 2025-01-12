@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 52561,
+    "url": "https://myanimelist.net/anime/52561/Raikou_Shinki_Aigis_Magia__Pandra_Saga_3rd_Ignition_-_The_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1714/126269.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1714/126269t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1714/126269l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1714/126269.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1714/126269t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1714/126269l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition - The Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "雷光神姫アイギスマギア ―PANDRA saga 3rd ignition― The Animation"
+      }
+    ],
+    "title": "Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition - The Animation",
+    "title_english": null,
+    "title_japanese": "雷光神姫アイギスマギア ―PANDRA saga 3rd ignition― The Animation",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-28T00:00:00+00:00",
+      "to": "2022-12-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 23,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Oct 28, 2022 to Dec 23, 2022"
+    },
+    "duration": "16 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 5.58,
+    "scored_by": 952,
+    "rank": null,
+    "popularity": 10655,
+    "members": 2849,
+    "favorites": 4,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2215,
+        "type": "anime",
+        "name": "Showten",
+        "url": "https://myanimelist.net/anime/producer/2215/Showten"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1093,
+        "type": "anime",
+        "name": "BreakBottle",
+        "url": "https://myanimelist.net/anime/producer/1093/BreakBottle"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 27413,
+            "type": "anime",
+            "name": "Shinkyoku no Grimoire The Animation",
+            "url": "https://myanimelist.net/anime/27413/Shinkyoku_no_Grimoire_The_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 144500,
+            "type": "manga",
+            "name": "Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition",
+            "url": "https://myanimelist.net/manga/144500/Raikou_Shinki_Aigis_Magia__Pandra_Saga_3rd_Ignition"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://showten.info/products/anime/stap021.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17546"
+      }
+    ],
+    "streaming": []
+  }
+}

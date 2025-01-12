@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 55008,
+    "url": "https://myanimelist.net/anime/55008/Life_of_the_Dead_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Life of the Dead Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "LIFE OF THE DEAD SEASON 2"
+      }
+    ],
+    "title": "Life of the Dead Season 2",
+    "title_english": null,
+    "title_japanese": "LIFE OF THE DEAD SEASON 2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": "2012-06-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": 6,
+          "month": 6,
+          "year": 2012
+        }
+      },
+      "string": "2012 to Jun 6, 2012"
+    },
+    "duration": "15 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": null,
+    "scored_by": null,
+    "rank": 17132,
+    "popularity": 24770,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": "Episodes 5 and 6 of Life of the Dead.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1252,
+        "type": "anime",
+        "name": "Studio Binzo",
+        "url": "https://myanimelist.net/anime/producer/1252/Studio_Binzo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 30089,
+            "type": "anime",
+            "name": "Life of the Dead",
+            "url": "https://myanimelist.net/anime/30089/Life_of_the_Dead"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54993,
+            "type": "anime",
+            "name": "Life of the Dead Episode 7",
+            "url": "https://myanimelist.net/anime/54993/Life_of_the_Dead_Episode_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20160328095947/http://binzo.zombie.jp"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 54633,
+    "url": "https://myanimelist.net/anime/54633/Pokemon_Concierge",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1064/139658.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/139658t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/139658l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1064/139658.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/139658t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/139658l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "xFss-ze-UTU",
+      "url": "https://www.youtube.com/watch?v=xFss-ze-UTU",
+      "embed_url": "https://www.youtube.com/embed/xFss-ze-UTU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/xFss-ze-UTU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/xFss-ze-UTU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/xFss-ze-UTU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/xFss-ze-UTU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/xFss-ze-UTU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Concierge"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンコンシェルジュ"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Concierge"
+      }
+    ],
+    "title": "Pokemon Concierge",
+    "title_english": "Pokémon Concierge",
+    "title_japanese": "ポケモンコンシェルジュ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2023"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": 7.69,
+    "scored_by": 7792,
+    "rank": 1307,
+    "popularity": 6025,
+    "members": 13011,
+    "favorites": 59,
+    "synopsis": "After a series of misfortunes, the stressed-out Haru quits her corporate job in favor of working as a concierge at the Pokémon Resort. Managed by the cheerful Watanabe, the Pokémon Resort is a place where both people and Pokémon come to unwind. While Haru finds it difficult to abandon the priorities of her past life, this new job is just right for learning to relax and focus on what matters the most in life: companionship.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1133,
+        "type": "anime",
+        "name": "dwarf",
+        "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58953,
+            "type": "anime",
+            "name": "Pokemon Concierge (Zoku-hen)",
+            "url": "https://myanimelist.net/anime/58953/Pokemon_Concierge_Zoku-hen"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Have a Good Time Here\" by Mariya Takeuchi"
+      ],
+      "endings": [
+        "\"Kimi no Ibasho (Have a Good Time Here) (君の居場所)\" by Mariya Takeuchi (竹内まりや)"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17883"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27221"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Concierge"
+      }
+    ],
+    "streaming": []
+  }
+}

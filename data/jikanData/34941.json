@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 34941,
+    "url": "https://myanimelist.net/anime/34941/Queens_Blade__Unlimited",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/90266.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1470/90266t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1470/90266l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/90266.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1470/90266t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1470/90266l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "reyxM26mC2A",
+      "url": "https://www.youtube.com/watch?v=reyxM26mC2A",
+      "embed_url": "https://www.youtube.com/embed/reyxM26mC2A?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/reyxM26mC2A/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/reyxM26mC2A/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/reyxM26mC2A/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/reyxM26mC2A/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/reyxM26mC2A/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Queen's Blade: Unlimited"
+      },
+      {
+        "type": "Japanese",
+        "title": "クイーンズブレイドUNLIMITED"
+      }
+    ],
+    "title": "Queen's Blade: Unlimited",
+    "title_english": null,
+    "title_japanese": "クイーンズブレイドUNLIMITED",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Other",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-13T00:00:00+00:00",
+      "to": "2020-02-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 28,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Jul 13, 2018 to Feb 28, 2020"
+    },
+    "duration": "26 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.82,
+    "scored_by": 1753,
+    "rank": 10828,
+    "popularity": 6039,
+    "members": 12922,
+    "favorites": 26,
+    "synopsis": "Queen's Blade, a four-yearly life-threatening fighting event where beauty fighters from all over the world gather. The strongest women dominate everything on this continent, following the tradition initiated by the first queen. \nThe winner of an official match in the presence of an angel can give any order to the loser. You can take away your proud weapons, serve as a slave, and even defeat the current Queen and take her place! Elina, the daughter of a remote aristocrat, set out on her own pursuit of her beloved sister, Reina, who had abandoned everything and became a beautiful warrior.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 9,
+        "type": "anime",
+        "name": "Ecchi",
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 11859,
+            "type": "anime",
+            "name": "Queen's Blade: Rebellion",
+            "url": "https://myanimelist.net/anime/11859/Queens_Blade__Rebellion"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "queensblade.net/unlimited/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12836"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 56105,
+    "url": "https://myanimelist.net/anime/56105/Nanashi_Kaidan_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1097/137404.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1097/137404t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1097/137404l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1097/137404.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1097/137404t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1097/137404l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "4hYPmFxethc",
+      "url": "https://www.youtube.com/watch?v=4hYPmFxethc",
+      "embed_url": "https://www.youtube.com/embed/4hYPmFxethc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/4hYPmFxethc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/4hYPmFxethc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/4hYPmFxethc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/4hYPmFxethc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/4hYPmFxethc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nanashi Kaidan 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "ななし怪談 第2作"
+      }
+    ],
+    "title": "Nanashi Kaidan 2nd Season",
+    "title_english": null,
+    "title_japanese": "ななし怪談 第2作",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-07T00:00:00+00:00",
+      "to": "2023-08-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": 11,
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "string": "Aug 7, 2023 to Aug 11, 2023"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.55,
+    "scored_by": 151,
+    "rank": 11918,
+    "popularity": 10933,
+    "members": 2611,
+    "favorites": 15,
+    "synopsis": "The collection of horror short stories center on those uneasy feelings of \"something out there\" that children sense in their lives.\n\n(Source: ANN)",
+    "background": "",
+    "season": "summer",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52814,
+            "type": "anime",
+            "name": "Nanashi Kaidan",
+            "url": "https://myanimelist.net/anime/52814/Nanashi_Kaidan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59649,
+            "type": "anime",
+            "name": "Nanashi Kaidan 3rd Season",
+            "url": "https://myanimelist.net/anime/59649/Nanashi_Kaidan_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ohast.jp/nanasikaidan/index.php"
+      },
+      {
+        "name": "@nanashikaidan",
+        "url": "https://twitter.com/nanashikaidan"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28814"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ななし怪談"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 54872,
+    "url": "https://myanimelist.net/anime/54872/Takoru_the_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/134812.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/134812t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/134812l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/134812.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/134812t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/134812l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Takoru the Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "たこる・ザ・ムービー"
+      }
+    ],
+    "title": "Takoru the Movie",
+    "title_english": null,
+    "title_japanese": "たこる・ザ・ムービー",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-03-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 21, 2007"
+    },
+    "duration": "20 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14554,
+    "popularity": 24749,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": "A film featuring TV Osaka's mascot character Takoru-kun that was originally shown at the Takoru Shock!!!! event in Osaka.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 100,
+        "type": "anime",
+        "name": "TV Osaka",
+        "url": "https://myanimelist.net/anime/producer/100/TV_Osaka"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54873,
+            "type": "anime",
+            "name": "Takoru TV",
+            "url": "https://myanimelist.net/anime/54873/Takoru_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-osaka.co.jp/ip4/takoruworld"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E3%82%8B%E3%81%8F%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

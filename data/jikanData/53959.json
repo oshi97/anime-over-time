@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 53959,
+    "url": "https://myanimelist.net/anime/53959/Doraemon__Uchuu_Fushigi_Daitanken_Planetarium_3_-_Ukyuu_no_Fushigi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/132043.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/132043t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/132043l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/132043.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/132043t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/132043l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium 3 - Ukyuu no Fushigi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん 宇宙ふしぎ大探検 プラネタリウム 3 〜地球のふしぎ〜"
+      }
+    ],
+    "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium 3 - Ukyuu no Fushigi",
+    "title_english": null,
+    "title_japanese": "ドラえもん 宇宙ふしぎ大探検 プラネタリウム 3 〜地球のふしぎ〜",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 3, 2018"
+    },
+    "duration": "40 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20195,
+    "popularity": 16122,
+    "members": 589,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53957,
+            "type": "anime",
+            "name": "Doraemon: Uchuu Fushigi Daitanken Planetarium 2 - Taiyoukei no Himitsu",
+            "url": "https://myanimelist.net/anime/53957/Doraemon__Uchuu_Fushigi_Daitanken_Planetarium_2_-_Taiyoukei_no_Himitsu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

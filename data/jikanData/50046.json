@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 50046,
+    "url": "https://myanimelist.net/anime/50046/Yami_Shibai__Furuido",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/118616.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/118616t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/118616l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/118616.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/118616t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/118616l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yami Shibai: Furuido"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yami Shibai Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "古井戸"
+      },
+      {
+        "type": "English",
+        "title": "Theatre of Darkness: Yamishibai - The Old Well"
+      }
+    ],
+    "title": "Yami Shibai: Furuido",
+    "title_english": "Theatre of Darkness: Yamishibai - The Old Well",
+    "title_japanese": "古井戸",
+    "title_synonyms": [
+      "Yami Shibai Special"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 14, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.63,
+    "scored_by": 1054,
+    "rank": 11629,
+    "popularity": 11071,
+    "members": 2513,
+    "favorites": 0,
+    "synopsis": "Special Friday 13th episode of Yami Shibai 9.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2056,
+        "type": "anime",
+        "name": "DRAWIZ",
+        "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1169,
+        "type": "anime",
+        "name": "ILCA",
+        "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 49110,
+            "type": "anime",
+            "name": "Yami Shibai 9",
+            "url": "https://myanimelist.net/anime/49110/Yami_Shibai_9"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/yamishibai9/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16363"
+      }
+    ],
+    "streaming": []
+  }
+}

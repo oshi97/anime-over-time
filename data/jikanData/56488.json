@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 56488,
+    "url": "https://myanimelist.net/anime/56488/Zegapain__STA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/143334.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/143334t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/143334l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/143334.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/143334t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/143334l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "FmzXb_L3Gxs",
+      "url": "https://www.youtube.com/watch?v=FmzXb_L3Gxs",
+      "embed_url": "https://www.youtube.com/embed/FmzXb_L3Gxs?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/FmzXb_L3Gxs/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/FmzXb_L3Gxs/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/FmzXb_L3Gxs/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/FmzXb_L3Gxs/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/FmzXb_L3Gxs/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zegapain: STA"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゼーガペインSTA"
+      }
+    ],
+    "title": "Zegapain: STA",
+    "title_english": null,
+    "title_japanese": "ゼーガペインSTA",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 16, 2024"
+    },
+    "duration": "1 hr 30 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16030,
+    "popularity": 12449,
+    "members": 1636,
+    "favorites": 5,
+    "synopsis": "Sequel to Zegapain.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 878,
+            "type": "anime",
+            "name": "Zegapain",
+            "url": "https://myanimelist.net/anime/878/Zegapain"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://zegapain.net/"
+      },
+      {
+        "name": "@zega_official",
+        "url": "https://twitter.com/zega_official"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18176"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32287"
+      }
+    ],
+    "streaming": []
+  }
+}

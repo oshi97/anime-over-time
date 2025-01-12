@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 60610,
+    "url": "https://myanimelist.net/anime/60610/Hateshinaki_Scarlet",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/147132.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/147132t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/147132l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/147132.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/147132t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/147132l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hateshinaki Scarlet"
+      },
+      {
+        "type": "Japanese",
+        "title": "果てしなきスカーレット"
+      },
+      {
+        "type": "English",
+        "title": "Scarlet"
+      }
+    ],
+    "title": "Hateshinaki Scarlet",
+    "title_english": "Scarlet",
+    "title_japanese": "果てしなきスカーレット",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 13379,
+    "members": 1233,
+    "favorites": 5,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 555,
+        "type": "anime",
+        "name": "Studio Chizu",
+        "url": "https://myanimelist.net/anime/producer/555/Studio_Chizu"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19073"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34230"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 40242,
+    "url": "https://myanimelist.net/anime/40242/Idomo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1059/102541.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1059/102541t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1059/102541l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1059/102541.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1059/102541t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1059/102541l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "jeV-SxGKhzA",
+      "url": "https://www.youtube.com/watch?v=jeV-SxGKhzA",
+      "embed_url": "https://www.youtube.com/embed/jeV-SxGKhzA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/jeV-SxGKhzA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/jeV-SxGKhzA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/jeV-SxGKhzA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/jeV-SxGKhzA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/jeV-SxGKhzA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Idomo"
+      },
+      {
+        "type": "Japanese",
+        "title": "イドも"
+      }
+    ],
+    "title": "Idomo",
+    "title_english": null,
+    "title_japanese": "イドも",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 14431,
+    "members": 926,
+    "favorites": 0,
+    "synopsis": "The story starts in a mysterious place in the future where \"boys and girls meet.\"\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1747,
+        "type": "anime",
+        "name": "Twin Engine",
+        "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15040"
+      }
+    ],
+    "streaming": []
+  }
+}

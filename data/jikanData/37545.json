@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 37545,
+    "url": "https://myanimelist.net/anime/37545/Amakage",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1158/91249.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1158/91249t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/91249l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1158/91249.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1158/91249t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/91249l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Amakage"
+      },
+      {
+        "type": "Synonym",
+        "title": "Amakage music clip"
+      },
+      {
+        "type": "Japanese",
+        "title": "雨影"
+      },
+      {
+        "type": "English",
+        "title": "Amakage"
+      }
+    ],
+    "title": "Amakage",
+    "title_english": "Amakage",
+    "title_japanese": "雨影",
+    "title_synonyms": [
+      "Amakage music clip"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-05-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 5,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 5, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.23,
+    "scored_by": 294,
+    "rank": 12803,
+    "popularity": 16021,
+    "members": 602,
+    "favorites": 0,
+    "synopsis": "Small creatures live in our world, their perspective of rain makes it seem as if the droplets are the size of cars. Follow along as one takes a bus ride.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.rabbit-machine.com/page/sp/amakage.html"
+      }
+    ],
+    "streaming": []
+  }
+}

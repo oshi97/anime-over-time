@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 55179,
+    "url": "https://myanimelist.net/anime/55179/Futari_no_Yakusoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1593/135642.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/135642t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/135642l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1593/135642.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/135642t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/135642l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Futari no Yakusoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fire Emblem Heroes - Book VI Ending Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "ふたりの約束"
+      },
+      {
+        "type": "English",
+        "title": "Princesses' Pledge"
+      }
+    ],
+    "title": "Futari no Yakusoku",
+    "title_english": "Princesses' Pledge",
+    "title_japanese": "ふたりの約束",
+    "title_synonyms": [
+      "Fire Emblem Heroes - Book VI Ending Movie"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 28, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.92,
+    "scored_by": 156,
+    "rank": 10336,
+    "popularity": 18257,
+    "members": 389,
+    "favorites": 1,
+    "synopsis": "Princess Sharena and Princess Veronica are enjoying a nice, relaxing tea break in a garden in full bloom. Perhaps the gods of their two countries are also watching over them...",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 44202,
+            "type": "anime",
+            "name": "Fire Emblem Heroes - Book IV Ending Movie",
+            "url": "https://myanimelist.net/anime/44202/Fire_Emblem_Heroes_-_Book_IV_Ending_Movie"
+          },
+          {
+            "mal_id": 55207,
+            "type": "anime",
+            "name": "Fire Emblem Heroes - Book V Ending Movie",
+            "url": "https://myanimelist.net/anime/55207/Fire_Emblem_Heroes_-_Book_V_Ending_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rDXA9MrrfSA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 52322,
+    "url": "https://myanimelist.net/anime/52322/7_Days_Magic",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1327/125104.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/125104t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/125104l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1327/125104.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/125104t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/125104l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "7 Days Magic"
+      },
+      {
+        "type": "Japanese",
+        "title": "セブンデイズ マジック"
+      },
+      {
+        "type": "English",
+        "title": "7DAYSMAGIC"
+      }
+    ],
+    "title": "7 Days Magic",
+    "title_english": "7DAYSMAGIC",
+    "title_japanese": "セブンデイズ マジック",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 1, 2012"
+    },
+    "duration": "28 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 18948,
+    "popularity": 22748,
+    "members": 136,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1043,
+        "type": "anime",
+        "name": "Benesse Corporation",
+        "url": "https://myanimelist.net/anime/producer/1043/Benesse_Corporation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

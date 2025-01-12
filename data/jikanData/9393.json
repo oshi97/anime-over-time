@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 9393,
+    "url": "https://myanimelist.net/anime/9393/TP_Sakura__Time_Paladin_Sakura",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/36771.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/36771t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/36771l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/36771.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/36771t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/36771l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "iqYmrBMCcuU",
+      "url": "https://www.youtube.com/watch?v=iqYmrBMCcuU",
+      "embed_url": "https://www.youtube.com/embed/iqYmrBMCcuU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/iqYmrBMCcuU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/iqYmrBMCcuU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/iqYmrBMCcuU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/iqYmrBMCcuU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/iqYmrBMCcuU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "T.P. Sakura: Time Paladin Sakura"
+      },
+      {
+        "type": "Synonym",
+        "title": "T.P. Sakura ~Time Paladin Sakura~ Jikuuju Boueisen"
+      },
+      {
+        "type": "Japanese",
+        "title": "T.P.さくら〜タイムパラディンさくら〜時空樹防衛戦"
+      }
+    ],
+    "title": "T.P. Sakura: Time Paladin Sakura",
+    "title_english": null,
+    "title_japanese": "T.P.さくら〜タイムパラディンさくら〜時空樹防衛戦",
+    "title_synonyms": [
+      "T.P. Sakura ~Time Paladin Sakura~ Jikuuju Boueisen"
+    ],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-27T00:00:00+00:00",
+      "to": "2011-02-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": 24,
+          "month": 2,
+          "year": 2011
+        }
+      },
+      "string": "Jan 27, 2011 to Feb 24, 2011"
+    },
+    "duration": "25 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.83,
+    "scored_by": 1990,
+    "rank": 10760,
+    "popularity": 8849,
+    "members": 5051,
+    "favorites": 3,
+    "synopsis": "The project is a spinoff from Circus's D.C. Da Capo franchise and features the Yoshino Sakura character as a seemingly ordinary third grader with secret special powers.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Nomad",
+        "url": "https://myanimelist.net/anime/producer/70/Nomad"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 62,
+            "type": "anime",
+            "name": "D.C.: Da Capo",
+            "url": "https://myanimelist.net/anime/62/DC__Da_Capo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Fly Away T.P.S\" by Sayaka Sasaki"
+      ],
+      "endings": [
+        "\"Boku wa Kimi no soba ni iru (ボクは君のそばにいる)\" by yozuca*"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tps-project.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7904"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11788"
+      }
+    ],
+    "streaming": []
+  }
+}

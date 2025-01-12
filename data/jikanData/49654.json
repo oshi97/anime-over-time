@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 49654,
+    "url": "https://myanimelist.net/anime/49654/Hakubunchou_no_Shiro",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1414/118734.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/118734t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/118734l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1414/118734.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/118734t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/118734l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hakubunchou no Shiro"
+      },
+      {
+        "type": "Japanese",
+        "title": "白文鳥のしろ"
+      },
+      {
+        "type": "English",
+        "title": "Shiro the White Java Sparrow"
+      }
+    ],
+    "title": "Hakubunchou no Shiro",
+    "title_english": "Shiro the White Java Sparrow",
+    "title_japanese": "白文鳥のしろ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 23, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.22,
+    "scored_by": 214,
+    "rank": 8734,
+    "popularity": 17593,
+    "members": 437,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 38520,
+            "type": "anime",
+            "name": "Inko Colors the Animation",
+            "url": "https://myanimelist.net/anime/38520/Inko_Colors_the_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=hE-GdoQiDJE"
+      }
+    ],
+    "streaming": []
+  }
+}

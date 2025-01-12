@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 52553,
+    "url": "https://myanimelist.net/anime/52553/Pokemon_Peaceful_Place",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1139/126168.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/126168t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/126168l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1139/126168.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/126168t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/126168l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Peaceful Place"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokepeace"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケピース"
+      }
+    ],
+    "title": "Pokemon Peaceful Place",
+    "title_english": null,
+    "title_japanese": "ポケピース",
+    "title_synonyms": [
+      "Pokepeace"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-07-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 29, 2022 to ?"
+    },
+    "duration": "1 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18383,
+    "popularity": 17430,
+    "members": 449,
+    "favorites": 1,
+    "synopsis": "Pokepeace is a small town somewhere in the world. There was a share house where Pokemon and humans gathered. Living here is a leisurely and free life. Nap together or have a party on a special day. \"Peace\" life of Pokemon. Why don't you take a look?\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.jp/special/pokepeace/"
+      }
+    ],
+    "streaming": []
+  }
+}

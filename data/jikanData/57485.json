@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 57485,
+    "url": "https://myanimelist.net/anime/57485/Azur_Lane_Avengers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/140230.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/140230t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/140230l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/140230.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/140230t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/140230l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Azur Lane Avengers!"
+      },
+      {
+        "type": "Japanese",
+        "title": "Azur Lane Avengers!"
+      }
+    ],
+    "title": "Azur Lane Avengers!",
+    "title_english": null,
+    "title_japanese": "Azur Lane Avengers!",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2023"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.96,
+    "scored_by": 124,
+    "rank": 10083,
+    "popularity": 18531,
+    "members": 367,
+    "favorites": 0,
+    "synopsis": "An April Fools' video for Azur Lane.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55351,
+            "type": "anime",
+            "name": "Azur Lane CMs",
+            "url": "https://myanimelist.net/anime/55351/Azur_Lane_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

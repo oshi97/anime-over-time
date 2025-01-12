@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 40621,
+    "url": "https://myanimelist.net/anime/40621/Shimajirou_no_Wow_Movie_8_ Shimajirou_to_Soratobu_Fune",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/103664.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/103664t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/103664l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/103664.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/103664t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/103664l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "vlKEtOjlIbk",
+      "url": "https://www.youtube.com/watch?v=vlKEtOjlIbk",
+      "embed_url": "https://www.youtube.com/embed/vlKEtOjlIbk?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/vlKEtOjlIbk/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/vlKEtOjlIbk/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/vlKEtOjlIbk/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/vlKEtOjlIbk/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/vlKEtOjlIbk/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune"
+      },
+      {
+        "type": "Synonym",
+        "title": "Qiaohu and the Fantastic Flying Ship"
+      },
+      {
+        "type": "Synonym",
+        "title": "Qiaohu da Feichuan Lixian Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画しまじろう しまじろうとそらとぶふね"
+      }
+    ],
+    "title": "Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune",
+    "title_english": null,
+    "title_japanese": "映画しまじろう しまじろうとそらとぶふね",
+    "title_synonyms": [
+      "Qiaohu and the Fantastic Flying Ship",
+      "Qiaohu da Feichuan Lixian Ji"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 13, 2019"
+    },
+    "duration": "1 hr 20 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14082,
+    "popularity": 19181,
+    "members": 322,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "Appeared at the 2019 Beijing International Film Festival on April 13, 2019 with China theatrical run on June 1, 2019 and its Japan theatrical run on March 12, 2021.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 229,
+        "type": "anime",
+        "name": "The Answer Studio",
+        "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 18941,
+            "type": "anime",
+            "name": "Shimajirou no Wow!",
+            "url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54402,
+            "type": "anime",
+            "name": "Qiaohu Tansuo Qimiao Shijie",
+            "url": "https://myanimelist.net/anime/54402/Qiaohu_Tansuo_Qimiao_Shijie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kodomo.benesse.ne.jp/open/movie/2020/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15239"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23111"
+      }
+    ],
+    "streaming": []
+  }
+}

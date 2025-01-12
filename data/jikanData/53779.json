@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 53779,
+    "url": "https://myanimelist.net/anime/53779/Wacha_Wacha_the_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/131671.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/131671t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/131671l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/131671.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/131671t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/131671l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wacha Wacha the Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "WACHA WACHA THE MOVIE"
+      }
+    ],
+    "title": "Wacha Wacha the Movie",
+    "title_english": null,
+    "title_japanese": "WACHA WACHA THE MOVIE",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2021"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.68,
+    "scored_by": 126,
+    "rank": 11455,
+    "popularity": 20446,
+    "members": 250,
+    "favorites": 0,
+    "synopsis": "A short film depicting four vignettes about various small foods.",
+    "background": "Graduate Work 2021 from Reimi Arakaki, Okinawa Prefectural University of Arts",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2650,
+        "type": "anime",
+        "name": "Okinawa Prefectural University of Arts",
+        "url": "https://myanimelist.net/anime/producer/2650/Okinawa_Prefectural_University_of_Arts"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

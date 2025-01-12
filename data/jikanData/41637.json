@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 41637,
+    "url": "https://myanimelist.net/anime/41637/Naze_Nani_Dendrogram_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/106926.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/106926t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/106926l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/106926.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/106926t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/106926l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Naze Nani Dendrogram Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "なぜなにデンドログラム"
+      }
+    ],
+    "title": "Naze Nani Dendrogram Episode 0",
+    "title_english": null,
+    "title_japanese": "なぜなにデンドログラム",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 23, 2019"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.63,
+    "scored_by": 235,
+    "rank": 11664,
+    "popularity": 15227,
+    "members": 733,
+    "favorites": 0,
+    "synopsis": "Episode 0 of series of short specials where Cheshire, Nemesis and Shu explain the world of VRMMO Infinite Dendrogram.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41636,
+            "type": "anime",
+            "name": "Naze Nani Dendrogram",
+            "url": "https://myanimelist.net/anime/41636/Naze_Nani_Dendrogram"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=i6dEmpj1eRk"
+      }
+    ],
+    "streaming": []
+  }
+}

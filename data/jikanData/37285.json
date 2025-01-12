@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 37285,
+    "url": "https://myanimelist.net/anime/37285/Ippun_de_Wakaru_Eiga_Donten_ni_Warau_Kaisetsu_Yokoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/90488.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/90488t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/90488l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/90488.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/90488t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/90488l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ippun de Wakaru Eiga \"Donten ni Warau\" Kaisetsu Yokoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eagle Talon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Himitsukessha Taka no Tsume"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Frogman Show"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cloudy Laugh"
+      },
+      {
+        "type": "Synonym",
+        "title": "Laughing Under the Clouds"
+      },
+      {
+        "type": "Synonym",
+        "title": "1-ban de Wakaru Eiga \"Donten ni Warau\" Kaisetsu Yokoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "1分でわかる映画「曇天に笑う」　解説予告"
+      }
+    ],
+    "title": "Ippun de Wakaru Eiga \"Donten ni Warau\" Kaisetsu Yokoku",
+    "title_english": null,
+    "title_japanese": "1分でわかる映画「曇天に笑う」　解説予告",
+    "title_synonyms": [
+      "Eagle Talon",
+      "Himitsukessha Taka no Tsume",
+      "The Frogman Show",
+      "Cloudy Laugh",
+      "Laughing Under the Clouds",
+      "1-ban de Wakaru Eiga \"Donten ni Warau\" Kaisetsu Yokoku"
+    ],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2018"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 4.84,
+    "scored_by": 343,
+    "rank": 13323,
+    "popularity": 13402,
+    "members": 1228,
+    "favorites": 1,
+    "synopsis": "A special collaboration with Eagle Talon and Donten ni Warau. The latter is having a live-action movie release on March 21, 2018. In the special, the Chancellor and Yoshida introduce the movie and make comments on the story.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 37431,
+            "type": "anime",
+            "name": "Donten ni Warau x Mameshiba",
+            "url": "https://myanimelist.net/anime/37431/Donten_ni_Warau_x_Mameshiba"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 21743,
+            "type": "anime",
+            "name": "Donten ni Warau",
+            "url": "https://myanimelist.net/anime/21743/Donten_ni_Warau"
+          },
+          {
+            "mal_id": 35219,
+            "type": "anime",
+            "name": "DC Super Heroes vs Taka no Tsumedan",
+            "url": "https://myanimelist.net/anime/35219/DC_Super_Heroes_vs_Taka_no_Tsumedan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://donten-movie.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E9%B7%B9%E3%81%AE%E7%88%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 37402,
+    "url": "https://myanimelist.net/anime/37402/No_Game_No_Life__Zero_-_Manner_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1278/122850.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/122850t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/122850l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1278/122850.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/122850t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/122850l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "No Game No Life: Zero - Manner Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "ノーゲーム・ノーライフ ゼロ マナー映像"
+      },
+      {
+        "type": "English",
+        "title": "No Game, No Life: Zero - Manner Movie"
+      }
+    ],
+    "title": "No Game No Life: Zero - Manner Movie",
+    "title_english": "No Game, No Life: Zero - Manner Movie",
+    "title_japanese": "ノーゲーム・ノーライフ ゼロ マナー映像",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.79,
+    "scored_by": 11358,
+    "rank": 5356,
+    "popularity": 4152,
+    "members": 31876,
+    "favorites": 46,
+    "synopsis": "Short theater manners animation shown before main movie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33674,
+            "type": "anime",
+            "name": "No Game No Life: Zero",
+            "url": "https://myanimelist.net/anime/33674/No_Game_No_Life__Zero"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12276"
+      }
+    ],
+    "streaming": []
+  }
+}

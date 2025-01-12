@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 55188,
+    "url": "https://myanimelist.net/anime/55188/Eraser_Wars",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/135658.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/135658t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/135658l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/135658.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/135658t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/135658l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eraser Wars"
+      },
+      {
+        "type": "Japanese",
+        "title": "ERASER WARS"
+      }
+    ],
+    "title": "Eraser Wars",
+    "title_english": null,
+    "title_japanese": "ERASER WARS",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 2, 2017"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20358,
+    "popularity": 23636,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": "The home planet of Gareth has been destroyed by somebody. The surviving warriors become vagrants to find a new home, however...\n\n(Source: Bucheon International Fantastic Film Festival)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 55193,
+            "type": "anime",
+            "name": "Midnight: Eraser Wars Spin-off",
+            "url": "https://myanimelist.net/anime/55193/Midnight__Eraser_Wars_Spin-off"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eraser_Wars"
+      }
+    ],
+    "streaming": []
+  }
+}

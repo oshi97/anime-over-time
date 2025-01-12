@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 57996,
+    "url": "https://myanimelist.net/anime/57996/Lili_Kurong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1802/141229.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1802/141229t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1802/141229l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1802/141229.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1802/141229t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1802/141229l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lili Kurong"
+      },
+      {
+        "type": "Japanese",
+        "title": "离离枯荣"
+      }
+    ],
+    "title": "Lili Kurong",
+    "title_english": null,
+    "title_japanese": "离离枯荣",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 28, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "scored_by": 190,
+    "rank": 7570,
+    "popularity": 16530,
+    "members": 538,
+    "favorites": 0,
+    "synopsis": "A short film directed by Yakumo Crack for the Arknights 2024 Spring Festival Gala.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2893,
+        "type": "anime",
+        "name": "Gear Studio",
+        "url": "https://myanimelist.net/anime/producer/2893/Gear_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42163,
+            "type": "anime",
+            "name": "Arknights",
+            "url": "https://myanimelist.net/anime/42163/Arknights"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

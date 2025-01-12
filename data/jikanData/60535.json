@@ -1,0 +1,179 @@
+{
+  "data": {
+    "mal_id": 60535,
+    "url": "https://myanimelist.net/anime/60535/Everyday_Host",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/146982.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/146982t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/146982l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/146982.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/146982t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/146982l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Everyday Host"
+      },
+      {
+        "type": "Synonym",
+        "title": "Everyday Host Club"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ebuhosu"
+      },
+      {
+        "type": "Japanese",
+        "title": "えぶりでいホスト"
+      }
+    ],
+    "title": "Everyday Host",
+    "title_english": null,
+    "title_japanese": "えぶりでいホスト",
+    "title_synonyms": [
+      "Everyday Host Club",
+      "Ebuhosu"
+    ],
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 14025,
+    "members": 1038,
+    "favorites": 0,
+    "synopsis": "The story follows Hajime Sekiguchi, a former life insurance salesman who, in a moment of desperation, makes the unexpected leap into the world of hosts.\n\nAt Club One, Hajime finds himself surrounded by a cast of eccentric personalities: a \"younger brother\" type host with 20 years of experience, a former idol specializing in romantic sales tactics, and a hyper-aggressive host obsessed with mobile games. Despite thinking, \"This isn't a job for anyone with a sane mind,\" Hajime uses his polished insurance sales skills to attract clients and carve out a surprising niche for himself.\n\n(Source: MAL News)",
+    "background": "",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      },
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 177140,
+            "type": "manga",
+            "name": "Everyday Host",
+            "url": "https://myanimelist.net/manga/177140/Everyday_Host"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/everydayhost/"
+      },
+      {
+        "name": "@ebuhosu_anime",
+        "url": "https://twitter.com/ebuhosu_anime"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34192"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Everyday_Host#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

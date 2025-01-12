@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 58978,
+    "url": "https://myanimelist.net/anime/58978/Kimi_ni_Todoke__Digest_Eizou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1867/143398.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1867/143398t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/143398l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1867/143398.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1867/143398t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/143398l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kimi ni Todoke: Digest Eizou"
+      },
+      {
+        "type": "Synonym",
+        "title": "A 10-Minute Recap of \"From Me to You: Kimi ni Todoke\""
+      },
+      {
+        "type": "Japanese",
+        "title": "「君に届け」ダイジェスト映像"
+      },
+      {
+        "type": "English",
+        "title": "Kimi ni Todoke: From Me to You - Digest Video"
+      }
+    ],
+    "title": "Kimi ni Todoke: Digest Eizou",
+    "title_english": "Kimi ni Todoke: From Me to You - Digest Video",
+    "title_japanese": "「君に届け」ダイジェスト映像",
+    "title_synonyms": [
+      "A 10-Minute Recap of \"From Me to You: Kimi ni Todoke\""
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 30, 2023"
+    },
+    "duration": "13 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.52,
+    "scored_by": 317,
+    "rank": 6900,
+    "popularity": 15254,
+    "members": 727,
+    "favorites": 0,
+    "synopsis": "A video of series highlights looking back at major moments from the first two seasons involving Kazehaya, Sawako and the other characters has been released! Reexperience each scene with newly produced visuals.\n\n(Source: Netflix Anime's YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 6045,
+            "type": "anime",
+            "name": "Kimi ni Todoke",
+            "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke"
+          },
+          {
+            "mal_id": 9656,
+            "type": "anime",
+            "name": "Kimi ni Todoke 2nd Season",
+            "url": "https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kimitodo.com/"
+      },
+      {
+        "name": "@kimitodo_pr",
+        "url": "https://twitter.com/kimitodo_pr"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=FmqypjjCO8E"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18179"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 37286,
+    "url": "https://myanimelist.net/anime/37286/Its_My_Life",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1998/105349.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/105349t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/105349l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1998/105349.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/105349t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/105349l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "zi2LF7L2-qg",
+      "url": "https://www.youtube.com/watch?v=zi2LF7L2-qg",
+      "embed_url": "https://www.youtube.com/embed/zi2LF7L2-qg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/zi2LF7L2-qg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/zi2LF7L2-qg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/zi2LF7L2-qg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/zi2LF7L2-qg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/zi2LF7L2-qg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "It's My Life"
+      },
+      {
+        "type": "Japanese",
+        "title": "IT'S MY LIFE"
+      },
+      {
+        "type": "English",
+        "title": "It's My Life"
+      }
+    ],
+    "title": "It's My Life",
+    "title_english": "It's My Life",
+    "title_japanese": "IT'S MY LIFE",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 30, 2019"
+    },
+    "duration": "14 min",
+    "rating": "G - All Ages",
+    "score": 5.67,
+    "scored_by": 2410,
+    "rank": 11490,
+    "popularity": 7040,
+    "members": 8943,
+    "favorites": 10,
+    "synopsis": "Based on a fantasy manga by Narita Imomushi.\n\nAstra Ludger Doomsday, former captain of the royal knights has finally achieved his dearest wish: To retire and use his savings to get his very own house. But not long after finally arriving at his sanctuary, a young girl crash-lands into his house. The girl is an apprentice witch and seems to mistake Astra for someone else.\n\n(Source: M-U)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2088,
+        "type": "anime",
+        "name": "Cloud22",
+        "url": "https://myanimelist.net/anime/producer/2088/Cloud22"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1195,
+        "type": "anime",
+        "name": "Creators in Pack",
+        "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 88906,
+            "type": "manga",
+            "name": "It's My Life",
+            "url": "https://myanimelist.net/manga/88906/Its_My_Life"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Turn The Page\" by Blind Guardian"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.urasunday.com/iml_anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13645"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22970"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/It's_My_Life_(manga)#Original_video_animation"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/IT'S_MY_LIFE_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "streaming": []
+  }
+}

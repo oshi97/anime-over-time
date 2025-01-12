@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 55225,
+    "url": "https://myanimelist.net/anime/55225/Bear_Bear_Bear_Kuma_Punch",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1462/135716.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1462/135716t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1462/135716l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1462/135716.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1462/135716t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1462/135716l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bear Bear Bear Kuma Punch!"
+      },
+      {
+        "type": "Japanese",
+        "title": "べあべあべあくまーぱーんち！"
+      }
+    ],
+    "title": "Bear Bear Bear Kuma Punch!",
+    "title_english": null,
+    "title_japanese": "べあべあべあくまーぱーんち！",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Light novel",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-05-03T00:00:00+00:00",
+      "to": "2023-05-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 5,
+          "year": 2023
+        },
+        "to": {
+          "day": 7,
+          "month": 5,
+          "year": 2023
+        }
+      },
+      "string": "May 3, 2023 to May 7, 2023"
+    },
+    "duration": "35 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.11,
+    "scored_by": 545,
+    "rank": 9306,
+    "popularity": 12622,
+    "members": 1541,
+    "favorites": 2,
+    "synopsis": "Mini anime for Kuma Kuma Kuma Bear Punch released daily over five days on the Kadokawa Anime YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1264,
+        "type": "anime",
+        "name": "EMT Squared",
+        "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56106,
+            "type": "anime",
+            "name": "Bear Bear Bear Kuma Punch!! Daiundoukai-hen",
+            "url": "https://myanimelist.net/anime/56106/Bear_Bear_Bear_Kuma_Punch_Daiundoukai-hen"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 45486,
+            "type": "anime",
+            "name": "Kuma Kuma Kuma Bear Punch!",
+            "url": "https://myanimelist.net/anime/45486/Kuma_Kuma_Kuma_Bear_Punch"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kumakumakumabear.com/special/movie.html"
+      }
+    ],
+    "streaming": []
+  }
+}

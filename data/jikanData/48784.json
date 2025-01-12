@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 48784,
+    "url": "https://myanimelist.net/anime/48784/Oshiri_Tantei_Movie_3__Sufure-tou_no_Himitsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1562/114522.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1562/114522t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1562/114522l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1562/114522.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1562/114522t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1562/114522l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "dqnZzgNIxOI",
+      "url": "https://www.youtube.com/watch?v=dqnZzgNIxOI",
+      "embed_url": "https://www.youtube.com/embed/dqnZzgNIxOI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/dqnZzgNIxOI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/dqnZzgNIxOI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/dqnZzgNIxOI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/dqnZzgNIxOI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/dqnZzgNIxOI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oshiri Tantei Movie 3: Sufure-tou no Himitsu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Butt Detective Movie 3: The Secret of Souffle Island"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画おしりたんてい スフーレ島のひみつ"
+      }
+    ],
+    "title": "Oshiri Tantei Movie 3: Sufure-tou no Himitsu",
+    "title_english": null,
+    "title_japanese": "映画おしりたんてい スフーレ島のひみつ",
+    "title_synonyms": [
+      "Butt Detective Movie 3: The Secret of Souffle Island"
+    ],
+    "type": "Movie",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 13, 2021"
+    },
+    "duration": "38 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18201,
+    "popularity": 21232,
+    "members": 205,
+    "favorites": 0,
+    "synopsis": "The story follows Butt Detective and his assistant Brown as they solve a difficult case on Souffle Island, where people ride the wind and fly in the sky.\n\n(Source: Comic Natalie, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35656,
+            "type": "anime",
+            "name": "Oshiri Tantei",
+            "url": "https://myanimelist.net/anime/35656/Oshiri_Tantei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://toei-mangamatsuri.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16272"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24325"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8A%E3%81%9F%E3%82%93%E3%81%A6%E3%81%84"
+      }
+    ],
+    "streaming": []
+  }
+}

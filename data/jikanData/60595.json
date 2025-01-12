@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 60595,
+    "url": "https://myanimelist.net/anime/60595/Hyakushou_Kizoku_2nd_Season_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/147110.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/147110t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/147110l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/147110.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/147110t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/147110l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hyakushou Kizoku 2nd Season Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Noble Farmer 2nd Season Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "百姓貴族 2nd Season"
+      }
+    ],
+    "title": "Hyakushou Kizoku 2nd Season Specials",
+    "title_english": null,
+    "title_japanese": "百姓貴族 2nd Season",
+    "title_synonyms": [
+      "Noble Farmer 2nd Season Specials"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 23, 2025"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 18181,
+    "members": 395,
+    "favorites": 1,
+    "synopsis": "Specials included with the DVD release of the second season of Hyakushou Kizoku bundled with volume 8.1 of the manga.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1229,
+        "type": "anime",
+        "name": "Pie in the sky",
+        "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 21389,
+            "type": "manga",
+            "name": "Hyakushou Kizoku",
+            "url": "https://myanimelist.net/manga/21389/Hyakushou_Kizoku"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 57562,
+            "type": "anime",
+            "name": "Hyakushou Kizoku 2nd Season",
+            "url": "https://myanimelist.net/anime/57562/Hyakushou_Kizoku_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://s.mxtv.jp/anime/hyakusho_kizoku/"
+      },
+      {
+        "name": "@anime_hyakusho",
+        "url": "https://twitter.com/anime_hyakusho"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18328"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31075"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hyakush%C5%8D_Kizoku"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%99%BE%E5%A7%93%E8%B2%B4%E6%97%8F"
+      }
+    ],
+    "streaming": []
+  }
+}

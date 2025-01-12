@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 42757,
+    "url": "https://myanimelist.net/anime/42757/White_Blue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/109071t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/109071l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1566/109071.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/109071t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/109071l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "White Blue"
+      },
+      {
+        "type": "Japanese",
+        "title": "ホワイト ブルー"
+      }
+    ],
+    "title": "White Blue",
+    "title_english": null,
+    "title_japanese": "ホワイト ブルー",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-27T00:00:00+00:00",
+      "to": "2021-08-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": 27,
+          "month": 8,
+          "year": 2021
+        }
+      },
+      "string": "Nov 27, 2020 to Aug 27, 2021"
+    },
+    "duration": "24 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 5.66,
+    "scored_by": 1965,
+    "rank": null,
+    "popularity": 8491,
+    "members": 5637,
+    "favorites": 25,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 365,
+        "type": "anime",
+        "name": "PoRO",
+        "url": "https://myanimelist.net/anime/producer/365/PoRO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 3728,
+            "type": "anime",
+            "name": "True Blue",
+            "url": "https://myanimelist.net/anime/3728/True_Blue"
+          },
+          {
+            "mal_id": 4356,
+            "type": "anime",
+            "name": "Innocent Blue",
+            "url": "https://myanimelist.net/anime/4356/Innocent_Blue"
+          },
+          {
+            "mal_id": 3729,
+            "type": "anime",
+            "name": "True Blue: Gaiden",
+            "url": "https://myanimelist.net/anime/3729/True_Blue__Gaiden"
+          },
+          {
+            "mal_id": 6694,
+            "type": "anime",
+            "name": "Triangle Blue",
+            "url": "https://myanimelist.net/anime/6694/Triangle_Blue"
+          },
+          {
+            "mal_id": 12995,
+            "type": "anime",
+            "name": "Dark Blue",
+            "url": "https://myanimelist.net/anime/12995/Dark_Blue"
+          },
+          {
+            "mal_id": 58123,
+            "type": "anime",
+            "name": "Dearest Blue",
+            "url": "https://myanimelist.net/anime/58123/Dearest_Blue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15705"
+      }
+    ],
+    "streaming": []
+  }
+}

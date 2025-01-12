@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 55299,
+    "url": "https://myanimelist.net/anime/55299/Nico_Agony",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/135875.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/135875t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/135875l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/135875.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/135875t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/135875l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nico/Agony"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wakate Animator Ikusei Project"
+      },
+      {
+        "type": "Japanese",
+        "title": "NICO/AGONY"
+      }
+    ],
+    "title": "Nico/Agony",
+    "title_english": null,
+    "title_japanese": "NICO/AGONY",
+    "title_synonyms": [
+      "Wakate Animator Ikusei Project"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 31, 2023"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17962,
+    "popularity": 20984,
+    "members": 219,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 472,
+        "type": "anime",
+        "name": "Usagi Ou",
+        "url": "https://myanimelist.net/anime/producer/472/Usagi_Ou"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55301,
+            "type": "anime",
+            "name": "Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara",
+            "url": "https://myanimelist.net/anime/55301/Moshi_Meta__Moshi_Joshikousei_ga_Metaverse_de_Miko_ni_Nattara"
+          },
+          {
+            "mal_id": 55302,
+            "type": "anime",
+            "name": "Tsuru ga Mau Yoru ni",
+            "url": "https://myanimelist.net/anime/55302/Tsuru_ga_Mau_Yoru_ni"
+          },
+          {
+            "mal_id": 55300,
+            "type": "anime",
+            "name": "Wander Burabura Bakkamu",
+            "url": "https://myanimelist.net/anime/55300/Wander_Burabura_Bakkamu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animenotane.jp/anim_info/nico-agony/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17892"
+      }
+    ],
+    "streaming": []
+  }
+}

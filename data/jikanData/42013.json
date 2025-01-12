@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 42013,
+    "url": "https://myanimelist.net/anime/42013/Man_with_a_Mission_Animated_Short_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1368/107587.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/107587t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/107587l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1368/107587.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/107587t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/107587l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Man with a Mission Animated Short Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Man with a Mission The Animation Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "MAN WITH A MISSION アニメティザー ショートムービー"
+      }
+    ],
+    "title": "Man with a Mission Animated Short Movie",
+    "title_english": null,
+    "title_japanese": "MAN WITH A MISSION アニメティザー ショートムービー",
+    "title_synonyms": [
+      "Man with a Mission The Animation Episode 0"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 25, 2019"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.72,
+    "scored_by": 125,
+    "rank": 11268,
+    "popularity": 18616,
+    "members": 360,
+    "favorites": 0,
+    "synopsis": "A short preview for the Man with a Mission The Animation web series. The video introduces the story and band members, who are dressed as famous pop culture characters.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2030,
+        "type": "anime",
+        "name": "Tower Records",
+        "url": "https://myanimelist.net/anime/producer/2030/Tower_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41477,
+            "type": "anime",
+            "name": "Man with a Mission The Animation",
+            "url": "https://myanimelist.net/anime/41477/Man_with_a_Mission_The_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mwamjapan.info/contents/234130"
+      }
+    ],
+    "streaming": []
+  }
+}

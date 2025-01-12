@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 58333,
+    "url": "https://myanimelist.net/anime/58333/Uji_ni_wa_Monogatari_ga_Aru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1585/145679.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1585/145679t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1585/145679l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1585/145679.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1585/145679t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1585/145679l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "VTNm5VVTQP0",
+      "url": "https://www.youtube.com/watch?v=VTNm5VVTQP0",
+      "embed_url": "https://www.youtube.com/embed/VTNm5VVTQP0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/VTNm5VVTQP0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/VTNm5VVTQP0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/VTNm5VVTQP0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/VTNm5VVTQP0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/VTNm5VVTQP0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Uji ni wa Monogatari ga Aru"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kyoto Animation × Murasaki Shikibu Yukari no Machi Uji PR Douga"
+      },
+      {
+        "type": "Japanese",
+        "title": "うじには物語がある"
+      }
+    ],
+    "title": "Uji ni wa Monogatari ga Aru",
+    "title_english": null,
+    "title_japanese": "うじには物語がある",
+    "title_synonyms": [
+      "Kyoto Animation × Murasaki Shikibu Yukari no Machi Uji PR Douga"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 9, 2024"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.7,
+    "scored_by": 505,
+    "rank": 5887,
+    "popularity": 13756,
+    "members": 1114,
+    "favorites": 3,
+    "synopsis": "The protagonist visits Uji and tours the town, which has been shaped by the accumulation of history and culture from various eras, including the Heian period.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.city.uji.kyoto.jp/murasakisp/"
+      },
+      {
+        "name": "@uji_murasaki",
+        "url": "https://twitter.com/uji_murasaki"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=O7SWkkOGKEQ"
+      }
+    ],
+    "streaming": []
+  }
+}

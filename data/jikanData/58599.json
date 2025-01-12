@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 58599,
+    "url": "https://myanimelist.net/anime/58599/Duel_Masters_Special_Movie__DO-KA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/142436.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/142436t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/142436l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/142436.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/142436t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/142436l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Duel Masters Special Movie: DO-KA"
+      },
+      {
+        "type": "Japanese",
+        "title": "デュエル・マスターズ Special Movie「導火」"
+      }
+    ],
+    "title": "Duel Masters Special Movie: DO-KA",
+    "title_english": null,
+    "title_japanese": "デュエル・マスターズ Special Movie「導火」",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 31, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 1685,
+            "type": "anime",
+            "name": "Duel Masters",
+            "url": "https://myanimelist.net/anime/1685/Duel_Masters"
+          },
+          {
+            "mal_id": 23409,
+            "type": "anime",
+            "name": "Duel Masters VS",
+            "url": "https://myanimelist.net/anime/23409/Duel_Masters_VS"
+          },
+          {
+            "mal_id": 34905,
+            "type": "anime",
+            "name": "Duel Masters (2017)",
+            "url": "https://myanimelist.net/anime/34905/Duel_Masters_2017"
+          },
+          {
+            "mal_id": 52460,
+            "type": "anime",
+            "name": "Duel Masters Win",
+            "url": "https://myanimelist.net/anime/52460/Duel_Masters_Win"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

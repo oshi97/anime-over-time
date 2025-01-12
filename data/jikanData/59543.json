@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59543,
+    "url": "https://myanimelist.net/anime/59543/New_Jersey_and_Enterprises_Beach_Vacation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1425/144780.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1425/144780t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1425/144780l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1425/144780.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1425/144780t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1425/144780l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "New Jersey and Enterprise's Beach Vacation"
+      },
+      {
+        "type": "Japanese",
+        "title": "New Jersey and Enterprise's Beach Vacation"
+      }
+    ],
+    "title": "New Jersey and Enterprise's Beach Vacation",
+    "title_english": null,
+    "title_japanese": "New Jersey and Enterprise's Beach Vacation",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 12, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17944,
+    "popularity": 22405,
+    "members": 148,
+    "favorites": 0,
+    "synopsis": "Commanders, join the shipgirls for a seaside getaway!\n\n(Source: YouTube)",
+    "background": "Short animation commemorating the 6th anniversary of the Azur Lane game.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2761,
+        "type": "anime",
+        "name": "ARCUS",
+        "url": "https://myanimelist.net/anime/producer/2761/ARCUS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55351,
+            "type": "anime",
+            "name": "Azur Lane CMs",
+            "url": "https://myanimelist.net/anime/55351/Azur_Lane_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xRsV3awXQOs"
+      }
+    ],
+    "streaming": []
+  }
+}

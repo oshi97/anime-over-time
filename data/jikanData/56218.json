@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 56218,
+    "url": "https://myanimelist.net/anime/56218/Houkago_no_Breath",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1252/140364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/140364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/140364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1252/140364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/140364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/140364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "2oLWQK2VbGg",
+      "url": "https://www.youtube.com/watch?v=2oLWQK2VbGg",
+      "embed_url": "https://www.youtube.com/embed/2oLWQK2VbGg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/2oLWQK2VbGg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/2oLWQK2VbGg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/2oLWQK2VbGg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/2oLWQK2VbGg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/2oLWQK2VbGg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Houkago no Breath"
+      },
+      {
+        "type": "Japanese",
+        "title": "放課後のブレス"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon: Paldean Winds"
+      }
+    ],
+    "title": "Houkago no Breath",
+    "title_english": "Pokémon: Paldean Winds",
+    "title_japanese": "放課後のブレス",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-06T00:00:00+00:00",
+      "to": "2023-12-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 13,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Sep 6, 2023 to Dec 13, 2023"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": 7.04,
+    "scored_by": 2864,
+    "rank": 4181,
+    "popularity": 7503,
+    "members": 7568,
+    "favorites": 14,
+    "synopsis": "Just before the arrival of a certain transfer student, three students at an academy in Paldea are tasked with making a video showcasing their school. \n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 499,
+        "type": "anime",
+        "name": "The Pokemon Company International",
+        "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 53876,
+            "type": "anime",
+            "name": "Pokemon (2023)",
+            "url": "https://myanimelist.net/anime/53876/Pokemon_2023"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.co.jp/ex/sv/ja/sp_anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18152"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29339"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "mal_id": 42798,
+    "url": "https://myanimelist.net/anime/42798/Sayonara_Watashi_no_Cramer_Movie__First_Touch",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1482/111436.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1482/111436t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1482/111436l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1482/111436.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1482/111436t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1482/111436l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "CfhmZxK7XNA",
+      "url": "https://www.youtube.com/watch?v=CfhmZxK7XNA",
+      "embed_url": "https://www.youtube.com/embed/CfhmZxK7XNA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/CfhmZxK7XNA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/CfhmZxK7XNA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/CfhmZxK7XNA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/CfhmZxK7XNA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/CfhmZxK7XNA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sayonara Watashi no Cramer Movie: First Touch"
+      },
+      {
+        "type": "Synonym",
+        "title": "Farewell"
+      },
+      {
+        "type": "Synonym",
+        "title": "My Dear Cramer Movie: First Touch"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sayonara Football"
+      },
+      {
+        "type": "Japanese",
+        "title": "映画 さよなら私のクラマー ファーストタッチ"
+      }
+    ],
+    "title": "Sayonara Watashi no Cramer Movie: First Touch",
+    "title_english": null,
+    "title_japanese": "映画 さよなら私のクラマー ファーストタッチ",
+    "title_synonyms": [
+      "Farewell",
+      "My Dear Cramer Movie: First Touch",
+      "Sayonara Football"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 11, 2021"
+    },
+    "duration": "1 hr 44 min",
+    "rating": null,
+    "score": 7.08,
+    "scored_by": 3897,
+    "rank": 4006,
+    "popularity": 6379,
+    "members": 11281,
+    "favorites": 22,
+    "synopsis": "14-year-old Nozomi Onda has only one thing on her mind: playing beautiful soccer. There's just one problem: no matter how much she longs to participate in official matches, she'd have physically superior boys as opponents. But when a boy from her past confronts her on the street, she decides she can't wait any longer.\n\n(Source: Kodansha Comics)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 839,
+        "type": "anime",
+        "name": "LIDENFILMS",
+        "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42774,
+            "type": "anime",
+            "name": "Sayonara Watashi no Cramer",
+            "url": "https://myanimelist.net/anime/42774/Sayonara_Watashi_no_Cramer"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 26491,
+            "type": "manga",
+            "name": "Sayonara Football",
+            "url": "https://myanimelist.net/manga/26491/Sayonara_Football"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Sora wa Dareka no Mono Janai (空は誰かのものじゃない)\" by Aika Kobayashi"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sayonara-cramer.com/movie/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15711"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Farewell,_My_Dear_Cramer#Film"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-281167"
+      }
+    ]
+  }
+}

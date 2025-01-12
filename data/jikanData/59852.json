@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 59852,
+    "url": "https://myanimelist.net/anime/59852/Pokonyan___Doraemon__Ponpoko-nyan_de_Koko_Hore_Nyan_Nyan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1103/145521.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/145521t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/145521l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1103/145521.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/145521t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/145521l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokonyan & Doraemon: Ponpoko-nyan de Koko Hore Nyan Nyan!?"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokonyan & Doraemon: The Meow Meower and the Pom Poko Purrer"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポコニャン＆ドラえもん 『ポンポコニャンで ここほれニャンニャン！？』"
+      }
+    ],
+    "title": "Pokonyan & Doraemon: Ponpoko-nyan de Koko Hore Nyan Nyan!?",
+    "title_english": null,
+    "title_japanese": "ポコニャン＆ドラえもん 『ポンポコニャンで ここほれニャンニャン！？』",
+    "title_synonyms": [
+      "Pokonyan & Doraemon: The Meow Meower and the Pom Poko Purrer"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 3, 2016"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18387,
+    "popularity": 27480,
+    "members": 61,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Screened at the Fujiko F. Fujio Museum starting from September 3, 2016.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 6779,
+            "type": "anime",
+            "name": "Pokonyan!",
+            "url": "https://myanimelist.net/anime/6779/Pokonyan"
+          },
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://fujiko-museum.com/blog/?p=32880/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 58812,
+    "url": "https://myanimelist.net/anime/58812/Shin_Samurai-den_Yaiba",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1937/146622.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/146622t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/146622l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1937/146622.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/146622t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/146622l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "wvlGBCO9_Is",
+      "url": "https://www.youtube.com/watch?v=wvlGBCO9_Is",
+      "embed_url": "https://www.youtube.com/embed/wvlGBCO9_Is?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/wvlGBCO9_Is/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/wvlGBCO9_Is/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/wvlGBCO9_Is/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/wvlGBCO9_Is/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/wvlGBCO9_Is/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shin Samurai-den Yaiba"
+      },
+      {
+        "type": "Japanese",
+        "title": "真･侍伝 YAIBA"
+      }
+    ],
+    "title": "Shin Samurai-den Yaiba",
+    "title_english": null,
+    "title_japanese": "真･侍伝 YAIBA",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10042,
+    "members": 3411,
+    "favorites": 17,
+    "synopsis": "The protagonist, Kurogane Yaiba, is a samurai wild child who trains in the jungle with his father, Kenjurou. By a twist of fate, the determined samurai, Yaiba, returns to Japan and encounters his rival, Onimaru Takeshi. Yaiba, who lives for serious battles, embarks on a spectacular adventure when Onimaru obtains the \"Legendary Demon Sword!\" \n\n(Source: Shogakukan, edited)",
+    "background": "",
+    "season": "spring",
+    "year": 2025,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "17:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 17:30 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 1631,
+            "type": "manga",
+            "name": "Yaiba",
+            "url": "https://myanimelist.net/manga/1631/Yaiba"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 2335,
+            "type": "anime",
+            "name": "Kenyuu Densetsu Yaiba",
+            "url": "https://myanimelist.net/anime/2335/Kenyuu_Densetsu_Yaiba"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.yaiba-pr.com/"
+      },
+      {
+        "name": "@YAIBA_PR",
+        "url": "https://twitter.com/YAIBA_PR"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18612"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32715"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/YAIBA"
+      }
+    ],
+    "streaming": []
+  }
+}

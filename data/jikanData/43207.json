@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 43207,
+    "url": "https://myanimelist.net/anime/43207/Onegai_Patron-sama_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/109791t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/109791l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/109791.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/109791t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/109791l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Onegai Patron-sama! Episode 0"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dear My Patron Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "おねがいっパトロンさま！「episode0」"
+      },
+      {
+        "type": "English",
+        "title": "Dear My Patron"
+      }
+    ],
+    "title": "Onegai Patron-sama! Episode 0",
+    "title_english": "Dear My Patron",
+    "title_japanese": "おねがいっパトロンさま！「episode0」",
+    "title_synonyms": [
+      "Dear My Patron Episode 0"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 11, 2020"
+    },
+    "duration": "16 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18146,
+    "popularity": 18275,
+    "members": 388,
+    "favorites": 0,
+    "synopsis": "The encounter between Asahi and Ryouya.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2141,
+        "type": "anime",
+        "name": "TANOsim",
+        "url": "https://myanimelist.net/anime/producer/2141/TANOsim"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42804,
+            "type": "anime",
+            "name": "Onegai Patron-sama!",
+            "url": "https://myanimelist.net/anime/42804/Onegai_Patron-sama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.onepato.com/story/detail.php?id=0"
+      }
+    ],
+    "streaming": []
+  }
+}

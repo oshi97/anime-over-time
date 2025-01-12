@@ -1,0 +1,203 @@
+{
+  "data": {
+    "mal_id": 41205,
+    "url": "https://myanimelist.net/anime/41205/Kouya_no_Kotobuki_Hikoutai_Kanzenban",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/111423.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/111423t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/111423l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/111423.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/111423t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/111423l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "vGnbb7fEsWY",
+      "url": "https://www.youtube.com/watch?v=vGnbb7fEsWY",
+      "embed_url": "https://www.youtube.com/embed/vGnbb7fEsWY?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/vGnbb7fEsWY/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/vGnbb7fEsWY/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/vGnbb7fEsWY/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/vGnbb7fEsWY/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/vGnbb7fEsWY/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kouya no Kotobuki Hikoutai Kanzenban"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Kotobuki Squadron in the Wilderness"
+      },
+      {
+        "type": "Japanese",
+        "title": "荒野のコトブキ飛行隊 完全版"
+      },
+      {
+        "type": "English",
+        "title": "The Magnificent Kotobuki"
+      }
+    ],
+    "title": "Kouya no Kotobuki Hikoutai Kanzenban",
+    "title_english": "The Magnificent Kotobuki",
+    "title_japanese": "荒野のコトブキ飛行隊 完全版",
+    "title_synonyms": [
+      "The Kotobuki Squadron in the Wilderness"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2020"
+    },
+    "duration": "1 hr 59 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.47,
+    "scored_by": 349,
+    "rank": 7275,
+    "popularity": 10641,
+    "members": 2857,
+    "favorites": 7,
+    "synopsis": "Compilation film with new content.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1840,
+        "type": "anime",
+        "name": "Bandai Namco Arts",
+        "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 318,
+        "type": "anime",
+        "name": "WAO World",
+        "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+      },
+      {
+        "mal_id": 1381,
+        "type": "anime",
+        "name": "GEMBA",
+        "url": "https://myanimelist.net/anime/producer/1381/GEMBA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 119581,
+            "type": "manga",
+            "name": "Kouya no Kotobuki Hikoutai",
+            "url": "https://myanimelist.net/manga/119581/Kouya_no_Kotobuki_Hikoutai"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 38301,
+            "type": "anime",
+            "name": "Kouya no Kotobuki Hikoutai",
+            "url": "https://myanimelist.net/anime/38301/Kouya_no_Kotobuki_Hikoutai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Tsubasa wo Motsu Monotachi (翼を持つ者たち)\" by Kirie (Sayumi Suzushiro), Enma (Eri Yukimura), Kate (Sayaka Nakaya), Leona (Asami Seto), Zara (Hibiku Yamamura), Chika (Miyu Tomita)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kotobuki-anime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15378"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24143"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Magnificent_Kotobuki"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "HIDIVE",
+        "url": "https://www.hidive.com/"
+      }
+    ]
+  }
+}

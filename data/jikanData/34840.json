@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 34840,
+    "url": "https://myanimelist.net/anime/34840/Kitsune_Tsuki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/98972.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/98972t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/98972l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/98972.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/98972t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/98972l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kitsune Tsuki"
+      },
+      {
+        "type": "Japanese",
+        "title": "きつね憑き"
+      },
+      {
+        "type": "English",
+        "title": "Fox Fears"
+      }
+    ],
+    "title": "Kitsune Tsuki",
+    "title_english": "Fox Fears",
+    "title_japanese": "きつね憑き",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 6.22,
+    "scored_by": 447,
+    "rank": 8683,
+    "popularity": 14906,
+    "members": 810,
+    "favorites": 0,
+    "synopsis": "In the evening of a village festival, a young boy named Bunroku goes to the festival with his friend and visits a clog shop on the way. There he learns an old superstition about the fox.\n\n(Source: haff.nl)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1524,
+        "type": "anime",
+        "name": "Geidai Animation",
+        "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://satomiyo.com/works.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13604"
+      }
+    ],
+    "streaming": []
+  }
+}

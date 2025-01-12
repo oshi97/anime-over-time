@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 59844,
+    "url": "https://myanimelist.net/anime/59844/F-Chara_All_Stars_Daishuugou__Doraemon___Perman_-_Kikiippatsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1744/145510.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/145510t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/145510l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1744/145510.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/145510t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/145510l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "F-Chara All Stars Daishuugou: Doraemon & Perman - Kikiippatsu!?"
+      },
+      {
+        "type": "Synonym",
+        "title": "Doraemon and Perman's Close Call"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fキャラオールスターズ大集合 ドラえもん&パーマン 危機一髪!?"
+      }
+    ],
+    "title": "F-Chara All Stars Daishuugou: Doraemon & Perman - Kikiippatsu!?",
+    "title_english": null,
+    "title_japanese": "Fキャラオールスターズ大集合 ドラえもん&パーマン 危機一髪!?",
+    "title_synonyms": [
+      "Doraemon and Perman's Close Call"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2011"
+    },
+    "duration": "8 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20375,
+    "popularity": 27388,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Screened at the Fujiko F. Fujio Museum starting from September 2011. It was aired with a Doraemon Special on December 31, 2016.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 11595,
+            "type": "anime",
+            "name": "Perman (1983)",
+            "url": "https://myanimelist.net/anime/11595/Perman_1983"
+          },
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

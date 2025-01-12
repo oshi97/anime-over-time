@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 35472,
+    "url": "https://myanimelist.net/anime/35472/Yuuki_Yuuna_wa_Yuushabu_Shozoku_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/85506.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/85506t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/85506l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/85506.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/85506t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/85506l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuuki Yuuna wa Yuushabu Shozoku 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yuuki Yuuna is a Hero Club Member"
+      },
+      {
+        "type": "Synonym",
+        "title": "Washio Sumi wa Yuusha de Aru"
+      },
+      {
+        "type": "Japanese",
+        "title": "結城友奈は勇者部所属"
+      }
+    ],
+    "title": "Yuuki Yuuna wa Yuushabu Shozoku 2",
+    "title_english": null,
+    "title_japanese": "結城友奈は勇者部所属",
+    "title_synonyms": [
+      "Yuuki Yuuna is a Hero Club Member",
+      "Washio Sumi wa Yuusha de Aru"
+    ],
+    "type": "Movie",
+    "source": "4-koma manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 15, 2017"
+    },
+    "duration": "7 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.49,
+    "scored_by": 1350,
+    "rank": 7133,
+    "popularity": 9576,
+    "members": 3958,
+    "favorites": 1,
+    "synopsis": "The story takes place in the era of the gods, year 300. Yuuna Yuuki lives an ordinary life as a second year middle school student, but she's also a member of the \"Hero Club,\" where club activities involve dealing with a mysterious being called \"Vertex.\"\n\n(Source: ANN)\n\nAired along side Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou Movie 2 - Tamashii.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34394,
+            "type": "anime",
+            "name": "Yuuki Yuuna wa Yuushabu Shozoku",
+            "url": "https://myanimelist.net/anime/34394/Yuuki_Yuuna_wa_Yuushabu_Shozoku"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 35473,
+            "type": "anime",
+            "name": "Yuuki Yuuna wa Yuushabu Shozoku 3",
+            "url": "https://myanimelist.net/anime/35473/Yuuki_Yuuna_wa_Yuushabu_Shozoku_3"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 81721,
+            "type": "manga",
+            "name": "Yuuki Yuuna wa Yuusha-bu Shozoku",
+            "url": "https://myanimelist.net/manga/81721/Yuuki_Yuuna_wa_Yuusha-bu_Shozoku"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34375,
+            "type": "anime",
+            "name": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii",
+            "url": "https://myanimelist.net/anime/34375/Yuuki_Yuuna_wa_Yuusha_de_Aru__Washio_Sumi_no_Shou_2_-_Tamashii"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12543"
+      }
+    ],
+    "streaming": []
+  }
+}

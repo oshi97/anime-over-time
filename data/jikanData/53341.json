@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 53341,
+    "url": "https://myanimelist.net/anime/53341/Pick_Me_Up_Pilot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/129146.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/129146t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/129146l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/129146.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/129146t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/129146l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pick Me Up! Pilot"
+      }
+    ],
+    "title": "Pick Me Up! Pilot",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 9, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.53,
+    "scored_by": 168,
+    "rank": 11968,
+    "popularity": 18666,
+    "members": 356,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      },
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 154587,
+            "type": "manga",
+            "name": "Pick Me Up",
+            "url": "https://myanimelist.net/manga/154587/Pick_Me_Up"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56672,
+            "type": "anime",
+            "name": "Top Tier",
+            "url": "https://myanimelist.net/anime/56672/Top_Tier"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_8CofTrDbS0"
+      }
+    ],
+    "streaming": []
+  }
+}

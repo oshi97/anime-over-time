@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 36774,
+    "url": "https://myanimelist.net/anime/36774/Star_Wars_Saigo_no_Jedai__Tokubetsu_Eizou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88916.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88916t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88916l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88916.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88916t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88916l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Star Wars/Saigo no Jedai: Tokubetsu Eizou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Wars: The Last Jedi"
+      },
+      {
+        "type": "Synonym",
+        "title": "SW Cast Zenin BB-8 Mitai na Form ni Nattara Kawaii!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Wars: The Force Awakens"
+      },
+      {
+        "type": "Synonym",
+        "title": "Star Wars: Force no Kakusei"
+      },
+      {
+        "type": "Japanese",
+        "title": "『スター・ウォーズ／最後のジェダイ』特別映像"
+      }
+    ],
+    "title": "Star Wars/Saigo no Jedai: Tokubetsu Eizou",
+    "title_english": null,
+    "title_japanese": "『スター・ウォーズ／最後のジェダイ』特別映像",
+    "title_synonyms": [
+      "Star Wars: The Last Jedi",
+      "SW Cast Zenin BB-8 Mitai na Form ni Nattara Kawaii!",
+      "Star Wars: The Force Awakens",
+      "Star Wars: Force no Kakusei"
+    ],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 8, 2017"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 4.64,
+    "scored_by": 450,
+    "rank": 13503,
+    "popularity": 14144,
+    "members": 1004,
+    "favorites": 1,
+    "synopsis": "A promotional video for Star Wars: The Last Jedi, titled Star Wars: Saigo no Jedai in Japan. The video re-imagines the Star Wars cast in BB-8's cute design and recaps the events of the previous film Star Wars: The Force Awakens, titled Star Wars: Force no Kakusei in Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37334,
+            "type": "anime",
+            "name": "Star Wars/Force no Kakusei",
+            "url": "https://myanimelist.net/anime/37334/Star_Wars_Force_no_Kakusei"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 37334,
+            "type": "anime",
+            "name": "Star Wars/Force no Kakusei",
+            "url": "https://myanimelist.net/anime/37334/Star_Wars_Force_no_Kakusei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LC1-IsP1y_0"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%80%E3%82%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

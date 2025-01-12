@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48241,
+    "url": "https://myanimelist.net/anime/48241/Pororo_Movie__Gonglyongseom_Daemoheom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1881/130305.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1881/130305t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1881/130305l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1881/130305.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1881/130305t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1881/130305l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pororo Movie: Gonglyongseom Daemoheom"
+      },
+      {
+        "type": "Japanese",
+        "title": "뽀로로 극장판 공룡섬 대모험"
+      },
+      {
+        "type": "English",
+        "title": "Pororo: Dinosaur Island Adventure"
+      }
+    ],
+    "title": "Pororo Movie: Gonglyongseom Daemoheom",
+    "title_english": "Pororo: Dinosaur Island Adventure",
+    "title_japanese": "뽀로로 극장판 공룡섬 대모험",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 7, 2017"
+    },
+    "duration": "1 hr 18 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18432,
+    "popularity": 23464,
+    "members": 116,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2940,
+        "type": "anime",
+        "name": "Ocon Studio",
+        "url": "https://myanimelist.net/anime/producer/2940/Ocon_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36530,
+            "type": "anime",
+            "name": "Porong Porong Pororo 6",
+            "url": "https://myanimelist.net/anime/36530/Porong_Porong_Pororo_6"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EB%BD%80%EB%A1%9C%EB%A1%9C%20%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B3%B5%EB%A3%A1%EC%84%AC%20%EB%8C%80%EB%AA%A8%ED%97%98"
+      }
+    ],
+    "streaming": []
+  }
+}

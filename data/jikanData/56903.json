@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 56903,
+    "url": "https://myanimelist.net/anime/56903/MyGO_Member_no_Nichijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/139081.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/139081t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/139081l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/139081.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/139081t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/139081l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "MyGO!!!!! Member no Nichijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "MyGO!!!!!メンバーの日常"
+      }
+    ],
+    "title": "MyGO!!!!! Member no Nichijou",
+    "title_english": null,
+    "title_japanese": "MyGO!!!!!メンバーの日常",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Mixed media",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-08-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 24, 2022 to ?"
+    },
+    "duration": "33 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 128,
+    "rank": 6711,
+    "popularity": 17252,
+    "members": 465,
+    "favorites": 1,
+    "synopsis": "Shorts showing the daily lives of members of the band MyGO!!!!! released on the official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1155,
+        "type": "anime",
+        "name": "Studio Moriken",
+        "url": "https://myanimelist.net/anime/producer/1155/Studio_Moriken"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54959,
+            "type": "anime",
+            "name": "BanG Dream! It's MyGO!!!!!",
+            "url": "https://myanimelist.net/anime/54959/BanG_Dream_Its_MyGO"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

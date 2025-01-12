@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 56261,
+    "url": "https://myanimelist.net/anime/56261/Running_Man__Revengers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1699/137756.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/137756t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/137756l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1699/137756.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/137756t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/137756l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Running Man: Revengers"
+      },
+      {
+        "type": "Synonym",
+        "title": "Leonningmaen: Libenjyeoseu"
+      },
+      {
+        "type": "Japanese",
+        "title": "런닝맨: 리벤져스"
+      },
+      {
+        "type": "English",
+        "title": "Running Man: Revengers"
+      }
+    ],
+    "title": "Running Man: Revengers",
+    "title_english": "Running Man: Revengers",
+    "title_japanese": "런닝맨: 리벤져스",
+    "title_synonyms": [
+      "Leonningmaen: Libenjyeoseu"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 10, 2023 to ?"
+    },
+    "duration": "1 hr 13 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18754,
+    "popularity": 23441,
+    "members": 117,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36036,
+            "type": "anime",
+            "name": "Running Man",
+            "url": "https://myanimelist.net/anime/36036/Running_Man"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://locusanimation.com/project/running-man-revengers"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/런닝맨:%20리벤져스"
+      }
+    ],
+    "streaming": []
+  }
+}

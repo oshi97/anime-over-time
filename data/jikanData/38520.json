@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 38520,
+    "url": "https://myanimelist.net/anime/38520/Inko_Colors_the_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/95655.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/95655t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/95655l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/95655.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/95655t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/95655l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inko Colors the Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "インコカラーズ The animation"
+      },
+      {
+        "type": "English",
+        "title": "Inko Colors the Animation"
+      }
+    ],
+    "title": "Inko Colors the Animation",
+    "title_english": "Inko Colors the Animation",
+    "title_japanese": "インコカラーズ The animation",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 16, 2017"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 6.5,
+    "scored_by": 835,
+    "rank": 7073,
+    "popularity": 12857,
+    "members": 1432,
+    "favorites": 7,
+    "synopsis": "Five budgies meet every day in a club to help other birds.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50090,
+            "type": "anime",
+            "name": "Inko Colors the Animation 2",
+            "url": "https://myanimelist.net/anime/50090/Inko_Colors_the_Animation_2"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 49654,
+            "type": "anime",
+            "name": "Hakubunchou no Shiro",
+            "url": "https://myanimelist.net/anime/49654/Hakubunchou_no_Shiro"
+          },
+          {
+            "mal_id": 59714,
+            "type": "anime",
+            "name": "Bunchou Colors",
+            "url": "https://myanimelist.net/anime/59714/Bunchou_Colors"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 41391,
+            "type": "anime",
+            "name": "Nankyoku Penguin Colors",
+            "url": "https://myanimelist.net/anime/41391/Nankyoku_Penguin_Colors"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Lb3VC_4n_E0"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13253"
+      }
+    ],
+    "streaming": []
+  }
+}

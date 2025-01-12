@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 36018,
+    "url": "https://myanimelist.net/anime/36018/Dia_Horizon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/87292.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/87292t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/87292l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/87292.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/87292t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/87292l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dia Horizon"
+      },
+      {
+        "type": "Japanese",
+        "title": "ディア ホライゾン"
+      }
+    ],
+    "title": "Dia Horizon",
+    "title_english": null,
+    "title_japanese": "ディア ホライゾン",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-10T00:00:00+00:00",
+      "to": "2017-08-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": 21,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Aug 10, 2017 to Aug 21, 2017"
+    },
+    "duration": "35 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.27,
+    "scored_by": 137,
+    "rank": 12701,
+    "popularity": 15848,
+    "members": 627,
+    "favorites": 0,
+    "synopsis": "The web anime of Dia Horizon; characters are featured as chibis as they break the 4th wall to talk about their own real-life mobile game (which is being released this month). As well as promoting the full length TV anime coming out in a October 2017 as well as the 4-koma manga available now.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35999,
+            "type": "anime",
+            "name": "Dia Horizon (Kabu)",
+            "url": "https://myanimelist.net/anime/35999/Dia_Horizon_Kabu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://portal.dia-horizon.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13327"
+      }
+    ],
+    "streaming": []
+  }
+}

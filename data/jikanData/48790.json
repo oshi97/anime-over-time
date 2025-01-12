@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 48790,
+    "url": "https://myanimelist.net/anime/48790/Neko_Jockey",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1769/114535.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1769/114535t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1769/114535l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1769/114535.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1769/114535t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1769/114535l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko Jockey"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫ジョッキー"
+      }
+    ],
+    "title": "Neko Jockey",
+    "title_english": null,
+    "title_japanese": "猫ジョッキー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-06T00:00:00+00:00",
+      "to": "2021-05-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 27,
+          "month": 5,
+          "year": 2021
+        }
+      },
+      "string": "May 6, 2021 to May 27, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17914,
+    "popularity": 19281,
+    "members": 315,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "23:10",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 23:10 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1415,
+        "type": "anime",
+        "name": "Asahi Broadcasting",
+        "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50052,
+            "type": "anime",
+            "name": "Neko Jockey 2nd Season",
+            "url": "https://myanimelist.net/anime/50052/Neko_Jockey_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.asahi.co.jp/sp/neko_jockey/"
+      },
+      {
+        "name": "@nekojockey",
+        "url": "https://twitter.com/nekojockey"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24804"
+      }
+    ],
+    "streaming": []
+  }
+}

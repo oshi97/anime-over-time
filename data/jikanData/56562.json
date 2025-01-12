@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 56562,
+    "url": "https://myanimelist.net/anime/56562/Daikaijuu_Gamenya_Shuurai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/138470.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/138470t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/138470l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/138470.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/138470t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/138470l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Daikaijuu Gamenya Shuurai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yoru wa Neko to Issho x Gamera: Rebirth"
+      },
+      {
+        "type": "Japanese",
+        "title": "大怪獣ガメニャ襲来"
+      },
+      {
+        "type": "English",
+        "title": "Nights with a Cat x Gamera: Rebirth"
+      }
+    ],
+    "title": "Daikaijuu Gamenya Shuurai",
+    "title_english": "Nights with a Cat x Gamera: Rebirth",
+    "title_japanese": "大怪獣ガメニャ襲来",
+    "title_synonyms": [
+      "Yoru wa Neko to Issho x Gamera: Rebirth"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 6, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.45,
+    "scored_by": 609,
+    "rank": 7358,
+    "popularity": 13588,
+    "members": 1166,
+    "favorites": 0,
+    "synopsis": "Special episode of Yoru wa Neko to Issho promoting Gamera: Rebirth.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54198,
+            "type": "anime",
+            "name": "Yoru wa Neko to Issho Season 2",
+            "url": "https://myanimelist.net/anime/54198/Yoru_wa_Neko_to_Issho_Season_2"
+          },
+          {
+            "mal_id": 53627,
+            "type": "anime",
+            "name": "Gamera: Rebirth",
+            "url": "https://myanimelist.net/anime/53627/Gamera__Rebirth"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=qfhhmzlPfaU"
+      }
+    ],
+    "streaming": []
+  }
+}

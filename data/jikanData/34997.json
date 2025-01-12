@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 34997,
+    "url": "https://myanimelist.net/anime/34997/Ao_no_Strada",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/84500.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/84500t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/84500l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/84500.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/84500t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/84500l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ao no Strada"
+      },
+      {
+        "type": "Synonym",
+        "title": "Strada with Blu-ray"
+      },
+      {
+        "type": "Japanese",
+        "title": "青のストラーダ"
+      }
+    ],
+    "title": "Ao no Strada",
+    "title_english": null,
+    "title_japanese": "青のストラーダ",
+    "title_synonyms": [
+      "Strada with Blu-ray"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-27T00:00:00+00:00",
+      "to": "2017-03-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": 13,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Feb 27, 2017 to Mar 13, 2017"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.32,
+    "scored_by": 189,
+    "rank": 12596,
+    "popularity": 15381,
+    "members": 703,
+    "favorites": 0,
+    "synopsis": "Promotional anime for Panasonic CN-F1D Strada.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1565,
+        "type": "anime",
+        "name": "Panasonic Digital Contents",
+        "url": "https://myanimelist.net/anime/producer/1565/Panasonic_Digital_Contents"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://panasonic.jp/car/navi/special/F1D/campaign2/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12908"
+      }
+    ],
+    "streaming": []
+  }
+}

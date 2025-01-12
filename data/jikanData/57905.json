@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 57905,
+    "url": "https://myanimelist.net/anime/57905/Yodaka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/141032.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/141032t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/141032l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1657/141032.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1657/141032t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1657/141032l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yodaka"
+      },
+      {
+        "type": "Japanese",
+        "title": "よだか"
+      },
+      {
+        "type": "English",
+        "title": "The Nighthawk Is Not a Hawk"
+      }
+    ],
+    "title": "Yodaka",
+    "title_english": "The Nighthawk Is Not a Hawk",
+    "title_japanese": "よだか",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2023"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15875,
+    "popularity": 20715,
+    "members": 234,
+    "favorites": 0,
+    "synopsis": "The Nighthawk is an ugly bird. So ugly that everyone thinks he stole the name and the Hawk demands that he relinquish it. The Nighthawk cannot accept this, but he also realizes that he's not much different from the Hawk.\n\n(Source: Geidai Animation)",
+    "background": "Graduate Work 2023 by Junjie Wang, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1524,
+        "type": "anime",
+        "name": "Geidai Animation",
+        "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 22249,
+            "type": "anime",
+            "name": "Yodaka no Hoshi",
+            "url": "https://myanimelist.net/anime/22249/Yodaka_no_Hoshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animation.geidai.ac.jp/14juicy/films/p_08.html"
+      }
+    ],
+    "streaming": []
+  }
+}

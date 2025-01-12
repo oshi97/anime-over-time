@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 51888,
+    "url": "https://myanimelist.net/anime/51888/Kansatsu_Pokemon_Zukan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1575/123956.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/123956t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/123956l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1575/123956.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/123956t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/123956l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kansatsu! Pokemon Zukan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kansatsu! Pokemon Book: Oddish"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kansatsu! Pokemon Book: One Pachi"
+      },
+      {
+        "type": "Japanese",
+        "title": "かんさつ！ポケモンずかん"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Pokédex Info"
+      }
+    ],
+    "title": "Kansatsu! Pokemon Zukan",
+    "title_english": "Pokémon Kids TV: Pokédex Info",
+    "title_japanese": "かんさつ！ポケモンずかん",
+    "title_synonyms": [
+      "Kansatsu! Pokemon Book: Oddish",
+      "Kansatsu! Pokemon Book: One Pachi"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-23T00:00:00+00:00",
+      "to": "2020-12-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": 4,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Oct 23, 2020 to Dec 4, 2020"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": 5.49,
+    "scored_by": 301,
+    "rank": 12098,
+    "popularity": 14684,
+    "members": 866,
+    "favorites": 2,
+    "synopsis": "What kind of life do Pokemon have? Let's secretly try it!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

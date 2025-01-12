@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 42262,
+    "url": "https://myanimelist.net/anime/42262/Enoshimans_Spin-off__Kurage_no_Soudan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1298/108121.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1298/108121t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1298/108121l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1298/108121.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1298/108121t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1298/108121l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Enoshimans Spin-off: Kurage no Soudan"
+      },
+      {
+        "type": "Japanese",
+        "title": "えのしまんず SPIN OFF 『クラゲの相談』"
+      }
+    ],
+    "title": "Enoshimans Spin-off: Kurage no Soudan",
+    "title_english": null,
+    "title_japanese": "えのしまんず SPIN OFF 『クラゲの相談』",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 1, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20352,
+    "popularity": 21071,
+    "members": 214,
+    "favorites": 0,
+    "synopsis": "A spin-off of Enoshimans, a web series that was made to promote the Enoshima Aquarium in Fujisawa. We follow Eno from the original series as he interacts with other jellyfish at the aquarium.",
+    "background": "The series was show for the entire month of March on screens at the aquarium. On March 4, 2019, it was uploaded to the mysta YouTube channel, which hosted web events leading up to its release, including voice actor auditions and updates on the series' production.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1005,
+        "type": "anime",
+        "name": "Oddjob",
+        "url": "https://myanimelist.net/anime/producer/1005/Oddjob"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 35890,
+            "type": "anime",
+            "name": "Enoshimans",
+            "url": "https://myanimelist.net/anime/35890/Enoshimans"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://enoshimans.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

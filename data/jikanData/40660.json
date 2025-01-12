@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 40660,
+    "url": "https://myanimelist.net/anime/40660/Start",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1797/104155.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/104155t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/104155l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1797/104155.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/104155t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/104155l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Start"
+      },
+      {
+        "type": "Japanese",
+        "title": "START"
+      },
+      {
+        "type": "English",
+        "title": "Start"
+      }
+    ],
+    "title": "Start",
+    "title_english": "Start",
+    "title_japanese": "START",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 2, 2019"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 4.96,
+    "scored_by": 266,
+    "rank": 13195,
+    "popularity": 15649,
+    "members": 657,
+    "favorites": 0,
+    "synopsis": "A Machida City tourism promotion anime. The story follows a married couple who recall their university days hanging out in Machida, and upon revisiting the area they discover the appeal of living there with their son. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2053,
+        "type": "anime",
+        "name": "l-a-unch・BOX",
+        "url": "https://myanimelist.net/anime/producer/2053/l-a-unch%E3%83%BBBOX"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"START\" by KEN THE 390 & Jun Fukuyama"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.city.machida.tokyo.jp/shisei/city_promotion/machidacp/CP_START.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15252"
+      }
+    ],
+    "streaming": []
+  }
+}

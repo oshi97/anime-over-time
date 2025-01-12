@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 54145,
+    "url": "https://myanimelist.net/anime/54145/Cardfight_Vanguard__D_Series_Season_9",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1595/132559.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1595/132559t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1595/132559l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1595/132559.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1595/132559t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1595/132559l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cardfight!! Vanguard: D Series Season 9"
+      },
+      {
+        "type": "Japanese",
+        "title": "カードファイト!! ヴァンガード: Dシリーズ"
+      }
+    ],
+    "title": "Cardfight!! Vanguard: D Series Season 9",
+    "title_english": null,
+    "title_japanese": "カードファイト!! ヴァンガード: Dシリーズ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 16359,
+    "members": 559,
+    "favorites": 0,
+    "synopsis": "Ninth season of Cardfight!! Vanguard: D Series.",
+    "background": "",
+    "season": "summer",
+    "year": 2025,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 775,
+        "type": "anime",
+        "name": "Bushiroad",
+        "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54144,
+            "type": "anime",
+            "name": "Cardfight!! Vanguard: Divinez Deluxe-hen",
+            "url": "https://myanimelist.net/anime/54144/Cardfight_Vanguard__Divinez_Deluxe-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@cfvanguard_PR",
+        "url": "https://twitter.com/cfvanguard_PR/"
+      }
+    ],
+    "streaming": []
+  }
+}

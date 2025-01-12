@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 33564,
+    "url": "https://myanimelist.net/anime/33564/Armed_Blue_Gunvolt",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/85631.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85631t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85631l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/85631.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85631t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85631l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "MnmOpEUd2JE",
+      "url": "https://www.youtube.com/watch?v=MnmOpEUd2JE",
+      "embed_url": "https://www.youtube.com/embed/MnmOpEUd2JE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/MnmOpEUd2JE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/MnmOpEUd2JE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/MnmOpEUd2JE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/MnmOpEUd2JE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/MnmOpEUd2JE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Armed Blue Gunvolt"
+      },
+      {
+        "type": "Synonym",
+        "title": "Azure Striker Gunvolt"
+      },
+      {
+        "type": "Japanese",
+        "title": "蒼き雷霆〈アームドブルー〉 ガンヴォルト"
+      }
+    ],
+    "title": "Armed Blue Gunvolt",
+    "title_english": null,
+    "title_japanese": "蒼き雷霆〈アームドブルー〉 ガンヴォルト",
+    "title_synonyms": [
+      "Azure Striker Gunvolt"
+    ],
+    "type": "OVA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2017"
+    },
+    "duration": "21 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.58,
+    "scored_by": 2429,
+    "rank": 11815,
+    "popularity": 7195,
+    "members": 8489,
+    "favorites": 18,
+    "synopsis": "In the near future, there are people with special power called Sevens. It seems like the country has maintained peace by a company called Sumeragi Group, but they are the one who captured the people with the special power by force and did inhumane experiments. Gunvolt, the main character who has the power of Sevens, used to be in Feather, a resistant group who fought against the Sumeragi Group. The story begins with meeting the heroine, Sian.\n\n(Source: MAL News)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 563,
+        "type": "anime",
+        "name": "LandQ studios",
+        "url": "https://myanimelist.net/anime/producer/563/LandQ_studios"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://gunvolt.com/anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12257"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19021"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azure_Striker_Gunvolt"
+      }
+    ],
+    "streaming": []
+  }
+}

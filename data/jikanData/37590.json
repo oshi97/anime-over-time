@@ -1,0 +1,191 @@
+{
+  "data": {
+    "mal_id": 37590,
+    "url": "https://myanimelist.net/anime/37590/Devilman__Crybaby_-_Digest_Eizou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/122722.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/122722t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/122722l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/122722.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/122722t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/122722l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Devilman: Crybaby - Digest Eizou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Devilman: Crybaby Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "「DEVILMAN crybaby」ダイジェスト映像"
+      },
+      {
+        "type": "English",
+        "title": "Devilman: Crybaby - Digest Video"
+      }
+    ],
+    "title": "Devilman: Crybaby - Digest Eizou",
+    "title_english": "Devilman: Crybaby - Digest Video",
+    "title_japanese": "「DEVILMAN crybaby」ダイジェスト映像",
+    "title_synonyms": [
+      "Devilman: Crybaby Recap"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 24, 2018"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.22,
+    "scored_by": 3179,
+    "rank": 8721,
+    "popularity": 6333,
+    "members": 11459,
+    "favorites": 23,
+    "synopsis": "A short web recap of the Devilman: Crybaby series, posted on Aniplex's official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      },
+      {
+        "mal_id": 921,
+        "type": "anime",
+        "name": "Dynamic Planning",
+        "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1591,
+        "type": "anime",
+        "name": "Science SARU",
+        "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 35120,
+            "type": "anime",
+            "name": "Devilman: Crybaby",
+            "url": "https://myanimelist.net/anime/35120/Devilman__Crybaby"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://devilman-crybaby.com/trailer/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12986"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19982"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Devilman_Crybaby"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 54085,
+    "url": "https://myanimelist.net/anime/54085/Moonlight_Adventure",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1830/132326.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/132326t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/132326l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1830/132326.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/132326t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/132326l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Moonlight Adventure"
+      },
+      {
+        "type": "Japanese",
+        "title": "ムーンライトアドベンチャー"
+      }
+    ],
+    "title": "Moonlight Adventure",
+    "title_english": null,
+    "title_japanese": "ムーンライトアドベンチャー",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009"
+    },
+    "duration": "30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17726,
+    "popularity": 26236,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1753,
+        "type": "anime",
+        "name": "D & D Pictures",
+        "url": "https://myanimelist.net/anime/producer/1753/D___D_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.d-dpictures.co.jp/planetarium/644"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16341"
+      }
+    ],
+    "streaming": []
+  }
+}

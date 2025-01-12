@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 55081,
+    "url": "https://myanimelist.net/anime/55081/Tsukuyo_no_Nakama_Atsume",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1494/135477.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/135477t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/135477l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1494/135477.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/135477t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/135477l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsukuyo no Nakama Atsume"
+      },
+      {
+        "type": "Japanese",
+        "title": "ツクヨの仲間集め"
+      }
+    ],
+    "title": "Tsukuyo no Nakama Atsume",
+    "title_english": null,
+    "title_japanese": "ツクヨの仲間集め",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 22, 2023"
+    },
+    "duration": "16 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54309,
+            "type": "anime",
+            "name": "Blue Archive the Animation",
+            "url": "https://myanimelist.net/anime/54309/Blue_Archive_the_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

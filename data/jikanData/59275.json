@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 59275,
+    "url": "https://myanimelist.net/anime/59275/King_of_Prism__Dramatic_Prism1",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1942/144184.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1942/144184t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1942/144184l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1942/144184.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1942/144184t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1942/144184l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "ufMuhz4Q2bI",
+      "url": "https://www.youtube.com/watch?v=ufMuhz4Q2bI",
+      "embed_url": "https://www.youtube.com/embed/ufMuhz4Q2bI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/ufMuhz4Q2bI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/ufMuhz4Q2bI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/ufMuhz4Q2bI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/ufMuhz4Q2bI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/ufMuhz4Q2bI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "King of Prism: Dramatic Prism.1"
+      },
+      {
+        "type": "Japanese",
+        "title": "KING OF PRISM -Dramatic PRISM.1-"
+      }
+    ],
+    "title": "King of Prism: Dramatic Prism.1",
+    "title_english": null,
+    "title_japanese": "KING OF PRISM -Dramatic PRISM.1-",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 16, 2024"
+    },
+    "duration": "1 hr",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16748,
+    "popularity": 17809,
+    "members": 420,
+    "favorites": 1,
+    "synopsis": "Movie version of King of Prism: Shiny Seven Stars with new content.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 103,
+        "type": "anime",
+        "name": "Tatsunoko Production",
+        "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 39699,
+            "type": "anime",
+            "name": "King of Prism: Shiny Seven Stars",
+            "url": "https://myanimelist.net/anime/39699/King_of_Prism__Shiny_Seven_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kinpri.com/"
+      },
+      {
+        "name": "@kinpri_PR",
+        "url": "https://twitter.com/kinpri_PR"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18553"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32693"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_of_Prism:_Shiny_Seven_Stars"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/KING_OF_PRISM_-Shiny_Seven_Stars-#%E5%8A%87%E5%A0%B4%E7%89%88"
+      }
+    ],
+    "streaming": []
+  }
+}

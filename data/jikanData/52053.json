@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 52053,
+    "url": "https://myanimelist.net/anime/52053/Zannen_na_Ikimono_Jiten_2022",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1001/132172.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/132172t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/132172l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1001/132172.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/132172t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/132172l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zannen na Ikimono Jiten (2022)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ざんねんないきもの事典 (2022)"
+      },
+      {
+        "type": "English",
+        "title": "Encyclopedia of Pitiful Creatures (2022)"
+      }
+    ],
+    "title": "Zannen na Ikimono Jiten (2022)",
+    "title_english": "Encyclopedia of Pitiful Creatures (2022)",
+    "title_japanese": "ざんねんないきもの事典 (2022)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-13T00:00:00+00:00",
+      "to": "2022-03-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": 13,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Feb 13, 2022 to Mar 13, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16026,
+    "popularity": 19926,
+    "members": 278,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      },
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      },
+      {
+        "mal_id": 1797,
+        "type": "anime",
+        "name": "NHK Enterprises",
+        "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52052,
+            "type": "anime",
+            "name": "Zannen na Ikimono Jiten (2021)",
+            "url": "https://myanimelist.net/anime/52052/Zannen_na_Ikimono_Jiten_2021"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.jp/p/zannenikimono/ts/EPMZWJ9XKG/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17202"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%96%E3%82%93%E3%81%AD%E3%82%93%E3%81%AA%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E4%BA%8B%E5%85%B8"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6271"
+      }
+    ],
+    "streaming": []
+  }
+}

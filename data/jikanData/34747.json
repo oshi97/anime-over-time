@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 34747,
+    "url": "https://myanimelist.net/anime/34747/Meikoku_Gakuen__Jutai-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/85578.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85578t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85578l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/85578.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85578t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85578l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meikoku Gakuen: Jutai-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "冥刻學園 受胎編"
+      },
+      {
+        "type": "English",
+        "title": "Dark Hour Academy: Fertilization Arc"
+      }
+    ],
+    "title": "Meikoku Gakuen: Jutai-hen",
+    "title_english": "Dark Hour Academy: Fertilization Arc",
+    "title_japanese": "冥刻學園 受胎編",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-28T00:00:00+00:00",
+      "to": "2017-05-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 26,
+          "month": 5,
+          "year": 2017
+        }
+      },
+      "string": "Apr 28, 2017 to May 26, 2017"
+    },
+    "duration": "16 min per ep",
+    "rating": "Rx - Hentai",
+    "score": 7.08,
+    "scored_by": 5002,
+    "rank": null,
+    "popularity": 6103,
+    "members": 12610,
+    "favorites": 66,
+    "synopsis": "Based on the game by Lune.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 823,
+        "type": "anime",
+        "name": "Lune-Pictures",
+        "url": "https://myanimelist.net/anime/producer/823/Lune-Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 405,
+        "type": "anime",
+        "name": "T-Rex",
+        "url": "https://myanimelist.net/anime/producer/405/T-Rex"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 124634,
+            "type": "manga",
+            "name": "Meikoku Gakuen: Taidou suru Kyouran no Seien",
+            "url": "https://myanimelist.net/manga/124634/Meikoku_Gakuen__Taidou_suru_Kyouran_no_Seien"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 27603,
+            "type": "anime",
+            "name": "Jutaijima",
+            "url": "https://myanimelist.net/anime/27603/Jutaijima"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lune-soft.jp/ova/14276"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12724"
+      }
+    ],
+    "streaming": []
+  }
+}

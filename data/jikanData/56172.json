@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56172,
+    "url": "https://myanimelist.net/anime/56172/Temple_x_Kanojo_Okarishimasu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/137563.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/137563t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/137563l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/137563.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/137563t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/137563l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Temple x Kanojo, Okarishimasu"
+      },
+      {
+        "type": "Synonym",
+        "title": "TenPuru x Kanokari"
+      },
+      {
+        "type": "Japanese",
+        "title": "てんぷる×彼女お借りします"
+      }
+    ],
+    "title": "Temple x Kanojo, Okarishimasu",
+    "title_english": null,
+    "title_japanese": "てんぷる×彼女お借りします",
+    "title_synonyms": [
+      "TenPuru x Kanokari"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-05T00:00:00+00:00",
+      "to": "2023-08-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": 26,
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "string": "Aug 5, 2023 to Aug 26, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.86,
+    "scored_by": 806,
+    "rank": 10601,
+    "popularity": 10034,
+    "members": 3427,
+    "favorites": 3,
+    "synopsis": "Mini-anime collaboration between Temple &amp; Kanojo, Okarishimasu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53050,
+            "type": "anime",
+            "name": "Kanojo, Okarishimasu 3rd Season",
+            "url": "https://myanimelist.net/anime/53050/Kanojo_Okarishimasu_3rd_Season"
+          },
+          {
+            "mal_id": 54275,
+            "type": "anime",
+            "name": "Temple",
+            "url": "https://myanimelist.net/anime/54275/Temple"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kanokari-official.com/218/"
+      }
+    ],
+    "streaming": []
+  }
+}

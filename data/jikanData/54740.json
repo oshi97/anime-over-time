@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 54740,
+    "url": "https://myanimelist.net/anime/54740/Make_a_Girl",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1783/146574.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/146574t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/146574l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1783/146574.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/146574t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/146574l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "ZWQ9jUh7_u0",
+      "url": "https://www.youtube.com/watch?v=ZWQ9jUh7_u0",
+      "embed_url": "https://www.youtube.com/embed/ZWQ9jUh7_u0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/ZWQ9jUh7_u0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/ZWQ9jUh7_u0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/ZWQ9jUh7_u0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/ZWQ9jUh7_u0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/ZWQ9jUh7_u0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Make a Girl"
+      },
+      {
+        "type": "Japanese",
+        "title": "メイク ア ガール"
+      }
+    ],
+    "title": "Make a Girl",
+    "title_english": null,
+    "title_japanese": "メイク ア ガール",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 31, 2025"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 7162,
+    "members": 8586,
+    "favorites": 11,
+    "synopsis": "Taking place in the near future, Akira Mizutame, a brilliant young scientist who developed Salt, a robot that assists people in their daily lives, finds himself at a dead end after a series of failed inventions. When a friend suggests he could \"power up\" his personal life by creating a girlfriend. He develops an artificial partner, \"No. 0,\" who quite literally becomes his girlfriend. Torn between her programmed emotions and her own evolving feelings, No. 0 faces an emotional conflict. Will love blossom between her and Akira, who is unused to connecting with others, or...?\n\n(Source: Official site, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      },
+      {
+        "mal_id": 1858,
+        "type": "anime",
+        "name": "Sonilude",
+        "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+      },
+      {
+        "mal_id": 1916,
+        "type": "anime",
+        "name": "Kadokawa Animation",
+        "url": "https://myanimelist.net/anime/producer/1916/Kadokawa_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54739,
+            "type": "anime",
+            "name": "Make Love",
+            "url": "https://myanimelist.net/anime/54739/Make_Love"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Hanaboshi (花星)\" by Eve"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://make-a-girl.com/"
+      },
+      {
+        "name": "@make_a_girl_pr",
+        "url": "https://twitter.com/make_a_girl_pr"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@gensho_yasuda"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18460"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32010"
+      }
+    ],
+    "streaming": []
+  }
+}

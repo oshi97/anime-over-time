@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 57858,
+    "url": "https://myanimelist.net/anime/57858/Shirarezaru_Momowarou_Monogatari",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1312/140939.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/140939t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/140939l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1312/140939.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/140939t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/140939l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shirarezaru \"Momowarou Monogatari\""
+      },
+      {
+        "type": "Synonym",
+        "title": "The Unknown \"Tale of Momowarou\""
+      },
+      {
+        "type": "Japanese",
+        "title": "知られざる「モモワロウ物語」"
+      },
+      {
+        "type": "English",
+        "title": "The Untold Story of Pecharunt"
+      }
+    ],
+    "title": "Shirarezaru \"Momowarou Monogatari\"",
+    "title_english": "The Untold Story of Pecharunt",
+    "title_japanese": "知られざる「モモワロウ物語」",
+    "title_synonyms": [
+      "The Unknown \"Tale of Momowarou\""
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-11T00:00:00+00:00",
+      "to": "2024-01-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": 15,
+          "month": 1,
+          "year": 2024
+        }
+      },
+      "string": "Jan 11, 2024 to Jan 15, 2024"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.29,
+    "scored_by": 173,
+    "rank": 8307,
+    "popularity": 18085,
+    "members": 400,
+    "favorites": 0,
+    "synopsis": "Signboards depicting one of Kitakami's oldest folktales are scattered throughout the land—yet none of them make mention of Pecharunt. What could be the true tale of this Mythical Pokémon?​\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1063,
+        "type": "anime",
+        "name": "Calf Studio",
+        "url": "https://myanimelist.net/anime/producer/1063/Calf_Studio"
+      },
+      {
+        "mal_id": 1872,
+        "type": "anime",
+        "name": "P.I.C.S.",
+        "url": "https://myanimelist.net/anime/producer/1872/PICS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=g_lY_H2fLyU"
+      }
+    ],
+    "streaming": []
+  }
+}

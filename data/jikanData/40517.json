@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 40517,
+    "url": "https://myanimelist.net/anime/40517/Ano_Hi_no_Kokoro_wo_Toraete",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/106104.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/106104t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/106104l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/106104.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/106104t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/106104l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ano Hi no Kokoro wo Toraete"
+      },
+      {
+        "type": "Synonym",
+        "title": "Seize Your Heart From That Day"
+      },
+      {
+        "type": "Japanese",
+        "title": "あの日の心をとらえて"
+      }
+    ],
+    "title": "Ano Hi no Kokoro wo Toraete",
+    "title_english": null,
+    "title_japanese": "あの日の心をとらえて",
+    "title_synonyms": [
+      "Seize Your Heart From That Day"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 23, 2019"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 5.91,
+    "scored_by": 932,
+    "rank": 10344,
+    "popularity": 11130,
+    "members": 2467,
+    "favorites": 2,
+    "synopsis": "The story is set in a town that preserves nature and its natural attractions using technology. It centers on a protagonist who has drifted apart from his childhood friend, and uses the FlatFormer to reconnect through time and space. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "A-1 Pictures",
+        "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+      },
+      {
+        "mal_id": 313,
+        "type": "anime",
+        "name": "Omnibus Japan",
+        "url": "https://myanimelist.net/anime/producer/313/Omnibus_Japan"
+      },
+      {
+        "mal_id": 577,
+        "type": "anime",
+        "name": "Tohokushinsha Film Corporation",
+        "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+      },
+      {
+        "mal_id": 1543,
+        "type": "anime",
+        "name": "Sunrise Music",
+        "url": "https://myanimelist.net/anime/producer/1543/Sunrise_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Little Miss Sunshine (リトルミスサンシャイン)\" by Tokyo Karankoron"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.hino.co.jp/tokyomotorshow2019/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15139"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22684"
+      }
+    ],
+    "streaming": []
+  }
+}

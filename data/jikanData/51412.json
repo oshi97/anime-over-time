@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 51412,
+    "url": "https://myanimelist.net/anime/51412/Tenjin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/121842.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/121842t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/121842l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/121842.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/121842t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/121842l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tenjin"
+      },
+      {
+        "type": "Japanese",
+        "title": "天神"
+      }
+    ],
+    "title": "Tenjin",
+    "title_english": null,
+    "title_japanese": "天神",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2022"
+    },
+    "duration": "9 min",
+    "rating": "G - All Ages",
+    "score": 5.78,
+    "scored_by": 226,
+    "rank": 10979,
+    "popularity": 15288,
+    "members": 720,
+    "favorites": 0,
+    "synopsis": "A young girl named Miru and Ran, a boy who appeared before Miru, embark on an adventure in an alternate world — but something tragic awaits them there...\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2418,
+        "type": "anime",
+        "name": "Imagica Digitalscape",
+        "url": "https://myanimelist.net/anime/producer/2418/Imagica_Digitalscape"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49844,
+            "type": "anime",
+            "name": "Kirakira Kirari",
+            "url": "https://myanimelist.net/anime/49844/Kirakira_Kirari"
+          },
+          {
+            "mal_id": 51413,
+            "type": "anime",
+            "name": "Rock'n Oyone",
+            "url": "https://myanimelist.net/anime/51413/Rockn_Oyone"
+          },
+          {
+            "mal_id": 51414,
+            "type": "anime",
+            "name": "Uchuu Camper Chicchi",
+            "url": "https://myanimelist.net/anime/51414/Uchuu_Camper_Chicchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animenotane.jp/2022-01-26/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2_Ww4chSdJ8"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16447"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25244"
+      }
+    ],
+    "streaming": []
+  }
+}

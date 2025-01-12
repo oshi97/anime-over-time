@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 36742,
+    "url": "https://myanimelist.net/anime/36742/Koisuru_Shirokuma_Tokubetsu-ban",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/88842.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/88842t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/88842l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/88842.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/88842t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/88842l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koisuru Shirokuma Tokubetsu-ban"
+      },
+      {
+        "type": "Synonym",
+        "title": "A Polar Bear in Love"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hyouheki Don"
+      },
+      {
+        "type": "Synonym",
+        "title": "Koi Suru Shirokuma"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ai no Omosa"
+      },
+      {
+        "type": "Japanese",
+        "title": "恋するシロクマ 特別版"
+      }
+    ],
+    "title": "Koisuru Shirokuma Tokubetsu-ban",
+    "title_english": null,
+    "title_japanese": "恋するシロクマ 特別版",
+    "title_synonyms": [
+      "A Polar Bear in Love",
+      "Hyouheki Don",
+      "Koi Suru Shirokuma",
+      "Ai no Omosa"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-01T00:00:00+00:00",
+      "to": "2018-01-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": 31,
+          "month": 1,
+          "year": 2018
+        }
+      },
+      "string": "Nov 1, 2017 to Jan 31, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.34,
+    "scored_by": 581,
+    "rank": 7990,
+    "popularity": 12429,
+    "members": 1649,
+    "favorites": 2,
+    "synopsis": "Shochiku began streaming a new short for the for the \"petit anime\" of Koisuru Shirokuma. The new short, titled \"Hyouheki Don\" (Ice Wall Slam), is a web-only exclusive, and cannot be seen in theaters unlike the other shorts. \n\nThe short begins with Seal attempting to escape the sleeping Polar Bear, still fearing that Polar Bear will eat him. But before Seal can get far, Polar Bear wakes up and runs to him. Seal pleads to Polar Bear not to eat him, but Polar Bear instead performs a kabe-don on Seal with a nearby ice wall. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 43,
+        "type": "anime",
+        "name": "Josei",
+        "url": "https://myanimelist.net/anime/genre/43/Josei"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 103028,
+            "type": "manga",
+            "name": "Koisuru Shirokuma",
+            "url": "https://myanimelist.net/manga/103028/Koisuru_Shirokuma"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 34535,
+            "type": "anime",
+            "name": "Koisuru Shirokuma",
+            "url": "https://myanimelist.net/anime/34535/Koisuru_Shirokuma"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://koisurushirokuma.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12645"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19056"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "mal_id": 51585,
+    "url": "https://myanimelist.net/anime/51585/City_Hunter_Movie__Tenshi_no_Namida",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/136433.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/136433t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/136433l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/136433.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/136433t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/136433l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "xyZsig_DTYM",
+      "url": "https://www.youtube.com/watch?v=xyZsig_DTYM",
+      "embed_url": "https://www.youtube.com/embed/xyZsig_DTYM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/xyZsig_DTYM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/xyZsig_DTYM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/xyZsig_DTYM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/xyZsig_DTYM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/xyZsig_DTYM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "City Hunter Movie: Tenshi no Namida"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版シティーハンター 天使の涙 (エンジェルダスト)"
+      },
+      {
+        "type": "English",
+        "title": "City Hunter The Movie: Angel Dust"
+      }
+    ],
+    "title": "City Hunter Movie: Tenshi no Namida",
+    "title_english": "City Hunter The Movie: Angel Dust",
+    "title_japanese": "劇場版シティーハンター 天使の涙 (エンジェルダスト)",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 8, 2023"
+    },
+    "duration": "1 hr 33 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.97,
+    "scored_by": 564,
+    "rank": 4507,
+    "popularity": 8687,
+    "members": 5312,
+    "favorites": 11,
+    "synopsis": "It is based on the manga finale, where Ryo Saeba faces his dark past that his former mentor and adoptive father Shin Kaibara from now on leader of Union Teope would want to kill him, as the people who are injected with nanomachines to become super soldiers, aka Angel Dust, are starting to kill him.\n\n(Source: City Hunter Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      },
+      {
+        "mal_id": 1506,
+        "type": "anime",
+        "name": "Audio Planning U",
+        "url": "https://myanimelist.net/anime/producer/1506/Audio_Planning_U"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      },
+      {
+        "mal_id": 229,
+        "type": "anime",
+        "name": "The Answer Studio",
+        "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 792,
+            "type": "manga",
+            "name": "City Hunter",
+            "url": "https://myanimelist.net/manga/792/City_Hunter"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1470,
+            "type": "anime",
+            "name": "City Hunter",
+            "url": "https://myanimelist.net/anime/1470/City_Hunter"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Whatever Comes\" by TM NETWORK"
+      ],
+      "endings": [
+        "\"Get Wild\" by TM Network"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cityhunter-movie.com/"
+      },
+      {
+        "name": "@cityhuntermovie",
+        "url": "https://twitter.com/cityhuntermovie"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17310"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26679"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/City_Hunter#Theatrical_movies"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 41349,
+    "url": "https://myanimelist.net/anime/41349/Ooya-san_to_Boku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1588/106204.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/106204t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/106204l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1588/106204.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/106204t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/106204l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ooya-san to Boku"
+      },
+      {
+        "type": "Japanese",
+        "title": "大家さんと僕"
+      }
+    ],
+    "title": "Ooya-san to Boku",
+    "title_english": null,
+    "title_japanese": "大家さんと僕",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-02T00:00:00+00:00",
+      "to": "2020-03-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 6,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "Mar 2, 2020 to Mar 6, 2020"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.85,
+    "scored_by": 110,
+    "rank": 10660,
+    "popularity": 16290,
+    "members": 567,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53651,
+            "type": "anime",
+            "name": "Ooya-san to Boku 2nd Season",
+            "url": "https://myanimelist.net/anime/53651/Ooya-san_to_Boku_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 145489,
+            "type": "manga",
+            "name": "Ooyasan to Boku",
+            "url": "https://myanimelist.net/manga/145489/Ooyasan_to_Boku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20201229004634/https://www6.nhk.or.jp/nhkpr/post/original.html?i=22382"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15402"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%AE%B6%E3%81%95%E3%82%93%E3%81%A8%E5%83%95#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

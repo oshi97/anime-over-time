@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 39217,
+    "url": "https://myanimelist.net/anime/39217/Mijikamon_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1395/98927.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1395/98927t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1395/98927l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1395/98927.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1395/98927t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1395/98927l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mijikamon Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "みじかもん 第0話"
+      }
+    ],
+    "title": "Mijikamon Episode 0",
+    "title_english": null,
+    "title_japanese": "みじかもん 第0話",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-03-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 7, 2014"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.92,
+    "scored_by": 2003,
+    "rank": 10296,
+    "popularity": 9431,
+    "members": 4155,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 290,
+        "type": "anime",
+        "name": "Kinema Citrus",
+        "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 25045,
+            "type": "anime",
+            "name": "Mijikamon",
+            "url": "https://myanimelist.net/anime/25045/Mijikamon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.barakamon.jp/mijikamon/index.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10111"
+      }
+    ],
+    "streaming": []
+  }
+}

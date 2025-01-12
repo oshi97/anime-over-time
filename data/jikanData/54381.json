@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 54381,
+    "url": "https://myanimelist.net/anime/54381/Hot_Minute__Aggretsuko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/133155.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/133155t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/133155l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/133155.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/133155t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/133155l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hot Minute: Aggretsuko"
+      },
+      {
+        "type": "Japanese",
+        "title": "アグレッシブ烈子"
+      },
+      {
+        "type": "English",
+        "title": "Hot Minute: Aggretsuko"
+      }
+    ],
+    "title": "Hot Minute: Aggretsuko",
+    "title_english": "Hot Minute: Aggretsuko",
+    "title_japanese": "アグレッシブ烈子",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 10, 2017"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.02,
+    "scored_by": 794,
+    "rank": 9811,
+    "popularity": 11741,
+    "members": 2058,
+    "favorites": 1,
+    "synopsis": "Retsuko, aka \"Aggretsuko\", is being interviewed for Hot Topic's Hot Minute series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32977,
+            "type": "anime",
+            "name": "Aggressive Retsuko",
+            "url": "https://myanimelist.net/anime/32977/Aggressive_Retsuko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

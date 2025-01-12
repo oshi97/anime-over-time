@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59577,
+    "url": "https://myanimelist.net/anime/59577/Bad_Mood_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/144830.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/144830t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/144830l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/144830.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/144830t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/144830l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bad Mood Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "BAD MOOD"
+      }
+    ],
+    "title": "Bad Mood Episode 0",
+    "title_english": null,
+    "title_japanese": "BAD MOOD",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 5, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19201,
+    "popularity": 26920,
+    "members": 67,
+    "favorites": 0,
+    "synopsis": "Episode 0 of Bad Mood.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43696,
+            "type": "anime",
+            "name": "Bad Mood",
+            "url": "https://myanimelist.net/anime/43696/Bad_Mood"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20221222082614/https://badmood.inc/"
+      }
+    ],
+    "streaming": []
+  }
+}

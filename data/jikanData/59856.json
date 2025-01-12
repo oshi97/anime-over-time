@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 59856,
+    "url": "https://myanimelist.net/anime/59856/Doraemon_Tanjou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1397/145526.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1397/145526t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1397/145526l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1397/145526.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1397/145526t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1397/145526l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon Tanjou"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Creation of Doraemon"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん誕生"
+      }
+    ],
+    "title": "Doraemon Tanjou",
+    "title_english": null,
+    "title_japanese": "ドラえもん誕生",
+    "title_synonyms": [
+      "The Creation of Doraemon"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 8, 2020"
+    },
+    "duration": "9 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20191,
+    "popularity": 26501,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Screened at the Fujiko F. Fujio Museum starting from February 8, 2020.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 54267,
+    "url": "https://myanimelist.net/anime/54267/Shimajirou_to_Uzumasa_Ninja_Daisakusen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1750/132820.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/132820t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/132820l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1750/132820.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/132820t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/132820l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shimajirou to Uzumasa Ninja Daisakusen"
+      },
+      {
+        "type": "Japanese",
+        "title": "しまじろうと うずまさにんじゃ だいさくせん"
+      }
+    ],
+    "title": "Shimajirou to Uzumasa Ninja Daisakusen",
+    "title_english": null,
+    "title_japanese": "しまじろうと うずまさにんじゃ だいさくせん",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 6, 2021"
+    },
+    "duration": "1 hr 30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14089,
+    "popularity": 23406,
+    "members": 118,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 229,
+        "type": "anime",
+        "name": "The Answer Studio",
+        "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 18941,
+            "type": "anime",
+            "name": "Shimajirou no Wow!",
+            "url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

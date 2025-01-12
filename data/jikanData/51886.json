@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 51886,
+    "url": "https://myanimelist.net/anime/51886/Pokemon-tachi_to_Asobou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1984/123954.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/123954t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/123954l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1984/123954.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/123954t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/123954l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon-tachi to Asobou!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンたちとあそぼう!"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Let's Play with Pokémon"
+      }
+    ],
+    "title": "Pokemon-tachi to Asobou!",
+    "title_english": "Pokémon Kids TV: Let's Play with Pokémon",
+    "title_japanese": "ポケモンたちとあそぼう!",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 12, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": 5.48,
+    "scored_by": 350,
+    "rank": 12143,
+    "popularity": 14183,
+    "members": 995,
+    "favorites": 1,
+    "synopsis": "A fun video featuring many Pokemon! If you put your finger on the screen and watch the video, you can enjoy it as if you were playing with Pokemon! Take a look on your smartphone or tablet!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/vuCZ_CkQMys"
+      }
+    ],
+    "streaming": []
+  }
+}

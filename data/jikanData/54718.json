@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 54718,
+    "url": "https://myanimelist.net/anime/54718/Petit_Cool_Doji_Danshi_no_Hitokoma",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1612/134171.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1612/134171t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1612/134171l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1612/134171.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1612/134171t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1612/134171l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Petit Cool Doji Danshi no Hitokoma"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぷちクールドジ男子のひとコマ"
+      }
+    ],
+    "title": "Petit Cool Doji Danshi no Hitokoma",
+    "title_english": null,
+    "title_japanese": "ぷちクールドジ男子のひとコマ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-21T00:00:00+00:00",
+      "to": "2023-03-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 28,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Mar 21, 2023 to Mar 28, 2023"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.28,
+    "scored_by": 268,
+    "rank": 8381,
+    "popularity": 10087,
+    "members": 3363,
+    "favorites": 14,
+    "synopsis": "Mini anime of Cool Doji Danshi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 51680,
+            "type": "anime",
+            "name": "Cool Doji Danshi",
+            "url": "https://myanimelist.net/anime/51680/Cool_Doji_Danshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Seishun Kippu (青春切符)\" by Mafumafu"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cooldoji-pr.com/"
+      },
+      {
+        "name": "@cooldoji_PR",
+        "url": "https://twitter.com/cooldoji_PR"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27382"
+      }
+    ],
+    "streaming": []
+  }
+}

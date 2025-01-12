@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 40897,
+    "url": "https://myanimelist.net/anime/40897/Marulk-chan_no_Nichijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/135406.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/135406t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/135406l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/135406.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/135406t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/135406l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Marulk-chan no Nichijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Marulk's Everyday"
+      },
+      {
+        "type": "Synonym",
+        "title": "Marulk's Daily Life"
+      },
+      {
+        "type": "Japanese",
+        "title": "マルルクちゃんの日常"
+      },
+      {
+        "type": "English",
+        "title": "Maruruk's Everyday"
+      }
+    ],
+    "title": "Marulk-chan no Nichijou",
+    "title_english": "Maruruk's Everyday",
+    "title_japanese": "マルルクちゃんの日常",
+    "title_synonyms": [
+      "Marulk's Everyday",
+      "Marulk's Daily Life"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-17T00:00:00+00:00",
+      "to": "2020-02-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 7,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Jan 17, 2020 to Feb 7, 2020"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.77,
+    "scored_by": 12115,
+    "rank": 5493,
+    "popularity": 4494,
+    "members": 27037,
+    "favorites": 16,
+    "synopsis": "Shorts played before Made in Abyss Movie 3: Fukaki Tamashii no Reimei in Japan's theatrical screenings.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 290,
+        "type": "anime",
+        "name": "Kinema Citrus",
+        "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36862,
+            "type": "anime",
+            "name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+            "url": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

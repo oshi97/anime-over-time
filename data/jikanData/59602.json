@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 59602,
+    "url": "https://myanimelist.net/anime/59602/Brown___Kensaku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1768/144945.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/144945t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/144945l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1768/144945.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/144945t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/144945l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Brown & Kensaku"
+      },
+      {
+        "type": "Japanese",
+        "title": "ブラウン＆けんさく"
+      }
+    ],
+    "title": "Brown & Kensaku",
+    "title_english": null,
+    "title_japanese": "ブラウン＆けんさく",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-28T00:00:00+00:00",
+      "to": "2021-03-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": 12,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Feb 28, 2021 to Mar 12, 2021"
+    },
+    "duration": "19 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19503,
+    "popularity": 25261,
+    "members": 86,
+    "favorites": 0,
+    "synopsis": "Yahoo's Kensaku to Enjin and LINE's collaboration.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 795,
+        "type": "anime",
+        "name": "Yahoo! Japan",
+        "url": "https://myanimelist.net/anime/producer/795/Yahoo_Japan"
+      },
+      {
+        "mal_id": 1777,
+        "type": "anime",
+        "name": "LINE Corporation",
+        "url": "https://myanimelist.net/anime/producer/1777/LINE_Corporation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 37017,
+            "type": "anime",
+            "name": "Kensaku to Enjin no ABC Days",
+            "url": "https://myanimelist.net/anime/37017/Kensaku_to_Enjin_no_ABC_Days"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtube.com/playlist?list=PLrVZi37UV_4nCM5aefTBK_am2bfzC1h68&si=17sN0WkS0P-0Hznl"
+      }
+    ],
+    "streaming": []
+  }
+}

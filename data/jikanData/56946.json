@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 56946,
+    "url": "https://myanimelist.net/anime/56946/Salangi_Ona_Bom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/139190.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/139190t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/139190l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/139190.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/139190t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/139190l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Salangi Ona Bom"
+      },
+      {
+        "type": "Japanese",
+        "title": "사랑이 오나 봄"
+      }
+    ],
+    "title": "Salangi Ona Bom",
+    "title_english": null,
+    "title_japanese": "사랑이 오나 봄",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 4, 2017"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18835,
+    "popularity": 23977,
+    "members": 106,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 999,
+        "type": "anime",
+        "name": "Studio Animal",
+        "url": "https://myanimelist.net/anime/producer/999/Studio_Animal"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56945,
+            "type": "anime",
+            "name": "Salangeun Oneuldo Malgeum",
+            "url": "https://myanimelist.net/anime/56945/Salangeun_Oneuldo_Malgeum"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=O992-lWC-pY"
+      }
+    ],
+    "streaming": []
+  }
+}

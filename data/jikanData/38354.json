@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 38354,
+    "url": "https://myanimelist.net/anime/38354/Ganbare_Memeko-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1073/95236.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/95236t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/95236l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1073/95236.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/95236t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/95236l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ganbare! Memeko-chan"
+      },
+      {
+        "type": "Japanese",
+        "title": "がんばれ！メメ子ちゃん"
+      }
+    ],
+    "title": "Ganbare! Memeko-chan",
+    "title_english": null,
+    "title_japanese": "がんばれ！メメ子ちゃん",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "4-koma manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-08-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 8,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 19, 2008"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 5.15,
+    "scored_by": 176,
+    "rank": 12951,
+    "popularity": 16875,
+    "members": 502,
+    "favorites": 0,
+    "synopsis": "Flash anime bundled with the October 2008 issue of Manga Club Original.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 332,
+        "type": "anime",
+        "name": "Takeshobo",
+        "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1155,
+        "type": "anime",
+        "name": "Studio Moriken",
+        "url": "https://myanimelist.net/anime/producer/1155/Studio_Moriken"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 115693,
+            "type": "manga",
+            "name": "Ganbare! Memeko-chan",
+            "url": "https://myanimelist.net/manga/115693/Ganbare_Memeko-chan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Nanka Ii Koto (なんかいいこと)\" by Yura Hatsuki (葉月ゆら)"
+      ],
+      "endings": [
+        "\"Ganbare! Koi no Hana (がんばれ！恋の花)\" by Yura Hatsuki (葉月ゆら)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kenshiro.tv/meme/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C!%E3%83%A1%E3%83%A1%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

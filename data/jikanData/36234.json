@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 36234,
+    "url": "https://myanimelist.net/anime/36234/Panpaka_Pants_Matsuri_Movie__Purin_Ara_Domo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/87525.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/87525t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87525l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/87525.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/87525t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87525l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Panpaka Pants Matsuri Movie: Purin Ara, Domo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eiga Panpaka Pants Matsuri Purin Ara Domo"
+      },
+      {
+        "type": "Japanese",
+        "title": "えいが パンパカパンツまつり ─プリン あら, ど~も"
+      }
+    ],
+    "title": "Panpaka Pants Matsuri Movie: Purin Ara, Domo",
+    "title_english": null,
+    "title_japanese": "えいが パンパカパンツまつり ─プリン あら, ど~も",
+    "title_synonyms": [
+      "Eiga Panpaka Pants Matsuri Purin Ara Domo"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2017"
+    },
+    "duration": "30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18255,
+    "popularity": 19639,
+    "members": 294,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30417,
+            "type": "anime",
+            "name": "Panpaka Pants O-New!",
+            "url": "https://myanimelist.net/anime/30417/Panpaka_Pants_O-New"
+          },
+          {
+            "mal_id": 33002,
+            "type": "anime",
+            "name": "Panpaka Pants W-O-New!",
+            "url": "https://myanimelist.net/anime/33002/Panpaka_Pants_W-O-New"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.panpaka.com/purin_collabo/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13416"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "mal_id": 38012,
+    "url": "https://myanimelist.net/anime/38012/Toe_Space_Attendant_Aoi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1001/97418.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/97418t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/97418l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1001/97418.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/97418t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/97418l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toe! Space Attendant Aoi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tatakae! Space Attendant Aoi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Anime Tamago 2019"
+      },
+      {
+        "type": "Japanese",
+        "title": "斗え! スペースアテンダントアオイ"
+      }
+    ],
+    "title": "Toe! Space Attendant Aoi",
+    "title_english": null,
+    "title_japanese": "斗え! スペースアテンダントアオイ",
+    "title_synonyms": [
+      "Tatakae! Space Attendant Aoi",
+      "Anime Tamago 2019"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 9, 2019"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.66,
+    "scored_by": 304,
+    "rank": 11515,
+    "popularity": 13373,
+    "members": 1234,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2183,
+        "type": "anime",
+        "name": "Keica",
+        "url": "https://myanimelist.net/anime/producer/2183/Keica"
+      },
+      {
+        "mal_id": 2571,
+        "type": "anime",
+        "name": "Griot Groove",
+        "url": "https://myanimelist.net/anime/producer/2571/Griot_Groove"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38014,
+            "type": "anime",
+            "name": "Captain Bal",
+            "url": "https://myanimelist.net/anime/38014/Captain_Bal"
+          },
+          {
+            "mal_id": 38013,
+            "type": "anime",
+            "name": "Chuck Shimezou",
+            "url": "https://myanimelist.net/anime/38013/Chuck_Shimezou"
+          },
+          {
+            "mal_id": 38011,
+            "type": "anime",
+            "name": "Hello WeGo!",
+            "url": "https://myanimelist.net/anime/38011/Hello_WeGo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Churata Churaha (チュラタ チュラハ)\" by イヤホンズ"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animetamago.jp/title.php?id=2"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14179"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22104"
+      }
+    ],
+    "streaming": []
+  }
+}

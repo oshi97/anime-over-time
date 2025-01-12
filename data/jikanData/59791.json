@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 59791,
+    "url": "https://myanimelist.net/anime/59791/Ruri_no_Houseki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/145516.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/145516t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/145516l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1885/145516.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/145516t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/145516l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "JO4-UjMwLYM",
+      "url": "https://www.youtube.com/watch?v=JO4-UjMwLYM",
+      "embed_url": "https://www.youtube.com/embed/JO4-UjMwLYM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/JO4-UjMwLYM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/JO4-UjMwLYM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/JO4-UjMwLYM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/JO4-UjMwLYM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/JO4-UjMwLYM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ruri no Houseki"
+      },
+      {
+        "type": "Japanese",
+        "title": "瑠璃の宝石"
+      },
+      {
+        "type": "English",
+        "title": "Introduction to Mineralogy"
+      }
+    ],
+    "title": "Ruri no Houseki",
+    "title_english": "Introduction to Mineralogy",
+    "title_japanese": "瑠璃の宝石",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 10911,
+    "members": 2633,
+    "favorites": 2,
+    "synopsis": "The story of Ruri, a girl who likes jewelry and accessories, diving into the world of mineralogy.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      },
+      {
+        "mal_id": 1444,
+        "type": "anime",
+        "name": "Egg Firm",
+        "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1993,
+        "type": "anime",
+        "name": "Studio Bind",
+        "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 150111,
+            "type": "manga",
+            "name": "Ruri no Houseki",
+            "url": "https://myanimelist.net/manga/150111/Ruri_no_Houseki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://rurinohouseki.com/"
+      },
+      {
+        "name": "@rurinohouseki",
+        "url": "https://twitter.com/rurinohouseki"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18859"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33495"
+      }
+    ],
+    "streaming": []
+  }
+}

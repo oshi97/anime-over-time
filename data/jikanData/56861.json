@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 56861,
+    "url": "https://myanimelist.net/anime/56861/Pokemon_Yuenchi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/141144.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/141144t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/141144l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/141144.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/141144t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/141144l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Yuenchi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Fun Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンゆうえんち"
+      },
+      {
+        "type": "English",
+        "title": "Pokemon Playground"
+      }
+    ],
+    "title": "Pokemon Yuenchi",
+    "title_english": "Pokemon Playground",
+    "title_japanese": "ポケモンゆうえんち",
+    "title_synonyms": [
+      "Pokemon Fun Video"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 15, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 5.57,
+    "scored_by": 144,
+    "rank": 11867,
+    "popularity": 18060,
+    "members": 402,
+    "favorites": 0,
+    "synopsis": "The rhythm series of \"Pokemon Kids TV\" is fun to watch! It's a fun \"Pokémon Playground\" where you can follow the rhythm! Look for as many Pokemon as you can at the park!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yroRQRZ-Fpc"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 41100,
+    "url": "https://myanimelist.net/anime/41100/Keshikko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/105532.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/105532t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/105532l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/105532.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/105532t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/105532l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Keshikko"
+      },
+      {
+        "type": "Japanese",
+        "title": "ケシっこ"
+      },
+      {
+        "type": "English",
+        "title": "Keshiko"
+      }
+    ],
+    "title": "Keshikko",
+    "title_english": "Keshiko",
+    "title_japanese": "ケシっこ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2019-01-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 7, 2019 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16712,
+    "popularity": 20929,
+    "members": 221,
+    "favorites": 0,
+    "synopsis": "Keshikko is Kamio Japan's new character line. Based in a stationary world, these are animals that live in erasers (keshigomu).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1592,
+        "type": "anime",
+        "name": "Kamio Japan",
+        "url": "https://myanimelist.net/anime/producer/1592/Kamio_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://crux.jp/character/ksk.html"
+      }
+    ],
+    "streaming": []
+  }
+}

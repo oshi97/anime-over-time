@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 59061,
+    "url": "https://myanimelist.net/anime/59061/Guang_Yu_Shi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1718/143556.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1718/143556t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1718/143556l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1718/143556.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1718/143556t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1718/143556l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Guang Yu Shi"
+      },
+      {
+        "type": "Japanese",
+        "title": "光与蚀"
+      },
+      {
+        "type": "English",
+        "title": "Light & Shadow"
+      }
+    ],
+    "title": "Guang Yu Shi",
+    "title_english": "Light & Shadow",
+    "title_japanese": "光与蚀",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "A cosmic darkness threatens to overcome three former teammates who were thought to have perished.\n\n(Source: League of Legends Youtube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1325,
+        "type": "anime",
+        "name": "Haoliners Animation League",
+        "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation_League"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39057,
+            "type": "anime",
+            "name": "A New Journey",
+            "url": "https://myanimelist.net/anime/39057/A_New_Journey"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

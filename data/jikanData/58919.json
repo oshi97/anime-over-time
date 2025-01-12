@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 58919,
+    "url": "https://myanimelist.net/anime/58919/Hyakuemu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/143269.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/143269t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/143269l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/143269.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/143269t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/143269l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hyakuemu."
+      },
+      {
+        "type": "Synonym",
+        "title": "100m."
+      },
+      {
+        "type": "Synonym",
+        "title": "Hyaku m."
+      },
+      {
+        "type": "Japanese",
+        "title": "ひゃくえむ。"
+      }
+    ],
+    "title": "Hyakuemu.",
+    "title_english": null,
+    "title_japanese": "ひゃくえむ。",
+    "title_synonyms": [
+      "100m.",
+      "Hyaku m."
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 13067,
+    "members": 1342,
+    "favorites": 4,
+    "synopsis": "Togashi is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n\n(Source: Annecy Festival)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      },
+      {
+        "mal_id": 145,
+        "type": "anime",
+        "name": "TBS",
+        "url": "https://myanimelist.net/anime/producer/145/TBS"
+      },
+      {
+        "mal_id": 517,
+        "type": "anime",
+        "name": "Asmik Ace",
+        "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2663,
+        "type": "anime",
+        "name": "Rock'n Roll Mountain",
+        "url": "https://myanimelist.net/anime/producer/2663/Rockn_Roll_Mountain"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 150855,
+            "type": "manga",
+            "name": "Hyakuemu.",
+            "url": "https://myanimelist.net/manga/150855/Hyakuemu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18648"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32760"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hyakuemu#Anime_film"
+      }
+    ],
+    "streaming": []
+  }
+}

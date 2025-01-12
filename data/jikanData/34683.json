@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 34683,
+    "url": "https://myanimelist.net/anime/34683/Hizukuri",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1908/96032.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/96032t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/96032l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1908/96032.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/96032t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/96032l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "GOErehf5-eI",
+      "url": "https://www.youtube.com/watch?v=GOErehf5-eI",
+      "embed_url": "https://www.youtube.com/embed/GOErehf5-eI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/GOErehf5-eI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/GOErehf5-eI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/GOErehf5-eI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/GOErehf5-eI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/GOErehf5-eI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hizukuri"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fire Craft"
+      },
+      {
+        "type": "Japanese",
+        "title": "火づくり"
+      }
+    ],
+    "title": "Hizukuri",
+    "title_english": null,
+    "title_japanese": "火づくり",
+    "title_synonyms": [
+      "Fire Craft"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 8387,
+    "members": 5792,
+    "favorites": 0,
+    "synopsis": "In a city of a parallel world. A boy finds a pair of broken scissors from his father's belongings after he passed away. And a boy's mother tells him that his father had been a gardener in the past. Then he figures out the scissors were made by Sasuke, who is an artisan living in a foreign country. The boy travels all the way to a place where Sasuke lives in order to get his scissors fixed.\n\n(Source: Official site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38385,
+            "type": "anime",
+            "name": "Dry Dry Try",
+            "url": "https://myanimelist.net/anime/38385/Dry_Dry_Try"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://hizukuri.naokimatsuura.com/"
+      },
+      {
+        "name": "@hizukuri_staff",
+        "url": "https://twitter.com/hizukuri_staff"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12710"
+      }
+    ],
+    "streaming": []
+  }
+}

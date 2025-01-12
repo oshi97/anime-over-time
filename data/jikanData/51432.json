@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 51432,
+    "url": "https://myanimelist.net/anime/51432/Chogokin_Hello_Kitty",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1790/121896.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1790/121896t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1790/121896l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1790/121896.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1790/121896t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1790/121896l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chogokin Hello Kitty"
+      },
+      {
+        "type": "Japanese",
+        "title": "超合金ハローキティ"
+      }
+    ],
+    "title": "Chogokin Hello Kitty",
+    "title_english": null,
+    "title_japanese": "超合金ハローキティ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-06-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 6,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 21, 2014"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.7,
+    "scored_by": 180,
+    "rank": 11327,
+    "popularity": 17517,
+    "members": 443,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51431,
+            "type": "anime",
+            "name": "Mazinger Z x Hello Kitty x Chogokin",
+            "url": "https://myanimelist.net/anime/51431/Mazinger_Z_x_Hello_Kitty_x_Chogokin"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59572,
+            "type": "anime",
+            "name": "Chogokin Gundam★Hello Kitty",
+            "url": "https://myanimelist.net/anime/59572/Chogokin_Gundam★Hello_Kitty"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/ETEcNNcSBCU"
+      }
+    ],
+    "streaming": []
+  }
+}

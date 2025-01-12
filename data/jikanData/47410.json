@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 47410,
+    "url": "https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/113306t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/113306l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/113306.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/113306t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/113306l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Initial D Battle Stage 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "INITIAL D BATTLE STAGE 3"
+      },
+      {
+        "type": "English",
+        "title": "Initial D Battle Stage 3"
+      }
+    ],
+    "title": "Initial D Battle Stage 3",
+    "title_english": "Initial D Battle Stage 3",
+    "title_japanese": "INITIAL D BATTLE STAGE 3",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 5, 2021"
+    },
+    "duration": "1 hr 33 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.52,
+    "scored_by": 3208,
+    "rank": 1873,
+    "popularity": 7265,
+    "members": 8292,
+    "favorites": 18,
+    "synopsis": "Initial D: Battle Stage 3 is the eleventh and final installment of the Initial D series. It features every race from Fifth Stage and Final Stage. Unlike the previous two battle stages, it does not feature any new battles, and doesn't feature any character dialogue.\n\n(Source: Initial D Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 118,
+        "type": "anime",
+        "name": "SynergySP",
+        "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 3931,
+            "type": "anime",
+            "name": "Initial D Battle Stage 2",
+            "url": "https://myanimelist.net/anime/3931/Initial_D_Battle_Stage_2"
+          }
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 15059,
+            "type": "anime",
+            "name": "Initial D Fifth Stage",
+            "url": "https://myanimelist.net/anime/15059/Initial_D_Fifth_Stage"
+          },
+          {
+            "mal_id": 22507,
+            "type": "anime",
+            "name": "Initial D Final Stage",
+            "url": "https://myanimelist.net/anime/22507/Initial_D_Final_Stage"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"EUROHERO\" by NEO"
+      ],
+      "endings": [
+        "\"Take Me Higher 2020\" by Dave Rodgers"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16380"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24123"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_(2021)"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 40499,
+    "url": "https://myanimelist.net/anime/40499/Feed",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1134/103423.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1134/103423t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1134/103423l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1134/103423.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1134/103423t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1134/103423l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Feed"
+      },
+      {
+        "type": "Japanese",
+        "title": "FEED"
+      }
+    ],
+    "title": "Feed",
+    "title_english": null,
+    "title_japanese": "FEED",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016"
+    },
+    "duration": "6 min",
+    "rating": "PG - Children",
+    "score": 5.68,
+    "scored_by": 162,
+    "rank": 11465,
+    "popularity": 19009,
+    "members": 333,
+    "favorites": 0,
+    "synopsis": "Four housekeepers package and prepare meals for children. The children feed the livestock, which are to be used for their meals. This repeats the cycle.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2307,
+        "type": "anime",
+        "name": "Tamabi",
+        "url": "https://myanimelist.net/anime/producer/2307/Tamabi"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZcHsd1QAZXc"
+      }
+    ],
+    "streaming": []
+  }
+}

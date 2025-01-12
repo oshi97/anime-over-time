@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36030,
+    "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/93715.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/93715t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/93715l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/93715.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/93715t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/93715l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
+      },
+      {
+        "type": "Japanese",
+        "title": "よい子のれきしアニメ おおきなカブ(株)"
+      }
+    ],
+    "title": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)",
+    "title_english": null,
+    "title_japanese": "よい子のれきしアニメ おおきなカブ(株)",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-11-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 23, 2016"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": 5.93,
+    "scored_by": 381,
+    "rank": 10249,
+    "popularity": 14547,
+    "members": 899,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1294,
+        "type": "anime",
+        "name": "Sound Team Don Juan",
+        "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Khara",
+        "url": "https://myanimelist.net/anime/producer/47/Khara"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 119123,
+            "type": "manga",
+            "name": "Yoiko no Rekishi Ehon: Ookina Kabu (Kabu)",
+            "url": "https://myanimelist.net/manga/119123/Yoiko_no_Rekishi_Ehon__Ookina_Kabu_Kabu"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 23213,
+            "type": "anime",
+            "name": "Kantoku Fuyuki Todoki",
+            "url": "https://myanimelist.net/anime/23213/Kantoku_Fuyuki_Todoki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.khara.co.jp/2017/07/28/kabu/"
+      }
+    ],
+    "streaming": []
+  }
+}

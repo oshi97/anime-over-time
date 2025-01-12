@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 60547,
+    "url": "https://myanimelist.net/anime/60547/Tteotda_Keunyeo_Another_Step",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1686/147006.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1686/147006t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1686/147006l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1686/147006.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1686/147006t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1686/147006l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tteotda Keunyeo!! Another Step"
+      },
+      {
+        "type": "Japanese",
+        "title": "떳다 그녀!! another step"
+      },
+      {
+        "type": "English",
+        "title": "There She Is!! Another Step"
+      }
+    ],
+    "title": "Tteotda Keunyeo!! Another Step",
+    "title_english": "There She Is!! Another Step",
+    "title_japanese": "떳다 그녀!! another step",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2024"
+    },
+    "duration": "12 min",
+    "rating": "G - All Ages",
+    "score": 6.69,
+    "scored_by": 145,
+    "rank": 5974,
+    "popularity": 17012,
+    "members": 487,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 6505,
+            "type": "anime",
+            "name": "Tteotda Keunyeo!!",
+            "url": "https://myanimelist.net/anime/6505/Tteotda_Keunyeo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/There_She_Is!!#Another_Step"
+      }
+    ],
+    "streaming": []
+  }
+}

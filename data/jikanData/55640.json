@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 55640,
+    "url": "https://myanimelist.net/anime/55640/Wasure_Hoshi_no_Volicia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/136439.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/136439t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/136439l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/136439.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/136439t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/136439l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wasure Hoshi no Volicia"
+      },
+      {
+        "type": "Japanese",
+        "title": "忘星のヴァリシア"
+      },
+      {
+        "type": "English",
+        "title": "Volicia of Pluto: Vapor Trail Another Age 2006"
+      }
+    ],
+    "title": "Wasure Hoshi no Volicia",
+    "title_english": "Volicia of Pluto: Vapor Trail Another Age 2006",
+    "title_japanese": "忘星のヴァリシア",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 3, 2023"
+    },
+    "duration": "32 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.09,
+    "scored_by": 318,
+    "rank": 9458,
+    "popularity": 10429,
+    "members": 3045,
+    "favorites": 17,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 26,
+        "type": "anime",
+        "name": "Girls Love",
+        "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53598,
+            "type": "anime",
+            "name": "Vapor Trail",
+            "url": "https://myanimelist.net/anime/53598/Vapor_Trail"
+          },
+          {
+            "mal_id": 56059,
+            "type": "anime",
+            "name": "Penetrate Blue",
+            "url": "https://myanimelist.net/anime/56059/Penetrate_Blue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.voliciamovie.com/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28983"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 60280,
+    "url": "https://myanimelist.net/anime/60280/Zenryoku_Usagi_2023_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/146447.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/146447t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/146447l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/146447.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/146447t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/146447l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zenryoku Usagi (2023) 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "全力ウサギ (2023)"
+      }
+    ],
+    "title": "Zenryoku Usagi (2023) 2nd Season",
+    "title_english": null,
+    "title_japanese": "全力ウサギ (2023)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27094,
+    "members": 66,
+    "favorites": 0,
+    "synopsis": "Second season of Zenryoku Usagi (2023).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1067,
+        "type": "anime",
+        "name": "Rising Force",
+        "url": "https://myanimelist.net/anime/producer/1067/Rising_Force"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50995,
+            "type": "anime",
+            "name": "Zenryoku Usagi (2023)",
+            "url": "https://myanimelist.net/anime/50995/Zenryoku_Usagi_2023"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18981"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33976"
+      }
+    ],
+    "streaming": []
+  }
+}

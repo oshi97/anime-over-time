@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 36789,
+    "url": "https://myanimelist.net/anime/36789/Golden_Time_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/89350.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89350t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89350l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/89350.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89350t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89350l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Golden Time (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゴールデンタイム"
+      },
+      {
+        "type": "English",
+        "title": "Golden Time"
+      }
+    ],
+    "title": "Golden Time (Movie)",
+    "title_english": "Golden Time",
+    "title_japanese": "ゴールデンタイム",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 5, 2013"
+    },
+    "duration": "21 min",
+    "rating": "G - All Ages",
+    "score": 7.03,
+    "scored_by": 2228,
+    "rank": 4256,
+    "popularity": 6729,
+    "members": 9999,
+    "favorites": 18,
+    "synopsis": "In Japan's economic bubble years during the 1980s, a long-serving furniture-style television set made in the 1960s is abandoned at a junkyard. It attempts to escape from its new surroundings.",
+    "background": "Winner of an Excellence Award in the animation division of the 2013 Japan Media Arts Festival.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 249,
+        "type": "anime",
+        "name": "Robot Communications",
+        "url": "https://myanimelist.net/anime/producer/249/Robot_Communications"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.robot.co.jp/special/goldentime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13758"
+      }
+    ],
+    "streaming": []
+  }
+}

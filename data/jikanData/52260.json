@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 52260,
+    "url": "https://myanimelist.net/anime/52260/Mofu☆Mofu_OVA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/124875.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/124875t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/124875l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/124875.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/124875t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/124875l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "6ZhIcm1nnWI",
+      "url": "https://www.youtube.com/watch?v=6ZhIcm1nnWI",
+      "embed_url": "https://www.youtube.com/embed/6ZhIcm1nnWI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/6ZhIcm1nnWI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/6ZhIcm1nnWI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/6ZhIcm1nnWI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/6ZhIcm1nnWI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/6ZhIcm1nnWI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mofu☆Mofu OVA"
+      },
+      {
+        "type": "Synonym",
+        "title": "Moffuri Mofu☆Mofu"
+      },
+      {
+        "type": "Japanese",
+        "title": "モフ☆モフ"
+      }
+    ],
+    "title": "Mofu☆Mofu OVA",
+    "title_english": null,
+    "title_japanese": "モフ☆モフ",
+    "title_synonyms": [
+      "Moffuri Mofu☆Mofu"
+    ],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-11-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 11,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 15, 2014"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17689,
+    "popularity": 20700,
+    "members": 235,
+    "favorites": 0,
+    "synopsis": "Bundled with Pucchigumi 2014 December Magazine.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 5241,
+            "type": "anime",
+            "name": "Mofu☆Mofu",
+            "url": "https://myanimelist.net/anime/5241/Mofu☆Mofu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52261,
+            "type": "anime",
+            "name": "Moffuri Mofu☆Mofu Omajinai Dance",
+            "url": "https://myanimelist.net/anime/52261/Moffuri_Mofu☆Mofu_Omajinai_Dance"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 36280,
+    "url": "https://myanimelist.net/anime/36280/Usatalk",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/87636.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/87636t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/87636l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/87636.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/87636t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/87636l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Usatalk"
+      },
+      {
+        "type": "Japanese",
+        "title": "usatalk"
+      },
+      {
+        "type": "English",
+        "title": "Usatalk"
+      }
+    ],
+    "title": "Usatalk",
+    "title_english": "Usatalk",
+    "title_japanese": "usatalk",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-08-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 6, 2010"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 3.99,
+    "scored_by": 394,
+    "rank": 13696,
+    "popularity": 15242,
+    "members": 730,
+    "favorites": 1,
+    "synopsis": "Usa greets you.\n\n(Source: Official site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 32637,
+            "type": "anime",
+            "name": "Usawaltz",
+            "url": "https://myanimelist.net/anime/32637/Usawaltz"
+          },
+          {
+            "mal_id": 30863,
+            "type": "anime",
+            "name": "Usalullaby",
+            "url": "https://myanimelist.net/anime/30863/Usalullaby"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38353,
+            "type": "anime",
+            "name": "Usa Weather Show",
+            "url": "https://myanimelist.net/anime/38353/Usa_Weather_Show"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://asamiike.sakura.ne.jp/liltasm/prev_2/"
+      }
+    ],
+    "streaming": []
+  }
+}

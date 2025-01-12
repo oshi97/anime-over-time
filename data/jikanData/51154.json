@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 51154,
+    "url": "https://myanimelist.net/anime/51154/I_Love_Me",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1659/121189.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/121189t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/121189l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1659/121189.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/121189t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/121189l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "I Love Me"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイラブみー"
+      }
+    ],
+    "title": "I Love Me",
+    "title_english": null,
+    "title_japanese": "アイラブみー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-28T00:00:00+00:00",
+      "to": "2022-03-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Mar 28, 2022 to Mar 30, 2022"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21263,
+    "popularity": 19500,
+    "members": 302,
+    "favorites": 1,
+    "synopsis": "The anime is related to the #BeyondGender project, which aims to foster a society where people can live as they are, without being bound by social and cultural gender differences such as \"masculinity\" and \"femininity.\" The anime follows Mii, who has daydreams and thoughts triggered by questions about mind, body, and life.\n\nProfessors of developmental psychology, gender theory, sex education, and other related subjects are supervising the program.\n\n(Source: ANN)",
+    "background": "",
+    "season": "winter",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1005,
+        "type": "anime",
+        "name": "Oddjob",
+        "url": "https://myanimelist.net/anime/producer/1005/Oddjob"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53408,
+            "type": "anime",
+            "name": "I Love Me 2nd Season",
+            "url": "https://myanimelist.net/anime/53408/I_Love_Me_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.jp/p/ts/YNY4LQ6174/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25405"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%81%BF%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

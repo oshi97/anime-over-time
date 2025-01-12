@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 52147,
+    "url": "https://myanimelist.net/anime/52147/Sanrio_Pokoapoko_Cinnamon_no_Ouchi_de_Challenge",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1666/124623.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/124623t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/124623l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1666/124623.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/124623t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/124623l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sanrio Pokoapoko Cinnamon no Ouchi de Challenge"
+      },
+      {
+        "type": "Japanese",
+        "title": "サンリオぽこあぽこ シナモンの おうちでチャレンジ"
+      }
+    ],
+    "title": "Sanrio Pokoapoko Cinnamon no Ouchi de Challenge",
+    "title_english": null,
+    "title_japanese": "サンリオぽこあぽこ シナモンの おうちでチャレンジ",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-06-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 6,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 16, 2009"
+    },
+    "duration": "42 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18900,
+    "popularity": 20432,
+    "members": 251,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52145,
+            "type": "anime",
+            "name": "Sanrio Pokoapoko Cinnamon no Genki ni Odekake",
+            "url": "https://myanimelist.net/anime/52145/Sanrio_Pokoapoko_Cinnamon_no_Genki_ni_Odekake"
+          },
+          {
+            "mal_id": 52146,
+            "type": "anime",
+            "name": "Sanrio Pokoapoko Cinnamon no Minna Tomodachi",
+            "url": "https://myanimelist.net/anime/52146/Sanrio_Pokoapoko_Cinnamon_no_Minna_Tomodachi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shop.sanrio.co.jp/products/detail.php?product_id=58968"
+      }
+    ],
+    "streaming": []
+  }
+}

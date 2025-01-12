@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 35369,
+    "url": "https://myanimelist.net/anime/35369/Seikaisuru_Kado__Ninovo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85175.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85175t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85175l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/85175.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85175t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85175l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "wVOWEg3CZVU",
+      "url": "https://www.youtube.com/watch?v=wVOWEg3CZVU",
+      "embed_url": "https://www.youtube.com/embed/wVOWEg3CZVU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/wVOWEg3CZVU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/wVOWEg3CZVU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/wVOWEg3CZVU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/wVOWEg3CZVU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/wVOWEg3CZVU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Seikaisuru Kado: Ninovo"
+      },
+      {
+        "type": "Japanese",
+        "title": "正解するカ ド ニノヴォ"
+      },
+      {
+        "type": "English",
+        "title": "KADO: The Right Answer - Ninovo"
+      },
+      {
+        "type": "German",
+        "title": "KADO: The Right Answer"
+      },
+      {
+        "type": "Spanish",
+        "title": "KADO: The Right Answer. Episodio 0: Ninovo"
+      },
+      {
+        "type": "French",
+        "title": "KADO: The Right Answer – Ninovo"
+      }
+    ],
+    "title": "Seikaisuru Kado: Ninovo",
+    "title_english": "KADO: The Right Answer - Ninovo",
+    "title_japanese": "正解するカ ド ニノヴォ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 6, 2017"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.67,
+    "scored_by": 9647,
+    "rank": 6061,
+    "popularity": 5321,
+    "members": 17943,
+    "favorites": 5,
+    "synopsis": "Episode 0 of Seikaisuru Kado premiering on Amazon Prime.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 102,
+        "type": "anime",
+        "name": "Funimation",
+        "url": "https://myanimelist.net/anime/producer/102/Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 32032,
+            "type": "anime",
+            "name": "Seikaisuru Kado",
+            "url": "https://myanimelist.net/anime/32032/Seikaisuru_Kado"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Eien no Kotae (永遠のこたえ)\" by HARUCA"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.seikaisuru-kado.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89"
+      }
+    ],
+    "streaming": []
+  }
+}

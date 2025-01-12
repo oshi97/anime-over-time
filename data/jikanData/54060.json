@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 54060,
+    "url": "https://myanimelist.net/anime/54060/Spookiz_Movie__Bimilgwaoe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1577/132234.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/132234t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/132234l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1577/132234.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/132234t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/132234l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spookiz Movie: Bimilgwaoe"
+      },
+      {
+        "type": "Japanese",
+        "title": "스푸키즈 극장판 : 비밀과외"
+      },
+      {
+        "type": "English",
+        "title": "Spookiz: The Movie"
+      }
+    ],
+    "title": "Spookiz Movie: Bimilgwaoe",
+    "title_english": "Spookiz: The Movie",
+    "title_japanese": "스푸키즈 극장판 : 비밀과외",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 25, 2019"
+    },
+    "duration": "1 hr 21 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14417,
+    "popularity": 23279,
+    "members": 120,
+    "favorites": 0,
+    "synopsis": "A plucky student stumbles upon the secret life of young monsters who come out to learn and play when night falls at her elementary school.\n\n(Source: Netflix)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2667,
+        "type": "anime",
+        "name": "Keyring",
+        "url": "https://myanimelist.net/anime/producer/2667/Keyring"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 47373,
+            "type": "anime",
+            "name": "Spookiz",
+            "url": "https://myanimelist.net/anime/47373/Spookiz"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Bitten By You\" by MONKEY MAJIK"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://blog.naver.com/spookiz"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%91%B8%ED%82%A4%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

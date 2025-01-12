@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 38419,
+    "url": "https://myanimelist.net/anime/38419/Tokyo_One_Piece_Tower__Tongari_Shima_no_Dai_Hihou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/95013.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/95013t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/95013l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/95013.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/95013t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/95013l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Great Tongari Island Treasure Hunting Adventure"
+      },
+      {
+        "type": "Synonym",
+        "title": "Treasure Hunting: Tongari Shima no Daibouken"
+      },
+      {
+        "type": "Japanese",
+        "title": "東京ワンピースタワー トンガリ島の大秘宝"
+      },
+      {
+        "type": "English",
+        "title": "Tokyo One Piece Tower: The Great Treasure of Tongari Island"
+      }
+    ],
+    "title": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+    "title_english": "Tokyo One Piece Tower: The Great Treasure of Tongari Island",
+    "title_japanese": "東京ワンピースタワー トンガリ島の大秘宝",
+    "title_synonyms": [
+      "The Great Tongari Island Treasure Hunting Adventure",
+      "Treasure Hunting: Tongari Shima no Daibouken"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-11-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 1, 2016"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": 6.57,
+    "scored_by": 2062,
+    "rank": 6655,
+    "popularity": 7326,
+    "members": 8118,
+    "favorites": 8,
+    "synopsis": "A Tokyo One Piece Tower exclusive film. It's a tie-in to a real treasure hunting event in collaboration with Takarush Corp. for a limited time called Treasure Hunting: Tongari Shima no Daibouken. During this you’ll decipher the mysteries of ancient documents found by Luffy, Usopp, and Chopper, and then set out to find the nest of the mysterious animal known as Tongari Ton! \n\nThe film itself begins at the end of your treasure hunting adventure at the Tokyo One Piece Tower, where the Straw Hat Crew are tricked into opening a chest in a cave thinking it's where the Tongari Island treasure is. \n\n(Source: Otakumode)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.takarush.jp/promo/onepiece/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/One_Piece"
+      }
+    ],
+    "streaming": []
+  }
+}

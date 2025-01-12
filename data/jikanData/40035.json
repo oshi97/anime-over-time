@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 40035,
+    "url": "https://myanimelist.net/anime/40035/Rebecca",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/106238t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/106238l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1190/106238.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/106238t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/106238l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rebecca"
+      },
+      {
+        "type": "Synonym",
+        "title": "Anime Tamago 2020"
+      },
+      {
+        "type": "Japanese",
+        "title": "レベッカ"
+      },
+      {
+        "type": "English",
+        "title": "The Chronicles of Rebecca"
+      }
+    ],
+    "title": "Rebecca",
+    "title_english": "The Chronicles of Rebecca",
+    "title_japanese": "レベッカ",
+    "title_synonyms": [
+      "Anime Tamago 2020"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 27, 2020"
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": 6.38,
+    "scored_by": 547,
+    "rank": 7809,
+    "popularity": 12591,
+    "members": 1553,
+    "favorites": 3,
+    "synopsis": "Set in a rural town in Maine, USA, at the end of the 19th century. The second of seven siblings, Rebecca, is a bright and energetic 10-year-old girl. When her father dies, Rebecca’s life becomes harder and she is sent to live with her two aunts, Miranda and Jane. Rebecca, who admires the gentle Jane, constantly cowers from the strict and nagging Miranda. One day, Rebecca is scolded by Miranda for going out in a pink dress that Jane had made for her by hand. After Miranda insults her father, Rebecca explodes and leaves the house in a rage…\n\n(Source: JMAF Overseas Promotion)",
+    "background": "An animated work created within the Agency for Cultural Affairs' Young Animator Training Project, \"Anime Tamago 2020.\"",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 136,
+        "type": "anime",
+        "name": "Vega Entertainment",
+        "url": "https://myanimelist.net/anime/producer/136/Vega_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40037,
+            "type": "anime",
+            "name": "Michiru Rescue!",
+            "url": "https://myanimelist.net/anime/40037/Michiru_Rescue"
+          },
+          {
+            "mal_id": 40036,
+            "type": "anime",
+            "name": "Ometeotl Hero",
+            "url": "https://myanimelist.net/anime/40036/Ometeotl_Hero"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animetamago.jp/title.php?id=2"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14981"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23158"
+      }
+    ],
+    "streaming": []
+  }
+}

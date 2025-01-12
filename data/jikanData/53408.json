@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 53408,
+    "url": "https://myanimelist.net/anime/53408/I_Love_Me_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1581/132395.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1581/132395t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1581/132395l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1581/132395.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1581/132395t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1581/132395l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "I Love Me 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイラブみー"
+      }
+    ],
+    "title": "I Love Me 2nd Season",
+    "title_english": null,
+    "title_japanese": "アイラブみー",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-10-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 23, 2022 to ?"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21264,
+    "popularity": 19769,
+    "members": 286,
+    "favorites": 0,
+    "synopsis": "The second season of I Love Me.",
+    "background": "",
+    "season": "fall",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1005,
+        "type": "anime",
+        "name": "Oddjob",
+        "url": "https://myanimelist.net/anime/producer/1005/Oddjob"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51154,
+            "type": "anime",
+            "name": "I Love Me",
+            "url": "https://myanimelist.net/anime/51154/I_Love_Me"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.jp/p/iloveme/ts/YNY4LQ6174"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25405"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%81%BF%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

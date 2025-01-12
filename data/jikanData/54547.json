@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 54547,
+    "url": "https://myanimelist.net/anime/54547/FIFA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/135584.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/135584t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/135584l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/135584.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/135584t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/135584l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "FIFA"
+      },
+      {
+        "type": "Japanese",
+        "title": "FIFA"
+      },
+      {
+        "type": "English",
+        "title": "FIFA"
+      }
+    ],
+    "title": "FIFA",
+    "title_english": "FIFA",
+    "title_japanese": "FIFA",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 8, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20452,
+    "popularity": 20662,
+    "members": 237,
+    "favorites": 0,
+    "synopsis": "Football stars from all over the world pass the ball to each other and finally get together to celebrate the Chinese New Year.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2682,
+        "type": "anime",
+        "name": "Steamworks",
+        "url": "https://myanimelist.net/anime/producer/2682/Steamworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=gxnSxPUTm6Y&ab_channel=steamworksstudio"
+      }
+    ],
+    "streaming": []
+  }
+}

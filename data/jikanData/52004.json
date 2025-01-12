@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 52004,
+    "url": "https://myanimelist.net/anime/52004/Gugumi-chan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1978/124280.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1978/124280t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1978/124280l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1978/124280.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1978/124280t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1978/124280l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gugumi-chan"
+      },
+      {
+        "type": "Japanese",
+        "title": "ググミちゃん"
+      }
+    ],
+    "title": "Gugumi-chan",
+    "title_english": null,
+    "title_japanese": "ググミちゃん",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-25T00:00:00+00:00",
+      "to": "2023-12-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "May 25, 2022 to Dec 1, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20752,
+    "popularity": 20272,
+    "members": 260,
+    "favorites": 0,
+    "synopsis": "Gugumi-chan is solving problems that her father gave her using her father's modified navigation app. The app allows her to warp anywhere, and she meets interesting characters in the warp tunnel.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1005,
+        "type": "anime",
+        "name": "Oddjob",
+        "url": "https://myanimelist.net/anime/producer/1005/Oddjob"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Kuyokuyo Good-bye Day\" By Dream Passport"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mysta.tv/gugumichan/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17267"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25453"
+      }
+    ],
+    "streaming": []
+  }
+}

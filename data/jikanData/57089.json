@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 57089,
+    "url": "https://myanimelist.net/anime/57089/Play_House",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1080/139526.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1080/139526t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1080/139526l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1080/139526.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1080/139526t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1080/139526l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Play House"
+      },
+      {
+        "type": "Japanese",
+        "title": "PlayHouse"
+      }
+    ],
+    "title": "Play House",
+    "title_english": null,
+    "title_japanese": "PlayHouse",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 10, 2016"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18382,
+    "popularity": 25228,
+    "members": 86,
+    "favorites": 0,
+    "synopsis": "The whole family is waiting for the father to come home for dinner. Yet when the father finally gets home, he focuses on nothing else but the screen he holds, until he sees another family's picture...\n\n(Source: Vimeo)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/30320249/"
+      }
+    ],
+    "streaming": []
+  }
+}

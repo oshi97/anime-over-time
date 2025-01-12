@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 53956,
+    "url": "https://myanimelist.net/anime/53956/Doraemon__Uchuu_Fushigi_Daitanken_Planetarium",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/132040.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/132040t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/132040l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/132040.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/132040t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/132040l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん 宇宙ふしぎ大探検 プラネタリウム"
+      }
+    ],
+    "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium",
+    "title_english": null,
+    "title_japanese": "ドラえもん 宇宙ふしぎ大探検 プラネタリウム",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-05-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 5,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 15, 2010"
+    },
+    "duration": "25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20199,
+    "popularity": 16056,
+    "members": 597,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53957,
+            "type": "anime",
+            "name": "Doraemon: Uchuu Fushigi Daitanken Planetarium 2 - Taiyoukei no Himitsu",
+            "url": "https://myanimelist.net/anime/53957/Doraemon__Uchuu_Fushigi_Daitanken_Planetarium_2_-_Taiyoukei_no_Himitsu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

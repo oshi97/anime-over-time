@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 55720,
+    "url": "https://myanimelist.net/anime/55720/Genjitsu_no_Rimuru__Sunshine_in_the_Slime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1615/136610.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/136610t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/136610l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1615/136610.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/136610t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/136610l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Genjitsu no Rimuru: Sunshine in the Slime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Rimuru the Parhelion: Sunshine in the Slime"
+      },
+      {
+        "type": "Japanese",
+        "title": "幻日のリムル -SUNSHINE in the SLIME-"
+      }
+    ],
+    "title": "Genjitsu no Rimuru: Sunshine in the Slime",
+    "title_english": null,
+    "title_japanese": "幻日のリムル -SUNSHINE in the SLIME-",
+    "title_synonyms": [
+      "Rimuru the Parhelion: Sunshine in the Slime"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-21T00:00:00+00:00",
+      "to": "2023-07-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": 18,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "string": "Jun 21, 2023 to Jul 18, 2023"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.81,
+    "scored_by": 1874,
+    "rank": 10862,
+    "popularity": 6972,
+    "members": 9135,
+    "favorites": 39,
+    "synopsis": "A collaboration anime between Genjitsu no Yohane: Sunshine in the Mirror and Tensei shitara Slime Datta Ken.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2071,
+        "type": "anime",
+        "name": "AQUA ARIS",
+        "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 37430,
+            "type": "anime",
+            "name": "Tensei shitara Slime Datta Ken",
+            "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken"
+          },
+          {
+            "mal_id": 52214,
+            "type": "anime",
+            "name": "Genjitsu no Yohane: Sunshine in the Mirror",
+            "url": "https://myanimelist.net/anime/52214/Genjitsu_no_Yohane__Sunshine_in_the_Mirror"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

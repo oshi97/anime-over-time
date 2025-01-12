@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 36099,
+    "url": "https://myanimelist.net/anime/36099/The_Gift",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87225.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87225t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87225l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87225.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87225t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87225l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The Gift"
+      },
+      {
+        "type": "Japanese",
+        "title": "THE GIFT"
+      },
+      {
+        "type": "English",
+        "title": "The Gift"
+      }
+    ],
+    "title": "The Gift",
+    "title_english": "The Gift",
+    "title_japanese": "THE GIFT",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 4, 2016"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.73,
+    "scored_by": 157,
+    "rank": 11222,
+    "popularity": 18686,
+    "members": 355,
+    "favorites": 0,
+    "synopsis": "All shots are created with game engine Unity. In the short, a little girl wants to give a gift to her parents. She's then sucked into a fantasy-like world (via her imagination) where her stuffed animal helps her on her journey.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1296,
+        "type": "anime",
+        "name": "Marza Animation Planet",
+        "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 40570,
+            "type": "anime",
+            "name": "The Peak",
+            "url": "https://myanimelist.net/anime/40570/The_Peak"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.marza.com/works/article/862/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marza_Animation_Planet"
+      }
+    ],
+    "streaming": []
+  }
+}

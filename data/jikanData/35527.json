@@ -1,0 +1,119 @@
+{
+  "data": {
+    "mal_id": 35527,
+    "url": "https://myanimelist.net/anime/35527/Paperman",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85635.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85635t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85635l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85635.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85635t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85635l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Paperman"
+      },
+      {
+        "type": "Japanese",
+        "title": "ペーパーマン"
+      }
+    ],
+    "title": "Paperman",
+    "title_english": null,
+    "title_japanese": "ペーパーマン",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-08-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 8,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 17, 2011"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": 5.33,
+    "scored_by": 132,
+    "rank": 12564,
+    "popularity": 18879,
+    "members": 341,
+    "favorites": 0,
+    "synopsis": "Within the Paperman game, glimpses of an anime were shown. \n\nSeveral years later after a mobile version of the game was released, a special promotion was created where players can follow a link within the mobile game to take them to a special website where they could purchase a full 6 minute remake of the anime to view.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.paperman.jp/event/201108animation/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8580"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Paperman"
+      }
+    ],
+    "streaming": []
+  }
+}

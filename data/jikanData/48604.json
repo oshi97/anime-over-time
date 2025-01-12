@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 48604,
+    "url": "https://myanimelist.net/anime/48604/Fastening_Days_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1507/113824.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1507/113824t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1507/113824l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1507/113824.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1507/113824t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1507/113824l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fastening Days 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "FASTENING DAYS 2"
+      }
+    ],
+    "title": "Fastening Days 2",
+    "title_english": null,
+    "title_japanese": "FASTENING DAYS 2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 1, 2016"
+    },
+    "duration": "9 min",
+    "rating": "G - All Ages",
+    "score": 6.17,
+    "scored_by": 626,
+    "rank": 8984,
+    "popularity": 13337,
+    "members": 1245,
+    "favorites": 0,
+    "synopsis": "A terrible incident suddenly hits a peaceful town. Will our young heroes be able to save everyone from this disaster? An exciting tale of bravery and adventure.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 28205,
+            "type": "anime",
+            "name": "Fastening Days",
+            "url": "https://myanimelist.net/anime/28205/Fastening_Days"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48605,
+            "type": "anime",
+            "name": "Fastening Days 3",
+            "url": "https://myanimelist.net/anime/48605/Fastening_Days_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Hold Your Hand\" by Perfume"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ykkfastening.com/fd/en/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12309"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19757"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 57961,
+    "url": "https://myanimelist.net/anime/57961/Rakuen_Tsuihou__Kokoro_no_Resonance",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/146525.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/146525t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/146525l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1437/146525.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/146525t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/146525l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "RxFirnw45yU",
+      "url": "https://www.youtube.com/watch?v=RxFirnw45yU",
+      "embed_url": "https://www.youtube.com/embed/RxFirnw45yU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/RxFirnw45yU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/RxFirnw45yU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/RxFirnw45yU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/RxFirnw45yU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/RxFirnw45yU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rakuen Tsuihou: Kokoro no Resonance"
+      },
+      {
+        "type": "Synonym",
+        "title": "Liberated from Paradise: Resonance of the Heart"
+      },
+      {
+        "type": "Japanese",
+        "title": "楽園追放 心のレゾナンス"
+      }
+    ],
+    "title": "Rakuen Tsuihou: Kokoro no Resonance",
+    "title_english": null,
+    "title_japanese": "楽園追放 心のレゾナンス",
+    "title_synonyms": [
+      "Liberated from Paradise: Resonance of the Heart"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2026-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2026
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2026 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 7987,
+    "members": 6501,
+    "favorites": 19,
+    "synopsis": "Sequel to Rakuen Tsuihou.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 13391,
+            "type": "anime",
+            "name": "Rakuen Tsuihou",
+            "url": "https://myanimelist.net/anime/13391/Rakuen_Tsuihou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://rakuen-tsuiho.com/"
+      },
+      {
+        "name": "@efp_official",
+        "url": "https://twitter.com/efp_official"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18457"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31846"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Expelled_from_Paradise"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 57185,
+    "url": "https://myanimelist.net/anime/57185/Heart_Cocktail_Colorful__Haru-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1823/139682.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/139682t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/139682l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1823/139682.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/139682t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/139682l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heart Cocktail Colorful: Haru-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Heart Cocktail Colorful: Spring Chapter"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハートカクテル カラフル 春編"
+      }
+    ],
+    "title": "Heart Cocktail Colorful: Haru-hen",
+    "title_english": null,
+    "title_japanese": "ハートカクテル カラフル 春編",
+    "title_synonyms": [
+      "Heart Cocktail Colorful: Spring Chapter"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-28T00:00:00+00:00",
+      "to": "2023-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Mar 28, 2023 to Mar 29, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20927,
+    "popularity": 20900,
+    "members": 224,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57186,
+            "type": "anime",
+            "name": "Heart Cocktail Colorful: Natsu-hen",
+            "url": "https://myanimelist.net/anime/57186/Heart_Cocktail_Colorful__Natsu-hen"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 27693,
+            "type": "anime",
+            "name": "Heart Cocktail",
+            "url": "https://myanimelist.net/anime/27693/Heart_Cocktail"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.jp/p/ts/PYL2917V5V"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17822"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26926"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1_(NHK)"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/6674"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 36104,
+    "url": "https://myanimelist.net/anime/36104/Haha_no_Supporter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/87248.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/87248t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/87248l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/87248.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/87248t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/87248l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haha no Supporter"
+      },
+      {
+        "type": "Japanese",
+        "title": "母のサポーター"
+      },
+      {
+        "type": "English",
+        "title": "Mother's Supporter"
+      }
+    ],
+    "title": "Haha no Supporter",
+    "title_english": "Mother's Supporter",
+    "title_japanese": "母のサポーター",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 13, 2016"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.2,
+    "scored_by": 284,
+    "rank": 8821,
+    "popularity": 16245,
+    "members": 572,
+    "favorites": 1,
+    "synopsis": "A Tsutaetai, Kokoro no Tegami (wedding, elderly aid, and funeral company) commissioned work from Tekken showing a son recounting the love of his mother as she supported his ailing father.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 34117,
+            "type": "anime",
+            "name": "Otousan wa Ai no Hito",
+            "url": "https://myanimelist.net/anime/34117/Otousan_wa_Ai_no_Hito"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20131210132743/http://norton-kizuna.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

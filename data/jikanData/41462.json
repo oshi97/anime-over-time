@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 41462,
+    "url": "https://myanimelist.net/anime/41462/BanG_Dream_Film_Live_2nd_Stage",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1229/117735.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1229/117735t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1229/117735l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1229/117735.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1229/117735t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1229/117735l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "SjDir7mlNLU",
+      "url": "https://www.youtube.com/watch?v=SjDir7mlNLU",
+      "embed_url": "https://www.youtube.com/embed/SjDir7mlNLU?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/SjDir7mlNLU/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/SjDir7mlNLU/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/SjDir7mlNLU/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/SjDir7mlNLU/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/SjDir7mlNLU/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BanG Dream! Film Live 2nd Stage"
+      },
+      {
+        "type": "Japanese",
+        "title": "BanG Dream! FILM LIVE 2nd Stage"
+      }
+    ],
+    "title": "BanG Dream! Film Live 2nd Stage",
+    "title_english": null,
+    "title_japanese": "BanG Dream! FILM LIVE 2nd Stage",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 20, 2021"
+    },
+    "duration": "1 hr 44 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.88,
+    "scored_by": 2759,
+    "rank": 860,
+    "popularity": 7279,
+    "members": 8245,
+    "favorites": 35,
+    "synopsis": "The second animated live movie for the BanG Dream! franchise and the sequel to BanG Dream! FILM LIVE.\n\n(Source:BanG Dream! Wikia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 537,
+        "type": "anime",
+        "name": "SANZIGEN",
+        "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39619,
+            "type": "anime",
+            "name": "BanG Dream! Film Live",
+            "url": "https://myanimelist.net/anime/39619/BanG_Dream_Film_Live"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37870,
+            "type": "anime",
+            "name": "BanG Dream! 3rd Season",
+            "url": "https://myanimelist.net/anime/37870/BanG_Dream_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime.bang-dream.com/filmlive2/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15444"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24155"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/BanG_Dream!#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 39735,
+    "url": "https://myanimelist.net/anime/39735/Baja_no_Studio__Baja_no_Mita_Umi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/106278.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/106278t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/106278l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/106278.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/106278t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/106278l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "scf3Nx8qUTo",
+      "url": "https://www.youtube.com/watch?v=scf3Nx8qUTo",
+      "embed_url": "https://www.youtube.com/embed/scf3Nx8qUTo?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/scf3Nx8qUTo/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/scf3Nx8qUTo/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/scf3Nx8qUTo/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/scf3Nx8qUTo/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/scf3Nx8qUTo/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baja no Studio: Baja no Mita Umi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sousaku no"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ima!!: Baja"
+      },
+      {
+        "type": "Japanese",
+        "title": "バジャのスタジオ~バジャのみた海~"
+      }
+    ],
+    "title": "Baja no Studio: Baja no Mita Umi",
+    "title_english": null,
+    "title_japanese": "バジャのスタジオ~バジャのみた海~",
+    "title_synonyms": [
+      "Sousaku no",
+      "Ima!!: Baja"
+    ],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 21, 2020"
+    },
+    "duration": "27 min",
+    "rating": "G - All Ages",
+    "score": 6.83,
+    "scored_by": 890,
+    "rank": 5160,
+    "popularity": 11873,
+    "members": 1971,
+    "favorites": 4,
+    "synopsis": "Living in an animation studio fawned over by its staff, Baja and his best friend Ga-chan have all sorts of fun every day. While working on a particularly stressful project, the studio's head director, Kanako, wishes that she could take a trip to the sea. This makes Baja wonder what sort of place the sea might be and if he and Ga-chan could use magic to experience it as well.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35965,
+            "type": "anime",
+            "name": "Baja no Studio",
+            "url": "https://myanimelist.net/anime/35965/Baja_no_Studio"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Te to Te to Te\" by Hisayo Abe feat. Suginami Jidou Gasshou-dan"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://kyoanido-event.com/enjoy/ticket/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14839"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23078"
+      }
+    ],
+    "streaming": []
+  }
+}

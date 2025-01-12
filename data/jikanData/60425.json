@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 60425,
+    "url": "https://myanimelist.net/anime/60425/0-saiji_Start_Dash_Monogatari_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1477/146764.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/146764t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/146764l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1477/146764.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/146764t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/146764l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "0-saiji Start Dash Monogatari Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Head Start at Birth Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "0歳児スタートダッシュ物語 シーズン2"
+      },
+      {
+        "type": "English",
+        "title": "0 Years Old Child Starting Dash Story Season 2"
+      }
+    ],
+    "title": "0-saiji Start Dash Monogatari Season 2",
+    "title_english": "0 Years Old Child Starting Dash Story Season 2",
+    "title_japanese": "0歳児スタートダッシュ物語 シーズン2",
+    "title_synonyms": [
+      "Head Start at Birth Season 2"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2025-01-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 5, 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18923,
+    "popularity": 11847,
+    "members": 1994,
+    "favorites": 5,
+    "synopsis": "Second season of 0-saiji Start Dash Monogatari.",
+    "background": "",
+    "season": "winter",
+    "year": 2025,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "17:55",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 17:55 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      },
+      {
+        "mal_id": 72,
+        "type": "anime",
+        "name": "Reincarnation",
+        "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58985,
+            "type": "anime",
+            "name": "0-saiji Start Dash Monogatari",
+            "url": "https://myanimelist.net/anime/58985/0-saiji_Start_Dash_Monogatari"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 171069,
+            "type": "manga",
+            "name": "0-saiji Start Dash Monogatari",
+            "url": "https://myanimelist.net/manga/171069/0-saiji_Start_Dash_Monogatari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34104"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Head_Start_at_Birth#Anime"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7340"
+      }
+    ],
+    "streaming": []
+  }
+}

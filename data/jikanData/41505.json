@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 41505,
+    "url": "https://myanimelist.net/anime/41505/Pianoman_Trailer",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/106625.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/106625t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/106625l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/106625.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/106625t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/106625l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pianoman Trailer"
+      },
+      {
+        "type": "Synonym",
+        "title": "PianoMan Trailer"
+      },
+      {
+        "type": "Japanese",
+        "title": "PIANOMAN Trailer"
+      }
+    ],
+    "title": "Pianoman Trailer",
+    "title_english": null,
+    "title_japanese": "PIANOMAN Trailer",
+    "title_synonyms": [
+      "PianoMan Trailer"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2017"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.34,
+    "scored_by": 287,
+    "rank": 12532,
+    "popularity": 16304,
+    "members": 565,
+    "favorites": 0,
+    "synopsis": "Trailer for Echoes' PIANOMAN with original animation that was not reused in the resulting short film.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1522,
+        "type": "anime",
+        "name": "Echoes",
+        "url": "https://myanimelist.net/anime/producer/1522/Echoes"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41217,
+            "type": "anime",
+            "name": "Pianoman",
+            "url": "https://myanimelist.net/anime/41217/Pianoman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://echoes-echoes.com/work.html"
+      }
+    ],
+    "streaming": []
+  }
+}

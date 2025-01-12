@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 50970,
+    "url": "https://myanimelist.net/anime/50970/Bukusuta_The_World",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/120821.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/120821t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/120821l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/120821.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/120821t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/120821l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bukusuta The World"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ensembukubu Stars!"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぶくスタ The WORLD"
+      }
+    ],
+    "title": "Bukusuta The World",
+    "title_english": null,
+    "title_japanese": "ぶくスタ The WORLD",
+    "title_synonyms": [
+      "Ensembukubu Stars!"
+    ],
+    "type": "Movie",
+    "source": "4-koma manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2022 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19542,
+    "popularity": 15257,
+    "members": 726,
+    "favorites": 2,
+    "synopsis": "Anime adaptation of Pop Team Epic creator Bkub Okawa's Ensembukubu Stars! four-panel spinoff manga. Shorts will screen with the Ensemble Stars!! Road to Show!! film and the short will change each week.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50414,
+            "type": "anime",
+            "name": "Ensemble Stars!! Road to Show!!",
+            "url": "https://myanimelist.net/anime/50414/Ensemble_Stars_Road_to_Show"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemblestars-anime.com/rts/news/?p=217"
+      }
+    ],
+    "streaming": []
+  }
+}

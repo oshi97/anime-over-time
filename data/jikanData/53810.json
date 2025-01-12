@@ -1,0 +1,197 @@
+{
+  "data": {
+    "mal_id": 53810,
+    "url": "https://myanimelist.net/anime/53810/Crayon_Shin-chan_Movie_31__Chounouryoku_Daikessen_-_Tobe_Tobe_Temakizushi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/136322.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/136322t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/136322l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/136322.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/136322t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/136322l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "AwAcq_p2gRw",
+      "url": "https://www.youtube.com/watch?v=AwAcq_p2gRw",
+      "embed_url": "https://www.youtube.com/embed/AwAcq_p2gRw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/AwAcq_p2gRw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/AwAcq_p2gRw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/AwAcq_p2gRw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/AwAcq_p2gRw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/AwAcq_p2gRw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shin Jigen! Crayon Shin-chan the Movie: Chounouryoku Daikessen - Tobe Tobe Temakizushi"
+      },
+      {
+        "type": "Japanese",
+        "title": "しん次元! クレヨンしんちゃんTHE MOVIE 超能力大決戦 ~とべとべ手巻き寿司~"
+      }
+    ],
+    "title": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+    "title_english": null,
+    "title_japanese": "しん次元! クレヨンしんちゃんTHE MOVIE 超能力大決戦 ~とべとべ手巻き寿司~",
+    "title_synonyms": [
+      "Shin Jigen! Crayon Shin-chan the Movie: Chounouryoku Daikessen - Tobe Tobe Temakizushi"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 4, 2023"
+    },
+    "duration": "1 hr 34 min",
+    "rating": "G - All Ages",
+    "score": 7.04,
+    "scored_by": 461,
+    "rank": 4171,
+    "popularity": 12130,
+    "members": 1822,
+    "favorites": 12,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 235,
+        "type": "anime",
+        "name": "Shirogumi",
+        "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+      },
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50562,
+            "type": "anime",
+            "name": "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
+            "url": "https://myanimelist.net/anime/50562/Crayon_Shin-chan_Movie_30__Mononoke_Ninja_Chinpuuden"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 2435,
+            "type": "manga",
+            "name": "Crayon Shin-chan",
+            "url": "https://myanimelist.net/manga/2435/Crayon_Shin-chan"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 966,
+            "type": "anime",
+            "name": "Crayon Shin-chan",
+            "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.shinchan-movie.com/"
+      },
+      {
+        "name": "@shinchan3dcg",
+        "url": "https://twitter.com/shinchan3dcg"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17762"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26717"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%93%E6%AC%A1%E5%85%83!_%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_THE_MOVIE_%E8%B6%85%E8%83%BD%E5%8A%9B%E5%A4%A7%E6%B1%BA%E6%88%A6_%E3%80%9C%E3%81%A8%E3%81%B9%E3%81%A8%E3%81%B9%E6%89%8B%E5%B7%BB%E3%81%8D%E5%AF%BF%E5%8F%B8%E3%80%9C#%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/410418"
+      }
+    ],
+    "streaming": []
+  }
+}

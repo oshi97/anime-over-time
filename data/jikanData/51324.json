@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 51324,
+    "url": "https://myanimelist.net/anime/51324/Shinkalion_Hello_Kitty",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1917/121638.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/121638t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/121638l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1917/121638.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/121638t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/121638l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinkalion Hello Kitty"
+      },
+      {
+        "type": "Japanese",
+        "title": "シンカリオン ハローキティ"
+      }
+    ],
+    "title": "Shinkalion Hello Kitty",
+    "title_english": null,
+    "title_japanese": "シンカリオン ハローキティ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": 5.85,
+    "scored_by": 165,
+    "rank": 10667,
+    "popularity": 16903,
+    "members": 499,
+    "favorites": 2,
+    "synopsis": "Crossover between Shinkansen Henkei Robo Shinkalion and Hello Kitty.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 3202,
+            "type": "anime",
+            "name": "Daisuki! Hello Kitty",
+            "url": "https://myanimelist.net/anime/3202/Daisuki_Hello_Kitty"
+          },
+          {
+            "mal_id": 36531,
+            "type": "anime",
+            "name": "Shinkansen Henkei Robo Shinkalion The Animation",
+            "url": "https://myanimelist.net/anime/36531/Shinkansen_Henkei_Robo_Shinkalion_The_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/1qyjoKV6WIU"
+      }
+    ],
+    "streaming": []
+  }
+}

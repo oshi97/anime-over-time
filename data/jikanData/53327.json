@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 53327,
+    "url": "https://myanimelist.net/anime/53327/Nanjyamo_no_Aibou_wa_Nanimono_nanja_Donna_Monja_TV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1197/129096.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1197/129096t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1197/129096l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1197/129096.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1197/129096t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1197/129096l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nanjyamo no Aibou wa Nanimono nanja!? (Donna Monja TV)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Who is Nanjyamo's Partner!? (Donna Monja TV)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ナンジャモの相棒は何者なんじゃ!?【ドンナモンジャTV】"
+      },
+      {
+        "type": "English",
+        "title": "Guess Iono's Partner Pokémon!"
+      }
+    ],
+    "title": "Nanjyamo no Aibou wa Nanimono nanja!? (Donna Monja TV)",
+    "title_english": "Guess Iono's Partner Pokémon!",
+    "title_japanese": "ナンジャモの相棒は何者なんじゃ!?【ドンナモンジャTV】",
+    "title_synonyms": [
+      "Who is Nanjyamo's Partner!? (Donna Monja TV)"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-12T00:00:00+00:00",
+      "to": "2022-10-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": 14,
+          "month": 10,
+          "year": 2022
+        }
+      },
+      "string": "Oct 12, 2022 to Oct 14, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.75,
+    "scored_by": 466,
+    "rank": 11139,
+    "popularity": 14154,
+    "members": 1003,
+    "favorites": 0,
+    "synopsis": "Digital influencer, streamer, and Gym Leader Nanjyamo introduces herself and asks the audience to guess what her partner Pokémon is.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2570,
+        "type": "anime",
+        "name": "Ijigen Tokyo",
+        "url": "https://myanimelist.net/anime/producer/2570/Ijigen_Tokyo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53876,
+            "type": "anime",
+            "name": "Pokemon (2023)",
+            "url": "https://myanimelist.net/anime/53876/Pokemon_2023"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

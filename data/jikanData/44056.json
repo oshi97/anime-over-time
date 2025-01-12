@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 44056,
+    "url": "https://myanimelist.net/anime/44056/Tokyo_Gambo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1758/110280.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1758/110280t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1758/110280l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1758/110280.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1758/110280t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1758/110280l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo Gambo"
+      },
+      {
+        "type": "Japanese",
+        "title": "東京ガンボ"
+      }
+    ],
+    "title": "Tokyo Gambo",
+    "title_english": null,
+    "title_japanese": "東京ガンボ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-22T00:00:00+00:00",
+      "to": "2020-12-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": 20,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Nov 22, 2020 to Dec 20, 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.57,
+    "scored_by": 140,
+    "rank": 11842,
+    "popularity": 9613,
+    "members": 3922,
+    "favorites": 4,
+    "synopsis": "The story will take place 100 years after the world was destroyed in the 21st century due to environmental destruction and depletion of resources. The story follows four girls who work at PARK, based on a real store in Harajuku that follows the theme of \"Fashion × Otaku × Creation.\"\n\n(Source: ANN)",
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "03:20",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 03:20 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1077,
+        "type": "anime",
+        "name": "MMDGP",
+        "url": "https://myanimelist.net/anime/producer/1077/MMDGP"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1851,
+        "type": "anime",
+        "name": "Jumonji",
+        "url": "https://myanimelist.net/anime/producer/1851/Jumonji"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35250,
+            "type": "anime",
+            "name": "Urahara",
+            "url": "https://myanimelist.net/anime/35250/Urahara"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tokyogambo.com/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23834"
+      }
+    ],
+    "streaming": []
+  }
+}

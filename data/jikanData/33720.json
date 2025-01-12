@@ -1,0 +1,184 @@
+{
+  "data": {
+    "mal_id": 33720,
+    "url": "https://myanimelist.net/anime/33720/Girls___Panzer_Movie__3-pun_Chotto_de_Wakaru_Girls___Panzer",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/81095.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/81095t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/81095l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/81095.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/81095t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/81095l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer"
+      },
+      {
+        "type": "Synonym",
+        "title": "Girls und Panzer Movie: Understanding Girls und Panzer in 3 Minutes!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Girls und Panzer der Film Intro"
+      },
+      {
+        "type": "Synonym",
+        "title": "San-pun Chotto de Wakaru!! Girls und Panzer"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガールズ&パンツァー 劇場版 3分ちょっとでわかる!! ガールズ&パンツァー"
+      }
+    ],
+    "title": "Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer",
+    "title_english": null,
+    "title_japanese": "ガールズ&パンツァー 劇場版 3分ちょっとでわかる!! ガールズ&パンツァー",
+    "title_synonyms": [
+      "Girls und Panzer Movie: Understanding Girls und Panzer in 3 Minutes!!",
+      "Girls und Panzer der Film Intro",
+      "San-pun Chotto de Wakaru!! Girls und Panzer"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-11-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 21, 2015"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.6,
+    "scored_by": 2298,
+    "rank": 6461,
+    "popularity": 7687,
+    "members": 7144,
+    "favorites": 11,
+    "synopsis": "A 3-minute intro screened in theaters at the start of the movie. It recaps the TV series to give viewers some context before watching the film.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Actas",
+        "url": "https://myanimelist.net/anime/producer/60/Actas"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      },
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 14131,
+            "type": "anime",
+            "name": "Girls & Panzer",
+            "url": "https://myanimelist.net/anime/14131/Girls___Panzer"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 18617,
+            "type": "anime",
+            "name": "Girls & Panzer Movie",
+            "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.girls-und-panzer.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10008"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Girls_und_Panzer_der_Film"
+      }
+    ],
+    "streaming": []
+  }
+}

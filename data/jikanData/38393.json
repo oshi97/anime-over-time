@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 38393,
+    "url": "https://myanimelist.net/anime/38393/Senjuushi__Kijuushi-tachi_no_Happy_Birthday",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/97002.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/97002t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/97002l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/97002.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/97002t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/97002l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "mTVUZigukXg",
+      "url": "https://www.youtube.com/watch?v=mTVUZigukXg",
+      "embed_url": "https://www.youtube.com/embed/mTVUZigukXg?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/mTVUZigukXg/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/mTVUZigukXg/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/mTVUZigukXg/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/mTVUZigukXg/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/mTVUZigukXg/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Senjuushi: Kijuushi-tachi no Happy Birthday!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Senjuushi OVA"
+      },
+      {
+        "type": "Japanese",
+        "title": "千銃士 貴銃士たちのハッピーバースデイ!"
+      }
+    ],
+    "title": "Senjuushi: Kijuushi-tachi no Happy Birthday!",
+    "title_english": null,
+    "title_japanese": "千銃士 貴銃士たちのハッピーバースデイ!",
+    "title_synonyms": [
+      "Senjuushi OVA"
+    ],
+    "type": "OVA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 6, 2019"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.76,
+    "scored_by": 162,
+    "rank": 11093,
+    "popularity": 13161,
+    "members": 1312,
+    "favorites": 2,
+    "synopsis": "The story will be about the characters celebrating their master's birthday, which happens after the sixth episode. \n\n(Source: MAL News)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37571,
+            "type": "anime",
+            "name": "Senjuushi",
+            "url": "https://myanimelist.net/anime/37571/Senjuushi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"antique memory\" by Brown Bess (Taku Yashiro), Charlesville (Shinnosuke Tachibana), Springfield (Shouta Aoi), Kentucky (Yuki Kaji)"
+      ],
+      "endings": [
+        "\"BLACK MATRIX\" by vistlip"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://noble.marv.jp/anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14411"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Thousand_Musketeers"
+      }
+    ],
+    "streaming": []
+  }
+}

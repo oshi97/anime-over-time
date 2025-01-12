@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 42488,
+    "url": "https://myanimelist.net/anime/42488/Wasureta_Furi_wo_Shite",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/108596.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/108596t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/108596l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/108596.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/108596t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/108596l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wasureta Furi wo Shite"
+      },
+      {
+        "type": "Japanese",
+        "title": "忘れたフリをして"
+      },
+      {
+        "type": "English",
+        "title": "Pretending to forget"
+      }
+    ],
+    "title": "Wasureta Furi wo Shite",
+    "title_english": "Pretending to forget",
+    "title_japanese": "忘れたフリをして",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 30, 2020"
+    },
+    "duration": "13 min",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 518,
+    "rank": 8950,
+    "popularity": 13216,
+    "members": 1294,
+    "favorites": 2,
+    "synopsis": "Animation film celebrating the 50th anniversary of the Senba Center Building. Based on the manga \"A manga in the Semba Center Building\" by You Machida.\n\nOne day, manga artist YOU Machida received a request to draw the Semba Center Building, which was celebrating its 50th anniversary. This is the story of a quiet dialogue between a manga artist who has suffered from depression in the past and the Senba Center Building, a generous old commercial facility that has lived for 50 years in the middle of Osaka, over a four-day period.\n\n(Source: Vimeo)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2087,
+        "type": "anime",
+        "name": "CEKAI",
+        "url": "https://myanimelist.net/anime/producer/2087/CEKAI"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1063,
+        "type": "anime",
+        "name": "Calf Studio",
+        "url": "https://myanimelist.net/anime/producer/1063/Calf_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.semba-center.com/50th/movie/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E5%A0%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

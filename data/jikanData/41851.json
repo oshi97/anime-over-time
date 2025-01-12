@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 41851,
+    "url": "https://myanimelist.net/anime/41851/Girl_X",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/132773.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/132773t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/132773l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/132773.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/132773t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/132773l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Girl X"
+      },
+      {
+        "type": "Japanese",
+        "title": "Girl X"
+      },
+      {
+        "type": "English",
+        "title": "The Girl and the Monster"
+      }
+    ],
+    "title": "Girl X",
+    "title_english": "The Girl and the Monster",
+    "title_japanese": "Girl X",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-26T00:00:00+00:00",
+      "to": "2021-12-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 2,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "string": "Jul 26, 2019 to Dec 2, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.14,
+    "scored_by": 739,
+    "rank": 12975,
+    "popularity": 13171,
+    "members": 1310,
+    "favorites": 0,
+    "synopsis": "A woman is relaxing at home, where she is joined by a peculiar blue creature. Initially terrified, she quickly grows fond of it, and the two form a bond. However, it would be wise of her not to let her guard down just yet.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://takena.pussycat.jp/home_new2.htm"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15066"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%84%E3%81%88%E3%81%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

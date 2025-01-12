@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 39921,
+    "url": "https://myanimelist.net/anime/39921/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow_-_Manner_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/122070.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/122070t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/122070l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/122070.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/122070t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/122070l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "Re:ゼロから始める異世界生活 Memory Snow マナームービー"
+      },
+      {
+        "type": "English",
+        "title": "Re:ZERO -Starting Life in Another World- Memory Snow: Manner Movie"
+      }
+    ],
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie",
+    "title_english": "Re:ZERO -Starting Life in Another World- Memory Snow: Manner Movie",
+    "title_japanese": "Re:ゼロから始める異世界生活 Memory Snow マナームービー",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 6, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 7.51,
+    "scored_by": 24140,
+    "rank": 1900,
+    "popularity": 3157,
+    "members": 53928,
+    "favorites": 96,
+    "synopsis": "Subaru Natsuki finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date! Unfortunately for Subaru, cold weather suddenly sweeps across Roswaal's mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.\n\n(Source: Apple TV)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 314,
+        "type": "anime",
+        "name": "White Fox",
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 74697,
+            "type": "manga",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "url": "https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36286,
+            "type": "anime",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+            "url": "https://myanimelist.net/anime/36286/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://re-zero-anime.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13430"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20773"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World"
+      }
+    ],
+    "streaming": []
+  }
+}

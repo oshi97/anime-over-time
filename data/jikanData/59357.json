@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 59357,
+    "url": "https://myanimelist.net/anime/59357/Turning_the_Tera_Tide",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1337/144361.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/144361t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/144361l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1337/144361.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/144361t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/144361l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Turning the Tera Tide"
+      },
+      {
+        "type": "Japanese",
+        "title": "Turning the Tera Tide"
+      }
+    ],
+    "title": "Turning the Tera Tide",
+    "title_english": null,
+    "title_japanese": "Turning the Tera Tide",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2024"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14910,
+    "popularity": 20947,
+    "members": 220,
+    "favorites": 0,
+    "synopsis": "Our glistening hero quartet lands in hot water in Turning the Tera Tide! Watch Piplup, Greninja, Quaxly, and Palafin as they encounter a Dondozo with a mucky attitude!",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

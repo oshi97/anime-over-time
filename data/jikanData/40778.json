@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 40778,
+    "url": "https://myanimelist.net/anime/40778/Planetarian__Snow_Globe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/113365.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/113365t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/113365l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/113365.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/113365t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/113365l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Planetarian: Snow Globe"
+      },
+      {
+        "type": "Japanese",
+        "title": "planetarian ~雪圏球[スノーグローブ]~"
+      }
+    ],
+    "title": "Planetarian: Snow Globe",
+    "title_english": null,
+    "title_japanese": "planetarian ~雪圏球[スノーグローブ]~",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 20, 2021"
+    },
+    "duration": "36 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.24,
+    "scored_by": 3786,
+    "rank": 3142,
+    "popularity": 5885,
+    "members": 13850,
+    "favorites": 25,
+    "synopsis": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 203,
+        "type": "anime",
+        "name": "Visual Arts",
+        "url": "https://myanimelist.net/anime/producer/203/Visual_Arts"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2037,
+        "type": "anime",
+        "name": "Okuruto Noboru",
+        "url": "https://myanimelist.net/anime/producer/2037/Okuruto_Noboru"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 33091,
+            "type": "anime",
+            "name": "Planetarian: Chiisana Hoshi no Yume",
+            "url": "https://myanimelist.net/anime/33091/Planetarian__Chiisana_Hoshi_no_Yume"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 20963,
+            "type": "manga",
+            "name": "Planetarian: Chiisana Hoshi no Yume",
+            "url": "https://myanimelist.net/manga/20963/Planetarian__Chiisana_Hoshi_no_Yume"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Snow Globe\" by Riko Azuna"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://planetarian-project.com/"
+      },
+      {
+        "name": "@planetarian_pj",
+        "url": "https://twitter.com/planetarian_pj"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15284"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24071"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Planetarian:_The_Reverie_of_a_Little_Planet"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Planetarian_%E3%80%9C%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%BB%E3%81%97%E3%81%AE%E3%82%86%E3%82%81%E3%80%9C"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/295090"
+      }
+    ],
+    "streaming": []
+  }
+}

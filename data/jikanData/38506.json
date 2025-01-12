@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 38506,
+    "url": "https://myanimelist.net/anime/38506/Tokyo_Art_Month",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/95531.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/95531t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/95531l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/95531.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/95531t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/95531l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo Art Month"
+      },
+      {
+        "type": "Japanese",
+        "title": "TOKYO ART MONTH"
+      },
+      {
+        "type": "English",
+        "title": "Tokyo Art Month"
+      }
+    ],
+    "title": "Tokyo Art Month",
+    "title_english": "Tokyo Art Month",
+    "title_japanese": "TOKYO ART MONTH",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2011"
+    },
+    "duration": "47 sec",
+    "rating": "G - All Ages",
+    "score": 5.19,
+    "scored_by": 151,
+    "rank": 12881,
+    "popularity": 18506,
+    "members": 369,
+    "favorites": 0,
+    "synopsis": "A special web movie for the 2011 Autumn Tokyo Art Month. People could by tickets which granted them multi-access to various museums, fashion collections, and art fairs. The event ran for the entire month of November.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1934,
+        "type": "anime",
+        "name": "Saigo no Shudan",
+        "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.saigono.info/works.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 57384,
+    "url": "https://myanimelist.net/anime/57384/Kaixin_Chaoren__Yingxiong_de_Xin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/140056.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/140056t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/140056l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/140056.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/140056t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/140056l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaixin Chaoren: Yingxiong de Xin"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Heroes 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "开心超人之英雄的心"
+      },
+      {
+        "type": "English",
+        "title": "The Stones"
+      }
+    ],
+    "title": "Kaixin Chaoren: Yingxiong de Xin",
+    "title_english": "The Stones",
+    "title_japanese": "开心超人之英雄的心",
+    "title_synonyms": [
+      "Happy Heroes 3"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 22, 2022"
+    },
+    "duration": "1 hr 36 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16547,
+    "popularity": 25413,
+    "members": 83,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43979,
+            "type": "anime",
+            "name": "Kaixin Chaoren 2: Qi Yuan Xing Zhi Zhan",
+            "url": "https://myanimelist.net/anime/43979/Kaixin_Chaoren_2__Qi_Yuan_Xing_Zhi_Zhan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57743,
+            "type": "anime",
+            "name": "Kaixin Chaoren: Shikong Yingjiu",
+            "url": "https://myanimelist.net/anime/57743/Kaixin_Chaoren__Shikong_Yingjiu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/开心超人之英雄的心/51137187"
+      }
+    ],
+    "streaming": []
+  }
+}

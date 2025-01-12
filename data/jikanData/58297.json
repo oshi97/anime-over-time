@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 58297,
+    "url": "https://myanimelist.net/anime/58297/Yumiui_Sepodeul",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/141778.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/141778t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/141778l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/141778.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/141778t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/141778l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yumiui Sepodeul"
+      },
+      {
+        "type": "Japanese",
+        "title": "유미의 세포들"
+      },
+      {
+        "type": "English",
+        "title": "Yumi's Cells The Movie"
+      }
+    ],
+    "title": "Yumiui Sepodeul",
+    "title_english": "Yumi's Cells The Movie",
+    "title_japanese": "유미의 세포들",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2, 2024"
+    },
+    "duration": "1 hr 33 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15986,
+    "popularity": 19106,
+    "members": 327,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 113095,
+            "type": "manga",
+            "name": "Yumi's Cells",
+            "url": "https://myanimelist.net/manga/113095/Yumis_Cells"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/유미의%20세포들%20더%20무비"
+      }
+    ],
+    "streaming": []
+  }
+}

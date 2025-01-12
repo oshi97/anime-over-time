@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 54782,
+    "url": "https://myanimelist.net/anime/54782/Bio_Sekai_Meisaku_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1308/134603.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1308/134603t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1308/134603l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1308/134603.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1308/134603t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1308/134603l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bio Sekai Meisaku Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bio Sekai Meisaku Gekijou: Fushigi no Mura no Leon"
+      },
+      {
+        "type": "Japanese",
+        "title": "バイオ世界名作劇場"
+      },
+      {
+        "type": "English",
+        "title": "Resident Evil Masterpiece Theater"
+      }
+    ],
+    "title": "Bio Sekai Meisaku Gekijou",
+    "title_english": "Resident Evil Masterpiece Theater",
+    "title_japanese": "バイオ世界名作劇場",
+    "title_synonyms": [
+      "Bio Sekai Meisaku Gekijou: Fushigi no Mura no Leon"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-19T00:00:00+00:00",
+      "to": "2023-03-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Mar 19, 2023 to Mar 24, 2023"
+    },
+    "duration": "56 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.77,
+    "scored_by": 589,
+    "rank": 5467,
+    "popularity": 13464,
+    "members": 1207,
+    "favorites": 3,
+    "synopsis": "Short animations based on the plot of Biohazard/Resident Evil 4 in the style of Nippon Animation's classic World Masterpiece Theater series posted to the official YouTube to promote the 2023 game release.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Nippon Animation",
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8278,
+            "type": "anime",
+            "name": "Biohazard 4: Incubate",
+            "url": "https://myanimelist.net/anime/8278/Biohazard_4__Incubate"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.residentevil.com/re4/ja-jp/topics/anime/"
+      }
+    ],
+    "streaming": []
+  }
+}

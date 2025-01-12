@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 35454,
+    "url": "https://myanimelist.net/anime/35454/Jii_Coro_Comic",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85459.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85459t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85459l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85459.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85459t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85459l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jii Coro Comic"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dangerous Jiisan"
+      },
+      {
+        "type": "Japanese",
+        "title": "じーコロコミック"
+      }
+    ],
+    "title": "Jii Coro Comic",
+    "title_english": null,
+    "title_japanese": "じーコロコミック",
+    "title_synonyms": [
+      "Dangerous Jiisan"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-12-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 12,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 25, 2015"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16325,
+    "popularity": 19279,
+    "members": 315,
+    "favorites": 0,
+    "synopsis": "A Dangerous Jiisan webisode released on CoroCoro Comic's official youtube page for Christmas 2015. In it, Yousuke accidentally breaks Jiisan's handheld game and ends up going on a wacky time traveling loop to fix it.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 22709,
+            "type": "anime",
+            "name": "Zettai Zetsumei Dangerous Jiisan (2005)",
+            "url": "https://myanimelist.net/anime/22709/Zettai_Zetsumei_Dangerous_Jiisan_2005"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 35745,
+            "type": "anime",
+            "name": "40-shuunen da yo!! CoroCoro All-Star Shougakkou",
+            "url": "https://myanimelist.net/anime/35745/40-shuunen_da_yo_CoroCoro_All-Star_Shougakkou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5ice6hzIxxM"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD%E3%81%A7%E3%82%93%E3%81%A2%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

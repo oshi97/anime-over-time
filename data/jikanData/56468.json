@@ -1,0 +1,120 @@
+{
+  "data": {
+    "mal_id": 56468,
+    "url": "https://myanimelist.net/anime/56468/Oni_Sara",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/138108.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/138108t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/138108l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/138108.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/138108t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/138108l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oni Sara"
+      },
+      {
+        "type": "Japanese",
+        "title": "オニサラ"
+      }
+    ],
+    "title": "Oni Sara",
+    "title_english": null,
+    "title_japanese": "オニサラ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-12T00:00:00+00:00",
+      "to": "2019-08-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": 26,
+          "month": 8,
+          "year": 2019
+        }
+      },
+      "string": "Aug 12, 2019 to Aug 26, 2019"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18151,
+    "popularity": 25017,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2019,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "23:15",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 23:15 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2818,
+        "type": "anime",
+        "name": "qmotri",
+        "url": "https://myanimelist.net/anime/producer/2818/qmotri"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

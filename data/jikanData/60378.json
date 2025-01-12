@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 60378,
+    "url": "https://myanimelist.net/anime/60378/Shabake",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/146645.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/146645t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/146645l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1871/146645.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1871/146645t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1871/146645l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "WIVzdopyf0A",
+      "url": "https://www.youtube.com/watch?v=WIVzdopyf0A",
+      "embed_url": "https://www.youtube.com/embed/WIVzdopyf0A?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/WIVzdopyf0A/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/WIVzdopyf0A/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/WIVzdopyf0A/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/WIVzdopyf0A/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/WIVzdopyf0A/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shabake"
+      },
+      {
+        "type": "Japanese",
+        "title": "しゃばけ"
+      }
+    ],
+    "title": "Shabake",
+    "title_english": null,
+    "title_japanese": "しゃばけ",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 16160,
+    "members": 584,
+    "favorites": 1,
+    "synopsis": "It is the Edo period. Ichitarou, the young master of Nagasakiya, one of the largest stores in Nihonbashi, has been in poor health since birth and is unable to go out. However, Ichitarou is always protected by demons such as Shirasawa and Inugami, who serve him. One night, Ichitarou goes out secretly and witnesses a murder. From that day on, bizarre murders begin to occur one after another in Edo... With the help of the demons, Ichitarou's search for the culprit begins!\n\n(Source: Official site, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1258,
+        "type": "anime",
+        "name": "Bandai Namco Pictures",
+        "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49284,
+            "type": "anime",
+            "name": "Shabake (ONA)",
+            "url": "https://myanimelist.net/anime/49284/Shabake_ONA"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shabake-official.com/"
+      },
+      {
+        "name": "@shabake",
+        "url": "https://twitter.com/shabake"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19013"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34089"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%83%E3%81%B0%E3%81%91"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "mal_id": 36497,
+    "url": "https://myanimelist.net/anime/36497/Overlord_Movie__Ple_Ple_Pleiades",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88121.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88121t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88121l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88121.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88121t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88121l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Overlord Movie: Ple Ple Pleiades"
+      },
+      {
+        "type": "Synonym",
+        "title": "Overlord Movie Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Overlord: Ple Ple Pleiades Theatrical Version"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版 オーバーロード　ぷれぷれぷれあです"
+      }
+    ],
+    "title": "Overlord Movie: Ple Ple Pleiades",
+    "title_english": null,
+    "title_japanese": "劇場版 オーバーロード　ぷれぷれぷれあです",
+    "title_synonyms": [
+      "Overlord Movie Specials",
+      "Overlord: Ple Ple Pleiades Theatrical Version"
+    ],
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-25T00:00:00+00:00",
+      "to": "2017-03-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": 11,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Feb 25, 2017 to Mar 11, 2017"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "scored_by": 9207,
+    "rank": 5063,
+    "popularity": 4837,
+    "members": 22769,
+    "favorites": 17,
+    "synopsis": "Initially aired in theaters. Later released as specials bundled with the Blu-ray and DVD volumes of Overlord Movies 1 and 2.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 29803,
+            "type": "anime",
+            "name": "Overlord",
+            "url": "https://myanimelist.net/anime/29803/Overlord"
+          },
+          {
+            "mal_id": 31138,
+            "type": "anime",
+            "name": "Overlord: Ple Ple Pleiades",
+            "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades"
+          },
+          {
+            "mal_id": 34161,
+            "type": "anime",
+            "name": "Overlord Movie 1: Fushisha no Ou",
+            "url": "https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou"
+          },
+          {
+            "mal_id": 34428,
+            "type": "anime",
+            "name": "Overlord Movie 2: Shikkoku no Eiyuu",
+            "url": "https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Crazy Scary Holy Fantasy - Chiptune version\" by MYTH & ROID"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://overlord-anime.com/_season1/products/bddvd_th.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12439"
+      }
+    ],
+    "streaming": []
+  }
+}

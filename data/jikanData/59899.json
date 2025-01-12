@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 59899,
+    "url": "https://myanimelist.net/anime/59899/Arawi_Keiichi_Tanpen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1666/145680.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/145680t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/145680l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1666/145680.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/145680t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/145680l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Arawi Keiichi Tanpen"
+      },
+      {
+        "type": "Japanese",
+        "title": "あらゐけいいち短編"
+      }
+    ],
+    "title": "Arawi Keiichi Tanpen",
+    "title_english": null,
+    "title_japanese": "あらゐけいいち短編",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 28, 2020"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19105,
+    "popularity": 20714,
+    "members": 234,
+    "favorites": 0,
+    "synopsis": "Short animation by Arawi Keiichi, featuring characters from Nichijou.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 10165,
+            "type": "anime",
+            "name": "Nichijou",
+            "url": "https://myanimelist.net/anime/10165/Nichijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=o6qrhqJpQ4Y"
+      }
+    ],
+    "streaming": []
+  }
+}

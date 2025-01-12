@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 34455,
+    "url": "https://myanimelist.net/anime/34455/Princess_Connect",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/83026.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/83026t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/83026l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/83026.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/83026t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/83026l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Princess Connect!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Princess Connect! Re:Drive"
+      },
+      {
+        "type": "Japanese",
+        "title": "プリンセスコネクト！"
+      },
+      {
+        "type": "English",
+        "title": "Princess Connect!"
+      }
+    ],
+    "title": "Princess Connect!",
+    "title_english": "Princess Connect!",
+    "title_japanese": "プリンセスコネクト！",
+    "title_synonyms": [
+      "Princess Connect! Re:Drive"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-03-19T00:00:00+00:00",
+      "to": "2017-07-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 3,
+          "year": 2015
+        },
+        "to": {
+          "day": 9,
+          "month": 7,
+          "year": 2017
+        }
+      },
+      "string": "Mar 19, 2015 to Jul 9, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.3,
+    "scored_by": 1485,
+    "rank": 8280,
+    "popularity": 6963,
+    "members": 9173,
+    "favorites": 10,
+    "synopsis": "Animated PVs for the mobile RPG Princess Connect! franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39292,
+            "type": "anime",
+            "name": "Princess Connect! Re:Dive",
+            "url": "https://myanimelist.net/anime/39292/Princess_Connect_Re_Dive"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://priconne-redive.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Cygames"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 53851,
+    "url": "https://myanimelist.net/anime/53851/SSSSDynazenon_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1515/131848.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1515/131848t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1515/131848l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1515/131848.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1515/131848t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1515/131848l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "SSSS.Dynazenon Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "SSSS.Dynazenon Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "SSSS.DYNAZENON 劇場総集編"
+      }
+    ],
+    "title": "SSSS.Dynazenon Movie",
+    "title_english": null,
+    "title_japanese": "SSSS.DYNAZENON 劇場総集編",
+    "title_synonyms": [
+      "SSSS.Dynazenon Recap"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 10, 2023"
+    },
+    "duration": "2 hr",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.74,
+    "scored_by": 530,
+    "rank": 5619,
+    "popularity": 8991,
+    "members": 4812,
+    "favorites": 7,
+    "synopsis": "Compilation film of SSSS.Dynazenon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 803,
+        "type": "anime",
+        "name": "Trigger",
+        "url": "https://myanimelist.net/anime/producer/803/Trigger"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 40870,
+            "type": "anime",
+            "name": "SSSS.Dynazenon",
+            "url": "https://myanimelist.net/anime/40870/SSSSDynazenon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Imperfect (インパーフェクト)\" by Masayoshi Ooishi (オーイシマサヨシ)"
+      ],
+      "endings": [
+        "\"Strobe Memory (ストロボメモリー)\" by Maaya Uchida (内田真礼)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ssss-movie.net/#works"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17769"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26727"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SSSS.Dynazenon"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/SSSS.DYNAZENON"
+      }
+    ],
+    "streaming": []
+  }
+}

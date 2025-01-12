@@ -1,0 +1,205 @@
+{
+  "data": {
+    "mal_id": 37305,
+    "url": "https://myanimelist.net/anime/37305/K__Seven_Stories_Movie_4_-_Lost_Small_World_-_Ori_no_Mukou_ni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1211/91852.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1211/91852t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1211/91852l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1211/91852.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1211/91852t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1211/91852l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "jafdker57zE",
+      "url": "https://www.youtube.com/watch?v=jafdker57zE",
+      "embed_url": "https://www.youtube.com/embed/jafdker57zE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/jafdker57zE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/jafdker57zE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/jafdker57zE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/jafdker57zE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/jafdker57zE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni"
+      },
+      {
+        "type": "Synonym",
+        "title": "K: Seven Stories - Lost Small World - To the Other Side of the Cage"
+      },
+      {
+        "type": "Japanese",
+        "title": "K Seven Stories Lost Small World ~檻の向こうに~"
+      },
+      {
+        "type": "English",
+        "title": "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \""
+      }
+    ],
+    "title": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni",
+    "title_english": "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \"",
+    "title_japanese": "K Seven Stories Lost Small World ~檻の向こうに~",
+    "title_synonyms": [
+      "K: Seven Stories - Lost Small World - To the Other Side of the Cage"
+    ],
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 6, 2018"
+    },
+    "duration": "1 hr 6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.42,
+    "scored_by": 6340,
+    "rank": 2236,
+    "popularity": 4930,
+    "members": 21754,
+    "favorites": 35,
+    "synopsis": "Misaki Yata is a youth whose reckless and immature attitude has led him to be shunned by his classmates. Saruhiko Fushimi is a loner who views the world in a pessimistic way. Despite being polar opposites, the two become the best of friends.\n\n(Source: TubiTV)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 119,
+        "type": "anime",
+        "name": "VIZ Media",
+        "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 309,
+        "type": "anime",
+        "name": "GoHands",
+        "url": "https://myanimelist.net/anime/producer/309/GoHands"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37304,
+            "type": "anime",
+            "name": "K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai",
+            "url": "https://myanimelist.net/anime/37304/K__Seven_Stories_Movie_3_-_Side_Green_-_Uwagaki_Sekai"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37306,
+            "type": "anime",
+            "name": "K: Seven Stories Movie 5 - Memory of Red - Burn",
+            "url": "https://myanimelist.net/anime/37306/K__Seven_Stories_Movie_5_-_Memory_of_Red_-_Burn"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 73451,
+            "type": "manga",
+            "name": "K: Lost Small World",
+            "url": "https://myanimelist.net/manga/73451/K__Lost_Small_World"
+          },
+          {
+            "mal_id": 69399,
+            "type": "manga",
+            "name": "K: Lost Small World",
+            "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 37308,
+            "type": "anime",
+            "name": "K: Seven Stories - The Idol K",
+            "url": "https://myanimelist.net/anime/37308/K__Seven_Stories_-_The_Idol_K"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"SURVIVE!\" by angela"
+      ],
+      "endings": [
+        "\"Lost Small World ~Ori no Mukou ni~ (Lost Small World ～檻の向こうに～)\" by angela"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://k-project.jpn.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12107"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/K_(anime)"
+      }
+    ],
+    "streaming": []
+  }
+}

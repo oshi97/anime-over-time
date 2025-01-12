@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 49798,
+    "url": "https://myanimelist.net/anime/49798/Hero_Beta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/118534.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/118534t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/118534l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/118534.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/118534t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/118534l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hero Beta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヒーローベータ"
+      },
+      {
+        "type": "English",
+        "title": "Hero Beta"
+      }
+    ],
+    "title": "Hero Beta",
+    "title_english": "Hero Beta",
+    "title_japanese": "ヒーローベータ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 20, 2019"
+    },
+    "duration": "31 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.73,
+    "scored_by": 110,
+    "rank": 11198,
+    "popularity": 19630,
+    "members": 293,
+    "favorites": 0,
+    "synopsis": "An original short to promote Live2D as an animation and creativity platform.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1995,
+        "type": "anime",
+        "name": "Live2D Creative Studio",
+        "url": "https://myanimelist.net/anime/producer/1995/Live2D_Creative_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://herobeta.live2d.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=b_Yit1OgUTQ"
+      }
+    ],
+    "streaming": []
+  }
+}

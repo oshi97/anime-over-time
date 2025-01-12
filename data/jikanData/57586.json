@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 57586,
+    "url": "https://myanimelist.net/anime/57586/Santa_Tell_Me",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1104/140522.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1104/140522t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1104/140522l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1104/140522.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1104/140522t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1104/140522l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Santa Tell Me"
+      },
+      {
+        "type": "Japanese",
+        "title": "サンタ・テル・ミー"
+      }
+    ],
+    "title": "Santa Tell Me",
+    "title_english": null,
+    "title_japanese": "サンタ・テル・ミー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 5, 2023"
+    },
+    "duration": "35 sec",
+    "rating": "G - All Ages",
+    "score": 5.94,
+    "scored_by": 163,
+    "rank": 10220,
+    "popularity": 19021,
+    "members": 332,
+    "favorites": 0,
+    "synopsis": "A collaboration between Chiikawa and Ariana Grande featuring her song Santa Tell Me.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 95,
+        "type": "anime",
+        "name": "Doga Kobo",
+        "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 50250,
+            "type": "anime",
+            "name": "Chiikawa",
+            "url": "https://myanimelist.net/anime/50250/Chiikawa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

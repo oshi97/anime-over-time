@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51887,
+    "url": "https://myanimelist.net/anime/51887/Pokemon_Omosakurabe_Battle",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/123955.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/123955t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/123955l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/123955.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/123955t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/123955l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Omosakurabe Battle"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pocket Monsters Head-to-Head Battle"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンおもさくらべバトル"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Weight Championship"
+      }
+    ],
+    "title": "Pokemon Omosakurabe Battle",
+    "title_english": "Pokémon Kids TV: Weight Championship",
+    "title_japanese": "ポケモンおもさくらべバトル",
+    "title_synonyms": [
+      "Pocket Monsters Head-to-Head Battle"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-14T00:00:00+00:00",
+      "to": "2022-12-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": 30,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "May 14, 2022 to Dec 30, 2022"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
+    "score": 5.46,
+    "scored_by": 312,
+    "rank": 12198,
+    "popularity": 14418,
+    "members": 929,
+    "favorites": 1,
+    "synopsis": "It's a Pokemon Mosawo Battle that compares the weight of Pokemon such as Pichu, Pikachu, Zeraora, and Greninja! I wonder which Pokemon will do it ...! ??\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/QfPAlLwwW7s"
+      }
+    ],
+    "streaming": []
+  }
+}

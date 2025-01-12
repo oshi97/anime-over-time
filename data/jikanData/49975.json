@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 49975,
+    "url": "https://myanimelist.net/anime/49975/Heroes",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1157/118379.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/118379t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/118379l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1157/118379.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/118379t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/118379l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heroes"
+      },
+      {
+        "type": "Japanese",
+        "title": "Heroes"
+      },
+      {
+        "type": "English",
+        "title": "Heroes of the Ancient Olympic Games"
+      }
+    ],
+    "title": "Heroes",
+    "title_english": "Heroes of the Ancient Olympic Games",
+    "title_japanese": "Heroes",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 14, 2021"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.8,
+    "scored_by": 170,
+    "rank": 10926,
+    "popularity": 16959,
+    "members": 494,
+    "favorites": 1,
+    "synopsis": "Follow the adventures of Mao, a Japanese teenager and aspiring runner, as she travels back to ancient Greece to learn about the Olympic Games.\n\n(Source: olympics.com)",
+    "background": "Heroes was funded and created by the official Olympic Games shortly after Tokyo 2020 in order to share information in a new way about the original Olympic games.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2980,
+        "type": "anime",
+        "name": "Studio Pablo",
+        "url": "https://myanimelist.net/anime/producer/2980/Studio_Pablo"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://olympics.com/ja/original-series/heroes/"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://olympics.com/tokyo-2020/en/news/discover-the-original-anime-series-heroes"
+      }
+    ],
+    "streaming": []
+  }
+}

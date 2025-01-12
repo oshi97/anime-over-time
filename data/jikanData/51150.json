@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 51150,
+    "url": "https://myanimelist.net/anime/51150/Metamon_to_Wooper_to_Katazuke",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/121167.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/121167t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/121167l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/121167.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/121167t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/121167l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Metamon to! Wooper to Katazuke"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wooper"
+      },
+      {
+        "type": "Synonym",
+        "title": "Let's Tidy Up! with Ditto"
+      },
+      {
+        "type": "Japanese",
+        "title": "メタモンと！ウパーとおかたづけ"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Wooper, Let's Tidy Up!"
+      }
+    ],
+    "title": "Metamon to! Wooper to Katazuke",
+    "title_english": "Pokémon Kids TV: Wooper, Let's Tidy Up!",
+    "title_japanese": "メタモンと！ウパーとおかたづけ",
+    "title_synonyms": [
+      "Wooper",
+      "Let's Tidy Up! with Ditto"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 11, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": 5.68,
+    "scored_by": 323,
+    "rank": 11433,
+    "popularity": 15228,
+    "members": 732,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3004,
+        "type": "anime",
+        "name": "Taiyo Kikaku",
+        "url": "https://myanimelist.net/anime/producer/3004/Taiyo_Kikaku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2178,
+        "type": "anime",
+        "name": "Tecarat",
+        "url": "https://myanimelist.net/anime/producer/2178/Tecarat"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 19291,
+            "type": "anime",
+            "name": "Pokemon XY",
+            "url": "https://myanimelist.net/anime/19291/Pokemon_XY"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50840,
+            "type": "anime",
+            "name": "Metamon to! Oyasumi Mokurou",
+            "url": "https://myanimelist.net/anime/50840/Metamon_to_Oyasumi_Mokurou"
+          },
+          {
+            "mal_id": 51424,
+            "type": "anime",
+            "name": "Metamon to! Purin no Stage",
+            "url": "https://myanimelist.net/anime/51424/Metamon_to_Purin_no_Stage"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/dqzBjVaWxmg"
+      }
+    ],
+    "streaming": []
+  }
+}

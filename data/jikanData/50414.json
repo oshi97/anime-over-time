@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 50414,
+    "url": "https://myanimelist.net/anime/50414/Ensemble_Stars_Road_to_Show",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/120627.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/120627t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/120627l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/120627.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/120627t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/120627l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "_WjBdKoKgqs",
+      "url": "https://www.youtube.com/watch?v=_WjBdKoKgqs",
+      "embed_url": "https://www.youtube.com/embed/_WjBdKoKgqs?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/_WjBdKoKgqs/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/_WjBdKoKgqs/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/_WjBdKoKgqs/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/_WjBdKoKgqs/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/_WjBdKoKgqs/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ensemble Stars!! Road to Show!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "あんさんぶるスターズ!! -Road to Show!!-"
+      }
+    ],
+    "title": "Ensemble Stars!! Road to Show!!",
+    "title_english": null,
+    "title_japanese": "あんさんぶるスターズ!! -Road to Show!!-",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2022"
+    },
+    "duration": "1 hr 12 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.12,
+    "scored_by": 1245,
+    "rank": 3813,
+    "popularity": 8082,
+    "members": 6307,
+    "favorites": 79,
+    "synopsis": "The story of \"Ensemble Stars!! Road to Show!!\" picks up in New York City and acts as a direct sequel to the anime, where the main characters have gathered for an awards ceremony because three of the movies they have created have been nominated. Considering that they are in the Big Apple, the idols decide to visit different locations in the city, but things are not exactly what they seem, and it's up to the protagonists to figure out what sinister force may be hiding behind the curtains.\n\n(Source: Looper)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 287,
+        "type": "anime",
+        "name": "David Production",
+        "url": "https://myanimelist.net/anime/producer/287/David_Production"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Life is so Dramatic!!\" by SCREEN10"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemblestars-anime.com/rts/"
+      },
+      {
+        "name": "@stars_animation",
+        "url": "https://twitter.com/stars_animation"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16985"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ensemble_Stars!#Film"
+      }
+    ],
+    "streaming": []
+  }
+}

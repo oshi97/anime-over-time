@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 51539,
+    "url": "https://myanimelist.net/anime/51539/Rabbits_Kingdom_the_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/140870.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/140870t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/140870l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/140870.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/140870t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/140870l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "Aqa7Hmdtu0I",
+      "url": "https://www.youtube.com/watch?v=Aqa7Hmdtu0I",
+      "embed_url": "https://www.youtube.com/embed/Aqa7Hmdtu0I?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/Aqa7Hmdtu0I/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/Aqa7Hmdtu0I/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/Aqa7Hmdtu0I/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/Aqa7Hmdtu0I/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/Aqa7Hmdtu0I/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rabbits Kingdom the Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tsukiuta. Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "「ツキウタ。」劇場版 RABBITS KINGDOM THE MOVIE"
+      }
+    ],
+    "title": "Rabbits Kingdom the Movie",
+    "title_english": null,
+    "title_japanese": "「ツキウタ。」劇場版 RABBITS KINGDOM THE MOVIE",
+    "title_synonyms": [
+      "Tsukiuta. Movie"
+    ],
+    "type": "Movie",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-06-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 6,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 14, 2024"
+    },
+    "duration": "1 hr 34 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18613,
+    "popularity": 10373,
+    "members": 3087,
+    "favorites": 13,
+    "synopsis": null,
+    "background": "Adaptation of Tsukiuta's fifth stage play, Rabbits Kingdom.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 629,
+        "type": "anime",
+        "name": "Studio Sign",
+        "url": "https://myanimelist.net/anime/producer/629/Studio_Sign"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 171680,
+            "type": "manga",
+            "name": "\"Tsukiuta.\" Gekijouban: Rabbits Kingdom the Movie",
+            "url": "https://myanimelist.net/manga/171680/Tsukiuta_Gekijouban__Rabbits_Kingdom_the_Movie"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33037,
+            "type": "anime",
+            "name": "Tsukiuta. The Animation",
+            "url": "https://myanimelist.net/anime/33037/Tsukiuta_The_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Rabbits Kingdom -Versus-\" by Six Gravity＆Procellarum"
+      ],
+      "endings": [
+        "\"Tsuki-tachi no Memoria (月たちのメモリア)\" by Six Gravity＆Procellarum"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tsukiuta-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17302"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25491"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsukiuta#Film"
+      }
+    ],
+    "streaming": []
+  }
+}

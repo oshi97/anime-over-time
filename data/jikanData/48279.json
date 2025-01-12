@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 48279,
+    "url": "https://myanimelist.net/anime/48279/Annyeong_Jadoo_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/130280.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/130280t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/130280l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1779/130280.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/130280t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/130280l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Annyeong Jadoo Movie"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hello Jadoo Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "극장판 안녕 자두야"
+      }
+    ],
+    "title": "Annyeong Jadoo Movie",
+    "title_english": null,
+    "title_japanese": "극장판 안녕 자두야",
+    "title_synonyms": [
+      "Hello Jadoo Movie"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 4, 2016"
+    },
+    "duration": "1 hr 15 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19074,
+    "popularity": 23545,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35920,
+            "type": "anime",
+            "name": "Annyeong Jadoo",
+            "url": "https://myanimelist.net/anime/35920/Annyeong_Jadoo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EC%95%88%EB%85%95_%EC%9E%90%EB%91%90%EC%95%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

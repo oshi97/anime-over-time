@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 39629,
+    "url": "https://myanimelist.net/anime/39629/Megohime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/102722.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/102722t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/102722l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/102722.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/102722t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/102722l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Megohime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Aihime Megohime"
+      },
+      {
+        "type": "Japanese",
+        "title": "愛姫MEGOHIME"
+      }
+    ],
+    "title": "Megohime",
+    "title_english": null,
+    "title_japanese": "愛姫MEGOHIME",
+    "title_synonyms": [
+      "Aihime Megohime"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-29T00:00:00+00:00",
+      "to": "2021-02-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 20,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      "string": "Mar 29, 2019 to Feb 20, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.47,
+    "scored_by": 179,
+    "rank": 12148,
+    "popularity": 14851,
+    "members": 821,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1314,
+        "type": "anime",
+        "name": "Gaina",
+        "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://miharu-megohime.com/topics/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14807"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24074"
+      }
+    ],
+    "streaming": []
+  }
+}

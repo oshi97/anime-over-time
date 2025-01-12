@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 55355,
+    "url": "https://myanimelist.net/anime/55355/Li_Shi_Zhentan_Shiwusuo__A_Day_in_Lungmen_-_Home_Service",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/135975.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/135975t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/135975l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1865/135975.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/135975t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/135975l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen - Home Service"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lee's Detective Agency: A Day in Lungmen Pilot"
+      },
+      {
+        "type": "Japanese",
+        "title": "《鲤氏侦探事务所》迷你剧先行短片 - Home Service"
+      },
+      {
+        "type": "English",
+        "title": "Lee's Detective Agency: A Day in Lungmen - Home Service"
+      }
+    ],
+    "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen - Home Service",
+    "title_english": "Lee's Detective Agency: A Day in Lungmen - Home Service",
+    "title_japanese": "《鲤氏侦探事务所》迷你剧先行短片 - Home Service",
+    "title_synonyms": [
+      "Lee's Detective Agency: A Day in Lungmen Pilot"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 24, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.26,
+    "scored_by": 280,
+    "rank": 8505,
+    "popularity": 14640,
+    "members": 876,
+    "favorites": 0,
+    "synopsis": "Infiltrating, disguising, and raiding. Tonight, a special mission calls for special maneuvers, and our resourceful, valiant agents at Lee's Detective agency are ready to make the breakthrough!\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2513,
+        "type": "anime",
+        "name": "HMCH",
+        "url": "https://myanimelist.net/anime/producer/2513/HMCH"
+      },
+      {
+        "mal_id": 2652,
+        "type": "anime",
+        "name": "Gravity Well",
+        "url": "https://myanimelist.net/anime/producer/2652/Gravity_Well"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 53852,
+            "type": "anime",
+            "name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen",
+            "url": "https://myanimelist.net/anime/53852/Li_Shi_Zhentan_Shiwusuo__A_Day_in_Lungmen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17772"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 37551,
+    "url": "https://myanimelist.net/anime/37551/Onikiri_Musume_Saisen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1663/91255.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1663/91255t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1663/91255l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1663/91255.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1663/91255t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1663/91255l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Onikiri Musume Saisen"
+      },
+      {
+        "type": "Japanese",
+        "title": "鬼斬娘 再戦"
+      }
+    ],
+    "title": "Onikiri Musume Saisen",
+    "title_english": null,
+    "title_japanese": "鬼斬娘 再戦",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-08-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 8,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 8, 2014"
+    },
+    "duration": "1 min",
+    "rating": "PG - Children",
+    "score": 6.15,
+    "scored_by": 396,
+    "rank": 9093,
+    "popularity": 14738,
+    "members": 852,
+    "favorites": 0,
+    "synopsis": "A girl and demon battle out on a field as they have their pride on the line.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 37547,
+            "type": "anime",
+            "name": "Onikiri Shoujo",
+            "url": "https://myanimelist.net/anime/37547/Onikiri_Shoujo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.rabbit-machine.com/page/sp/ogm.html"
+      }
+    ],
+    "streaming": []
+  }
+}

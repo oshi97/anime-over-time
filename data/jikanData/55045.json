@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 55045,
+    "url": "https://myanimelist.net/anime/55045/Himawari_Girls_Mini_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1333/135375.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1333/135375t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1333/135375l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1333/135375.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1333/135375t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1333/135375l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Himawari Girls Mini Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "HIMAWARIガールズ ミニアニメ"
+      }
+    ],
+    "title": "Himawari Girls Mini Anime",
+    "title_english": null,
+    "title_japanese": "HIMAWARIガールズ ミニアニメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2020 to ?"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21028,
+    "popularity": 23642,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": "A mini anime series for Himawari Channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 40316,
+            "type": "anime",
+            "name": "Phantomi: Mini Anime",
+            "url": "https://myanimelist.net/anime/40316/Phantomi__Mini_Anime"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.youtube.com/@himawari-ch"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/HIMAWARI%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B"
+      }
+    ],
+    "streaming": []
+  }
+}

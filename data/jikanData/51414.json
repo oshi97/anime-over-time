@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 51414,
+    "url": "https://myanimelist.net/anime/51414/Uchuu_Camper_Chicchi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1791/121844.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/121844t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/121844l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1791/121844.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/121844t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/121844l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Uchuu Camper Chicchi"
+      },
+      {
+        "type": "Japanese",
+        "title": "宇宙キャンパー/チッチ"
+      },
+      {
+        "type": "English",
+        "title": "Space Camper Chicchi"
+      }
+    ],
+    "title": "Uchuu Camper Chicchi",
+    "title_english": "Space Camper Chicchi",
+    "title_japanese": "宇宙キャンパー/チッチ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2022"
+    },
+    "duration": "9 min",
+    "rating": "G - All Ages",
+    "score": 5.59,
+    "scored_by": 354,
+    "rank": 11792,
+    "popularity": 14735,
+    "members": 852,
+    "favorites": 0,
+    "synopsis": "Chicchi, an ordinary office lady who works in Commercial Sector II of the solar system, heads to a space camp for a vacation. However, she crash-lands on a planet that is a \"graveyard\" for scrapped ships.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2157,
+        "type": "anime",
+        "name": "Production +h.",
+        "url": "https://myanimelist.net/anime/producer/2157/Production__h"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49844,
+            "type": "anime",
+            "name": "Kirakira Kirari",
+            "url": "https://myanimelist.net/anime/49844/Kirakira_Kirari"
+          },
+          {
+            "mal_id": 51413,
+            "type": "anime",
+            "name": "Rock'n Oyone",
+            "url": "https://myanimelist.net/anime/51413/Rockn_Oyone"
+          },
+          {
+            "mal_id": 51412,
+            "type": "anime",
+            "name": "Tenjin",
+            "url": "https://myanimelist.net/anime/51412/Tenjin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://animenotane.jp/2022-01-26/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16449"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25246"
+      }
+    ],
+    "streaming": []
+  }
+}

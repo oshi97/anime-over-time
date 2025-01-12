@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 40033,
+    "url": "https://myanimelist.net/anime/40033/Animagear",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1480/101749.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/101749t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/101749l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1480/101749.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/101749t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/101749l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Animagear"
+      },
+      {
+        "type": "Japanese",
+        "title": "アニマギア"
+      },
+      {
+        "type": "English",
+        "title": "Animagear"
+      }
+    ],
+    "title": "Animagear",
+    "title_english": "Animagear",
+    "title_japanese": "アニマギア",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 1, 2019"
+    },
+    "duration": "42 sec",
+    "rating": "G - All Ages",
+    "score": 5.33,
+    "scored_by": 218,
+    "rank": 12541,
+    "popularity": 17025,
+    "members": 486,
+    "favorites": 0,
+    "synopsis": "A promotional video for the new Bandai candy-toy line with Shokugan. Kids buy packaged candy boxes and pieces of the toy are in it, kids have to assemble their Animagear robot animal action figure. Certain ones are also interchangeable with parts for a hybrid robot animal. Candy-toys will hit stores in August with five Animagears in the line-up.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bandai.co.jp/candy/animagear/"
+      }
+    ],
+    "streaming": []
+  }
+}

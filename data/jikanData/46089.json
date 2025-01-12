@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 46089,
+    "url": "https://myanimelist.net/anime/46089/Tales_of_Crestoria_Off_Shot_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1922/115572.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1922/115572t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1922/115572l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1922/115572.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1922/115572t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1922/115572l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tales of Crestoria Off Shot Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "テイルズ オブ クレストリア オフショットムービー"
+      },
+      {
+        "type": "English",
+        "title": "Tales of Crestoria Behind the Scenes"
+      }
+    ],
+    "title": "Tales of Crestoria Off Shot Movie",
+    "title_english": "Tales of Crestoria Behind the Scenes",
+    "title_japanese": "テイルズ オブ クレストリア オフショットムービー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 15, 2020"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.03,
+    "scored_by": 250,
+    "rank": 9765,
+    "popularity": 14778,
+    "members": 840,
+    "favorites": 1,
+    "synopsis": "Kanata, Misella, and Vicious sit around a kotatsu in a Japanese-style room, when Cress, protagonist of Tales of Phantasia, the first game of the series, enters through a time-slip from 1995!",
+    "background": "This short was made to celebrate the 25th anniversary of the Tales Series.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 391,
+            "type": "anime",
+            "name": "Tales of Phantasia The Animation",
+            "url": "https://myanimelist.net/anime/391/Tales_of_Phantasia_The_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38361,
+            "type": "anime",
+            "name": "Tales of Crestoria",
+            "url": "https://myanimelist.net/anime/38361/Tales_of_Crestoria"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/y4wpoXONyc0"
+      }
+    ],
+    "streaming": []
+  }
+}

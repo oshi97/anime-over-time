@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 42208,
+    "url": "https://myanimelist.net/anime/42208/Oshiri_Mae_Man",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/108007.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/108007t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/108007l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/108007.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/108007t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/108007l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oshiri Mae Man"
+      },
+      {
+        "type": "Japanese",
+        "title": "おしり前マン"
+      }
+    ],
+    "title": "Oshiri Mae Man",
+    "title_english": null,
+    "title_japanese": "おしり前マン",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-05-09T00:00:00+00:00",
+      "to": "2018-06-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 5,
+          "year": 2018
+        },
+        "to": {
+          "day": 29,
+          "month": 6,
+          "year": 2018
+        }
+      },
+      "string": "May 9, 2018 to Jun 29, 2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.29,
+    "scored_by": 110,
+    "rank": 12653,
+    "popularity": 20212,
+    "members": 262,
+    "favorites": 0,
+    "synopsis": "Absurd web videos by Takashi Taniguchi featuring Oshiri Mae Man from his original mobile game.",
+    "background": "Oshiri Mae Man ~Osirius~ was released for Android and iOS and ran from May 22, 2015 to November 15, 2016.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://ilcaapps.co.jp/apps/osirius/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%8F%A3%E5%B4%87_(%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC)"
+      }
+    ],
+    "streaming": []
+  }
+}

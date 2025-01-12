@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 34756,
+    "url": "https://myanimelist.net/anime/34756/Fuusen_Inu_Tinny__Nandaka_Fushigi_na_-_Kyouryuu_no_Kuni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/83801.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83801t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83801l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/83801.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83801t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83801l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "OtUUHikvQLI",
+      "url": "https://www.youtube.com/watch?v=OtUUHikvQLI",
+      "embed_url": "https://www.youtube.com/embed/OtUUHikvQLI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/OtUUHikvQLI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/OtUUHikvQLI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/OtUUHikvQLI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/OtUUHikvQLI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/OtUUHikvQLI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tinny Ballon Dog: The Somewhat Mysterious Country of Dinosaurs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ふうせんいぬティニー なんだかふしぎな きょうりゅうのくに"
+      }
+    ],
+    "title": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni",
+    "title_english": null,
+    "title_japanese": "ふうせんいぬティニー なんだかふしぎな きょうりゅうのくに",
+    "title_synonyms": [
+      "Tinny Ballon Dog: The Somewhat Mysterious Country of Dinosaurs"
+    ],
+    "type": "Movie",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 25, 2017"
+    },
+    "duration": "49 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20516,
+    "popularity": 18736,
+    "members": 351,
+    "favorites": 0,
+    "synopsis": "Follows a dog and his friends who wear balloons and explore a kingdom in the clouds.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1357,
+        "type": "anime",
+        "name": "Craftar Studios",
+        "url": "https://myanimelist.net/anime/producer/1357/Craftar_Studios"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31640,
+            "type": "anime",
+            "name": "Fuusen Inu Tinny 2nd Season",
+            "url": "https://myanimelist.net/anime/31640/Fuusen_Inu_Tinny_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Sayonara dayo, Mister (さよならだよ、ミスター)\" by Daisuke Yokoyama (横山だいすけ) & Saki Honda (本田紗来)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://jackie-tinny-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12728"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23056"
+      }
+    ],
+    "streaming": []
+  }
+}

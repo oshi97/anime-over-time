@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 57111,
+    "url": "https://myanimelist.net/anime/57111/Nyankamuchu_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1324/139574.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1324/139574t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1324/139574l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1324/139574.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1324/139574t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1324/139574l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nyankamuchu Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "【にゃんかむちゅ〜】シーズン2"
+      },
+      {
+        "type": "English",
+        "title": "Cat Bites Mouse Season 2"
+      }
+    ],
+    "title": "Nyankamuchu Season 2",
+    "title_english": "Cat Bites Mouse Season 2",
+    "title_japanese": "【にゃんかむちゅ〜】シーズン2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 8, 2023"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18063,
+    "popularity": 22507,
+    "members": 145,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 57104,
+            "type": "anime",
+            "name": "Nyankamuchu",
+            "url": "https://myanimelist.net/anime/57104/Nyankamuchu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.perio.jp/nyankamuchu/"
+      },
+      {
+        "name": "@Nyankamuchu",
+        "url": "https://twitter.com/Nyankamuchu"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ymSajgDTNVU"
+      }
+    ],
+    "streaming": []
+  }
+}

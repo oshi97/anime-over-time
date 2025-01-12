@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 59836,
+    "url": "https://myanimelist.net/anime/59836/Doraemon_3D_Short_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/145555.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/145555t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/145555l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1847/145555.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1847/145555t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1847/145555l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon 3D Short Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん３Ｄショートムービー"
+      }
+    ],
+    "title": "Doraemon 3D Short Movie",
+    "title_english": null,
+    "title_japanese": "ドラえもん３Ｄショートムービー",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-03-21T00:00:00+00:00",
+      "to": "2008-08-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2008
+        },
+        "to": {
+          "day": 8,
+          "month": 8,
+          "year": 2008
+        }
+      },
+      "string": "Mar 21, 2008 to Aug 8, 2008"
+    },
+    "duration": "35 sec per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20194,
+    "popularity": 25625,
+    "members": 80,
+    "favorites": 0,
+    "synopsis": "A collection of Doraemon short movies that were viewable for free on the Doraemon website.\n\nPrologue (プロローグ)\nThis short film shows Doraemon walking, then stopping, pulling the Take-copter out of his pocket, putting it on his head, and flying away.\n\nDorayaki factory (どら焼き工場)\nDoraemon is watching conveyor belts transport dorayaki. When he tries to take one, an alarm activates, triggering a mechanical claw to pick up and drop Doraemon into a vat of dough. After being baked in the oven, Doraemon falls into a pipe and ends up being made into a dorayaki himself.\n\nQuietly (お静かに)\nDoraemon tries to sneak past a sleeping cat to get some dorayaki. As he opens the cupboard, loads of items fall out, though he is able to successfully balance them until a cat food can falls on his head, causing him to fall and wake the cat up.\n\n(Source: Doraemon Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20160709115009/http://dora-world.com/yojigen/"
+      }
+    ],
+    "streaming": []
+  }
+}

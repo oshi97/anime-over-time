@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 34113,
+    "url": "https://myanimelist.net/anime/34113/RE_Map",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82092.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/82092t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/82092l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82092.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/82092t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/82092l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "RE:Map"
+      },
+      {
+        "type": "Synonym",
+        "title": "Remapped"
+      },
+      {
+        "type": "Japanese",
+        "title": "RE:Map（リマップ）"
+      },
+      {
+        "type": "English",
+        "title": "RE:Map"
+      }
+    ],
+    "title": "RE:Map",
+    "title_english": "RE:Map",
+    "title_japanese": "RE:Map（リマップ）",
+    "title_synonyms": [
+      "Remapped"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-08-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 29, 2008"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18638,
+    "popularity": 20536,
+    "members": 245,
+    "favorites": 0,
+    "synopsis": "Kikuchi wants to redo life. A self-development story with the help of a cat and a strange doll to help Kikuchi remind him of something during a time slip.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2271,
+        "type": "anime",
+        "name": "Studio RE:Map",
+        "url": "https://myanimelist.net/anime/producer/2271/Studio_RE_Map"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://studio-remap.businesscatalyst.com/works.html"
+      }
+    ],
+    "streaming": []
+  }
+}

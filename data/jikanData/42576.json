@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 42576,
+    "url": "https://myanimelist.net/anime/42576/Houkago_Pilot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1694/108702.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1694/108702t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/108702l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1694/108702.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1694/108702t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/108702l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Houkago Pilot"
+      },
+      {
+        "type": "Synonym",
+        "title": "After School"
+      },
+      {
+        "type": "Japanese",
+        "title": "放課後（パイロット版）"
+      }
+    ],
+    "title": "Houkago Pilot",
+    "title_english": null,
+    "title_japanese": "放課後（パイロット版）",
+    "title_synonyms": [
+      "After School"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2008"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 4.91,
+    "scored_by": 143,
+    "rank": 13251,
+    "popularity": 19560,
+    "members": 298,
+    "favorites": 0,
+    "synopsis": "A bizarre depiction of after-school activities in a typical Japanese high school by Kei Okayama. Meant as a pilot episode. The audience is shown several scenes from different kinds of clubs and activities such as Basketball, Baseball, self-studying, etc... As well as general moments of fun between the students at this school.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 48646,
+            "type": "anime",
+            "name": "Houkago",
+            "url": "https://myanimelist.net/anime/48646/Houkago"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

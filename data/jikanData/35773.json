@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 35773,
+    "url": "https://myanimelist.net/anime/35773/Noraneko",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88357.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88357t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88357l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/88357.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88357t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88357l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Noraneko"
+      },
+      {
+        "type": "Synonym",
+        "title": "Noragami: Noraneko"
+      },
+      {
+        "type": "Japanese",
+        "title": "ノラネコ"
+      }
+    ],
+    "title": "Noraneko",
+    "title_english": null,
+    "title_japanese": "ノラネコ",
+    "title_synonyms": [
+      "Noragami: Noraneko"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2014"
+    },
+    "duration": "35 sec",
+    "rating": "G - All Ages",
+    "score": 5.96,
+    "scored_by": 4226,
+    "rank": 10115,
+    "popularity": 5866,
+    "members": 13971,
+    "favorites": 15,
+    "synopsis": "A short video released on April Fool's Day 2014, which reimagines the cast of Noragami with cat ears. The title, Noraneko, means \"stray cat\" in Japanese.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 159,
+        "type": "anime",
+        "name": "Kodansha",
+        "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 20507,
+            "type": "anime",
+            "name": "Noragami",
+            "url": "https://myanimelist.net/anime/20507/Noragami"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.noragami-anime.net/1/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13516"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15585"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Noragami"
+      }
+    ],
+    "streaming": []
+  }
+}

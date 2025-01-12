@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 59831,
+    "url": "https://myanimelist.net/anime/59831/Matsuo_no_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/145484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/145484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/145484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/145484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/145484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/145484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Matsuo no Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "マツオノアニメ"
+      }
+    ],
+    "title": "Matsuo no Anime",
+    "title_english": null,
+    "title_japanese": "マツオノアニメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2019-09-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 29, 2019 to ?"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17383,
+    "popularity": 27587,
+    "members": 53,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 53443,
+            "type": "anime",
+            "name": "Dongitsune CMs",
+            "url": "https://myanimelist.net/anime/53443/Dongitsune_CMs"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 58460,
+            "type": "anime",
+            "name": "Nissin x Matsuo no Anime",
+            "url": "https://myanimelist.net/anime/58460/Nissin_x_Matsuo_no_Anime"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLGz_zTFL4_p-CUacxmClzSzzsu-Psv_gp"
+      }
+    ],
+    "streaming": []
+  }
+}

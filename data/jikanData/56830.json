@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56830,
+    "url": "https://myanimelist.net/anime/56830/Journey_to_Bloom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1652/138994.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1652/138994t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1652/138994l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1652/138994.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1652/138994t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1652/138994l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Journey to Bloom"
+      },
+      {
+        "type": "Japanese",
+        "title": "Journey to Bloom"
+      }
+    ],
+    "title": "Journey to Bloom",
+    "title_english": null,
+    "title_japanese": "Journey to Bloom",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-30T00:00:00+00:00",
+      "to": "2023-10-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 29,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Sep 30, 2023 to Oct 29, 2023"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.19,
+    "scored_by": 1250,
+    "rank": 3414,
+    "popularity": 10320,
+    "members": 3110,
+    "favorites": 46,
+    "synopsis": "A series commemorating the 3rd anniversary of the Project SEKAI COLORFUL STAGE! feat. Hatsune Miku mobile game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 132,
+        "type": "anime",
+        "name": "P.A. Works",
+        "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 49939,
+            "type": "anime",
+            "name": "Petit Seka",
+            "url": "https://myanimelist.net/anime/49939/Petit_Seka"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pjsekai.sega.jp"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18221"
+      }
+    ],
+    "streaming": []
+  }
+}

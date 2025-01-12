@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 50371,
+    "url": "https://myanimelist.net/anime/50371/Ca_Foscari_Cinema",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1005/119436.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1005/119436t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1005/119436l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1005/119436.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1005/119436t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1005/119436l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ca' Foscari Cinema"
+      },
+      {
+        "type": "Japanese",
+        "title": "ベネチア大学映画先付"
+      }
+    ],
+    "title": "Ca' Foscari Cinema",
+    "title_english": null,
+    "title_japanese": "ベネチア大学映画先付",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2011"
+    },
+    "duration": "24 sec",
+    "rating": "R+ - Mild Nudity",
+    "score": null,
+    "scored_by": null,
+    "rank": 19569,
+    "popularity": 21038,
+    "members": 216,
+    "favorites": 0,
+    "synopsis": "Shinya Tsukamoto’s animated promo for the Ca' Foscari Cinema in Venice.\n\n(Source: Letterboxd)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tsukamotoshinya.net/contents/?p=691"
+      }
+    ],
+    "streaming": []
+  }
+}

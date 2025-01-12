@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 59008,
+    "url": "https://myanimelist.net/anime/59008/Sonic_and_Friends",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1285/143452.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/143452t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/143452l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1285/143452.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/143452t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/143452l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sonic and Friends"
+      }
+    ],
+    "title": "Sonic and Friends",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2023-08-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 7, 2023 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "A short anime featuring the cute Sonic characters.\n\nAimed at children, the series is composed of short animations about the cute \"chibi\" versions of Sonic the Hedgehog, his friends Tails, Knuckles and Amy, and the evil Dr. Eggman.\n\n--sonic.fandom.com",
+    "background": "It is a Japanese CGI-animated web series developed by SEGA, based on the Sonic the Hedgehog series. It is a series of shorts uploaded to the social media platform TikTok, on the official SEGA account. --sonic.fandom.com",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 2263,
+            "type": "anime",
+            "name": "Sonic★the★Hedgehog",
+            "url": "https://myanimelist.net/anime/2263/Sonic★the★Hedgehog"
+          },
+          {
+            "mal_id": 10263,
+            "type": "anime",
+            "name": "Sonic X Pilot",
+            "url": "https://myanimelist.net/anime/10263/Sonic_X_Pilot"
+          },
+          {
+            "mal_id": 1816,
+            "type": "anime",
+            "name": "Sonic X",
+            "url": "https://myanimelist.net/anime/1816/Sonic_X"
+          },
+          {
+            "mal_id": 5583,
+            "type": "anime",
+            "name": "Sonic: Night of the WereHog",
+            "url": "https://myanimelist.net/anime/5583/Sonic__Night_of_the_WereHog"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

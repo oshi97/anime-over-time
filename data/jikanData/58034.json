@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 58034,
+    "url": "https://myanimelist.net/anime/58034/Ibrahim_3-shuunen_Kinen_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/141265.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/141265t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/141265l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/141265.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/141265t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/141265l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ibrahim 3-shuunen Kinen Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "イブラヒム3周年記念アニメ"
+      },
+      {
+        "type": "English",
+        "title": "Ibrahim 3rd Anniversary Animation"
+      }
+    ],
+    "title": "Ibrahim 3-shuunen Kinen Anime",
+    "title_english": "Ibrahim 3rd Anniversary Animation",
+    "title_japanese": "イブラヒム3周年記念アニメ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 1, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 21268,
+    "popularity": 19781,
+    "members": 286,
+    "favorites": 2,
+    "synopsis": "A special animation made to commemorate the third anniversary of Ibrahim's debut as a VTuber.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 55594,
+            "type": "anime",
+            "name": "Chocosanji",
+            "url": "https://myanimelist.net/anime/55594/Chocosanji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=oSoy1wP1Vpg"
+      }
+    ],
+    "streaming": []
+  }
+}

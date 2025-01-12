@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48211,
+    "url": "https://myanimelist.net/anime/48211/Banjiui_Bimil-ilgi_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/130306.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/130306t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/130306l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/130306.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/130306t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/130306l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Banjiui Bimil-ilgi Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "반지의 비밀일기 극장판"
+      },
+      {
+        "type": "English",
+        "title": "Banzi's Secret Diary The Movie"
+      }
+    ],
+    "title": "Banjiui Bimil-ilgi Movie",
+    "title_english": "Banzi's Secret Diary The Movie",
+    "title_japanese": "반지의 비밀일기 극장판",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2019"
+    },
+    "duration": "1 hr 12 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19300,
+    "popularity": 24267,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 46898,
+            "type": "anime",
+            "name": "Banjiui Bimil-ilgi",
+            "url": "https://myanimelist.net/anime/46898/Banjiui_Bimil-ilgi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EB%B0%98%EC%A7%80%EC%9D%98%20%EB%B9%84%EB%B0%80%EC%9D%BC%EA%B8%B0(%EA%B7%B9%EC%9E%A5%ED%8C%90)"
+      }
+    ],
+    "streaming": []
+  }
+}

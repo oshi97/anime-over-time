@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 39363,
+    "url": "https://myanimelist.net/anime/39363/Astro_Boy__Tetsuwan_Atom_-_10-man_Kounen_no_Raihousha_-_IGZA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1401/99387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1401/99387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1401/99387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1401/99387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1401/99387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1401/99387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA"
+      },
+      {
+        "type": "Synonym",
+        "title": "Astro Boy: Mighty Atom - Visitor of 100,000 Light Years"
+      },
+      {
+        "type": "Synonym",
+        "title": "IGZA"
+      },
+      {
+        "type": "Synonym",
+        "title": "Astro Boy vs IGZA"
+      },
+      {
+        "type": "Japanese",
+        "title": "ASTRO BOY 鉄腕アトム 10万光年の来訪者・IGZA"
+      },
+      {
+        "type": "English",
+        "title": "ASTROBOY - VISITOR OF 100,000 LIGHT -YEARS IGZA-"
+      }
+    ],
+    "title": "Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+    "title_english": "ASTROBOY - VISITOR OF 100,000 LIGHT -YEARS IGZA-",
+    "title_japanese": "ASTRO BOY 鉄腕アトム 10万光年の来訪者・IGZA",
+    "title_synonyms": [
+      "Astro Boy: Mighty Atom - Visitor of 100,000 Light Years",
+      "IGZA",
+      "Astro Boy vs IGZA"
+    ],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 1, 2005"
+    },
+    "duration": "41 min",
+    "rating": "G - All Ages",
+    "score": 6.46,
+    "scored_by": 364,
+    "rank": 7332,
+    "popularity": 13288,
+    "members": 1267,
+    "favorites": 0,
+    "synopsis": "Japan's first fully animated IMAX anime film. Interplanetary spacecraft Galileo II is heading for Saturn's largest moon Titan. However the machines on the moon are trying to destroy humans, so Atom must go and fix the problem.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 3010,
+            "type": "manga",
+            "name": "Astro Boy: Tetsuwan Atom",
+            "url": "https://myanimelist.net/manga/3010/Astro_Boy__Tetsuwan_Atom"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 971,
+            "type": "anime",
+            "name": "Astro Boy: Tetsuwan Atom",
+            "url": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tezukaosamu.net/jp/anime/130.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Astro_Boy:_Mighty_Atom_-_Visitor_of_100,000_Light_Years,_IGZA"
+      }
+    ],
+    "streaming": []
+  }
+}

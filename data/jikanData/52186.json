@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 52186,
+    "url": "https://myanimelist.net/anime/52186/Kin_no_Kuni_Mizu_no_Kuni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1872/131491.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/131491t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/131491l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1872/131491.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/131491t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/131491l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "9THXmtwCZaw",
+      "url": "https://www.youtube.com/watch?v=9THXmtwCZaw",
+      "embed_url": "https://www.youtube.com/embed/9THXmtwCZaw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/9THXmtwCZaw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/9THXmtwCZaw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/9THXmtwCZaw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/9THXmtwCZaw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/9THXmtwCZaw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kin no Kuni Mizu no Kuni"
+      },
+      {
+        "type": "Japanese",
+        "title": "金の国水の国"
+      },
+      {
+        "type": "English",
+        "title": "Gold Kingdom and Water Kingdom"
+      }
+    ],
+    "title": "Kin no Kuni Mizu no Kuni",
+    "title_english": "Gold Kingdom and Water Kingdom",
+    "title_japanese": "金の国水の国",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 27, 2023"
+    },
+    "duration": "1 hr 57 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.46,
+    "scored_by": 2095,
+    "rank": 2109,
+    "popularity": 6381,
+    "members": 11279,
+    "favorites": 25,
+    "synopsis": "Once upon a time, there were two rival kingdoms that did not get along. Every day, they argued over insignificant matters. When a dispute over removing dog waste ultimately turned into a war, God swiftly intervened and directed the two nation's leaders to exchange the most beautiful girl and the most intelligent young man for bride and bridegroom, respectively.\n\nSaara, the princess of country A, meets the prince of country B, Naranbayar. As they pretend to be a married couple to protect the peace between the countries, they find themselves gradually falling in love.\n\n(Source: MAL News)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 415,
+        "type": "anime",
+        "name": "Warner Bros. Japan",
+        "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 43,
+        "type": "anime",
+        "name": "Josei",
+        "url": "https://myanimelist.net/anime/genre/43/Josei"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 91148,
+            "type": "manga",
+            "name": "Kin no Kuni Mizu no Kuni",
+            "url": "https://myanimelist.net/manga/91148/Kin_no_Kuni_Mizu_no_Kuni"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://wwws.warnerbros.co.jp/kinnokuni-mizunokuni-movie/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17474"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25898"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kin_no_Kuni_Mizu_no_Kuni"
+      }
+    ],
+    "streaming": []
+  }
+}

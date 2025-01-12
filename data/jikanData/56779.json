@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 56779,
+    "url": "https://myanimelist.net/anime/56779/Doukyo_Suru_Neneki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1090/141638.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1090/141638t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1090/141638l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1090/141638.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1090/141638t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1090/141638l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doukyo Suru Neneki"
+      },
+      {
+        "type": "Japanese",
+        "title": "同居する粘液"
+      }
+    ],
+    "title": "Doukyo Suru Neneki",
+    "title_english": null,
+    "title_japanese": "同居する粘液",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2023-11-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 10, 2023 to ?"
+    },
+    "duration": "20 min",
+    "rating": "Rx - Hentai",
+    "score": 6.16,
+    "scored_by": 858,
+    "rank": null,
+    "popularity": 10787,
+    "members": 2733,
+    "favorites": 9,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1159,
+        "type": "anime",
+        "name": "King Bee",
+        "url": "https://myanimelist.net/anime/producer/1159/King_Bee"
+      },
+      {
+        "mal_id": 1424,
+        "type": "anime",
+        "name": "Mediabank",
+        "url": "https://myanimelist.net/anime/producer/1424/Mediabank"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2269,
+        "type": "anime",
+        "name": "New Generation",
+        "url": "https://myanimelist.net/anime/producer/2269/New_Generation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 12,
+        "type": "anime",
+        "name": "Hentai",
+        "url": "https://myanimelist.net/anime/genre/12/Hentai"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 140490,
+            "type": "manga",
+            "name": "Doukyo Suru Neneki",
+            "url": "https://myanimelist.net/manga/140490/Doukyo_Suru_Neneki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mediabank.co.jp/product.php?model=KNB-M009"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18157"
+      }
+    ],
+    "streaming": []
+  }
+}

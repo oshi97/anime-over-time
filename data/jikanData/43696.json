@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 43696,
+    "url": "https://myanimelist.net/anime/43696/Bad_Mood",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1818/109962.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/109962t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/109962l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1818/109962.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/109962t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/109962l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bad Mood"
+      },
+      {
+        "type": "Japanese",
+        "title": "BAD MOOD"
+      }
+    ],
+    "title": "Bad Mood",
+    "title_english": null,
+    "title_japanese": "BAD MOOD",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-20T00:00:00+00:00",
+      "to": "2020-11-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": 3,
+          "month": 11,
+          "year": 2020
+        }
+      },
+      "string": "Oct 20, 2020 to Nov 3, 2020"
+    },
+    "duration": "17 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19206,
+    "popularity": 22295,
+    "members": 152,
+    "favorites": 0,
+    "synopsis": "The shorts follow The Pink Elephants, a fictional band with five members: Fishman, Butt, Rabbit, UFO, and Moth. The shorts depict the havoc in their daily lives.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59577,
+            "type": "anime",
+            "name": "Bad Mood Episode 0",
+            "url": "https://myanimelist.net/anime/59577/Bad_Mood_Episode_0"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20221222082614/https://badmood.inc/"
+      }
+    ],
+    "streaming": []
+  }
+}

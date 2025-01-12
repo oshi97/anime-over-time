@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 54810,
+    "url": "https://myanimelist.net/anime/54810/Detarame_na_Sekai_no_Melodrama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/134693.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/134693t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/134693l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/134693.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/134693t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/134693l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Detarame na Sekai no Melodrama"
+      },
+      {
+        "type": "Japanese",
+        "title": "でたらめな世界のメロドラマ"
+      }
+    ],
+    "title": "Detarame na Sekai no Melodrama",
+    "title_english": null,
+    "title_japanese": "でたらめな世界のメロドラマ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 23, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.16,
+    "scored_by": 620,
+    "rank": 9040,
+    "popularity": 13166,
+    "members": 1311,
+    "favorites": 0,
+    "synopsis": "The music film is a part of TOHO animation's 10th anniversary project.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2705,
+        "type": "anime",
+        "name": "TOHO animation STUDIO",
+        "url": "https://myanimelist.net/anime/producer/2705/TOHO_animation_STUDIO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54009,
+            "type": "anime",
+            "name": "Tentai Kansoku",
+            "url": "https://myanimelist.net/anime/54009/Tentai_Kansoku"
+          },
+          {
+            "mal_id": 54725,
+            "type": "anime",
+            "name": "Himitsu no Hana no Niwa",
+            "url": "https://myanimelist.net/anime/54725/Himitsu_no_Hana_no_Niwa"
+          },
+          {
+            "mal_id": 54809,
+            "type": "anime",
+            "name": "Neko to Wakai se na",
+            "url": "https://myanimelist.net/anime/54809/Neko_to_Wakai_se_na"
+          },
+          {
+            "mal_id": 54005,
+            "type": "anime",
+            "name": "COLORs",
+            "url": "https://myanimelist.net/anime/54005/COLORs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Rin to (凛と)\" by CreepHyp"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tohoanimation.jp/10thanniversary/special/event7/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cbi0IIdC-HI"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17901"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27333"
+      }
+    ],
+    "streaming": []
+  }
+}

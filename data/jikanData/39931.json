@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 39931,
+    "url": "https://myanimelist.net/anime/39931/Santa_Company__Christmas_no_Himitsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1985/102720.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/102720t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/102720l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1985/102720.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/102720t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/102720l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "GzyAXOGxvUI",
+      "url": "https://www.youtube.com/watch?v=GzyAXOGxvUI",
+      "embed_url": "https://www.youtube.com/embed/GzyAXOGxvUI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/GzyAXOGxvUI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/GzyAXOGxvUI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/GzyAXOGxvUI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/GzyAXOGxvUI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/GzyAXOGxvUI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Santa Company: Christmas no Himitsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "サンタ・カンパニー ～クリスマスの秘密～"
+      }
+    ],
+    "title": "Santa Company: Christmas no Himitsu",
+    "title_english": null,
+    "title_japanese": "サンタ・カンパニー ～クリスマスの秘密～",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 29, 2019"
+    },
+    "duration": "1 hr 5 min",
+    "rating": "PG - Children",
+    "score": 6.02,
+    "scored_by": 184,
+    "rank": 9831,
+    "popularity": 12919,
+    "members": 1400,
+    "favorites": 0,
+    "synopsis": "A feature-length version of the short anime film Santa Company.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 406,
+        "type": "anime",
+        "name": "Asahi Production",
+        "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 16381,
+            "type": "anime",
+            "name": "Santa Company",
+            "url": "https://myanimelist.net/anime/16381/Santa_Company"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 46491,
+            "type": "anime",
+            "name": "Santa Company: Manatsu no Merry Christmas",
+            "url": "https://myanimelist.net/anime/46491/Santa_Company__Manatsu_no_Merry_Christmas"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Kira Kira Kagayaku, Sekai no Jikan (キラキラ輝く、世界の時間)\" by Minori Chihara"
+      ],
+      "endings": [
+        "\"Christmas Night\" by Minori Chihara"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://santa-company.net/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14946"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22542"
+      }
+    ],
+    "streaming": []
+  }
+}
