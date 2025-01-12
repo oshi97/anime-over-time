@@ -1,19 +1,28 @@
 import { NavLink } from 'react-router'
 import type { PropsWithChildren } from 'react'
 
+const CLASSNAMES =
+  'text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2'
+
 const NavButton = (
   props: PropsWithChildren<{
-    to: string
+    to: string,
+    end?: boolean
   }>
 ) => (
-  <NavLink to={props.to}>
-    <button
-      type='button'
-      // whee. tailwind
-      className='text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2'
-    >
-      {props.children}
-    </button>
+  <NavLink end={props.end} to={props.to}>
+    {({ isActive }) => {
+      console.log(isActive, props.to)
+      return (
+      <button
+        type='button'
+        // whee. tailwind
+        className={isActive ? CLASSNAMES + ' underline' : CLASSNAMES}
+      >
+        {props.children}
+      </button>
+      )
+    }}
   </NavLink>
 )
 

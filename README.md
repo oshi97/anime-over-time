@@ -90,3 +90,5 @@
 // to code, and I think impacts the other data the least, but I'm really not sure how to deal with it.
 
 // TODO, someday, A "hide ratings" button
+
+// TODO, add a page describing data filtering process and decisions made

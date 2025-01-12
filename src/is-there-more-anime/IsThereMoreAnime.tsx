@@ -3,7 +3,7 @@ import residentsleeper from '../icons/residentsleeper.png'
 
 const IsThereMoreAnime = () => (
   <div className='mt-1'>
-    <NavButton to='/is-there-more-anime'>Anime Per Season</NavButton>
+    <NavButton to='/is-there-more-anime' end={true}>Anime Per Season</NavButton>
     <NavButton to='/is-there-more-anime/episodes-per-season'>
       Episodes Per Season
     </NavButton>
