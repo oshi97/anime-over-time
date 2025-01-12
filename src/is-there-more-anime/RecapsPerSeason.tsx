@@ -1,11 +1,10 @@
 import { Line } from 'react-chartjs-2'
-import './App.css'
-import getChartOptions from './utils/getChartOptions'
-import { AnimeData } from './types'
-import getSeasonLabels from './utils/getSeasonLabels'
-import AnimeList, { SeasonData } from './ui-blocks/AnimeList'
-import ImageWithPlaceholder from './ui-blocks/ImageWithPlaceholder'
-import recapsPerSeason from './data/recapsPerSeason.json'
+import getChartOptions from '../utils/getChartOptions'
+import { AnimeData } from '../types'
+import getSeasonLabels from '../utils/getSeasonLabels'
+import AnimeList, { SeasonData } from '../ui-blocks/AnimeList'
+import ImageWithPlaceholder from '../ui-blocks/ImageWithPlaceholder'
+import recapsPerSeason from '../data/recapsPerSeason.json'
 
 export const data = {
   labels: getSeasonLabels(),

@@ -1,7 +1,6 @@
 import { Line } from 'react-chartjs-2'
-import './App.css'
-import getChartOptions from './utils/getChartOptions'
-import getSeasonLabels from './utils/getSeasonLabels'
+import getChartOptions from '../utils/getChartOptions'
+import getSeasonLabels from '../utils/getSeasonLabels'
 import {
   BLUE_BACKGROUND,
   BLUE_LINE,
@@ -9,8 +8,8 @@ import {
   GREEN_LINE,
   RED_BACKGROUND,
   RED_LINE
-} from './utils/colors'
-import processedData from './data/episodesPerSeason.json'
+} from '../utils/colors'
+import processedData from '../data/episodesPerSeason.json'
 
 export const data = {
   labels: getSeasonLabels(),
