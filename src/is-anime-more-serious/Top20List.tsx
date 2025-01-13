@@ -58,8 +58,8 @@ export default function Top20List() {
     const isDisabledMal = () => {
       const malFilters = Object.entries({
         Comedy: malComedy,
-        Romance: malHarem,
-        Harem: malRomance
+        Romance: malRomance,
+        Harem: malHarem
       }).filter(([k, v]) => v).map(([k]) => k)
       if (a.title.includes('Hako')) {
         console.log(a.malGenres, a.malThemes, malFilters)
