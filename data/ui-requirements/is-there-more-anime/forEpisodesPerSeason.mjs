@@ -29,6 +29,13 @@ export default function forEpisodesPerSeason() {
     topNine.push(sortedSeason.slice(0,9).reduce((sum, a) => sum + a.episodeCount, 0) / 9)
   })
 
+  const topOne = []
+  iterateThroughSeasons((animeSeason) => {
+    const sortedSeason = cloneDeep(animeSeason);
+    const max = Math.max(...sortedSeason.map(a => a.episodeCount))
+    topOne.push(max)
+  })
+
   
-  fs.writeFileSync(resolvePath('../src/data/episodesPerSeason.json'), JSON.stringify({ animeData, topNine }))
+  fs.writeFileSync(resolvePath('../src/data/episodesPerSeason.json'), JSON.stringify({ animeData, topNine, topOne }))
 }

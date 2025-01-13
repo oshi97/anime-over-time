@@ -15,5 +15,24 @@ export default function forAnimePerSeason() {
     filteredData.push(seasonalCount)
   })
 
-  fs.writeFileSync(resolvePath('../src/data/animePerSeason.json'), JSON.stringify({ animeData, filteredData }))
+  const lessEq6Ep = []
+  iterateThroughSeasons(animeSeason => {
+    const seasonalCount = animeSeason.filter(a => a.episodeCount <= 6).length
+    lessEq6Ep.push(seasonalCount)
+  })
+
+  const greater30kMember = []
+  iterateThroughSeasons(animeSeason => {
+    const seasonalCount = animeSeason.filter(a => a.membershipCount > 30000).length
+    greater30kMember.push(seasonalCount)
+  })
+
+
+  const lessEq30kMember = []
+  iterateThroughSeasons(animeSeason => {
+    const seasonalCount = animeSeason.filter(a => a.membershipCount <= 30000).length
+    lessEq30kMember.push(seasonalCount)
+  })
+
+  fs.writeFileSync(resolvePath('../src/data/animePerSeason.json'), JSON.stringify({ animeData, filteredData, lessEq6Ep, greater30kMember, lessEq30kMember }))
 }

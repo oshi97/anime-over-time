@@ -6,6 +6,8 @@ import {
   BLUE_LINE,
   GREEN_BACKGROUND,
   GREEN_LINE,
+  PURPLE_BACKGROUND,
+  PURPLE_LINE,
   RED_BACKGROUND,
   RED_LINE
 } from '../utils/colors'
@@ -21,17 +23,23 @@ const data = {
       backgroundColor: RED_BACKGROUND
     },
     {
-      label: 'Episodes per season, filtering for < 50',
+      label: 'shows with < 50 episodes',
       data: processedData.animeData.map(a => a.filtered),
       borderColor: BLUE_LINE,
-      backgroundColor: BLUE_BACKGROUND,
-      hidden: true
+      backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'Average of the top 9 largest shows per season',
       data: processedData.topNine,
       borderColor: GREEN_LINE,
       backgroundColor: GREEN_BACKGROUND,
+      hidden: true
+    },
+    {
+      label: 'largest show per season',
+      data: processedData.topOne,
+      borderColor: PURPLE_LINE,
+      backgroundColor: PURPLE_BACKGROUND,
       hidden: true
     }
   ]
