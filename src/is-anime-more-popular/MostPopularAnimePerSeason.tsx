@@ -14,12 +14,16 @@ const renderShow = (a: AnimeData) => (
     />
     <div className='w-32 flex flex-col'>
       <div>
-        <span className='font-bold text-sm'>{numberFormat.format(a.membershipCount)}</span>
+        <span className='font-bold text-sm'>
+          {numberFormat.format(a.membershipCount)}
+        </span>
         <span className='text-sm'> Members</span>
       </div>
       <div>
         <span className='text-sm'>Popularity: </span>
-        <span className='font-semibold text-sm'>#{numberFormat.format(a.malPopularity)}</span>
+        <span className='font-semibold text-sm'>
+          #{numberFormat.format(a.malPopularity)}
+        </span>
       </div>
       <div className='text-xs italic'>{a.title}</div>
       <span className='text-sm italic'> {a.malRating} / 10</span>
@@ -28,5 +32,7 @@ const renderShow = (a: AnimeData) => (
 )
 
 export default function MostPopularAnimePerSeason() {
-  return <AnimeList seasonData={mostPopularShows as SeasonData[]} renderShow={renderShow} />
+  return (
+    <AnimeList seasonData={mostPopularShows as SeasonData[]} renderShow={renderShow} />
+  )
 }

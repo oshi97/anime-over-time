@@ -18,15 +18,20 @@ const renderShow = (a: AnimeData) => (
           <span className='font-bold'>{a.malRating}</span> / 10
         </span>
       </div>
-       <div>Ranked: <span className='font-semibold'>#{a.malRank}</span></div>
+      <div>
+        Ranked: <span className='font-semibold'>#{a.malRank}</span>
+      </div>
       <div className='text-xs my-1 italic'>{a.title}</div>
       <span className='text-sm'>
-      {numberFormat.format(a.membershipCount)}<span className='font-light'> Members</span>
+        {numberFormat.format(a.membershipCount)}
+        <span className='font-light'> Members</span>
       </span>
     </div>
   </div>
 )
 
 export default function TopAnimePerSeason() {
-  return <AnimeList seasonData={topAnimePerSeason as SeasonData[]} renderShow={renderShow} />
+  return (
+    <AnimeList seasonData={topAnimePerSeason as SeasonData[]} renderShow={renderShow} />
+  )
 }

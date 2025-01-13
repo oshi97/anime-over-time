@@ -28,25 +28,25 @@ const data = {
       label: 'the top 18',
       data: processedData.top18,
       borderColor: PURPLE_LINE,
-      backgroundColor: PURPLE_BACKGROUND,
+      backgroundColor: PURPLE_BACKGROUND
     },
     {
       label: 'the top 9',
       data: processedData.topNine,
       borderColor: BLUE_LINE,
-      backgroundColor: BLUE_BACKGROUND,
+      backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'the top 3',
       data: processedData.topThree,
       borderColor: GREEN_LINE,
-      backgroundColor: GREEN_BACKGROUND,
+      backgroundColor: GREEN_BACKGROUND
     },
     {
       label: 'the one',
       data: processedData.topOne,
       borderColor: BLACK_LINE,
-      backgroundColor: BLACK_BACKGROUND,
+      backgroundColor: BLACK_BACKGROUND
     }
   ]
 }

@@ -53,8 +53,8 @@ const App = () => (
       </Route>
       <Route path='is-anime-more-popular'>
         <Route index element={<TotalMembersPerSeason />} />
-        <Route path='most-popular-anime' element={<MostPopularAnimePerSeason/>} />
-        <Route path='total-members-averaged' element={<TotalMembersAveraged/>} />
+        <Route path='most-popular-anime' element={<MostPopularAnimePerSeason />} />
+        <Route path='total-members-averaged' element={<TotalMembersAveraged />} />
       </Route>
       <Route path='is-anime-getting-better'>
         <Route index element={<MalRatings />} />
@@ -65,10 +65,13 @@ const App = () => (
         <Route index element={<ByMalGenre />} />
         <Route path='manami' element={<ByManamiTags />} />
         <Route path='top-30' element={<Top30List />} />
-        <Route path='genre-both' element={<GenresByBoth/>} />
-        <Route path='manami-30' element={<ByManamiTags30/>} />
-        <Route path='manami-30-weighted' element={<ByManamiTags30Weighted/>} />
-        <Route path='manami-30-weighted-adjusted' element={<ByManamiTags30WeightedAdjusted/>} />
+        <Route path='genre-both' element={<GenresByBoth />} />
+        <Route path='manami-30' element={<ByManamiTags30 />} />
+        <Route path='manami-30-weighted' element={<ByManamiTags30Weighted />} />
+        <Route
+          path='manami-30-weighted-adjusted'
+          element={<ByManamiTags30WeightedAdjusted />}
+        />
       </Route>
     </Routes>
   </BrowserRouter>

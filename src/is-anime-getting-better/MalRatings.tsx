@@ -1,5 +1,3 @@
-
-
 import { Line } from 'react-chartjs-2'
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
@@ -34,7 +32,7 @@ const COLORS = [
   [BLACK_LINE, BLACK_BACKGROUND],
   [YELLOW_LINE, YELLOW_BACKGROUND],
   [LIGHT_BLUE_LINE, LIGHT_BLUE_BACKGROUND],
-  [BROWN_LINE, BROWN_BACKGROUND],
+  [BROWN_LINE, BROWN_BACKGROUND]
 ]
 
 const data = {

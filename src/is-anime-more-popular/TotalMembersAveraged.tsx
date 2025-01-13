@@ -9,7 +9,7 @@ import {
   GREEN_BACKGROUND,
   GREEN_LINE,
   ORANGE_BACKGROUND,
-  ORANGE_LINE,
+  ORANGE_LINE
 } from '../utils/colors'
 import processedData from '../data/totalMembersPerSeason.json'
 
@@ -18,21 +18,21 @@ const data = {
   datasets: [
     {
       label: 'the top 18',
-      data: processedData.top18.map(m => m/18),
+      data: processedData.top18.map(m => m / 18),
       borderColor: ORANGE_LINE,
       backgroundColor: ORANGE_BACKGROUND
     },
     {
       label: 'the top 9',
-      data: processedData.topNine.map(m => m/9),
+      data: processedData.topNine.map(m => m / 9),
       borderColor: BLUE_LINE,
-      backgroundColor: BLUE_BACKGROUND,
+      backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'the top 3',
-      data: processedData.topThree.map(m => m/3),
+      data: processedData.topThree.map(m => m / 3),
       borderColor: GREEN_LINE,
-      backgroundColor: GREEN_BACKGROUND,
+      backgroundColor: GREEN_BACKGROUND
     },
     {
       label: 'the top one',
@@ -46,7 +46,5 @@ const data = {
 const options = getChartOptions('Average # Members on MAL per Anime')
 
 export default function TotalMembersAveraged() {
-  return (
-      <Line options={options} data={data} />
-  )
+  return <Line options={options} data={data} />
 }

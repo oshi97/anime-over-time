@@ -16,9 +16,12 @@ import {
 import top20 from '../data/top20ByMembers.json'
 import { AnimeData } from '../types'
 
-const isRomance = (a: AnimeData) => a.malGenres.includes('Romance') || a.manamiTags.includes('romance')
-const isComedy = (a: AnimeData) => a.malGenres.includes('Comedy') || a.manamiTags.includes('comedy')
-const isHarem = (a: AnimeData) => a.malThemes.includes('Harem') || a.manamiTags.includes('harem')
+const isRomance = (a: AnimeData) =>
+  a.malGenres.includes('Romance') || a.manamiTags.includes('romance')
+const isComedy = (a: AnimeData) =>
+  a.malGenres.includes('Comedy') || a.manamiTags.includes('comedy')
+const isHarem = (a: AnimeData) =>
+  a.malThemes.includes('Harem') || a.manamiTags.includes('harem')
 
 const data = {
   labels: getSeasonLabels(),
@@ -33,36 +36,45 @@ const data = {
       label: 'Romance',
       data: top20.map(season => season.shows.filter(isRomance).length),
       borderColor: PURPLE_LINE,
-      backgroundColor: PURPLE_BACKGROUND,
+      backgroundColor: PURPLE_BACKGROUND
     },
     {
       label: 'Harem',
       data: top20.map(season => season.shows.filter(isHarem).length),
       borderColor: BLUE_LINE,
-      backgroundColor: BLUE_BACKGROUND,
+      backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'Rom-com',
-      data: top20.map(season => season.shows.filter(a => isRomance(a) && isComedy(a)).length),
+      data: top20.map(
+        season => season.shows.filter(a => isRomance(a) && isComedy(a)).length
+      ),
       borderColor: GREEN_LINE,
-      backgroundColor: GREEN_BACKGROUND,
+      backgroundColor: GREEN_BACKGROUND
     },
     {
       label: 'Harem Rom-com',
-      data: top20.map(season => season.shows.filter(a => isHarem(a) && isRomance(a) && isComedy(a)).length),
+      data: top20.map(
+        season =>
+          season.shows.filter(a => isHarem(a) && isRomance(a) && isComedy(a)).length
+      ),
       borderColor: BLACK_LINE,
-      backgroundColor: BLACK_BACKGROUND,
+      backgroundColor: BLACK_BACKGROUND
     }
   ]
 }
 
-const options = getChartOptions('Comedy, Romance, Harem Breakdown for Top 20 Anime per Season using both manami-database and MAL')
+const options = getChartOptions(
+  'Comedy, Romance, Harem Breakdown for Top 20 Anime per Season using both manami-database and MAL'
+)
 
 export default function GenresByBoth() {
   return (
     <>
-    <Line options={options} data={data} />
-    <div className='font-semibold'>Turns out MAL is a strict subset of manami WHOOPS who woulda guessed</div>
+      <Line options={options} data={data} />
+      <div className='font-semibold'>
+        Turns out MAL is a strict subset of manami WHOOPS who woulda guessed
+      </div>
     </>
   )
 }

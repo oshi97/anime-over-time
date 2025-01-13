@@ -1,12 +1,7 @@
-
-
 import { Line } from 'react-chartjs-2'
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
-import {
-  RED_BACKGROUND,
-  RED_LINE,
-} from '../utils/colors'
+import { RED_BACKGROUND, RED_LINE } from '../utils/colors'
 import processedData from '../data/malRatings.json'
 
 const averageRatings = []
@@ -25,12 +20,14 @@ for (let i = 0; i < processedData[0].length; i++) {
 
 const data = {
   labels: getSeasonLabels(),
-  datasets: [{
-    label: 'Average of the top 9',
-    data: averageRatings,
-    borderColor: RED_LINE,
-    backgroundColor: RED_BACKGROUND
-  }]
+  datasets: [
+    {
+      label: 'Average of the top 9',
+      data: averageRatings,
+      borderColor: RED_LINE,
+      backgroundColor: RED_BACKGROUND
+    }
+  ]
 }
 
 const options = getChartOptions('Average of the Top 9 Anime Per Season')

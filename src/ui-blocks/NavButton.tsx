@@ -6,7 +6,7 @@ const CLASSNAMES =
 
 const NavButton = (
   props: PropsWithChildren<{
-    to: string,
+    to: string
     end?: boolean
   }>
 ) => (

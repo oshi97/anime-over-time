@@ -16,14 +16,13 @@ import {
 import top30 from '../data/top30ByMembers.json'
 import { AnimeData } from '../types'
 
-
 const isRomance = (a: AnimeData) => a.manamiTags.includes('romance')
 const isComedy = (a: AnimeData) => a.manamiTags.includes('comedy')
 const isHarem = (a: AnimeData) => a.manamiTags.includes('harem')
 
-const sumMembership = ((prev: number, a: AnimeData) => {
+const sumMembership = (prev: number, a: AnimeData) => {
   return prev + a.membershipCount
-})
+}
 
 const data = {
   labels: getSeasonLabels(),
@@ -38,30 +37,38 @@ const data = {
       label: 'Romance',
       data: top30.map(season => season.shows.filter(isRomance).reduce(sumMembership, 0)),
       borderColor: PURPLE_LINE,
-      backgroundColor: PURPLE_BACKGROUND,
+      backgroundColor: PURPLE_BACKGROUND
     },
     {
       label: 'Harem',
       data: top30.map(season => season.shows.filter(isHarem).reduce(sumMembership, 0)),
       borderColor: BLUE_LINE,
-      backgroundColor: BLUE_BACKGROUND,
+      backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'Rom-com',
-      data: top30.map(season => season.shows.filter(a => isRomance(a) && isComedy(a)).reduce(sumMembership, 0)),
+      data: top30.map(season =>
+        season.shows.filter(a => isRomance(a) && isComedy(a)).reduce(sumMembership, 0)
+      ),
       borderColor: GREEN_LINE,
-      backgroundColor: GREEN_BACKGROUND,
+      backgroundColor: GREEN_BACKGROUND
     },
     {
       label: 'Harem Rom-com',
-      data: top30.map(season => season.shows.filter(a => isRomance(a) && isComedy(a) && isHarem(a)).reduce(sumMembership, 0)),
+      data: top30.map(season =>
+        season.shows
+          .filter(a => isRomance(a) && isComedy(a) && isHarem(a))
+          .reduce(sumMembership, 0)
+      ),
       borderColor: BLACK_LINE,
-      backgroundColor: BLACK_BACKGROUND,
+      backgroundColor: BLACK_BACKGROUND
     }
   ]
 }
 
-const options = getChartOptions('Top 30 Anime per Season using manami tags, weighted by MAL membership')
+const options = getChartOptions(
+  'Top 30 Anime per Season using manami tags, weighted by MAL membership'
+)
 
 export default function ByManamiTags30Weighted() {
   return <Line options={options} data={data} />
