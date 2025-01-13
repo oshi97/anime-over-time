@@ -8,6 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: npm ci
+      - run: cp .build_env .env
       - run: npm run build
       - run: cp build/index.html build/404.html
       - name: Deploy

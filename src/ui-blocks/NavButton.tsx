@@ -9,11 +9,9 @@ const NavButton = (
   props: PropsWithChildren<{
     to: string | Path
     end?: boolean
-    relative?: 'path'
-    replace?: boolean
   }>
 ) => (
-  <NavLink end={props.end} to={process.env.PUBLIC_URL + props.to} relative={props.relative} replace={props.replace}>
+  <NavLink end={props.end} to={props.to}>
     {({ isActive }) => {
       return (
         <button

@@ -34,7 +34,7 @@ const Links = () => (
 )
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Links />
     <Routes>
       <Route index element={<IsThereMoreAnime />} />
