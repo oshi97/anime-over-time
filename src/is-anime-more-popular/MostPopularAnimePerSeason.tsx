@@ -17,6 +17,10 @@ const renderShow = (a: AnimeData) => (
         <span className='font-bold text-sm'>{numberFormat.format(a.membershipCount)}</span>
         <span className='text-sm'> Members</span>
       </div>
+      <div>
+        <span className='text-sm'>Popularity: </span>
+        <span className='font-semibold text-sm'>#{numberFormat.format(a.malPopularity)}</span>
+      </div>
       <div className='text-xs italic'>{a.title}</div>
       <span className='text-sm italic'> {a.malRating} / 10</span>
     </div>

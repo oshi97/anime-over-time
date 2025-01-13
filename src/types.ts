@@ -16,6 +16,8 @@ export interface AnimeData {
   malSmallImageURL: string
   episodeCount: number
   title: string
+  malRank: number
+  malPopularity: number
 }
 
 export type SEASON = 'WINTER' | 'SPRING' | 'SUMMER' | 'FALL'

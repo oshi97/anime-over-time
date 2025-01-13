@@ -68,12 +68,14 @@
  * 4. Is anime more "serious?"
  *   a. number of "comedy" anime per season, graphed alongside the number of anime per season. using both mal, and manami database.
  *      there will be 3 lines here.
+filter this by top... 20 shows maybe? top 20 by membership specifically. that also gets rid of the need for the percentage
  *   b. We will change the above graph to a percentage, to account for changing membership counts per season.
  *   c. Lastly, we will weight this by show membership. To show not just the anime being made, but the ones being watched.
  *      We could do a rating cutoff, because just because a show calls itself comedy doesn't mean it's actually good or good at being funny.
  *      But anime, and at times comedy especially, is a precious subjective thing. Membership, should hopefully already account for this enough.
  *   d. last but not least, we will repeat the "ratings" graph from point 3 above, but restricted to comedy anime.
  * 6. repeat for harem shows
+... actually, if we go by top 20, we can do it all on one graph.
  * 7. repeat for rom com and romance overall
  * 8. We must come up with a way to quantify "diversity", or at least visualize it. One idea - of the top 9 shows, per season,
  * what percentage of the members are in the top 3, and what percentage are in the next 3, and the next 3. This can be visualized
@@ -95,3 +97,6 @@
 // TODO, someday, A "hide ratings" button
 
 // TODO, add a page describing data filtering process and decisions made
+
+how does popularity correlate with rating?
+how to even answer this?

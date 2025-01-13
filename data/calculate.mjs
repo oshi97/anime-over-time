@@ -6,7 +6,7 @@ import writeSeasonalAnime from './writeSeasonalAnime.mjs';
 async function main() {
   // writePotentialAnime();
   // await writeJikanData();
-  // writeSeasonalAnime();
+  writeSeasonalAnime();
   processDataForUI();
 }
 

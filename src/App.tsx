@@ -14,6 +14,7 @@ import TotalMembersAveraged from './is-anime-more-popular/TotalMembersAveraged'
 import IsAnimeGettingBetter from './is-anime-getting-better/IsAnimeGettingBetter'
 import MalRatings from './is-anime-getting-better/MalRatings'
 import AverageMalRatings from './is-anime-getting-better/AverageMalRatings'
+import TopAnimePerSeason from './is-anime-getting-better/TopAnimePerSeason'
 
 const Links = () => (
   <div>
@@ -48,6 +49,7 @@ const App = () => (
       <Route path='is-anime-getting-better'>
         <Route index element={<MalRatings />} />
         <Route path='average-mal-ratings' element={<AverageMalRatings />} />
+        <Route path='top-anime-per-season' element={<TopAnimePerSeason />} />
       </Route>
     </Routes>
   </BrowserRouter>

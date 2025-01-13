@@ -47,7 +47,9 @@ export default function writeSeasonalAnime() {
       malSmallImageURL: jikanData.images.jpg.small_image_url,
       title: jikanData.title,
       episodeCount: jikanData.episodes,
-      duration: jikanData.duration
+      duration: jikanData.duration,
+      malRank: jikanData.rank,
+      malPopularity: jikanData.popularity
     })
     animeCount++
   }
