@@ -15,7 +15,7 @@ export default function AnimeList(props: {
     <ul>
       {props.seasonData.map(season => {
         return (
-          <li key={season.year + season.season} className='border flex'>
+          <li key={season.year + season.season} className='border flex pl-1'>
             <div className='w-32'>
               {season.year} {season.season}
             </div>

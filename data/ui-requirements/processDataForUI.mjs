@@ -6,6 +6,7 @@ import forMostPopularAnimePerSeason from "./is-anime-more-popular/forMostPopular
 import forTotalMembersPerSeason from "./is-anime-more-popular/forTotalMembersPerSeason.mjs"
 import forMalRatings from "./is-anime-getting-better/forMalRatings.mjs"
 import forTopAnimePerSeason from "./is-anime-getting-better/forTopAnimePerSeason.mjs"
+import forTop20ByMembers from "./is-anime-more-serious/forTop20ByMembers.mjs"
 
 export default function processDataForUI() {
   forAnimePerSeason()
@@ -18,5 +19,7 @@ export default function processDataForUI() {
 
   forMalRatings()
   forTopAnimePerSeason()
+
+  forTop20ByMembers()
 }
 

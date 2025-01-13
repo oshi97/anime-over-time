@@ -6,7 +6,7 @@ import AnimeList, { SeasonData } from '../ui-blocks/AnimeList'
 import ImageWithPlaceholder from '../ui-blocks/ImageWithPlaceholder'
 import recapsPerSeason from '../data/recapsPerSeason.json'
 
-export const data = {
+const data = {
   labels: getSeasonLabels(),
   datasets: [
     {

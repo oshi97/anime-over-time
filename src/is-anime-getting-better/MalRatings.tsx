@@ -37,7 +37,7 @@ const COLORS = [
   [BROWN_LINE, BROWN_BACKGROUND],
 ]
 
-export const data = {
+const data = {
   labels: getSeasonLabels(),
   datasets: Object.keys(Array(9).fill(null)).map((si, i) => ({
     label: i,

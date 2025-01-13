@@ -15,12 +15,17 @@ import IsAnimeGettingBetter from './is-anime-getting-better/IsAnimeGettingBetter
 import MalRatings from './is-anime-getting-better/MalRatings'
 import AverageMalRatings from './is-anime-getting-better/AverageMalRatings'
 import TopAnimePerSeason from './is-anime-getting-better/TopAnimePerSeason'
+import ByMalGenre from './is-anime-more-serious/ByMalGenre'
+import IsAnimeMoreSerious from './is-anime-more-serious/IsAnimeMoreSerious'
+import ByManamiTags from './is-anime-more-serious/ByManamiTags'
+import Top20List from './is-anime-more-serious/Top20List'
 
 const Links = () => (
   <div>
     <NavButton to='/is-there-more-anime'>Is There More Anime?</NavButton>
     <NavButton to='/is-anime-more-popular'>Is Anime More Popular?</NavButton>
     <NavButton to='/is-anime-getting-better'>Is Anime Getting Better?</NavButton>
+    <NavButton to='/is-anime-more-serious'>Is Anime Getting More Serious?</NavButton>
   </div>
 )
 
@@ -32,6 +37,7 @@ const App = () => (
       <Route path='is-there-more-anime/*' element={<IsThereMoreAnime />} />
       <Route path='is-anime-more-popular/*' element={<IsAnimeMorePopular />} />
       <Route path='is-anime-getting-better/*' element={<IsAnimeGettingBetter />} />
+      <Route path='is-anime-more-serious/*' element={<IsAnimeMoreSerious />} />
     </Routes>
     <Routes>
       <Route index element={<AnimePerSeason />} />
@@ -50,6 +56,11 @@ const App = () => (
         <Route index element={<MalRatings />} />
         <Route path='average-mal-ratings' element={<AverageMalRatings />} />
         <Route path='top-anime-per-season' element={<TopAnimePerSeason />} />
+      </Route>
+      <Route path='is-anime-more-serious'>
+        <Route index element={<ByMalGenre />} />
+        <Route path='manami' element={<ByManamiTags />} />
+        <Route path='top-20' element={<Top20List />} />
       </Route>
     </Routes>
   </BrowserRouter>

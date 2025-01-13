@@ -8,7 +8,7 @@ export default function ImageWithPlaceholder(props: {
   const [imageLoaded, setImageLoaded] = useState(false)
 
   return (
-    <div>
+    <>
       {!imageLoaded && <img src={props.placeholderSrc} className={props.className} />}
       <img
         className={props.className}
@@ -16,6 +16,6 @@ export default function ImageWithPlaceholder(props: {
         style={imageLoaded ? {} : { display: `none` }}
         onLoad={() => setImageLoaded(true)}
       />
-    </div>
+    </>
   )
 }

@@ -8,7 +8,9 @@
 export interface AnimeData {
   membershipCount: number
   malRating: number
+  // Romance, Comedy
   malGenres: string[]
+  // Harem
   malThemes: string[]
   duration: string
   manamiTags: string[]

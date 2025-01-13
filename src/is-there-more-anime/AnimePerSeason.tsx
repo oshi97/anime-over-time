@@ -4,7 +4,7 @@ import getChartOptions from '../utils/getChartOptions'
 import { BLUE_BACKGROUND, BLUE_LINE, RED_BACKGROUND, RED_LINE } from '../utils/colors'
 import processedData from '../data/animePerSeason.json'
 
-export const data = {
+const data = {
   labels: getSeasonLabels(),
   datasets: [
     {

@@ -13,7 +13,7 @@ import {
 } from '../utils/colors'
 import processedData from '../data/totalMembersPerSeason.json'
 
-export const data = {
+const data = {
   labels: getSeasonLabels(),
   datasets: [
     {

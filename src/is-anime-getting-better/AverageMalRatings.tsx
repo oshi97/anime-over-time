@@ -23,7 +23,7 @@ for (let i = 0; i < processedData[0].length; i++) {
   averageRatings.push(total / 9)
 }
 
-export const data = {
+const data = {
   labels: getSeasonLabels(),
   datasets: [{
     label: 'Average of the top 9',
