@@ -38,10 +38,10 @@ const App = () => (
     <Links />
     <Routes>
       <Route index element={<IsThereMoreAnime />} />
-      <Route path='is-there-more-anime/*' element={<IsThereMoreAnime />} />
-      <Route path='is-anime-more-popular/*' element={<IsAnimeMorePopular />} />
-      <Route path='is-anime-getting-better/*' element={<IsAnimeGettingBetter />} />
-      <Route path='is-anime-more-serious/*' element={<IsAnimeMoreSerious />} />
+      <Route path='/is-there-more-anime/*' element={<IsThereMoreAnime />} />
+      <Route path='/is-anime-more-popular/*' element={<IsAnimeMorePopular />} />
+      <Route path='/is-anime-getting-better/*' element={<IsAnimeGettingBetter />} />
+      <Route path='/is-anime-more-serious/*' element={<IsAnimeMoreSerious />} />
     </Routes>
     <Routes>
       <Route index element={<AnimePerSeason />} />
