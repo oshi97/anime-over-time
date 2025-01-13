@@ -1,4 +1,4 @@
-import { Line } from 'react-chartjs-2'
+
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -22,6 +22,7 @@ import {
   BROWN_BACKGROUND
 } from '../utils/colors'
 import processedData from '../data/malRatings.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const COLORS = [
   [RED_LINE, RED_BACKGROUND],
@@ -48,5 +49,5 @@ const data = {
 const options = getChartOptions('Top 9 Anime Per Season')
 
 export default function MalRatings() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

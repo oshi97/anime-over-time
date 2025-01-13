@@ -59,9 +59,10 @@ const transitions = {
   }
 }
 
-export const options: ChartOptions = {
+export const options: ChartOptions<'line'> = {
   responsive: true,
   animation: animation as AnimationSpec<any>,
+  tension: 0.2,
   transitions,
   plugins: {
     legend: {

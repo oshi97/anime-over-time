@@ -1,4 +1,3 @@
-import { Line } from 'react-chartjs-2'
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -12,6 +11,7 @@ import {
   RED_LINE
 } from '../utils/colors'
 import processedData from '../data/episodesPerSeason.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -48,5 +48,5 @@ const data = {
 const options = getChartOptions('# of Episodes per Season')
 
 export default function EpisodesPerSeason() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

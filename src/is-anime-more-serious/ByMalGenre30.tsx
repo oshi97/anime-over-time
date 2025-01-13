@@ -15,45 +15,42 @@ import {
   ORANGE_LINE,
   ORANGE_BACKGROUND
 } from '../utils/colors'
-import top20 from '../data/top20ByMembers.json'
+import top30 from '../data/top30ByMembers.json'
 import JuicedLine from '../ui-blocks/JuicedLine'
-import { AnimeData } from '../types'
-
-const isSchool = (a: AnimeData) => a.manamiTags.includes('school')
 
 const data = {
   labels: getSeasonLabels(),
   datasets: [
     {
       label: 'Comedy',
-      data: top20.map(
-        season => season.shows.filter(a => a.manamiTags.includes('comedy')).length
+      data: top30.map(
+        season => season.shows.filter(a => a.malGenres.includes('Comedy')).length
       ),
       borderColor: RED_LINE,
       backgroundColor: RED_BACKGROUND
     },
     {
       label: 'Romance',
-      data: top20.map(
-        season => season.shows.filter(a => a.manamiTags.includes('romance')).length
+      data: top30.map(
+        season => season.shows.filter(a => a.malGenres.includes('Romance')).length
       ),
       borderColor: PURPLE_LINE,
       backgroundColor: PURPLE_BACKGROUND
     },
     {
       label: 'Harem',
-      data: top20.map(
-        season => season.shows.filter(a => a.manamiTags.includes('harem')).length
+      data: top30.map(
+        season => season.shows.filter(a => a.malThemes.includes('Harem')).length
       ),
       borderColor: BLUE_LINE,
       backgroundColor: BLUE_BACKGROUND
     },
     {
       label: 'Rom-com',
-      data: top20.map(
+      data: top30.map(
         season =>
           season.shows.filter(
-            a => a.manamiTags.includes('romance') && a.manamiTags.includes('comedy')
+            a => a.malGenres.includes('Romance') && a.malGenres.includes('Comedy')
           ).length
       ),
       borderColor: GREEN_LINE,
@@ -61,13 +58,13 @@ const data = {
     },
     {
       label: 'Harem Rom-com',
-      data: top20.map(
+      data: top30.map(
         season =>
           season.shows.filter(
             a =>
-              a.manamiTags.includes('romance') &&
-              a.manamiTags.includes('comedy') &&
-              a.manamiTags.includes('harem')
+              a.malGenres.includes('Romance') &&
+              a.malGenres.includes('Comedy') &&
+              a.malThemes.includes('Harem')
           ).length
       ),
       borderColor: BLACK_LINE,
@@ -75,9 +72,11 @@ const data = {
     },
     {
       label: 'School',
-      data: top20.map(
-        (season) =>
-          season.shows.filter(isSchool).length
+      data: top30.map(
+        season =>
+          season.shows.filter(
+            a => a.malThemes.includes('School')
+          ).length
       ),
       borderColor: ORANGE_LINE,
       backgroundColor: ORANGE_BACKGROUND
@@ -86,9 +85,9 @@ const data = {
 }
 
 const options = getChartOptions(
-  'Genre Breakdown for Top 20 Anime per Season using manami-project'
+  'Genre Breakdown for Top 30 Anime per Season using MAL'
 )
 
-export default function ByManamiTags() {
+export default function ByMalGenre30() {
   return <JuicedLine options={options} data={data} />
 }

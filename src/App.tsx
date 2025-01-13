@@ -19,11 +19,15 @@ import ByMalGenre from './is-anime-more-serious/ByMalGenre'
 import IsAnimeMoreSerious from './is-anime-more-serious/IsAnimeMoreSerious'
 import ByManamiTags from './is-anime-more-serious/ByManamiTags'
 import Top30List from './is-anime-more-serious/Top30List'
-import GenresByBoth from './is-anime-more-serious/GenreByBoth'
+// import GenresByBoth from './is-anime-more-serious/GenreByBoth'
 import ByManamiTags30 from './is-anime-more-serious/ByManamiTags30'
 import ByManamiTags30Weighted from './is-anime-more-serious/ByManamiTags30Weighted'
 import ByManamiTags30WeightedAdjusted from './is-anime-more-serious/ByManamiTags30WeightedAdjusted'
 import RatingStdDeviations from './is-anime-getting-better/RatingStdDeviations'
+import ByMalGenre30 from './is-anime-more-serious/ByMalGenre30'
+import { MovingAverageContext } from './context/MovingAverageContext'
+import { useState, useContext } from 'react'
+import Checkbox from './ui-blocks/Checkbox'
 
 const Links = () => (
   <div>
@@ -34,9 +38,19 @@ const Links = () => (
   </div>
 )
 
-const App = () => (
+const ToggleMovingAverage = () => {
+  const {  useMovingAverage, setUseMovingAverage } = useContext(MovingAverageContext)
+  return (
+    <div className='ml-2 mt-1.5'>
+      <Checkbox checked={useMovingAverage} setChecked={setUseMovingAverage} text='Toggle 4-season Moving Average' id='toggle-moving-average' />
+    </div>
+  )
+}
+
+const Router = () => (
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Links />
+    <ToggleMovingAverage/>
     <Routes>
       <Route index element={<IsThereMoreAnime />} />
       <Route path='/is-there-more-anime/*' element={<IsThereMoreAnime />} />
@@ -65,9 +79,10 @@ const App = () => (
       </Route>
       <Route path='is-anime-more-serious'>
         <Route index element={<ByMalGenre />} />
+        <Route path='mal-30' element={<ByMalGenre30 />} />
         <Route path='manami' element={<ByManamiTags />} />
         <Route path='top-30' element={<Top30List />} />
-        <Route path='genre-both' element={<GenresByBoth />} />
+        {/* <Route path='genre-both' element={<GenresByBoth />} /> */}
         <Route path='manami-30' element={<ByManamiTags30 />} />
         <Route path='manami-30-weighted' element={<ByManamiTags30Weighted />} />
         <Route
@@ -79,4 +94,12 @@ const App = () => (
   </BrowserRouter>
 )
 
-export default App
+export default function App() {
+  const [useMovingAverage, setUseMovingAverage] = useState(true)
+
+  return (
+    <MovingAverageContext.Provider value={{useMovingAverage, setUseMovingAverage}}>
+      <Router/>
+    </MovingAverageContext.Provider>
+  )
+}

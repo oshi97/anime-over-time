@@ -1,4 +1,3 @@
-import { Line } from 'react-chartjs-2'
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -11,9 +10,16 @@ import {
   BLACK_LINE,
   BLACK_BACKGROUND,
   PURPLE_LINE,
-  PURPLE_BACKGROUND
+  PURPLE_BACKGROUND,
+  ORANGE_LINE,
+  ORANGE_BACKGROUND
 } from '../utils/colors'
 import top30 from '../data/top30ByMembers.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
+import { AnimeData } from '../types'
+
+
+const isSchool = (a: AnimeData) => a.manamiTags.includes('school')
 
 const data = {
   labels: getSeasonLabels(),
@@ -66,14 +72,23 @@ const data = {
       ),
       borderColor: BLACK_LINE,
       backgroundColor: BLACK_BACKGROUND
+    },
+    {
+      label: 'School',
+      data: top30.map(
+        (season) =>
+          season.shows.filter(isSchool).length
+      ),
+      borderColor: ORANGE_LINE,
+      backgroundColor: ORANGE_BACKGROUND
     }
   ]
 }
 
 const options = getChartOptions(
-  'Comedy, Romance, Harem Breakdown for Top 30 Anime per Season using manami-project'
+  'Genre Breakdown for Top 30 Anime per Season using manami-project'
 )
 
 export default function ByManamiTags30() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

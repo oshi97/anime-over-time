@@ -1,4 +1,4 @@
-import { Line } from 'react-chartjs-2'
+
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -14,6 +14,7 @@ import {
   PURPLE_BACKGROUND
 } from '../utils/colors'
 import processedData from '../data/totalMembersPerSeason.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -54,5 +55,5 @@ const data = {
 const options = getChartOptions('Total # Members on MAL per Season')
 
 export default function TotalMembersPerSeason() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

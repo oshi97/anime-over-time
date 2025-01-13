@@ -1,10 +1,10 @@
-import { Line } from 'react-chartjs-2'
 import getChartOptions from '../utils/getChartOptions'
 import { AnimeData } from '../types'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import AnimeList, { SeasonData } from '../ui-blocks/AnimeList'
 import ImageWithPlaceholder from '../ui-blocks/ImageWithPlaceholder'
 import recapsPerSeason from '../data/recapsPerSeason.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -42,7 +42,7 @@ const renderShow = (a: AnimeData) => (
 export default function RecapsPerSeason() {
   return (
     <>
-      <Line options={options} data={data} />
+      <JuicedLine options={options} data={data} />
       <AnimeList seasonData={recapsPerSeason as SeasonData[]} renderShow={renderShow} />
     </>
   )

@@ -9,16 +9,25 @@ export default function writeSeasonalAnime() {
   let hentaiCount = 0
   let smallMembership = 0
   let tooShort = 0
+  const chineseAnimation = []
+  const koreanAnimation = []
   for (const p of potentialAnime) {
     const jikanDataPath = getJikanDataFilepath(p.malId);
     if (!fs.existsSync(jikanDataPath)) {
       continue;
     }
     const { year, season } = p.animeSeason
-    if (p.tags.includes('adult audience only') || p.tags.includes('hentai') || ) {
+    if (p.tags.includes('adult audience only') || p.tags.includes('hentai')) {
       hentaiCount++;
       continue;
     }
+    // try {
+    //   JSON.parse(fs.readFileSync(jikanDataPath, 'utf-8')).data
+    // } catch (e) {
+    //   console.log(jikanDataPath, fs.readFileSync(jikanDataPath, 'utf-8'))
+    //   fs.unlinkSync(jikanDataPath)
+    //   continue
+    // }
     const jikanData = JSON.parse(fs.readFileSync(jikanDataPath, 'utf-8')).data
     if (jikanData.score === null) {
       continue;
@@ -41,6 +50,12 @@ export default function writeSeasonalAnime() {
     }
     if (!yearToSeasonToAnime[year][season]) {
       yearToSeasonToAnime[year][season] = []
+    }
+    if (p.tags.includes('chinese animation')) {
+      chineseAnimation.push(p.title)
+    }
+    if (p.tags.includes('korean animation')) {
+      koreanAnimation.push(p.title)
     }
     yearToSeasonToAnime[year][season].push({
       membershipCount: jikanData.members,
@@ -66,4 +81,5 @@ export default function writeSeasonalAnime() {
   console.log('hentai count:', hentaiCount)
   console.log('shows with less than 2000 members', smallMembership)
   console.log('shorts with episodes under 19 minutes', tooShort)
+  console.log('included chinese animation', chineseAnimation, 'korean animation', koreanAnimation)
 }

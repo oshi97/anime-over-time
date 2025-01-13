@@ -1,4 +1,4 @@
-import { Line } from 'react-chartjs-2'
+
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -11,15 +11,19 @@ import {
   BLACK_LINE,
   BLACK_BACKGROUND,
   PURPLE_LINE,
-  PURPLE_BACKGROUND
+  PURPLE_BACKGROUND,
+  ORANGE_LINE,
+  ORANGE_BACKGROUND
 } from '../utils/colors'
 import top30 from '../data/top30ByMembers.json'
 import totalMembership from '../data/totalMembersPerSeason.json'
 import { AnimeData } from '../types'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const isRomance = (a: AnimeData) => a.manamiTags.includes('romance')
 const isComedy = (a: AnimeData) => a.manamiTags.includes('comedy')
 const isHarem = (a: AnimeData) => a.manamiTags.includes('harem')
+const isSchool = (a: AnimeData) => a.manamiTags.includes('school')
 
 const sumMembership = (prev: number, a: AnimeData) => {
   return prev + a.membershipCount
@@ -77,7 +81,16 @@ const data = {
       ),
       borderColor: BLACK_LINE,
       backgroundColor: BLACK_BACKGROUND
-    }
+    },
+    {
+      label: 'School',
+      data: top30.map(
+        (season, i) =>
+          season.shows.filter(isSchool).reduce(sumMembership, 0) / totalMembers[i]
+      ),
+      borderColor: ORANGE_LINE,
+      backgroundColor: ORANGE_BACKGROUND
+    },
   ]
 }
 
@@ -86,5 +99,5 @@ const options = getChartOptions(
 )
 
 export default function ByManamiTags30WeightedAdjusted() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

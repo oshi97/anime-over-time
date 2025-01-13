@@ -1,4 +1,4 @@
-import { Line } from 'react-chartjs-2'
+
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -12,6 +12,7 @@ import {
   ORANGE_LINE
 } from '../utils/colors'
 import processedData from '../data/totalMembersPerSeason.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -46,5 +47,5 @@ const data = {
 const options = getChartOptions('Average # Members on MAL per Anime')
 
 export default function TotalMembersAveraged() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

@@ -1,8 +1,9 @@
-import { Line } from 'react-chartjs-2'
+
 import getSeasonLabels from '../utils/getSeasonLabels'
 import getChartOptions from '../utils/getChartOptions'
 import { BLUE_BACKGROUND, BLUE_LINE, GREEN_BACKGROUND, GREEN_LINE, ORANGE_BACKGROUND, ORANGE_LINE, PURPLE_BACKGROUND, PURPLE_LINE, RED_BACKGROUND, RED_LINE } from '../utils/colors'
 import processedData from '../data/animePerSeason.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -48,5 +49,5 @@ const data = {
 const options = getChartOptions('# of Seasonal Anime per Season')
 
 export default function AnimePerSeason() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }

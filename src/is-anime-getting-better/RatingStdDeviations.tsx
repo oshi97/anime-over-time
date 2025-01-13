@@ -1,4 +1,4 @@
-import { Line } from 'react-chartjs-2'
+
 import getChartOptions from '../utils/getChartOptions'
 import getSeasonLabels from '../utils/getSeasonLabels'
 import {
@@ -10,6 +10,7 @@ import {
   RED_LINE,
 } from '../utils/colors'
 import stdDeviations from '../data/ratingStdDeviations.json'
+import JuicedLine from '../ui-blocks/JuicedLine'
 
 const data = {
   labels: getSeasonLabels(),
@@ -38,5 +39,5 @@ const data = {
 const options = getChartOptions('Top 9 Anime Per Season')
 
 export default function RatingStdDeviations() {
-  return <Line options={options} data={data} />
+  return <JuicedLine options={options} data={data} />
 }
