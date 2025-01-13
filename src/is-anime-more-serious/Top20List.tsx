@@ -32,14 +32,19 @@ export default function Top20List() {
   const [malHarem, setMalHarem] = useState(false);
   const [malRomance, setMalRomance] = useState(false);
   const [hideDisabled, setHideDisabled] = useState(false);
+  const [useOr, setUseOr] = useState(true);
 
   const renderShow = useCallback((a: AnimeData) => {
-    const getIsDisabled = () => {
+    const isDisabledManami = () => {
       const manamiFilters = Object.entries({
         comedy: manamiComedy,
         romance: manamiRomance,
         harem: manamiHarem
       }).filter(([k, v]) => v).map(([k]) => k)
+
+      if (useOr && manamiFilters.length === 0) {
+        return true
+      }
 
       // we get the "no filters checked -> show all" behavior for "free" this way
       // but gyatt dyamn is this uggo
@@ -48,27 +53,56 @@ export default function Top20List() {
           return true
         }
       }
+      return false
+    }
+    const isDisabledMal = () => {
       const malFilters = Object.entries({
         Comedy: malComedy,
         Romance: malHarem,
         Harem: malRomance
       }).filter(([k, v]) => v).map(([k]) => k)
+      if (a.title.includes('Hako')) {
+        console.log(a.malGenres, a.malThemes, malFilters)
+      }
+      if (useOr && malFilters.length === 0) {
+        return true
+      }
       for (const filter of malFilters) {
         if (!a.malGenres.includes(filter) && !a.malThemes.includes(filter)) {
           return true
         }
       }
+      return false
     }
-    const isDisabled = getIsDisabled()
+    const mal = isDisabledMal()
+    const manami = isDisabledManami()
+    // I know it says !useOr and then I or things here
+    // but negation is weird okay
+    const isDisabled = useOr ? mal && manami : mal || manami;
 
     if (hideDisabled && isDisabled) {
       return null
     }
 
+    const getBgColor = () => {
+      if (!useOr) {
+        return 'bg-blue-100'
+      }
+      if (!mal && !manami) {
+        return 'bg-green-100'
+      }
+      if (mal) {
+        return 'bg-red-100'
+      }
+      if (manami) {
+        return 'bg-blue-100'
+      }
+    } 
+
     return (
-      <div key={a.title} className={'rounded p-1' + (isDisabled ? ' grayscale bg-red-100' : ' bg-blue-100')}>
+      <div key={a.title} className={'rounded p-1' + (isDisabled ? '' : ' ' + getBgColor())}>
         <ImageWithPlaceholder
-          className='w-32 h-40'
+          className={'w-32 h-40' + (isDisabled ? ' grayscale relative' : '')}
           src={a.malImageURL}
           placeholderSrc={a.malSmallImageURL}
         />
@@ -86,7 +120,7 @@ export default function Top20List() {
         </div>
       </div>
     )
-  }, [manamiComedy, manamiRomance, manamiHarem, malComedy, malHarem, malRomance])
+  }, [manamiComedy, manamiRomance, manamiHarem, malComedy, malHarem, malRomance, hideDisabled, useOr])
 
   return (
       <div className='flex relative'>
@@ -106,7 +140,8 @@ export default function Top20List() {
               <GenreCheckbox checked={malRomance} setChecked={setMalRomance} text='Romance' id='mal-romance'/>
             </div>
           </div>
-          <GenreCheckbox checked={hideDisabled} setChecked={setHideDisabled} text={<span className='text-xs font-light'>Hide Unmatched</span>} id='hide-unmatched' className='text-xs'/>
+          <GenreCheckbox checked={hideDisabled} setChecked={setHideDisabled} text={<span className='text-xs font-light'>Hide Unmatched</span>} id='hide-unmatched'/>
+          <GenreCheckbox checked={useOr} setChecked={setUseOr} text={<span className='text-xs font-light'>Use OR Filter</span>} id='use-or'/>
         </div>
         <AnimeList seasonData={top20 as SeasonData[]} renderShow={renderShow} />
       </div>

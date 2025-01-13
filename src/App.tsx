@@ -19,6 +19,7 @@ import ByMalGenre from './is-anime-more-serious/ByMalGenre'
 import IsAnimeMoreSerious from './is-anime-more-serious/IsAnimeMoreSerious'
 import ByManamiTags from './is-anime-more-serious/ByManamiTags'
 import Top20List from './is-anime-more-serious/Top20List'
+import GenresByBoth from './is-anime-more-serious/GenreByBoth'
 
 const Links = () => (
   <div>
@@ -61,6 +62,7 @@ const App = () => (
         <Route index element={<ByMalGenre />} />
         <Route path='manami' element={<ByManamiTags />} />
         <Route path='top-20' element={<Top20List />} />
+        <Route path='genre-both' element={<GenresByBoth/>} />
       </Route>
     </Routes>
   </BrowserRouter>
