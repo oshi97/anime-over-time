@@ -43,7 +43,7 @@ function isUnwanted({ title, year, tags, season, type}) {
     // title.includes('dong') ||
     // title.toUpperCase().includes('ARNOLD & PUPPETS') ||
     // title.includes('Muzik Tiger') ||
-    year < 2004 ||
+    year < 2004)
     // tags.includes('chinese animation') || 
     // tags.includes('korean animation')) 
     // season === 'UNDEFINED' ||
