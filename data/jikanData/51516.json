@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 51516,
+    "url": "https://myanimelist.net/anime/51516/At_Atelier",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/122242.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/122242t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/122242l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/122242.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/122242t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/122242l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "At Atelier"
+      },
+      {
+        "type": "Japanese",
+        "title": "At Atelier"
+      }
+    ],
+    "title": "At Atelier",
+    "title_english": null,
+    "title_japanese": "At Atelier",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 5, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.04,
+    "scored_by": 218,
+    "rank": null,
+    "popularity": 17992,
+    "members": 408,
+    "favorites": 0,
+    "synopsis": "Animated music video for the song At Atelier by FAKE TYPE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/aLf0ic5EVxI"
+      }
+    ],
+    "streaming": []
+  }
+}

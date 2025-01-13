@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 54540,
+    "url": "https://myanimelist.net/anime/54540/Kamikaze",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/133471.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/133471t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/133471l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/133471.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/133471t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/133471l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kamikaze"
+      },
+      {
+        "type": "Japanese",
+        "title": "KAMIKAZE"
+      }
+    ],
+    "title": "Kamikaze",
+    "title_english": null,
+    "title_japanese": "KAMIKAZE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 15, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22332,
+    "members": 151,
+    "favorites": 0,
+    "synopsis": "Music video for the song Kamikaze by Dannie May.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55046,
+            "type": "anime",
+            "name": "Offside (Music)",
+            "url": "https://myanimelist.net/anime/55046/Offside_Music"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://danniemay.com/disco/kamikaze"
+      }
+    ],
+    "streaming": []
+  }
+}

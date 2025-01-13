@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52538,
+    "url": "https://myanimelist.net/anime/52538/Limits",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1411/126082.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1411/126082t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1411/126082l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1411/126082.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1411/126082t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1411/126082l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Limits"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Limits"
+      }
+    ],
+    "title": "Limits",
+    "title_english": null,
+    "title_japanese": "Limits",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 1, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.94,
+    "scored_by": 199,
+    "rank": null,
+    "popularity": 18433,
+    "members": 375,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Limits by the fictional band Synthesizer Laboratory. It is the 70th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52537,
+            "type": "anime",
+            "name": "Get a Life!",
+            "url": "https://myanimelist.net/anime/52537/Get_a_Life"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52539,
+            "type": "anime",
+            "name": "Blueprint",
+            "url": "https://myanimelist.net/anime/52539/Blueprint"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/U1FsMKK46YE"
+      }
+    ],
+    "streaming": []
+  }
+}

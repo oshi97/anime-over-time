@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 47635,
+    "url": "https://myanimelist.net/anime/47635/Perfect_Sekai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1882/115589.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1882/115589t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1882/115589l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1882/115589.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1882/115589t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1882/115589l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Perfect Sekai"
+      },
+      {
+        "type": "Japanese",
+        "title": "パーフェクトセカイ"
+      }
+    ],
+    "title": "Perfect Sekai",
+    "title_english": null,
+    "title_japanese": "パーフェクトセカイ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 1, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.64,
+    "scored_by": 684,
+    "rank": null,
+    "popularity": 12874,
+    "members": 1423,
+    "favorites": 0,
+    "synopsis": "Music video directed by the company 10GAUGE for the song Perfect Sekai by Dia Kurosawa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1286,
+        "type": "anime",
+        "name": "10Gauge",
+        "url": "https://myanimelist.net/anime/producer/1286/10Gauge"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/umyV8sR-jh8"
+      }
+    ],
+    "streaming": []
+  }
+}

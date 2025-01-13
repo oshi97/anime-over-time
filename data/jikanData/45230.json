@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 45230,
+    "url": "https://myanimelist.net/anime/45230/Hai_Baolaile_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/131206.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/131206t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/131206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/131206.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/131206t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/131206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hai Baolaile 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "海宝来了 第2部"
+      }
+    ],
+    "title": "Hai Baolaile 2nd Season",
+    "title_english": null,
+    "title_japanese": "海宝来了 第2部",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011 to ?"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20833,
+    "popularity": 27375,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45229,
+            "type": "anime",
+            "name": "Hai Baolaile",
+            "url": "https://myanimelist.net/anime/45229/Hai_Baolaile"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45231,
+            "type": "anime",
+            "name": "Hai Baolaile 3rd Season",
+            "url": "https://myanimelist.net/anime/45231/Hai_Baolaile_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Ax411673n/?from=search&seid=640395189845516794"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%B5%B7%E5%AE%9D%E6%9D%A5%E4%BA%86%E7%AC%AC2%E9%83%A8/2964592"
+      }
+    ],
+    "streaming": []
+  }
+}

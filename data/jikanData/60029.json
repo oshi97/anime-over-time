@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 60029,
+    "url": "https://myanimelist.net/anime/60029/5-Okunen_Button_TV_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1147/145898.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/145898t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/145898l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1147/145898.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/145898t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/145898l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "5-Okunen Button (TV Special)"
+      },
+      {
+        "type": "Synonym",
+        "title": "The 500 Million Yen Button"
+      },
+      {
+        "type": "Japanese",
+        "title": "5億年ボタン"
+      }
+    ],
+    "title": "5-Okunen Button (TV Special)",
+    "title_english": null,
+    "title_japanese": "5億年ボタン",
+    "title_synonyms": [
+      "The 500 Million Yen Button"
+    ],
+    "type": "TV Special",
+    "source": "Other",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-09-30T00:00:00+00:00",
+      "to": "2024-12-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2024
+        },
+        "to": {
+          "day": 28,
+          "month": 12,
+          "year": 2024
+        }
+      },
+      "string": "Sep 30, 2024 to Dec 28, 2024"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18959,
+    "popularity": 21929,
+    "members": 168,
+    "favorites": 1,
+    "synopsis": "Episodes 13 and 14 of 5-Okunen Button.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2546,
+        "type": "anime",
+        "name": "Studio Sota",
+        "url": "https://myanimelist.net/anime/producer/2546/Studio_Sota"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52162,
+            "type": "anime",
+            "name": "5-Okunen Button",
+            "url": "https://myanimelist.net/anime/52162/5-Okunen_Button"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://500000000button.com/"
+      },
+      {
+        "name": "@500000000button",
+        "url": "https://twitter.com/500000000button"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33570"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/5%E5%84%84%E5%B9%B4%E3%83%9C%E3%82%BF%E3%83%B3#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

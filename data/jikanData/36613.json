@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 36613,
+    "url": "https://myanimelist.net/anime/36613/Biju_Tune",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88478.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88478t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88478l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88478.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88478t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88478l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Biju Tune!"
+      },
+      {
+        "type": "Japanese",
+        "title": "びじゅチューン！"
+      },
+      {
+        "type": "English",
+        "title": "Biju Tune!"
+      }
+    ],
+    "title": "Biju Tune!",
+    "title_english": "Biju Tune!",
+    "title_japanese": "びじゅチューン！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2013-08-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 11, 2013 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20287,
+    "members": 258,
+    "favorites": 0,
+    "synopsis": "An NHK art-music program. Original songs about a minute in a half in length are presented with a motif tying to a real-life art piece. For example, the first song is Asura Chorus which has a motif of sculpted Asura statues from Buddhism. The program has a very irregular release schedule.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nhk.or.jp/bijutune/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B3%E3%81%98%E3%82%85%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3!"
+      }
+    ],
+    "streaming": []
+  }
+}

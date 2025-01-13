@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 32862,
+    "url": "https://myanimelist.net/anime/32862/Never_Shined",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/78772.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78772t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78772l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/78772.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78772t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78772l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Never Shined"
+      },
+      {
+        "type": "Synonym",
+        "title": "Back Drop Bomb"
+      },
+      {
+        "type": "Japanese",
+        "title": "NEVER SHINED"
+      },
+      {
+        "type": "English",
+        "title": "Never Shined"
+      }
+    ],
+    "title": "Never Shined",
+    "title_english": "Never Shined",
+    "title_japanese": "NEVER SHINED",
+    "title_synonyms": [
+      "Back Drop Bomb"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-05-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 5,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 28, 2014"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 4.82,
+    "scored_by": 131,
+    "rank": null,
+    "popularity": 19565,
+    "members": 298,
+    "favorites": 0,
+    "synopsis": "A music video for the Back Drop Bomb song \"Never Shined\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1390,
+        "type": "anime",
+        "name": "Toy's Factory",
+        "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

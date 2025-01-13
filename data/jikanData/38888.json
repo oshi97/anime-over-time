@@ -1,0 +1,110 @@
+{
+  "data": {
+    "mal_id": 38888,
+    "url": "https://myanimelist.net/anime/38888/Deeper",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1899/97747.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1899/97747t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1899/97747l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1899/97747.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1899/97747t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1899/97747l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Deeper"
+      },
+      {
+        "type": "Japanese",
+        "title": "Deeper"
+      },
+      {
+        "type": "English",
+        "title": "Deeper"
+      }
+    ],
+    "title": "Deeper",
+    "title_english": "Deeper",
+    "title_japanese": "Deeper",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2017"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 5.65,
+    "scored_by": 157,
+    "rank": null,
+    "popularity": 19401,
+    "members": 309,
+    "favorites": 0,
+    "synopsis": "Music video by Kousuke Sugimoto for the song Deeper by Yuuji Nakada in his album \"thickness.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

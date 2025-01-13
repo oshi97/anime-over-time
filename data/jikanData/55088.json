@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 55088,
+    "url": "https://myanimelist.net/anime/55088/Adventure",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/135483.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/135483t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/135483l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/135483.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/135483t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/135483l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Adventure"
+      },
+      {
+        "type": "Japanese",
+        "title": "アドベンチャー"
+      },
+      {
+        "type": "English",
+        "title": "Adventure"
+      }
+    ],
+    "title": "Adventure",
+    "title_english": "Adventure",
+    "title_japanese": "アドベンチャー",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 11, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.49,
+    "scored_by": 238,
+    "rank": null,
+    "popularity": 17859,
+    "members": 418,
+    "favorites": 0,
+    "synopsis": "Music video for the song Adventure by YOASOBI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3031,
+        "type": "anime",
+        "name": "Kassen",
+        "url": "https://myanimelist.net/anime/producer/3031/Kassen"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1872,
+        "type": "anime",
+        "name": "P.I.C.S.",
+        "url": "https://myanimelist.net/anime/producer/1872/PICS"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Av3xaZkVpJs&ab_channel=Ayase%2FYOASOBI"
+      }
+    ],
+    "streaming": []
+  }
+}

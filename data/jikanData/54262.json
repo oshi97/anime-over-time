@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 54262,
+    "url": "https://myanimelist.net/anime/54262/Dokusou_Shuusa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/132804.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/132804t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/132804l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/132804.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/132804t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/132804l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dokusou Shuusa"
+      },
+      {
+        "type": "Japanese",
+        "title": "独創収差"
+      }
+    ],
+    "title": "Dokusou Shuusa",
+    "title_english": null,
+    "title_japanese": "独創収差",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 12, 2022"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.36,
+    "scored_by": 216,
+    "rank": null,
+    "popularity": 17870,
+    "members": 417,
+    "favorites": 0,
+    "synopsis": "Music video for the song Dokusou Shuusa by Afterglow.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2695,
+        "type": "anime",
+        "name": "SIGNIF",
+        "url": "https://myanimelist.net/anime/producer/2695/SIGNIF"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 37869,
+            "type": "anime",
+            "name": "BanG Dream! 2nd Season",
+            "url": "https://myanimelist.net/anime/37869/BanG_Dream_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bang-dream.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/BanG_Dream!_discography"
+      }
+    ],
+    "streaming": []
+  }
+}

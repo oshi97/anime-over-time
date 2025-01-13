@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 55885,
+    "url": "https://myanimelist.net/anime/55885/Hai_Grasshopper",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/136993.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/136993t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/136993l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/136993.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/136993t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/136993l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hai! Grasshopper"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハーイ！グラスホッパー"
+      }
+    ],
+    "title": "Hai! Grasshopper",
+    "title_english": null,
+    "title_japanese": "ハーイ！グラスホッパー",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-04-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2, 2007"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23548,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hai! Grasshopper by Noppo Takami that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      },
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 29355,
+            "type": "anime",
+            "name": "Grasshopper Monogatari",
+            "url": "https://myanimelist.net/anime/29355/Grasshopper_Monogatari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN200704_01"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%9B%E3%83%83%E3%83%91%E3%83%BC%E7%89%A9%E8%AA%9E"
+      }
+    ],
+    "streaming": []
+  }
+}

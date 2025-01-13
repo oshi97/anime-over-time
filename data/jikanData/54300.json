@@ -1,0 +1,113 @@
+{
+  "data": {
+    "mal_id": 54300,
+    "url": "https://myanimelist.net/anime/54300/Dawn",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1439/133402.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/133402t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/133402l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1439/133402.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/133402t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/133402l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dawn"
+      },
+      {
+        "type": "Japanese",
+        "title": "Dawn"
+      }
+    ],
+    "title": "Dawn",
+    "title_english": null,
+    "title_japanese": "Dawn",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20052,
+    "popularity": 23696,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": "A boy and a girl wander through a town at night.",
+    "background": "Graduate Work 2019 by Keita Tsuji, Musashino Art University",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2566,
+        "type": "anime",
+        "name": "Musashino Art University",
+        "url": "https://myanimelist.net/anime/producer/2566/Musashino_Art_University"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

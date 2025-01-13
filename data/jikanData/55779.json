@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 55779,
+    "url": "https://myanimelist.net/anime/55779/Cocoon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/136698.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/136698t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/136698l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/136698.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/136698t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/136698l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cocoon"
+      },
+      {
+        "type": "Japanese",
+        "title": "cocoon"
+      }
+    ],
+    "title": "Cocoon",
+    "title_english": null,
+    "title_japanese": "cocoon",
+    "title_synonyms": [],
+    "type": null,
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 12094,
+    "members": 1849,
+    "favorites": 2,
+    "synopsis": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      },
+      {
+        "mal_id": 1797,
+        "type": "anime",
+        "name": "NHK Enterprises",
+        "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2778,
+        "type": "anime",
+        "name": "Sasayuri",
+        "url": "https://myanimelist.net/anime/producer/2778/Sasayuri"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 43,
+        "type": "anime",
+        "name": "Josei",
+        "url": "https://myanimelist.net/anime/genre/43/Josei"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 36595,
+            "type": "manga",
+            "name": "Cocoon",
+            "url": "https://myanimelist.net/manga/36595/Cocoon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18084"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28792"
+      }
+    ],
+    "streaming": []
+  }
+}

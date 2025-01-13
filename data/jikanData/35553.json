@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 35553,
+    "url": "https://myanimelist.net/anime/35553/Ape",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/85690.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85690t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85690l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/85690.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85690t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85690l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ape"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fact"
+      },
+      {
+        "type": "Japanese",
+        "title": "ape"
+      }
+    ],
+    "title": "Ape",
+    "title_english": null,
+    "title_japanese": "ape",
+    "title_synonyms": [
+      "Fact"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-05-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 5,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 15, 2014"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.65,
+    "scored_by": 221,
+    "rank": null,
+    "popularity": 17963,
+    "members": 410,
+    "favorites": 0,
+    "synopsis": "An official lyric music video for Fact's song Ape a part of their new album \"KTHEAT\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "Avex Entertainment",
+        "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=d8uAnZOBy24"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fact_(band)"
+      }
+    ],
+    "streaming": []
+  }
+}

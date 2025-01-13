@@ -1,0 +1,177 @@
+{
+  "data": {
+    "mal_id": 53443,
+    "url": "https://myanimelist.net/anime/53443/Dongitsune_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1424/129944.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1424/129944t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1424/129944l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1424/129944.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1424/129944t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1424/129944l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dongitsune CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nissin Donbei CM"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dongitsune Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "どんぎつねCM"
+      }
+    ],
+    "title": "Dongitsune CMs",
+    "title_english": null,
+    "title_japanese": "どんぎつねCM",
+    "title_synonyms": [
+      "Nissin Donbei CM",
+      "Dongitsune Season 2"
+    ],
+    "type": "CM",
+    "source": "Other",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2017-11-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 11, 2017 to ?"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 6.42,
+    "scored_by": 113,
+    "rank": null,
+    "popularity": 15567,
+    "members": 671,
+    "favorites": 1,
+    "synopsis": "Commercials for Nissin's Donbei Kitsune Udon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3031,
+        "type": "anime",
+        "name": "Kassen",
+        "url": "https://myanimelist.net/anime/producer/3031/Kassen"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Studio 4°C",
+        "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+      },
+      {
+        "mal_id": 94,
+        "type": "anime",
+        "name": "Telecom Animation Film",
+        "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+      },
+      {
+        "mal_id": 103,
+        "type": "anime",
+        "name": "Tatsunoko Production",
+        "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+      },
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 59831,
+            "type": "anime",
+            "name": "Matsuo no Anime",
+            "url": "https://myanimelist.net/anime/59831/Matsuo_no_Anime"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54022,
+            "type": "anime",
+            "name": "Saikyou Donbei x Hanma Baki: Saikyou no Dongitsune Genrutsutsu",
+            "url": "https://myanimelist.net/anime/54022/Saikyou_Donbei_x_Hanma_Baki__Saikyou_no_Dongitsune_Genrutsutsu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.donbei.jp/cm1/"
+      }
+    ],
+    "streaming": []
+  }
+}

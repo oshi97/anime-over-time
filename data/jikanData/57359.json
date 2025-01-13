@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57359,
+    "url": "https://myanimelist.net/anime/57359/Feelin_It_All",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1923/140006.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1923/140006t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1923/140006l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1923/140006.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1923/140006t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1923/140006l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Feelin' It All"
+      },
+      {
+        "type": "Japanese",
+        "title": "Feelin' It All"
+      }
+    ],
+    "title": "Feelin' It All",
+    "title_english": null,
+    "title_japanese": "Feelin' It All",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 16, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.32,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 21076,
+    "members": 213,
+    "favorites": 0,
+    "synopsis": "Music video for the song Feelin' It All by Annie Sollange.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2863,
+        "type": "anime",
+        "name": "Miota",
+        "url": "https://myanimelist.net/anime/producer/2863/Miota"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55351,
+            "type": "anime",
+            "name": "Azur Lane CMs",
+            "url": "https://myanimelist.net/anime/55351/Azur_Lane_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rjGnIeSpAOM"
+      }
+    ],
+    "streaming": []
+  }
+}

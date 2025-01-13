@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 60278,
+    "url": "https://myanimelist.net/anime/60278/Flash_Bang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/146445.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/146445t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/146445l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/146445.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/146445t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/146445l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Flash Bang"
+      },
+      {
+        "type": "Japanese",
+        "title": "FLASH BANG"
+      }
+    ],
+    "title": "Flash Bang",
+    "title_english": null,
+    "title_japanese": "FLASH BANG",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 31, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22671,
+    "members": 139,
+    "favorites": 0,
+    "synopsis": "Music video for song by Flash Bang Mori Calliope and PES.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cvZLGAIy6qc"
+      }
+    ],
+    "streaming": []
+  }
+}

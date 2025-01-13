@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 57227,
+    "url": "https://myanimelist.net/anime/57227/Bite_Kamu_Bite",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/139759.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/139759t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/139759l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/139759.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/139759t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/139759l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bite! Kamu! Bite!"
+      },
+      {
+        "type": "Japanese",
+        "title": "BITE! カム! BITE!"
+      }
+    ],
+    "title": "Bite! Kamu! Bite!",
+    "title_english": null,
+    "title_japanese": "BITE! カム! BITE!",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 20, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.45,
+    "scored_by": 212,
+    "rank": null,
+    "popularity": 18182,
+    "members": 394,
+    "favorites": 1,
+    "synopsis": "Music video for the original song Bite! Kamu! Bite! by Hakos Baels and Korone Inugami.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/en/music/354/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LYnhN_49tpE"
+      }
+    ],
+    "streaming": []
+  }
+}

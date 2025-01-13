@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 58075,
+    "url": "https://myanimelist.net/anime/58075/Reimei_wo_Ugatsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/141331.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141331t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141331l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/141331.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141331t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141331l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Reimei wo Ugatsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "黎明を穿つ"
+      },
+      {
+        "type": "English",
+        "title": "Piercing the Dawn of Time"
+      }
+    ],
+    "title": "Reimei wo Ugatsu",
+    "title_english": "Piercing the Dawn of Time",
+    "title_japanese": "黎明を穿つ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 25, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.75,
+    "scored_by": 243,
+    "rank": null,
+    "popularity": 17808,
+    "members": 421,
+    "favorites": 0,
+    "synopsis": "Music video for the song Reimei wo Ugatsu by Togenashi Togeari, the band in the anime Girls Band Cry.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55102,
+            "type": "anime",
+            "name": "Girls Band Cry",
+            "url": "https://myanimelist.net/anime/55102/Girls_Band_Cry"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wYmNq-2bLsI"
+      }
+    ],
+    "streaming": []
+  }
+}

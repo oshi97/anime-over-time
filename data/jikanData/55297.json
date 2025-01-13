@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 55297,
+    "url": "https://myanimelist.net/anime/55297/Hibana_Chiru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/135867.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/135867t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/135867l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1642/135867.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1642/135867t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1642/135867l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hibana Chiru"
+      },
+      {
+        "type": "Japanese",
+        "title": "火花散ル"
+      }
+    ],
+    "title": "Hibana Chiru",
+    "title_english": null,
+    "title_japanese": "火花散ル",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 17, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.97,
+    "scored_by": 159,
+    "rank": null,
+    "popularity": 18208,
+    "members": 392,
+    "favorites": 3,
+    "synopsis": "Music video for the song Hibana Chiru by GYROAXIA. The song was featured as the ending for Argonavis Movie: Ryuusei no Obligato.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1684,
+        "type": "anime",
+        "name": "THINKR",
+        "url": "https://myanimelist.net/anime/producer/1684/THINKR"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49471,
+            "type": "anime",
+            "name": "Argonavis Movie: Ryuusei no Obligato",
+            "url": "https://myanimelist.net/anime/49471/Argonavis_Movie__Ryuusei_no_Obligato"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://argo-bdp.com/music"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/From_ARGONAVIS%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3#%E7%81%AB%E8%8A%B1%E6%95%A3%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

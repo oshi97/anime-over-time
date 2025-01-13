@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 41185,
+    "url": "https://myanimelist.net/anime/41185/CP",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/105715.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/105715t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/105715l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/105715.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/105715t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/105715l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "CP"
+      },
+      {
+        "type": "Synonym",
+        "title": "the chef cooks me"
+      },
+      {
+        "type": "Synonym",
+        "title": "Feeling"
+      },
+      {
+        "type": "Japanese",
+        "title": "CP"
+      },
+      {
+        "type": "English",
+        "title": "CP"
+      }
+    ],
+    "title": "CP",
+    "title_english": "CP",
+    "title_japanese": "CP",
+    "title_synonyms": [
+      "the chef cooks me",
+      "Feeling"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 27, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.43,
+    "scored_by": 154,
+    "rank": null,
+    "popularity": 19792,
+    "members": 286,
+    "favorites": 0,
+    "synopsis": "Official music video for the chef cooks me's song CP for their album Feeling that was released on October 2, 2019.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://thechefcooksme.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/The_chef_cooks_me"
+      }
+    ],
+    "streaming": []
+  }
+}

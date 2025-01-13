@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 37357,
+    "url": "https://myanimelist.net/anime/37357/Prism_2018",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/90743.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/90743t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/90743l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/90743.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/90743t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/90743l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Prism (2018)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "プリズム"
+      }
+    ],
+    "title": "Prism (2018)",
+    "title_english": null,
+    "title_japanese": "プリズム",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 19, 2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.51,
+    "scored_by": 634,
+    "rank": null,
+    "popularity": 13728,
+    "members": 1123,
+    "favorites": 1,
+    "synopsis": "Official music video for the song Prism by the fictional band Irodorimidori. It is the 24th song in the franchise and focuses on Aliciana Ogata.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37356,
+            "type": "anime",
+            "name": "Outsider:Requiem",
+            "url": "https://myanimelist.net/anime/37356/Outsider_Requiem"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37413,
+            "type": "anime",
+            "name": "Polka Dot",
+            "url": "https://myanimelist.net/anime/37413/Polka_Dot"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song24.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 53164,
+    "url": "https://myanimelist.net/anime/53164/Come_On_Tonight",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1390/128545.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1390/128545t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1390/128545l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1390/128545.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1390/128545t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1390/128545l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Come On Tonight"
+      },
+      {
+        "type": "Japanese",
+        "title": "Come on tonight"
+      }
+    ],
+    "title": "Come On Tonight",
+    "title_english": null,
+    "title_japanese": "Come on tonight",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22014,
+    "members": 165,
+    "favorites": 0,
+    "synopsis": "Music video for the song Come on tonight by Wataru Urata from his 4th album \"Unlimited\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 40197,
+            "type": "anime",
+            "name": "Urashimasakatasen no Nichijou",
+            "url": "https://myanimelist.net/anime/40197/Urashimasakatasen_no_Nichijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nicovideo.jp/watch/sm35767835"
+      }
+    ],
+    "streaming": []
+  }
+}

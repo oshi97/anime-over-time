@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 52813,
+    "url": "https://myanimelist.net/anime/52813/Kimi_dake_ga_Sushi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/127114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/127114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/127114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/127114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/127114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/127114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kimi dake ga Sushi!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "キミだけがすしっ！！"
+      }
+    ],
+    "title": "Kimi dake ga Sushi!!",
+    "title_english": null,
+    "title_japanese": "キミだけがすしっ！！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 31, 2020"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.85,
+    "scored_by": 111,
+    "rank": null,
+    "popularity": 20846,
+    "members": 227,
+    "favorites": 0,
+    "synopsis": "A special music video with the characters from Sushi Azarashi to celebrate Hatsune Miku's birthday.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34490,
+            "type": "anime",
+            "name": "Sushi Azarashi",
+            "url": "https://myanimelist.net/anime/34490/Sushi_Azarashi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://sushiazarasu.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%99%E3%81%97%E3%81%82%E3%81%96%E3%82%89%E3%81%97#%E3%81%99%E3%81%97%E3%81%82%E3%81%96%E3%82%89%E3%81%99"
+      }
+    ],
+    "streaming": []
+  }
+}

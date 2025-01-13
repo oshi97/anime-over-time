@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 39944,
+    "url": "https://myanimelist.net/anime/39944/Tokimeki_Runners",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/101438.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/101438t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/101438l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/101438.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/101438t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/101438l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "pfM7AxcP3pA",
+      "url": "https://www.youtube.com/watch?v=pfM7AxcP3pA",
+      "embed_url": "https://www.youtube.com/embed/pfM7AxcP3pA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/pfM7AxcP3pA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/pfM7AxcP3pA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/pfM7AxcP3pA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/pfM7AxcP3pA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/pfM7AxcP3pA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokimeki Runners"
+      },
+      {
+        "type": "Japanese",
+        "title": "TOKIMEKI Runners"
+      }
+    ],
+    "title": "Tokimeki Runners",
+    "title_english": null,
+    "title_japanese": "TOKIMEKI Runners",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-11-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 21, 2018"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "scored_by": 1556,
+    "rank": null,
+    "popularity": 9686,
+    "members": 3845,
+    "favorites": 2,
+    "synopsis": "Music video included with the debut album for the Love Live! multimedia project Nijigasaki High School Idol Club.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 104,
+        "type": "anime",
+        "name": "Lantis",
+        "url": "https://myanimelist.net/anime/producer/104/Lantis"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40879,
+            "type": "anime",
+            "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+            "url": "https://myanimelist.net/anime/40879/Love_Live_Nijigasaki_Gakuen_School_Idol_Doukoukai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lovelive-anime.jp/nijigasaki/cd.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15379"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/TOKIMEKI_Runners"
+      }
+    ],
+    "streaming": []
+  }
+}

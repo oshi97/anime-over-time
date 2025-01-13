@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 46830,
+    "url": "https://myanimelist.net/anime/46830/Dingding_Mao_Chengzhang_Leyuan__Zhihui_Senlin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1808/130812.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/130812t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/130812l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1808/130812.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/130812t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/130812l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dingding Mao Chengzhang Leyuan: Zhihui Senlin"
+      },
+      {
+        "type": "Japanese",
+        "title": "丁丁猫成长乐园之智慧森林"
+      }
+    ],
+    "title": "Dingding Mao Chengzhang Leyuan: Zhihui Senlin",
+    "title_english": null,
+    "title_japanese": "丁丁猫成长乐园之智慧森林",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 100,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20118,
+    "popularity": 26729,
+    "members": 69,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 46831,
+            "type": "anime",
+            "name": "Dingding Mao Chengzhang Leyuan: Anquan Zhi Duoshao",
+            "url": "https://myanimelist.net/anime/46831/Dingding_Mao_Chengzhang_Leyuan__Anquan_Zhi_Duoshao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1ZE41167XK/?from=search&seid=17352451807015792335"
+      }
+    ],
+    "streaming": []
+  }
+}

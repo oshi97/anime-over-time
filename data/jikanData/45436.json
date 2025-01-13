@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 45436,
+    "url": "https://myanimelist.net/anime/45436/JM_Xiong__Shenqi_Moshu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/128824.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/128824t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/128824l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/128824.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/128824t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/128824l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "JM Xiong: Shenqi Moshu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wonderful Magic of JM Bear"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jie Mi Xiong: Shenqi Moshu"
+      },
+      {
+        "type": "Japanese",
+        "title": "杰米熊之神奇魔术"
+      }
+    ],
+    "title": "JM Xiong: Shenqi Moshu",
+    "title_english": null,
+    "title_japanese": "杰米熊之神奇魔术",
+    "title_synonyms": [
+      "Wonderful Magic of JM Bear",
+      "Jie Mi Xiong: Shenqi Moshu"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 17, 2011 to ?"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16439,
+    "popularity": 26435,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45437,
+            "type": "anime",
+            "name": "JM Xiong: Mohuan Maxi Tuan",
+            "url": "https://myanimelist.net/anime/45437/JM_Xiong__Mohuan_Maxi_Tuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9D%B0%E7%B1%B3%E7%86%8A/17720931"
+      }
+    ],
+    "streaming": []
+  }
+}

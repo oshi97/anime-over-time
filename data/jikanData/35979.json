@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 35979,
+    "url": "https://myanimelist.net/anime/35979/Windy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86949.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86949t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86949l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86949.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86949t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86949l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Windy"
+      },
+      {
+        "type": "Japanese",
+        "title": "windy"
+      },
+      {
+        "type": "English",
+        "title": "Windy"
+      }
+    ],
+    "title": "Windy",
+    "title_english": "Windy",
+    "title_japanese": "windy",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-05-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 5,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 22, 2011"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 5.53,
+    "scored_by": 204,
+    "rank": null,
+    "popularity": 17999,
+    "members": 408,
+    "favorites": 0,
+    "synopsis": "Takaharu Shimizu's first direction work, a music video for a poet toto's solo debut single \"windy\".\n\n(Source: Official Website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.shimizutakaharu.com/toto-windy-mv/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 42166,
+    "url": "https://myanimelist.net/anime/42166/Violet_Evergarden_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1485/125509.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1485/125509t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/125509l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1485/125509.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1485/125509t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/125509l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Violet Evergarden CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヴァイオレット・エヴァーガーデン"
+      }
+    ],
+    "title": "Violet Evergarden CMs",
+    "title_english": null,
+    "title_japanese": "ヴァイオレット・エヴァーガーデン",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Light novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-27T00:00:00+00:00",
+      "to": "2017-03-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": 16,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "May 27, 2016 to Mar 16, 2017"
+    },
+    "duration": "38 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.96,
+    "scored_by": 3787,
+    "rank": null,
+    "popularity": 6956,
+    "members": 9210,
+    "favorites": 47,
+    "synopsis": "Special trailers released on YouTube announcing Violet Evergarden's anime adaptation. Features all original animation not used in the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 98930,
+            "type": "manga",
+            "name": "Violet Evergarden",
+            "url": "https://myanimelist.net/manga/98930/Violet_Evergarden"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33352,
+            "type": "anime",
+            "name": "Violet Evergarden",
+            "url": "https://myanimelist.net/anime/33352/Violet_Evergarden"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/0CJeDetA45Q"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 39611,
+    "url": "https://myanimelist.net/anime/39611/Hametarou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/100156.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/100156t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/100156l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/100156.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/100156t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/100156l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hametarou"
+      },
+      {
+        "type": "Japanese",
+        "title": "はめたろう"
+      }
+    ],
+    "title": "Hametarou",
+    "title_english": null,
+    "title_japanese": "はめたろう",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-22T00:00:00+00:00",
+      "to": "2019-03-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 10,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      "string": "Oct 22, 2018 to Mar 10, 2019"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5,
+    "scored_by": 138,
+    "rank": null,
+    "popularity": 17282,
+    "members": 464,
+    "favorites": 0,
+    "synopsis": "Commercials/TV bumps for Dogatch's new mascot Hametarou. The second episode collaboration with Dogatch's other mascot franchise Mameshiba. The commercials are surreal pieces where Hametarou sings while thrusting his face through various cut outs.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 7261,
+            "type": "anime",
+            "name": "Mameshiba",
+            "url": "https://myanimelist.net/anime/7261/Mameshiba"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://dogatch.jp/feature/hametaro/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E4%BA%AE"
+      }
+    ],
+    "streaming": []
+  }
+}

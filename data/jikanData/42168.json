@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 42168,
+    "url": "https://myanimelist.net/anime/42168/BIGOTRE_Capture_Mission",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/107916t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/107916l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/107916.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/107916t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/107916l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BIGOTRE Capture Mission"
+      },
+      {
+        "type": "Synonym",
+        "title": "BIGOTRE SS20 “BIGOTRE Capture Mission”"
+      },
+      {
+        "type": "Japanese",
+        "title": "BIGOTRE Capture Mission"
+      }
+    ],
+    "title": "BIGOTRE Capture Mission",
+    "title_english": null,
+    "title_japanese": "BIGOTRE Capture Mission",
+    "title_synonyms": [
+      "BIGOTRE SS20 “BIGOTRE Capture Mission”"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-06T00:00:00+00:00",
+      "to": "2020-05-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 30,
+          "month": 5,
+          "year": 2020
+        }
+      },
+      "string": "Apr 6, 2020 to May 30, 2020"
+    },
+    "duration": "26 sec per ep",
+    "rating": "G - All Ages",
+    "score": 4.94,
+    "scored_by": 159,
+    "rank": null,
+    "popularity": 18340,
+    "members": 382,
+    "favorites": 0,
+    "synopsis": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bigotre.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

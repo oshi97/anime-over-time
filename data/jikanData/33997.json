@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 33997,
+    "url": "https://myanimelist.net/anime/33997/Yu☆Gi☆Oh_The_Dark_Side_of_Dimensions_Special__Eien_no_Rival_-_Yuugi_to_Kaiba",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/81859.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/81859t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/81859l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/81859.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/81859t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/81859l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yu☆Gi☆Oh! The Dark Side of Dimensions Special: Eien no Rival - Yuugi to Kaiba!"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版『遊☆戯☆王』公開直前SP 永遠の好敵手(ライバル)　遊戯と海馬！"
+      }
+    ],
+    "title": "Yu☆Gi☆Oh! The Dark Side of Dimensions Special: Eien no Rival - Yuugi to Kaiba!",
+    "title_english": null,
+    "title_japanese": "劇場版『遊☆戯☆王』公開直前SP 永遠の好敵手(ライバル)　遊戯と海馬！",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 17, 2016"
+    },
+    "duration": "26 min",
+    "rating": "G - All Ages",
+    "score": 6.77,
+    "scored_by": 1491,
+    "rank": 5467,
+    "popularity": 8970,
+    "members": 4856,
+    "favorites": 3,
+    "synopsis": "A summary special hosted by Jounouchi and Mokuba discussing the rivalry between Yuugi and Kaiba. They introduce the setting of the series, recap the best quotes from both Yuugi and Kaiba and their ace monsters, show highlights of their duel in Battle City, and lastly showcase the first 3 minutes of the film a week before it is released in theaters.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 139,
+        "type": "anime",
+        "name": "Nihon Ad Systems",
+        "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Gallop",
+        "url": "https://myanimelist.net/anime/producer/36/Gallop"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 481,
+            "type": "anime",
+            "name": "Yu☆Gi☆Oh! Duel Monsters",
+            "url": "https://myanimelist.net/anime/481/Yu☆Gi☆Oh_Duel_Monsters"
+          },
+          {
+            "mal_id": 28771,
+            "type": "anime",
+            "name": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+            "url": "https://myanimelist.net/anime/28771/Yu☆Gi☆Oh_The_Dark_Side_of_Dimensions"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.yugioh20th.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10963"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16671"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!:_The_Dark_Side_of_Dimensions"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "mal_id": 36493,
+    "url": "https://myanimelist.net/anime/36493/Esoragoto_Spiral",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/88118.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88118t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88118l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/88118.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88118t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88118l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Esoragoto Spiral"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fabrication Spiral"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mikagura Gakuen Kumikyoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mikagura School Suite"
+      },
+      {
+        "type": "Japanese",
+        "title": "絵空事スパイラル"
+      },
+      {
+        "type": "English",
+        "title": "A Fiction Spiral"
+      }
+    ],
+    "title": "Esoragoto Spiral",
+    "title_english": "A Fiction Spiral",
+    "title_japanese": "絵空事スパイラル",
+    "title_synonyms": [
+      "Fabrication Spiral",
+      "Mikagura Gakuen Kumikyoku",
+      "Mikagura School Suite"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 20, 2016"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.12,
+    "scored_by": 573,
+    "rank": null,
+    "popularity": 12736,
+    "members": 1486,
+    "favorites": 1,
+    "synopsis": "Esoragoto Spiral focuses on Seisa, the representative of the Going Home Club, who is lost in her thoughts and tries to fabricate herself by gathering some aspects of bitterness and sweetness. The music video itself was published online and has not been released on any DVD yet.\n\n(Source: Mikagura School Suite Wikia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 30924,
+            "type": "anime",
+            "name": "Mikagura Gakuen Kumikyoku",
+            "url": "https://myanimelist.net/anime/30924/Mikagura_Gakuen_Kumikyoku"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 65251,
+            "type": "manga",
+            "name": "Mikagura Gakuen Kumikyoku",
+            "url": "https://myanimelist.net/manga/65251/Mikagura_Gakuen_Kumikyoku"
+          },
+          {
+            "mal_id": 65253,
+            "type": "manga",
+            "name": "Mikagura Gakuen Kumikyoku",
+            "url": "https://myanimelist.net/manga/65253/Mikagura_Gakuen_Kumikyoku"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 28817,
+            "type": "anime",
+            "name": "Mikagura Gakuen Kumikyoku (TV)",
+            "url": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nicovideo.jp/watch/sm29478685"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikagura_School_Suite"
+      }
+    ],
+    "streaming": []
+  }
+}

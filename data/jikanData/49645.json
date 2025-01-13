@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 49645,
+    "url": "https://myanimelist.net/anime/49645/Over_Heart",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/117312.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/117312t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/117312l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/117312.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/117312t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/117312l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Over Heart"
+      },
+      {
+        "type": "Japanese",
+        "title": "Over Heart"
+      },
+      {
+        "type": "English",
+        "title": "Over Heart"
+      }
+    ],
+    "title": "Over Heart",
+    "title_english": "Over Heart",
+    "title_japanese": "Over Heart",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 10, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.52,
+    "scored_by": 175,
+    "rank": null,
+    "popularity": 19310,
+    "members": 314,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Over Heart by the fictional band Synthesizer Laboratory. It focuses on Kanade Nogezaki.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52532,
+            "type": "anime",
+            "name": "Everything For A Reason",
+            "url": "https://myanimelist.net/anime/52532/Everything_For_A_Reason"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52533,
+            "type": "anime",
+            "name": "Nanka Noise ni Kikoeru",
+            "url": "https://myanimelist.net/anime/52533/Nanka_Noise_ni_Kikoeru"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/Wwatt0HMZSI"
+      }
+    ],
+    "streaming": []
+  }
+}

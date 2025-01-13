@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55500,
+    "url": "https://myanimelist.net/anime/55500/Tarinai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1305/136154.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/136154t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/136154l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1305/136154.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/136154t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/136154l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tarinai"
+      },
+      {
+        "type": "Japanese",
+        "title": "足りない"
+      }
+    ],
+    "title": "Tarinai",
+    "title_english": null,
+    "title_japanese": "足りない",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 3, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23020,
+    "members": 128,
+    "favorites": 0,
+    "synopsis": "Music video for the song Tarinai by DUSTCELL.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo&ab_channel=DUSTCELL"
+      }
+    ],
+    "streaming": []
+  }
+}

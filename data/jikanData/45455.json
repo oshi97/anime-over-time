@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 45455,
+    "url": "https://myanimelist.net/anime/45455/Maiquan_Keke_Bao_Dao_Qiyu_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1998/129490.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/129490t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/129490l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1998/129490.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/129490t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/129490l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maiquan Keke Bao Dao Qiyu Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "麦圈可可宝岛奇遇记"
+      }
+    ],
+    "title": "Maiquan Keke Bao Dao Qiyu Ji",
+    "title_english": null,
+    "title_japanese": "麦圈可可宝岛奇遇记",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17283,
+    "popularity": 26110,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45454,
+            "type": "anime",
+            "name": "Maiquan Keke Xunbao Ji",
+            "url": "https://myanimelist.net/anime/45454/Maiquan_Keke_Xunbao_Ji"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45463,
+            "type": "anime",
+            "name": "Xin Maiquan Keke Meishi Tianxia 2nd Season",
+            "url": "https://myanimelist.net/anime/45463/Xin_Maiquan_Keke_Meishi_Tianxia_2nd_Season"
+          },
+          {
+            "mal_id": 45460,
+            "type": "anime",
+            "name": "Dongwu Xingxing Da Tanxian",
+            "url": "https://myanimelist.net/anime/45460/Dongwu_Xingxing_Da_Tanxian"
+          },
+          {
+            "mal_id": 45459,
+            "type": "anime",
+            "name": "Shen Quan Yong Chuang Jixie Cheng",
+            "url": "https://myanimelist.net/anime/45459/Shen_Quan_Yong_Chuang_Jixie_Cheng"
+          },
+          {
+            "mal_id": 45461,
+            "type": "anime",
+            "name": "Xiaoyuan Qiyi Shijian Bu",
+            "url": "https://myanimelist.net/anime/45461/Xiaoyuan_Qiyi_Shijian_Bu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/26114091/"
+      }
+    ],
+    "streaming": []
+  }
+}

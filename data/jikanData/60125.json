@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 60125,
+    "url": "https://myanimelist.net/anime/60125/Meta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/146097.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/146097t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/146097l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1650/146097.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1650/146097t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1650/146097l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meta"
+      },
+      {
+        "type": "Japanese",
+        "title": "META"
+      }
+    ],
+    "title": "Meta",
+    "title_english": null,
+    "title_japanese": "META",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 16, 2024"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 25330,
+    "members": 85,
+    "favorites": 0,
+    "synopsis": "Music video for the song Meta by Harusaruhi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2309,
+        "type": "anime",
+        "name": "Kamitsubaki Studio",
+        "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1521,
+        "type": "anime",
+        "name": "Studio Elle",
+        "url": "https://myanimelist.net/anime/producer/1521/Studio_Elle"
+      },
+      {
+        "mal_id": 2881,
+        "type": "anime",
+        "name": "Andraft",
+        "url": "https://myanimelist.net/anime/producer/2881/Andraft"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.youtube.com/watch?v=8Gq3aOjdQnM"
+      }
+    ],
+    "streaming": []
+  }
+}

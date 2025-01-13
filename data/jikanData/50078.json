@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 50078,
+    "url": "https://myanimelist.net/anime/50078/Musician",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1904/118708.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1904/118708t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1904/118708l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1904/118708.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1904/118708t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1904/118708l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Musician"
+      },
+      {
+        "type": "Japanese",
+        "title": "Musician"
+      },
+      {
+        "type": "English",
+        "title": "Musician"
+      }
+    ],
+    "title": "Musician",
+    "title_english": "Musician",
+    "title_japanese": "Musician",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 17, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.69,
+    "scored_by": 502,
+    "rank": null,
+    "popularity": 14838,
+    "members": 825,
+    "favorites": 4,
+    "synopsis": "Music video directed by Waboku and Mah for the song Musician by Porter Robinson.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=q-74HTjRbuY"
+      }
+    ],
+    "streaming": []
+  }
+}

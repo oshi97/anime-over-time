@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 53994,
+    "url": "https://myanimelist.net/anime/53994/Baby_Tayo_Dong-yo_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/132093.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/132093t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/132093l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/132093.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/132093t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/132093l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baby Tayo Dong-yo 3"
+      },
+      {
+        "type": "Synonym",
+        "title": "Baby Tayo Nursery Rhymes 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "베이비 타요 동요 3"
+      },
+      {
+        "type": "English",
+        "title": "Baby Tayo Songs 3"
+      }
+    ],
+    "title": "Baby Tayo Dong-yo 3",
+    "title_english": "Baby Tayo Songs 3",
+    "title_japanese": "베이비 타요 동요 3",
+    "title_synonyms": [
+      "Baby Tayo Nursery Rhymes 3"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 9, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22590,
+    "members": 141,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53375,
+            "type": "anime",
+            "name": "Baby Tayo Dong-yo 2",
+            "url": "https://myanimelist.net/anime/53375/Baby_Tayo_Dong-yo_2"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38070,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo",
+            "url": "https://myanimelist.net/anime/38070/Kkoma_Bus_Tayo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://music.bugs.co.kr/album/30239356?wl_ref=list_ab_01_ab"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 53183,
+    "url": "https://myanimelist.net/anime/53183/Lupin_III_x_McDonalds_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1068/128686.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/128686t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/128686l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1068/128686.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/128686t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/128686l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lupin III x McDonald's CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Saraba Nagaki Chuumon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Saraba Nagaki Order"
+      },
+      {
+        "type": "Synonym",
+        "title": "Goodbye to Long Orders"
+      },
+      {
+        "type": "Japanese",
+        "title": "さらば長き注文（オーダー）"
+      }
+    ],
+    "title": "Lupin III x McDonald's CMs",
+    "title_english": null,
+    "title_japanese": "さらば長き注文（オーダー）",
+    "title_synonyms": [
+      "Saraba Nagaki Chuumon",
+      "Saraba Nagaki Order",
+      "Goodbye to Long Orders"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-27T00:00:00+00:00",
+      "to": "2024-06-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": 28,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "Sep 27, 2022 to Jun 28, 2024"
+    },
+    "duration": "36 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6.08,
+    "scored_by": 426,
+    "rank": null,
+    "popularity": 14476,
+    "members": 916,
+    "favorites": 0,
+    "synopsis": "In this new 30-second ad, entitled Goodbye to Long Orders, the Lupin III crew visit the McDonald's drive-in to grab a bite, but Lupin has forgotten Fujiko's order. Thanks to a mobile order code from Goemon, though, the day is saved.\n\n(Source: Otaku Magazine USA)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1291,
+        "type": "anime",
+        "name": "KOO-KI",
+        "url": "https://myanimelist.net/anime/producer/1291/KOO-KI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 1412,
+            "type": "anime",
+            "name": "Lupin III",
+            "url": "https://myanimelist.net/anime/1412/Lupin_III"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mcdonalds.co.jp/shop/mobileorder/"
+      }
+    ],
+    "streaming": []
+  }
+}

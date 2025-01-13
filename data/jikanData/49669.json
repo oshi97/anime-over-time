@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 49669,
+    "url": "https://myanimelist.net/anime/49669/Sprechchor",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/117357.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/117357t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/117357l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/117357.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/117357t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/117357l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sprechchor"
+      },
+      {
+        "type": "Japanese",
+        "title": "Sprechchor"
+      }
+    ],
+    "title": "Sprechchor",
+    "title_english": null,
+    "title_japanese": "Sprechchor",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 21, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.61,
+    "scored_by": 234,
+    "rank": null,
+    "popularity": 17257,
+    "members": 465,
+    "favorites": 0,
+    "synopsis": "Promotional music video of the project band Roselia.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33573,
+            "type": "anime",
+            "name": "BanG Dream!",
+            "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bang-dream.bushimo.jp/special/movie/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 58247,
+    "url": "https://myanimelist.net/anime/58247/Pokemaze_CM",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/141662.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/141662t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/141662l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/141662.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/141662t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/141662l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "e6oaCHGB19I",
+      "url": "https://www.youtube.com/watch?v=e6oaCHGB19I",
+      "embed_url": "https://www.youtube.com/embed/e6oaCHGB19I?si=DH0QJv1aG08ky-mF?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/e6oaCHGB19I/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/e6oaCHGB19I/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/e6oaCHGB19I/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/e6oaCHGB19I/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/e6oaCHGB19I/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemaze CM"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Café ReMix: Gimmighoul Coins!"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケまぜ CM"
+      },
+      {
+        "type": "English",
+        "title": "Pokemon Café ReMix CM"
+      }
+    ],
+    "title": "Pokemaze CM",
+    "title_english": "Pokemon Café ReMix CM",
+    "title_japanese": "ポケまぜ CM",
+    "title_synonyms": [
+      "Pokemon Café ReMix: Gimmighoul Coins!"
+    ],
+    "type": "CM",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2024"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 5.66,
+    "scored_by": 168,
+    "rank": null,
+    "popularity": 18266,
+    "members": 389,
+    "favorites": 0,
+    "synopsis": "An animated commercial for Pokemon Café ReMix.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.poke-maze.jp"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=9uGoreNJ2t8"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=e6oaCHGB19I"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Caf%C3%A9_ReMix"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 33849,
+    "url": "https://myanimelist.net/anime/33849/Nekoronde_ID",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81497.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81497t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81497l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81497.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81497t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81497l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nekoronde ID"
+      },
+      {
+        "type": "Japanese",
+        "title": "ねころんでID"
+      }
+    ],
+    "title": "Nekoronde ID",
+    "title_english": null,
+    "title_japanese": "ねころんでID",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 14, 2016"
+    },
+    "duration": "16 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20631,
+    "members": 240,
+    "favorites": 0,
+    "synopsis": "TV Station IDs for Nekoronde. They feature the cats jumping into the actual TV and being a part of the program. Since the official site does not say when each one aired, their air date is listed as the upload day to the official youtube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1003,
+        "type": "anime",
+        "name": "Nippon Television Network",
+        "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 29844,
+            "type": "anime",
+            "name": "Nekoronde TV.",
+            "url": "https://myanimelist.net/anime/29844/Nekoronde_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLekjsU-9vNK3pQwTG0xn7x1lUavD7y5AH"
+      }
+    ],
+    "streaming": []
+  }
+}

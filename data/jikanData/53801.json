@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 53801,
+    "url": "https://myanimelist.net/anime/53801/Ai_W-kun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/131723.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/131723t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/131723l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/131723.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/131723t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/131723l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ai W-kun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "I W"
+      },
+      {
+        "type": "Synonym",
+        "title": "I Love You"
+      },
+      {
+        "type": "Japanese",
+        "title": "愛w君（アイダブリュー）"
+      }
+    ],
+    "title": "Ai W-kun",
+    "title_english": null,
+    "title_japanese": "愛w君（アイダブリュー）",
+    "title_synonyms": [
+      "Minna no Uta",
+      "I W",
+      "I Love You"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 1, 2020"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22365,
+    "members": 150,
+    "favorites": 0,
+    "synopsis": "Music video for the song Ai W-kun by Sky Peace that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN202012_04/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17395"
+      }
+    ],
+    "streaming": []
+  }
+}

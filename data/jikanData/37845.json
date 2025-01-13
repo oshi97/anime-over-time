@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 37845,
+    "url": "https://myanimelist.net/anime/37845/Very_Merry_Session",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1038/92761.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1038/92761t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1038/92761l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1038/92761.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1038/92761t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1038/92761l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Very! Merry!! Session!!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Very! Merry!! Session!!!"
+      }
+    ],
+    "title": "Very! Merry!! Session!!!",
+    "title_english": null,
+    "title_japanese": "Very! Merry!! Session!!!",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 16, 2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.35,
+    "scored_by": 602,
+    "rank": null,
+    "popularity": 13925,
+    "members": 1064,
+    "favorites": 1,
+    "synopsis": "Official music video for the song Very! Merry!! Session!!! by the fictional band Irodorimidori. It is the 26th song in the franchise and focuses on Serina Akesaka.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37413,
+            "type": "anime",
+            "name": "Polka Dot",
+            "url": "https://myanimelist.net/anime/37413/Polka_Dot"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38047,
+            "type": "anime",
+            "name": "Crescendo Story",
+            "url": "https://myanimelist.net/anime/38047/Crescendo_Story"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song26.html"
+      }
+    ],
+    "streaming": []
+  }
+}

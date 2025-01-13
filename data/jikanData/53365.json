@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 53365,
+    "url": "https://myanimelist.net/anime/53365/Untitled_World",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1335/129240.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/129240t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/129240l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1335/129240.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/129240t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/129240l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Untitled World"
+      },
+      {
+        "type": "Japanese",
+        "title": "Untitled World"
+      },
+      {
+        "type": "English",
+        "title": "Untitled World"
+      }
+    ],
+    "title": "Untitled World",
+    "title_english": "Untitled World",
+    "title_japanese": "Untitled World",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 1, 2020"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.61,
+    "scored_by": 534,
+    "rank": null,
+    "popularity": 14194,
+    "members": 994,
+    "favorites": 1,
+    "synopsis": "Animated music video for the song Untitled World. It was released on July 1st 2020 on the official japanese YouTube account in commemoration of the 1st chinese anniversary of the game. One day later it was uploaded on Arknights' global YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "A-1 Pictures",
+        "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+      },
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      },
+      {
+        "mal_id": 2632,
+        "type": "anime",
+        "name": "Hypergryph",
+        "url": "https://myanimelist.net/anime/producer/2632/Hypergryph"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 50205,
+            "type": "anime",
+            "name": "Arknights: Reimei Zensou",
+            "url": "https://myanimelist.net/anime/50205/Arknights__Reimei_Zensou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/wBB0OoQlXy4"
+      }
+    ],
+    "streaming": []
+  }
+}

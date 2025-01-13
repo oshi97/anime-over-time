@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 42698,
+    "url": "https://myanimelist.net/anime/42698/Nissan_Note_x_The_World_of_Golden_Eggs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1278/108906.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/108906t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/108906l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1278/108906.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/108906t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/108906l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nissan Note x The World of Golden Eggs"
+      },
+      {
+        "type": "Japanese",
+        "title": "NISSAN NOTE×The World of GOLDEN EGGS"
+      }
+    ],
+    "title": "Nissan Note x The World of Golden Eggs",
+    "title_english": null,
+    "title_japanese": "NISSAN NOTE×The World of GOLDEN EGGS",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-01-16T00:00:00+00:00",
+      "to": "2008-10-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2008
+        },
+        "to": {
+          "day": 8,
+          "month": 10,
+          "year": 2008
+        }
+      },
+      "string": "Jan 16, 2008 to Oct 8, 2008"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20491,
+    "members": 247,
+    "favorites": 0,
+    "synopsis": "Animated TV commercials for the Nissan Note featuring the cast from The World of Golden Eggs. The commercials were also released on a limited number of DVDs that were given away to test drivers of the Note.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1927,
+        "type": "anime",
+        "name": "Studio Crocodile",
+        "url": "https://myanimelist.net/anime/producer/1927/Studio_Crocodile"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8189,
+            "type": "anime",
+            "name": "The World of Golden Eggs",
+            "url": "https://myanimelist.net/anime/8189/The_World_of_Golden_Eggs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_World_of_Golden_Eggs"
+      }
+    ],
+    "streaming": []
+  }
+}

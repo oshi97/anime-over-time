@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 46657,
+    "url": "https://myanimelist.net/anime/46657/Ji_Jia_Xuanfeng_Jizhan_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/129174.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/129174t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/129174l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/129174.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/129174t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/129174l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ji Jia Xuanfeng Jizhan Pian"
+      },
+      {
+        "type": "Japanese",
+        "title": "机甲旋风激战篇"
+      }
+    ],
+    "title": "Ji Jia Xuanfeng Jizhan Pian",
+    "title_english": null,
+    "title_japanese": "机甲旋风激战篇",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2013 to ?"
+    },
+    "duration": "8 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16264,
+    "popularity": 25700,
+    "members": 79,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46658,
+            "type": "anime",
+            "name": "Ji Jia Xuanfeng: Xingji Haidao",
+            "url": "https://myanimelist.net/anime/46658/Ji_Jia_Xuanfeng__Xingji_Haidao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1v4411L7WM/"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9C%BA%E7%94%B2%E6%97%8B%E9%A3%8E/1026974"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 49988,
+    "url": "https://myanimelist.net/anime/49988/Liella_no_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1736/118462.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/118462t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/118462l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1736/118462.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/118462t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/118462l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Liella no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "リエラのうた"
+      }
+    ],
+    "title": "Liella no Uta",
+    "title_english": null,
+    "title_japanese": "リエラのうた",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-11T00:00:00+00:00",
+      "to": "2021-10-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 17,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "string": "Jul 11, 2021 to Oct 17, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.75,
+    "scored_by": 535,
+    "rank": null,
+    "popularity": 13141,
+    "members": 1322,
+    "favorites": 1,
+    "synopsis": "Liella no Uta is a weekly animated music segment shown with each Love Live! Superstar!! episode exclusively on the NHK Educational TV (NHK E) broadcast of the TV anime. They were later included in the BD/DVD release of the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52745,
+            "type": "anime",
+            "name": "Liella no Uta 2",
+            "url": "https://myanimelist.net/anime/52745/Liella_no_Uta_2"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 41169,
+            "type": "anime",
+            "name": "Love Live! Superstar!!",
+            "url": "https://myanimelist.net/anime/41169/Love_Live_Superstar"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 35505,
+    "url": "https://myanimelist.net/anime/35505/Velvet_Underworld__Alternative",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/85581.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85581t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85581l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/85581.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85581t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85581l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Velvet Underworld: Alternative"
+      },
+      {
+        "type": "Japanese",
+        "title": "VELVET UNDERWORLD ALTERNATIVE"
+      }
+    ],
+    "title": "Velvet Underworld: Alternative",
+    "title_english": null,
+    "title_japanese": "VELVET UNDERWORLD ALTERNATIVE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2007"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.69,
+    "scored_by": 183,
+    "rank": null,
+    "popularity": 16874,
+    "members": 503,
+    "favorites": 1,
+    "synopsis": "A music video promoting the multi-media project Velvet Underworld.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1419,
+        "type": "anime",
+        "name": "GARDEN LODGE",
+        "url": "https://myanimelist.net/anime/producer/1419/GARDEN_LODGE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35504,
+            "type": "anime",
+            "name": "Velvet Underworld: Fragment Person",
+            "url": "https://myanimelist.net/anime/35504/Velvet_Underworld__Fragment_Person"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.velvet-uw.com/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10661"
+      }
+    ],
+    "streaming": []
+  }
+}

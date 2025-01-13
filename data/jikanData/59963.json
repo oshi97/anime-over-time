@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 59963,
+    "url": "https://myanimelist.net/anime/59963/Smile_2013",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1186/145780.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/145780t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/145780l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1186/145780.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/145780t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/145780l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Smile (2013)"
+      },
+      {
+        "type": "Japanese",
+        "title": "スマイル"
+      }
+    ],
+    "title": "Smile (2013)",
+    "title_english": null,
+    "title_japanese": "スマイル",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-04-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 4,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 21, 2013"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 25879,
+    "members": 77,
+    "favorites": 0,
+    "synopsis": "Music video for the song Smile by miwa. It celebrates the 10th anniversary of the first Pénélope picture book and is the first entry in the series to utilize stop-motion.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Nippon Animation",
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+      },
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2846,
+        "type": "anime",
+        "name": "Studio Bingo",
+        "url": "https://myanimelist.net/anime/producer/2846/Studio_Bingo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 8345,
+            "type": "anime",
+            "name": "Ukkari Pénélope",
+            "url": "https://myanimelist.net/anime/8345/Ukkari_Pénélope"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://penelope.tv/information/2013/index_13.html"
+      }
+    ],
+    "streaming": []
+  }
+}

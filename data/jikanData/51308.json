@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 51308,
+    "url": "https://myanimelist.net/anime/51308/Yoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1807/121603.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1807/121603t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1807/121603l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1807/121603.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1807/121603t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1807/121603l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "YOKU"
+      }
+    ],
+    "title": "Yoku",
+    "title_english": null,
+    "title_japanese": "YOKU",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 18, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 7.51,
+    "scored_by": 1183,
+    "rank": null,
+    "popularity": 11733,
+    "members": 2062,
+    "favorites": 11,
+    "synopsis": "Music video directed by Mai Yoneyama for the song YOKU by Eve. The song is inspired by the KATE YOKU Collection makeup line from KATE TOKYO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2891,
+        "type": "anime",
+        "name": "A4A Inc.",
+        "url": "https://myanimelist.net/anime/producer/2891/A4A_Inc"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1872,
+        "type": "anime",
+        "name": "P.I.C.S.",
+        "url": "https://myanimelist.net/anime/producer/1872/PICS"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eveofficial-kaizin.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

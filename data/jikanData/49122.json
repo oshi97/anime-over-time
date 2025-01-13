@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 49122,
+    "url": "https://myanimelist.net/anime/49122/Endless_Vide",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1684/115560.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/115560t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/115560l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1684/115560.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/115560t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/115560l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Endless Vide"
+      },
+      {
+        "type": "Japanese",
+        "title": "エンドレスヴィーデ"
+      }
+    ],
+    "title": "Endless Vide",
+    "title_english": null,
+    "title_japanese": "エンドレスヴィーデ",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 31, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 197,
+    "rank": 10784,
+    "popularity": 17165,
+    "members": 475,
+    "favorites": 1,
+    "synopsis": "A special video for one of Ensemble Star's units, Fraternity, of their song Endless Vide.\n\nThe video was made in celebration of the April Fool's Day event held on April 1, 2021.",
+    "background": "The video was made in celebration of the April Fool's Day event held on April 1, 2021.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

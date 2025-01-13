@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 39659,
+    "url": "https://myanimelist.net/anime/39659/Chikin_Ramen_x_Gudetama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1309/100393.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1309/100393t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1309/100393l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1309/100393.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1309/100393t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1309/100393l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chikin Ramen x Gudetama"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chicken Ramen x Gudetama"
+      },
+      {
+        "type": "Japanese",
+        "title": "チキンラーメン×ぐでたま"
+      }
+    ],
+    "title": "Chikin Ramen x Gudetama",
+    "title_english": null,
+    "title_japanese": "チキンラーメン×ぐでたま",
+    "title_synonyms": [
+      "Chicken Ramen x Gudetama"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-31T00:00:00+00:00",
+      "to": "2019-05-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 15,
+          "month": 5,
+          "year": 2019
+        }
+      },
+      "string": "Mar 31, 2019 to May 15, 2019"
+    },
+    "duration": "52 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.22,
+    "scored_by": 224,
+    "rank": null,
+    "popularity": 14761,
+    "members": 846,
+    "favorites": 0,
+    "synopsis": "A collaboration campaign between Nissin's Chikin Ramen mascot Hiyoko-chan and Sanrio's mascot Gudetama. Cross over goods will be sold by both companies.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 37706,
+            "type": "anime",
+            "name": "Nissin Chikin Ramen CMs",
+            "url": "https://myanimelist.net/anime/37706/Nissin_Chikin_Ramen_CMs"
+          },
+          {
+            "mal_id": 23539,
+            "type": "anime",
+            "name": "Gudetama",
+            "url": "https://myanimelist.net/anime/23539/Gudetama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.chickenramen.jp/special/gudechicki/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%A7%E3%81%9F%E3%81%BE"
+      }
+    ],
+    "streaming": []
+  }
+}

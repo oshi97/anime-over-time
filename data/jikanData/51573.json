@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 51573,
+    "url": "https://myanimelist.net/anime/51573/Heart_Beat_2019",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/122589.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/122589t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/122589l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/122589.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/122589t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/122589l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heart Beat (2019)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Heartbeat"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハートビート"
+      }
+    ],
+    "title": "Heart Beat (2019)",
+    "title_english": null,
+    "title_japanese": "ハートビート",
+    "title_synonyms": [
+      "Heartbeat"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2019"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.74,
+    "scored_by": 286,
+    "rank": null,
+    "popularity": 16594,
+    "members": 533,
+    "favorites": 0,
+    "synopsis": "Music video for the song Heart Beat by AZKi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      },
+      {
+        "mal_id": 2537,
+        "type": "anime",
+        "name": "USAGI Production",
+        "url": "https://myanimelist.net/anime/producer/2537/USAGI_Production"
+      },
+      {
+        "mal_id": 2539,
+        "type": "anime",
+        "name": "INoNaKa Music",
+        "url": "https://myanimelist.net/anime/producer/2539/INoNaKa_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/ZezL7jHGKCA"
+      }
+    ],
+    "streaming": []
+  }
+}

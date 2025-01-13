@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 36078,
+    "url": "https://myanimelist.net/anime/36078/Beat_in_Love",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87199.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87199t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87199l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87199.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87199t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87199l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Beat in Love"
+      },
+      {
+        "type": "Synonym",
+        "title": "Clazziquai Project"
+      },
+      {
+        "type": "Japanese",
+        "title": "Beat in Love"
+      },
+      {
+        "type": "English",
+        "title": "Beat in Love"
+      }
+    ],
+    "title": "Beat in Love",
+    "title_english": "Beat in Love",
+    "title_japanese": "Beat in Love",
+    "title_synonyms": [
+      "Clazziquai Project"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-08-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 11, 2008"
+    },
+    "duration": "3 min",
+    "rating": "PG - Children",
+    "score": 5.36,
+    "scored_by": 229,
+    "rank": null,
+    "popularity": 18117,
+    "members": 399,
+    "favorites": 0,
+    "synopsis": "Official music video for Beat in Love by the Clazziquai Project for their remix album being released only in Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.clazziquai.co.kr/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clazziquai"
+      }
+    ],
+    "streaming": []
+  }
+}

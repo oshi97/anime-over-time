@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 59105,
+    "url": "https://myanimelist.net/anime/59105/Majo_no_Takkyuubin_x_McDonalds_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/143643.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/143643t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/143643l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/143643.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/143643t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/143643l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Majo no Takkyuubin x McDonald's CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kiki's Delivery Service x McDonald's CMs"
+      }
+    ],
+    "title": "Majo no Takkyuubin x McDonald's CMs",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [
+      "Kiki's Delivery Service x McDonald's CMs"
+    ],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-06-19T00:00:00+00:00",
+      "to": "2024-06-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 6,
+          "year": 2024
+        },
+        "to": {
+          "day": 26,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      "string": "Jun 19, 2024 to Jun 26, 2024"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 127,
+    "rank": null,
+    "popularity": 19836,
+    "members": 284,
+    "favorites": 0,
+    "synopsis": "Kiki and Jiji bring you the delicious tastes of Europe.\n\n(Source: McDonaldsJapan)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 512,
+            "type": "anime",
+            "name": "Majo no Takkyuubin",
+            "url": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mcdonalds.co.jp/campaign/europe-burgers/"
+      },
+      {
+        "name": "@McDonaldsJapan",
+        "url": "https://twitter.com/McDonaldsJapan"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 50123,
+    "url": "https://myanimelist.net/anime/50123/Uranomito",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1112/118784.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/118784t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/118784l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1112/118784.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/118784t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/118784l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Uranomito"
+      },
+      {
+        "type": "Japanese",
+        "title": "ウラノミト"
+      }
+    ],
+    "title": "Uranomito",
+    "title_english": null,
+    "title_japanese": "ウラノミト",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 11, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.02,
+    "scored_by": 218,
+    "rank": null,
+    "popularity": 17915,
+    "members": 413,
+    "favorites": 0,
+    "synopsis": "Music video for the song Uranomito by Tsukino Mito.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2458,
+        "type": "anime",
+        "name": "Ichikara Inc.",
+        "url": "https://myanimelist.net/anime/producer/2458/Ichikara_Inc"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38851,
+            "type": "anime",
+            "name": "Virtual-san wa Miteiru",
+            "url": "https://myanimelist.net/anime/38851/Virtual-san_wa_Miteiru"
+          },
+          {
+            "mal_id": 55594,
+            "type": "anime",
+            "name": "Chocosanji",
+            "url": "https://myanimelist.net/anime/55594/Chocosanji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/Ndp6PhT-vlQ"
+      }
+    ],
+    "streaming": []
+  }
+}

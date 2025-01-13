@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 39066,
+    "url": "https://myanimelist.net/anime/39066/Karakuri_Circus__Makuai_-_Soshite_Mata_Kaimaku_Bell",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1806/98431.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/98431t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/98431l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1806/98431.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/98431t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/98431l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Karakuri Circus: Makuai - Soshite Mata Kaimaku Bell"
+      },
+      {
+        "type": "Synonym",
+        "title": "Karakuri Circus Recap"
+      },
+      {
+        "type": "Synonym",
+        "title": "Karakuri Circus Episode 14.5"
+      },
+      {
+        "type": "Japanese",
+        "title": "幕間~そしてまた開幕ベル~"
+      }
+    ],
+    "title": "Karakuri Circus: Makuai - Soshite Mata Kaimaku Bell",
+    "title_english": null,
+    "title_japanese": "幕間~そしてまた開幕ベル~",
+    "title_synonyms": [
+      "Karakuri Circus Recap",
+      "Karakuri Circus Episode 14.5"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 24, 2019"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "scored_by": 915,
+    "rank": 8522,
+    "popularity": 10014,
+    "members": 3452,
+    "favorites": 2,
+    "synopsis": "Recap of the first 14 episodes of Karakuri Circus.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1244,
+        "type": "anime",
+        "name": "Studio VOLN",
+        "url": "https://myanimelist.net/anime/producer/1244/Studio_VOLN"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 37447,
+            "type": "anime",
+            "name": "Karakuri Circus",
+            "url": "https://myanimelist.net/anime/37447/Karakuri_Circus"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://karakuri-anime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13898"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20774"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karakuri_Circus"
+      }
+    ],
+    "streaming": []
+  }
+}

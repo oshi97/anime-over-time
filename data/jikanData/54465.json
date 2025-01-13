@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 54465,
+    "url": "https://myanimelist.net/anime/54465/Miseen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1805/133371.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/133371t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/133371l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1805/133371.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/133371t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/133371l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Miseen"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミザン"
+      }
+    ],
+    "title": "Miseen",
+    "title_english": null,
+    "title_japanese": "ミザン",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 22, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21860,
+    "members": 172,
+    "favorites": 0,
+    "synopsis": "Music video for Keina Suda and Meyuri's song \"Miseen.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tabloid0120.com/discography/3184/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dA3LyKztYI0"
+      }
+    ],
+    "streaming": []
+  }
+}

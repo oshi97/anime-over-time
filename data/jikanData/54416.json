@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 54416,
+    "url": "https://myanimelist.net/anime/54416/Shougakkou_Daibouken__Tobe_Shouta_no_Kamihikouki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1409/133220.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133220t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133220l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1409/133220.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133220t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133220l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shougakkou Daibouken: Tobe! Shouta no Kamihikouki"
+      },
+      {
+        "type": "Japanese",
+        "title": "しょうがっこう だいぼうけん とべ！ しょうたの かみひこうき"
+      }
+    ],
+    "title": "Shougakkou Daibouken: Tobe! Shouta no Kamihikouki",
+    "title_english": null,
+    "title_japanese": "しょうがっこう だいぼうけん とべ！ しょうたの かみひこうき",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2014"
+    },
+    "duration": "30 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14151,
+    "popularity": 25591,
+    "members": 81,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54415,
+            "type": "anime",
+            "name": "Shougakkou Daibouken: Karikari Ouji no Himitsu",
+            "url": "https://myanimelist.net/anime/54415/Shougakkou_Daibouken__Karikari_Ouji_no_Himitsu"
+          },
+          {
+            "mal_id": 38743,
+            "type": "anime",
+            "name": "Korasho no Kaitei Wakuwaku Daibouken! Movie",
+            "url": "https://myanimelist.net/anime/38743/Korasho_no_Kaitei_Wakuwaku_Daibouken_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

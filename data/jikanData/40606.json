@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 40606,
+    "url": "https://myanimelist.net/anime/40606/Captain_Tsubasa_2018_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/139465.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/139465t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/139465l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/139465.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/139465t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/139465l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Captain Tsubasa (2018) Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "キャプテン翼"
+      }
+    ],
+    "title": "Captain Tsubasa (2018) Special",
+    "title_english": null,
+    "title_japanese": "キャプテン翼",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 3, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "scored_by": 487,
+    "rank": 8565,
+    "popularity": 13685,
+    "members": 1135,
+    "favorites": 1,
+    "synopsis": "Short special of Captain Tsubasa (2018) animated for the FNS27 2019 event.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36934,
+            "type": "anime",
+            "name": "Captain Tsubasa (2018)",
+            "url": "https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/fns27htv_fns/status/1190206849590517760"
+      }
+    ],
+    "streaming": []
+  }
+}

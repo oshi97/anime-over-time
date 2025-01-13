@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 47307,
+    "url": "https://myanimelist.net/anime/47307/Shin_Gengou_Nyankogelion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1695/111498.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1695/111498t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1695/111498l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1695/111498.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1695/111498t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1695/111498l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "dVHdUakiEo4",
+      "url": "https://www.youtube.com/watch?v=dVHdUakiEo4",
+      "embed_url": "https://www.youtube.com/embed/dVHdUakiEo4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/dVHdUakiEo4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/dVHdUakiEo4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/dVHdUakiEo4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/dVHdUakiEo4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/dVHdUakiEo4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shin Gengou Nyankogelion"
+      },
+      {
+        "type": "Synonym",
+        "title": "Neon Genesis Nyankogelion"
+      },
+      {
+        "type": "Japanese",
+        "title": "新元号にゃんこゲリオン"
+      }
+    ],
+    "title": "Shin Gengou Nyankogelion",
+    "title_english": null,
+    "title_japanese": "新元号にゃんこゲリオン",
+    "title_synonyms": [
+      "Neon Genesis Nyankogelion"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 22, 2021"
+    },
+    "duration": "1 min",
+    "rating": "PG - Children",
+    "score": 7.26,
+    "scored_by": 2023,
+    "rank": null,
+    "popularity": 9895,
+    "members": 3582,
+    "favorites": 32,
+    "synopsis": "Promotional music video for the Battle Cats x Evangelion event.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2195,
+        "type": "anime",
+        "name": "PONOS Corporation",
+        "url": "https://myanimelist.net/anime/producer/2195/PONOS_Corporation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Shinseiki Evangelion",
+            "url": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://battlecats.club/special/2021_evangelion/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dVHdUakiEo4"
+      }
+    ],
+    "streaming": []
+  }
+}

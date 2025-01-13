@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 37669,
+    "url": "https://myanimelist.net/anime/37669/Taiyou_to_Tsuki_no_Kodomo-tachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/91684.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/91684t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/91684l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1209/91684.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/91684t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/91684l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Taiyou to Tsuki no Kodomo-tachi"
+      },
+      {
+        "type": "Synonym",
+        "title": "V6"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "太陽と月のこどもたち"
+      }
+    ],
+    "title": "Taiyou to Tsuki no Kodomo-tachi",
+    "title_english": null,
+    "title_japanese": "太陽と月のこどもたち",
+    "title_synonyms": [
+      "V6",
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20595,
+    "members": 242,
+    "favorites": 0,
+    "synopsis": "A family watches as their daughter grows up under the warm glow of the sun and moon and their love.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2986,
+        "type": "anime",
+        "name": "Sugata Creative & Design",
+        "url": "https://myanimelist.net/anime/producer/2986/Sugata_Creative___Design"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 37670,
+            "type": "anime",
+            "name": "Taiyou to Tsuki no Kodomo-tachi (2018)",
+            "url": "https://myanimelist.net/anime/37670/Taiyou_to_Tsuki_no_Kodomo-tachi_2018"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201704_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/COLORS/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9C%88%E3%81%AE%E3%81%93%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

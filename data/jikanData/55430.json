@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 55430,
+    "url": "https://myanimelist.net/anime/55430/Namida_Time_Capsule",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/136075.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/136075t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/136075l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/136075.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/136075t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/136075l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Namida Time Capsule"
+      },
+      {
+        "type": "Japanese",
+        "title": "涙タイムカプセル"
+      },
+      {
+        "type": "English",
+        "title": "Tear Time Capsule"
+      }
+    ],
+    "title": "Namida Time Capsule",
+    "title_english": "Tear Time Capsule",
+    "title_japanese": "涙タイムカプセル",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2, 2020"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23174,
+    "members": 123,
+    "favorites": 0,
+    "synopsis": "Music video for the song Namida Time Capsule by Shikidrop.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55431,
+            "type": "anime",
+            "name": "Sensei no Iutoori",
+            "url": "https://myanimelist.net/anime/55431/Sensei_no_Iutoori"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55707,
+            "type": "anime",
+            "name": "Kokoro",
+            "url": "https://myanimelist.net/anime/55707/Kokoro"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZCdv0Ingtbo"
+      }
+    ],
+    "streaming": []
+  }
+}

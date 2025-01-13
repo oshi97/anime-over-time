@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 59680,
+    "url": "https://myanimelist.net/anime/59680/Momoume_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/145116.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1834/145116t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1834/145116l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/145116.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1834/145116t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1834/145116l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Momoume Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Momo Ume Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Momo and Ume Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "モモウメ"
+      }
+    ],
+    "title": "Momoume Specials",
+    "title_english": null,
+    "title_japanese": "モモウメ",
+    "title_synonyms": [
+      "Momo Ume Specials",
+      "Momo and Ume Specials"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 30, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17724,
+    "popularity": 27493,
+    "members": 61,
+    "favorites": 0,
+    "synopsis": "Specials included in the Blu-ray release of Momoume.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3002,
+        "type": "anime",
+        "name": "CUEBiC Inc.",
+        "url": "https://myanimelist.net/anime/producer/3002/CUEBiC_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 59678,
+            "type": "anime",
+            "name": "Momoume",
+            "url": "https://myanimelist.net/anime/59678/Momoume"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://momo-and-ume.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2%E3%82%A6%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 59326,
+    "url": "https://myanimelist.net/anime/59326/Kehin_Kazoku_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1130/144306.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/144306t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/144306l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1130/144306.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/144306t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/144306l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kehin Kazoku Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "京浜家族 番外編"
+      },
+      {
+        "type": "English",
+        "title": "The Story of a Common Family Specials"
+      }
+    ],
+    "title": "Kehin Kazoku Specials",
+    "title_english": "The Story of a Common Family Specials",
+    "title_japanese": "京浜家族 番外編",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-04-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 4,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 9, 2010"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16679,
+    "popularity": 27619,
+    "members": 51,
+    "favorites": 0,
+    "synopsis": "Special episodes of Kehin Kazoku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 59325,
+            "type": "anime",
+            "name": "Kehin Kazoku",
+            "url": "https://myanimelist.net/anime/59325/Kehin_Kazoku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.toei-anim.co.jp/sp/keihin"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%B5%9C%E5%AE%B6%E6%97%8F"
+      }
+    ],
+    "streaming": []
+  }
+}

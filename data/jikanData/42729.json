@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 42729,
+    "url": "https://myanimelist.net/anime/42729/Xpice",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/109017.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/109017t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/109017l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/109017.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/109017t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/109017l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xpice"
+      },
+      {
+        "type": "Japanese",
+        "title": "XPICE"
+      },
+      {
+        "type": "English",
+        "title": "XPICE"
+      }
+    ],
+    "title": "Xpice",
+    "title_english": "XPICE",
+    "title_japanese": "XPICE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 6.09,
+    "scored_by": 228,
+    "rank": null,
+    "popularity": 17717,
+    "members": 427,
+    "favorites": 0,
+    "synopsis": "Kokyo, a city brimming with people from all walks of life, and the prime target of the mysterious group Zerogram. But Red Pepper and Wasabi—a duo from the superhero league XPICE—aren't going to stand idly by.\n\nRed Pepper's fiery punches deal with the baddies while Wasabi's healing touch cares for the wounded. Things seem to be going well on the surface. Deep down, however, Wasabi can't help but feel like there's more to being a hero.\n\nOne faithful day, the emergency alert blares—Red Pepper's in trouble!\n\nThough unsure of their chances, seeing a teammate in danger helps Wasabi find the courage to rise to the occasion.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1572,
+        "type": "anime",
+        "name": "XFLAG",
+        "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1296,
+        "type": "anime",
+        "name": "Marza Animation Planet",
+        "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://xpice-project.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15637"
+      }
+    ],
+    "streaming": []
+  }
+}

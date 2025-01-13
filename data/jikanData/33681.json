@@ -1,0 +1,194 @@
+{
+  "data": {
+    "mal_id": 33681,
+    "url": "https://myanimelist.net/anime/33681/Flying_Witch_Petit_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/81005.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/81005t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/81005l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/81005.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/81005t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/81005l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Flying Witch Petit Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Flying Witch Puchi Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Flying Witch Petit - BD & DVD Vol. 1 Launch Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "ふらいんぐうぃっち ぷち BD&DVD Vol.1 発売記念編"
+      }
+    ],
+    "title": "Flying Witch Petit Special",
+    "title_english": null,
+    "title_japanese": "ふらいんぐうぃっち ぷち BD&DVD Vol.1 発売記念編",
+    "title_synonyms": [
+      "Flying Witch Puchi Special",
+      "Flying Witch Petit - BD & DVD Vol. 1 Launch Special"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 22, 2016"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.98,
+    "scored_by": 2707,
+    "rank": 10011,
+    "popularity": 7107,
+    "members": 8748,
+    "favorites": 5,
+    "synopsis": "To commemorate the anime Flying Witch, the first volume of the Blu-ray/DVD release included a special episode of Flying Witch Petit.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "VAP",
+        "url": "https://myanimelist.net/anime/producer/29/VAP"
+      },
+      {
+        "mal_id": 306,
+        "type": "anime",
+        "name": "Magic Capsule",
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 1380,
+        "type": "anime",
+        "name": "domerica",
+        "url": "https://myanimelist.net/anime/producer/1380/domerica"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      },
+      {
+        "mal_id": 82,
+        "type": "anime",
+        "name": "Urban Fantasy",
+        "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32954,
+            "type": "anime",
+            "name": "Flying Witch Petit",
+            "url": "https://myanimelist.net/anime/32954/Flying_Witch_Petit"
+          },
+          {
+            "mal_id": 31376,
+            "type": "anime",
+            "name": "Flying Witch",
+            "url": "https://myanimelist.net/anime/31376/Flying_Witch"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.flyingwitch.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11469"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flying_Witch"
+      }
+    ],
+    "streaming": []
+  }
+}

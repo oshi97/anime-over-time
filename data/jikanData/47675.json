@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 47675,
+    "url": "https://myanimelist.net/anime/47675/Xiaolu_Xingren_Er_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1838/130697.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/130697t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/130697l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1838/130697.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/130697t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/130697l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiaolu Xingren Er 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "小鹿杏仁儿 第二季"
+      }
+    ],
+    "title": "Xiaolu Xingren Er 2nd Season",
+    "title_english": null,
+    "title_japanese": "小鹿杏仁儿 第二季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 8, 2021 to ?"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15536,
+    "popularity": 26230,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47674,
+            "type": "anime",
+            "name": "Xiaolu Xingren Er",
+            "url": "https://myanimelist.net/anime/47674/Xiaolu_Xingren_Er"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35358537/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56814,
+    "url": "https://myanimelist.net/anime/56814/GYB",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1188/138874.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1188/138874t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1188/138874l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1188/138874.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1188/138874t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1188/138874l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "GYB!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Get You Back!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "GYB!!"
+      }
+    ],
+    "title": "GYB!!",
+    "title_english": null,
+    "title_japanese": "GYB!!",
+    "title_synonyms": [
+      "Get You Back!!"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 23, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21350,
+    "members": 200,
+    "favorites": 0,
+    "synopsis": "Music video for the song GYB!! by HY:RAIN.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1997,
+        "type": "anime",
+        "name": "Studio Kai",
+        "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50221,
+            "type": "anime",
+            "name": "Shine Post",
+            "url": "https://myanimelist.net/anime/50221/Shine_Post"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RYZD-9RAm9Q"
+      }
+    ],
+    "streaming": []
+  }
+}

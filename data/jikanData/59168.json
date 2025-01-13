@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 59168,
+    "url": "https://myanimelist.net/anime/59168/Scenario",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/143771.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/143771t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/143771l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/143771.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/143771t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/143771l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Scenario"
+      },
+      {
+        "type": "Japanese",
+        "title": "シナリオ"
+      }
+    ],
+    "title": "Scenario",
+    "title_english": null,
+    "title_japanese": "シナリオ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-12-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 20, 2006"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22372,
+    "members": 150,
+    "favorites": 0,
+    "synopsis": "Music video for the song Scenario by SABOTEN. The song was featured as the fifteenth ending for Naruto.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 20,
+            "type": "anime",
+            "name": "Naruto",
+            "url": "https://myanimelist.net/anime/20/Naruto"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sabotenrock.com/movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saboten"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 46074,
+    "url": "https://myanimelist.net/anime/46074/Huangshan_Chuanqi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1116/128857.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/128857t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/128857l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1116/128857.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/128857t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/128857l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huangshan Chuanqi"
+      },
+      {
+        "type": "Japanese",
+        "title": "黄山传奇"
+      }
+    ],
+    "title": "Huangshan Chuanqi",
+    "title_english": null,
+    "title_japanese": "黄山传奇",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 42,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 21196,
+    "popularity": 26521,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46075,
+            "type": "anime",
+            "name": "Huangshan Chuanqi II",
+            "url": "https://myanimelist.net/anime/46075/Huangshan_Chuanqi_II"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV17J411x74v/?from=search&seid=11521937108435131145"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%BB%84%E5%B1%B1%E4%BC%A0%E5%A5%87/7681255"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 56744,
+    "url": "https://myanimelist.net/anime/56744/Zero_no_Ashiato",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/138736.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/138736t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/138736l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/138736.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/138736t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/138736l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zero no Ashiato"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゼロの足跡"
+      }
+    ],
+    "title": "Zero no Ashiato",
+    "title_english": null,
+    "title_japanese": "ゼロの足跡",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.33,
+    "scored_by": 167,
+    "rank": null,
+    "popularity": 19377,
+    "members": 310,
+    "favorites": 0,
+    "synopsis": "Music video for the song Zero no Ashiato by Tsunomaki Watame.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_Mhcma0L6hY"
+      }
+    ],
+    "streaming": []
+  }
+}

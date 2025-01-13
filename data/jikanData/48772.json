@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 48772,
+    "url": "https://myanimelist.net/anime/48772/Nico_Niconnect",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1158/114484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1158/114484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/114484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1158/114484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1158/114484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/114484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nico Niconnect!"
+      },
+      {
+        "type": "Japanese",
+        "title": "にこにこねくと！"
+      }
+    ],
+    "title": "Nico Niconnect!",
+    "title_english": null,
+    "title_japanese": "にこにこねくと！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 17, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.87,
+    "scored_by": 337,
+    "rank": null,
+    "popularity": 15619,
+    "members": 663,
+    "favorites": 0,
+    "synopsis": "Promotional music video of the project band Hello, Happy World!",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33573,
+            "type": "anime",
+            "name": "BanG Dream!",
+            "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/o-6ayj49R3M"
+      }
+    ],
+    "streaming": []
+  }
+}

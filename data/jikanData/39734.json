@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 39734,
+    "url": "https://myanimelist.net/anime/39734/Line_Novel",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1805/100625.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/100625t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/100625l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1805/100625.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/100625t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/100625l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Line Novel"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mirai Souzouki"
+      },
+      {
+        "type": "Japanese",
+        "title": "LINEノベ"
+      },
+      {
+        "type": "English",
+        "title": "LINE Novel"
+      }
+    ],
+    "title": "Line Novel",
+    "title_english": "LINE Novel",
+    "title_japanese": "LINEノベ",
+    "title_synonyms": [
+      "Mirai Souzouki"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 16, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.19,
+    "scored_by": 808,
+    "rank": null,
+    "popularity": 11642,
+    "members": 2122,
+    "favorites": 5,
+    "synopsis": "The Line Novel online service where users can publish novels online through the Line app launched on Tuesday. Two animated ads were released simultaneously with the launch.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1295,
+        "type": "anime",
+        "name": "PINE JAM",
+        "url": "https://myanimelist.net/anime/producer/1295/PINE_JAM"
+      },
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://novel.line.me/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Line_Corporation"
+      }
+    ],
+    "streaming": []
+  }
+}

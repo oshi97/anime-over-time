@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 58866,
+    "url": "https://myanimelist.net/anime/58866/Mahou_Shoujo_holoWitch_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1061/143162.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/143162t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/143162l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1061/143162.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/143162t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/143162l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mahou Shoujo holoWitch! PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "魔法少女ホロウィッチ!"
+      },
+      {
+        "type": "English",
+        "title": "Magical Girl holoWitches! PV"
+      }
+    ],
+    "title": "Mahou Shoujo holoWitch! PV",
+    "title_english": "Magical Girl holoWitches! PV",
+    "title_japanese": "魔法少女ホロウィッチ!",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 16, 2024"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.71,
+    "scored_by": 361,
+    "rank": null,
+    "popularity": 15134,
+    "members": 754,
+    "favorites": 1,
+    "synopsis": "Magical Girl holoWitches! is a brand-new multimedia project comprised of hololive VTubers that hopes to introduce various forms of content such as anime, manga, and livestreams  based on magical girl lore and setting.\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 58981,
+            "type": "anime",
+            "name": "Hajimari no Mahou: Charm",
+            "url": "https://myanimelist.net/anime/58981/Hajimari_no_Mahou__Charm"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://holowitches.hololivepro.com/"
+      },
+      {
+        "name": "@holoWitches",
+        "url": "https://twitter.com/holoWitches"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lHY0bh2q9HE"
+      }
+    ],
+    "streaming": []
+  }
+}

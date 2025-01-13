@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 57926,
+    "url": "https://myanimelist.net/anime/57926/Mangaehwa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/141094.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/141094t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/141094l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/141094.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/141094t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/141094l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mangaehwa"
+      },
+      {
+        "type": "Japanese",
+        "title": "만개화"
+      }
+    ],
+    "title": "Mangaehwa",
+    "title_english": null,
+    "title_japanese": "만개화",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 23, 2022"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22345,
+    "members": 151,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mangaehwa by Ahn Ye-eun.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 146878,
+            "type": "manga",
+            "name": "Return of the Blossoming Blade",
+            "url": "https://myanimelist.net/manga/146878/Return_of_the_Blossoming_Blade"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52878,
+            "type": "anime",
+            "name": "Hwasan Gwihwan PV",
+            "url": "https://myanimelist.net/anime/52878/Hwasan_Gwihwan_PV"
+          },
+          {
+            "mal_id": 52887,
+            "type": "anime",
+            "name": "Majimag Kalchum",
+            "url": "https://myanimelist.net/anime/52887/Majimag_Kalchum"
+          },
+          {
+            "mal_id": 55608,
+            "type": "anime",
+            "name": "Maehwa",
+            "url": "https://myanimelist.net/anime/55608/Maehwa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-m_Kow1fDMo"
+      }
+    ],
+    "streaming": []
+  }
+}

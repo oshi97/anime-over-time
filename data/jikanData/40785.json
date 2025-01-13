@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 40785,
+    "url": "https://myanimelist.net/anime/40785/Koala_no_Goodbye_Song",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1804/104553.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/104553t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/104553l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1804/104553.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/104553t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/104553l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koala no Goodbye Song"
+      },
+      {
+        "type": "Synonym",
+        "title": "Koala no Goodbye Song: Piano Version"
+      },
+      {
+        "type": "Synonym",
+        "title": "Good-bye Koala Piano ver."
+      },
+      {
+        "type": "Synonym",
+        "title": "Koala's Good-Bye Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "コアラのグッバイソング"
+      },
+      {
+        "type": "English",
+        "title": "Koala's Good-Bye Song"
+      }
+    ],
+    "title": "Koala no Goodbye Song",
+    "title_english": "Koala's Good-Bye Song",
+    "title_japanese": "コアラのグッバイソング",
+    "title_synonyms": [
+      "Koala no Goodbye Song: Piano Version",
+      "Good-bye Koala Piano ver.",
+      "Koala's Good-Bye Song"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-27T00:00:00+00:00",
+      "to": "2019-09-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 23,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Aug 27, 2016 to Sep 23, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.56,
+    "scored_by": 121,
+    "rank": null,
+    "popularity": 20312,
+    "members": 257,
+    "favorites": 0,
+    "synopsis": "Koala no Goodbye Song was originally an animated music video piece projected onto stone structures for the 2016 Animal Light festival. The festival was a collaboration between Kanazawa Zoo and light artists. The zoo was open after hours to showcase illuminated works, mix media, and installations. Asami posted a live recording of her piece about a year later on her official YouTube channel. It featured a main koala playing a guitar and singing with two other koalas playing maracas and a few other animals.\n\nThen in 2019 Asami released a piano version of the song with new animation focusing on the main koala playing the piano from behind.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 35734,
+            "type": "anime",
+            "name": "Zoojazoo \"Watashi no Onaka\"",
+            "url": "https://myanimelist.net/anime/35734/Zoojazoo_Watashi_no_Onaka"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40361,
+            "type": "anime",
+            "name": "Shiro no Kanga\"roo\" no Uta",
+            "url": "https://myanimelist.net/anime/40361/Shiro_no_Kangaroo_no_Uta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "asamiike.sakura.ne.jp/d01/works/koalasgood-byesong/"
+      }
+    ],
+    "streaming": []
+  }
+}

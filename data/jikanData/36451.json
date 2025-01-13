@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 36451,
+    "url": "https://myanimelist.net/anime/36451/Still",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/87971.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/87971t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/87971l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/87971.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/87971t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/87971l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Still"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Still"
+      },
+      {
+        "type": "English",
+        "title": "Still"
+      }
+    ],
+    "title": "Still",
+    "title_english": "Still",
+    "title_japanese": "Still",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 3, 2017"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.96,
+    "scored_by": 754,
+    "rank": null,
+    "popularity": 12965,
+    "members": 1387,
+    "favorites": 0,
+    "synopsis": "As their second live performance approaches, the seven members of Irodorimidori—Aliciana Ogata, Serina Akesaka, Nagi Kobotoke, Naru Hakobe, Nazuna Tennouzu, and sisters Nachi and Shirona Tsukisuzu—begin to prepare in their unique ways. With the band's goal to become the Maigaraha Senior High School's MVP being more attainable than ever, it is still essential that the group has fun while continuing to be the best they can be.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Still by the fictional band Irodorimidori. It is the 18th song in the franchise. The song was included with the second full Irodorimidori album titled \"Suisen,\" released on November 1, 2017.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2034,
+        "type": "anime",
+        "name": "Akatsuki",
+        "url": "https://myanimelist.net/anime/producer/2034/Akatsuki"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36607,
+            "type": "anime",
+            "name": "Spicy Swingy Style",
+            "url": "https://myanimelist.net/anime/36607/Spicy_Swingy_Style"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36608,
+            "type": "anime",
+            "name": "Session High⤴",
+            "url": "https://myanimelist.net/anime/36608/Session_High⤴"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/"
+      }
+    ],
+    "streaming": []
+  }
+}

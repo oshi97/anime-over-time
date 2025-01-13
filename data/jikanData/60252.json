@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 60252,
+    "url": "https://myanimelist.net/anime/60252/Maware_Setsugetsuka_Pixel_Art_Version",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1250/146386.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1250/146386t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/146386l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1250/146386.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1250/146386t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/146386l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maware! Setsugetsuka Pixel Art Version"
+      },
+      {
+        "type": "Japanese",
+        "title": "回レ！雪月花 pixel art version"
+      }
+    ],
+    "title": "Maware! Setsugetsuka Pixel Art Version",
+    "title_english": null,
+    "title_japanese": "回レ！雪月花 pixel art version",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-05-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 5,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 28, 2014"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23599,
+    "members": 113,
+    "favorites": 0,
+    "synopsis": "A pixel art version of the Maware! Setsugetsuka ED from Machine-Doll wa Kizutsukanai. It was included with the sixth Blu-ray and DVD volumes of the series and never aired on TV.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 17247,
+            "type": "anime",
+            "name": "Machine-Doll wa Kizutsukanai",
+            "url": "https://myanimelist.net/anime/17247/Machine-Doll_wa_Kizutsukanai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20191231172344/https://www.machine-doll.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9665"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15107"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Unbreakable_Machine-Doll#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

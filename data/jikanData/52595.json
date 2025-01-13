@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 52595,
+    "url": "https://myanimelist.net/anime/52595/Zentaiteki_ni_Sensation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/128935.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/128935t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/128935l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/128935.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/128935t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/128935l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zentaiteki ni Sensation"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぜんたい的にセンセーション"
+      }
+    ],
+    "title": "Zentaiteki ni Sensation",
+    "title_english": null,
+    "title_japanese": "ぜんたい的にセンセーション",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "4-koma manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2013"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "scored_by": 244,
+    "rank": null,
+    "popularity": 16700,
+    "members": 520,
+    "favorites": 0,
+    "synopsis": "Special music video bundled with the fourth volume of Mikakunin de Shinkoukei manga.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 20541,
+            "type": "anime",
+            "name": "Mikakunin de Shinkoukei",
+            "url": "https://myanimelist.net/anime/20541/Mikakunin_de_Shinkoukei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mikakunin.jp/movie.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10110"
+      }
+    ],
+    "streaming": []
+  }
+}

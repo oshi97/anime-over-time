@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56448,
+    "url": "https://myanimelist.net/anime/56448/Fresh_Peach",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1233/138070.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1233/138070t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1233/138070l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1233/138070.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1233/138070t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1233/138070l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fresh Peach"
+      },
+      {
+        "type": "Japanese",
+        "title": "FRESH PEACH"
+      },
+      {
+        "type": "English",
+        "title": "Fresh Peach"
+      }
+    ],
+    "title": "Fresh Peach",
+    "title_english": "Fresh Peach",
+    "title_japanese": "FRESH PEACH",
+    "title_synonyms": [],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 22, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20482,
+    "popularity": 21481,
+    "members": 193,
+    "favorites": 0,
+    "synopsis": "Short directed by Takahide Hori for NHK's Buzz Creators.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2564,
+        "type": "anime",
+        "name": "Yamiken",
+        "url": "https://myanimelist.net/anime/producer/2564/Yamiken"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zHrce1oSApE"
+      }
+    ],
+    "streaming": []
+  }
+}

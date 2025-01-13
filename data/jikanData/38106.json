@@ -1,0 +1,183 @@
+{
+  "data": {
+    "mal_id": 38106,
+    "url": "https://myanimelist.net/anime/38106/Hotohashiru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1995/93335.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/93335t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/93335l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1995/93335.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/93335t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/93335l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hotohashiru"
+      },
+      {
+        "type": "Synonym",
+        "title": "Oresama"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hot Hustle"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hotobashiru"
+      },
+      {
+        "type": "Japanese",
+        "title": "ホトハシル"
+      },
+      {
+        "type": "English",
+        "title": "Hotohashiru"
+      }
+    ],
+    "title": "Hotohashiru",
+    "title_english": "Hotohashiru",
+    "title_japanese": "ホトハシル",
+    "title_synonyms": [
+      "Oresama",
+      "Hot Hustle",
+      "Hotobashiru"
+    ],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 3, 2018"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.09,
+    "scored_by": 575,
+    "rank": null,
+    "popularity": 13067,
+    "members": 1343,
+    "favorites": 1,
+    "synopsis": "Official music video for Oresama's Hotohashiru song which was specifically created as the ED for Muhyo to Rouji no Mahouritsu Soudan Jimusho. The MV uses imagery to reflect the TV anime's theme of ghost sweeping and also splices in some live-action shots of the Oresama duo themselves. Unlike the first 3 music videos of their career, with character designs and animation solely done by Utomaru, this music video employed 26 other artists and animators to achieve the final product.\n\nThe song will be on their 6th single under the same title going on sale August 22nd, 2018.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1684,
+        "type": "anime",
+        "name": "THINKR",
+        "url": "https://myanimelist.net/anime/producer/1684/THINKR"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35778,
+            "type": "anime",
+            "name": "Ookami Heart",
+            "url": "https://myanimelist.net/anime/35778/Ookami_Heart"
+          },
+          {
+            "mal_id": 35809,
+            "type": "anime",
+            "name": "Otome Chic",
+            "url": "https://myanimelist.net/anime/35809/Otome_Chic"
+          },
+          {
+            "mal_id": 35800,
+            "type": "anime",
+            "name": "Ginga",
+            "url": "https://myanimelist.net/anime/35800/Ginga"
+          },
+          {
+            "mal_id": 37487,
+            "type": "anime",
+            "name": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
+            "url": "https://myanimelist.net/anime/37487/Muhyo_to_Rouji_no_Mahouritsu_Soudan_Jimusho"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.orsm.jp/#discography"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13916"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ORESAMA"
+      }
+    ],
+    "streaming": []
+  }
+}

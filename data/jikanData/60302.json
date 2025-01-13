@@ -1,0 +1,186 @@
+{
+  "data": {
+    "mal_id": 60302,
+    "url": "https://myanimelist.net/anime/60302/Natsume_Yuujinchou_Shichi_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/146517.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/146517t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/146517l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/146517.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/146517t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/146517l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Natsume Yuujinchou Shichi Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Natsume's Book of Friends Season 7 Episode 13"
+      },
+      {
+        "type": "Japanese",
+        "title": "夏目友人帳 漆 第十三話(特別編)"
+      },
+      {
+        "type": "English",
+        "title": "Natsume’s Book of Friends Season 7 Special"
+      }
+    ],
+    "title": "Natsume Yuujinchou Shichi Special",
+    "title_english": "Natsume’s Book of Friends Season 7 Special",
+    "title_japanese": "夏目友人帳 漆 第十三話(特別編)",
+    "title_synonyms": [
+      "Natsume's Book of Friends Season 7 Episode 13"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-04-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 23, 2025"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 8708,
+    "members": 5276,
+    "favorites": 11,
+    "synopsis": "Thirteenth episode of Natsume Yuujinchou Shichi bundled with the physical released.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1119,
+        "type": "anime",
+        "name": "Shuka",
+        "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 63,
+        "type": "anime",
+        "name": "Iyashikei",
+        "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+      },
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55823,
+            "type": "anime",
+            "name": "Natsume Yuujinchou Shichi",
+            "url": "https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.natsume-anime.jp/"
+      },
+      {
+        "name": "@NatsumeYujincho",
+        "url": "https://twitter.com/NatsumeYujincho"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@natsumeyujincho"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18089"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natsume%27s_Book_of_Friends#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      }
+    ],
+    "streaming": []
+  }
+}

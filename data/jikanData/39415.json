@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 39415,
+    "url": "https://myanimelist.net/anime/39415/Donbei_x_Kemurikusa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1964/99499.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1964/99499t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1964/99499l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1964/99499.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1964/99499t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1964/99499l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Donbei x Kemurikusa"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nissin"
+      },
+      {
+        "type": "Japanese",
+        "title": "どん兵衛 × ケムリクサ"
+      }
+    ],
+    "title": "Donbei x Kemurikusa",
+    "title_english": null,
+    "title_japanese": "どん兵衛 × ケムリクサ",
+    "title_synonyms": [
+      "Nissin"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2019"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.45,
+    "scored_by": 563,
+    "rank": null,
+    "popularity": 12672,
+    "members": 1516,
+    "favorites": 1,
+    "synopsis": "A collaboration between Kemurikusa's TV series and Nissin. They promote the latter's Donbei Tsukimi Soba (moon-viewing soba) product after Wakaba finds several packages of them.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36339,
+            "type": "anime",
+            "name": "Nissin no Donbei x Kemono Friends",
+            "url": "https://myanimelist.net/anime/36339/Nissin_no_Donbei_x_Kemono_Friends"
+          },
+          {
+            "mal_id": 38899,
+            "type": "anime",
+            "name": "Nissin Men-nashi Donbei x Himote House",
+            "url": "https://myanimelist.net/anime/38899/Nissin_Men-nashi_Donbei_x_Himote_House"
+          },
+          {
+            "mal_id": 37302,
+            "type": "anime",
+            "name": "Kemurikusa (TV)",
+            "url": "https://myanimelist.net/anime/37302/Kemurikusa_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.donbei.jp/kemurikusa/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13795"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21280"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%A0%E3%83%AA%E3%82%AF%E3%82%B5"
+      }
+    ],
+    "streaming": []
+  }
+}

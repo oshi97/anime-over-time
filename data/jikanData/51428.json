@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 51428,
+    "url": "https://myanimelist.net/anime/51428/Sonna_Ame_no_Hi_ni_Wa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/121891.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/121891t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/121891l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/121891.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/121891t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/121891l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sonna Ame no Hi ni Wa"
+      },
+      {
+        "type": "Japanese",
+        "title": "そんな雨の日には"
+      }
+    ],
+    "title": "Sonna Ame no Hi ni Wa",
+    "title_english": null,
+    "title_japanese": "そんな雨の日には",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 12, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.91,
+    "scored_by": 362,
+    "rank": null,
+    "popularity": 15713,
+    "members": 649,
+    "favorites": 0,
+    "synopsis": "Collaboration between Hololive and Vocaloid P.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/MjkDaUwPzkU"
+      }
+    ],
+    "streaming": []
+  }
+}

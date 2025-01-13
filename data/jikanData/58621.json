@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 58621,
+    "url": "https://myanimelist.net/anime/58621/From_Tengoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1005/142489.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1005/142489t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1005/142489l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1005/142489.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1005/142489t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1005/142489l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "From Tengoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "フロム天国 Feat. EMA"
+      },
+      {
+        "type": "Synonym",
+        "title": "from Heaven Feat. EMA"
+      },
+      {
+        "type": "Japanese",
+        "title": "フロム天国"
+      },
+      {
+        "type": "English",
+        "title": "From Heaven"
+      }
+    ],
+    "title": "From Tengoku",
+    "title_english": "From Heaven",
+    "title_japanese": "フロム天国",
+    "title_synonyms": [
+      "フロム天国 Feat. EMA",
+      "from Heaven Feat. EMA"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 5, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song From Tengoku by RIM featuring EMA from DUSTCELL.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

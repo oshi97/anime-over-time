@@ -1,0 +1,173 @@
+{
+  "data": {
+    "mal_id": 36643,
+    "url": "https://myanimelist.net/anime/36643/Kairisei_Million_Arthur",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88539.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88539t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88539l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88539.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88539t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88539l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kairisei Million Arthur"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kairisei Million Arthur (2018)"
+      },
+      {
+        "type": "Japanese",
+        "title": "乖離性ミリオンアーサー"
+      },
+      {
+        "type": "English",
+        "title": "Kai-ri-Sei Million Arthur"
+      }
+    ],
+    "title": "Kairisei Million Arthur",
+    "title_english": "Kai-ri-Sei Million Arthur",
+    "title_japanese": "乖離性ミリオンアーサー",
+    "title_synonyms": [
+      "Kairisei Million Arthur (2018)"
+    ],
+    "type": "PV",
+    "source": "Card game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-11-18T00:00:00+00:00",
+      "to": "2018-07-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 11,
+          "year": 2014
+        },
+        "to": {
+          "day": 6,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      "string": "Nov 18, 2014 to Jul 6, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 295,
+    "rank": null,
+    "popularity": 14361,
+    "members": 946,
+    "favorites": 1,
+    "synopsis": "The animated promotional videos for Square Enix's Kairisei Million Arthur RPG mobile card game launched for iOS and Android on November 19, 2014. It is a sequel to the original game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36642,
+            "type": "anime",
+            "name": "Kakusansei Million Arthur",
+            "url": "https://myanimelist.net/anime/36642/Kakusansei_Million_Arthur"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30954,
+            "type": "anime",
+            "name": "Jakusansei Million Arthur",
+            "url": "https://myanimelist.net/anime/30954/Jakusansei_Million_Arthur"
+          },
+          {
+            "mal_id": 38386,
+            "type": "anime",
+            "name": "Koukyousei Million Arthur",
+            "url": "https://myanimelist.net/anime/38386/Koukyousei_Million_Arthur"
+          },
+          {
+            "mal_id": 38744,
+            "type": "anime",
+            "name": "Hangyakusei Million Arthur PV",
+            "url": "https://myanimelist.net/anime/38744/Hangyakusei_Million_Arthur_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://portal.million-arthurs.com/kairi/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%8B%A1%E6%95%A3%E6%80%A7%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC#.E3.82.B2.E3.83.BC.E3.83.A0"
+      }
+    ],
+    "streaming": []
+  }
+}

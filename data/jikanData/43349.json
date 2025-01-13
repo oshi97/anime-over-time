@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 43349,
+    "url": "https://myanimelist.net/anime/43349/Sekikashita_Kusanagi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/111193.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/111193t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/111193l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/111193.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/111193t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/111193l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sekikashita Kusanagi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Petrified Kusanagi"
+      },
+      {
+        "type": "Japanese",
+        "title": "石化した草薙"
+      },
+      {
+        "type": "English",
+        "title": "Snickers x Dr. Stone"
+      }
+    ],
+    "title": "Sekikashita Kusanagi",
+    "title_english": "Snickers x Dr. Stone",
+    "title_japanese": "石化した草薙",
+    "title_synonyms": [
+      "Petrified Kusanagi"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2020"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 7.22,
+    "scored_by": 9140,
+    "rank": null,
+    "popularity": 5339,
+    "members": 17776,
+    "favorites": 136,
+    "synopsis": "In Sekikashita Kusanagi, Senkuu discovers an alternative way to revive petrified people–using Snickers! By feeding this chocolate to someone who has been petrified, that person will instantly revive just to have a taste of a Snickers bar. With this discovery, Senkuu uses Snickers to revive the famous comedian Kouki Kusanagi. \n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38691,
+            "type": "anime",
+            "name": "Dr. Stone",
+            "url": "https://myanimelist.net/anime/38691/Dr_Stone"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

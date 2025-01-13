@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 39709,
+    "url": "https://myanimelist.net/anime/39709/Amanchu__Upyopyo_Dive_Tsukkome_Umi_no_Sekai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1907/100565.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/100565t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/100565l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1907/100565.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/100565t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/100565l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Amanchu! Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Upyo Upyo! Dive Tsukkome! Umi no Sekai!"
+      },
+      {
+        "type": "Japanese",
+        "title": "あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！"
+      }
+    ],
+    "title": "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!",
+    "title_english": null,
+    "title_japanese": "あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！",
+    "title_synonyms": [
+      "Amanchu! Specials",
+      "Upyo Upyo! Dive Tsukkome! Umi no Sekai!"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-26T00:00:00+00:00",
+      "to": "2017-03-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": 29,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Oct 26, 2016 to Mar 29, 2017"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.34,
+    "scored_by": 642,
+    "rank": 8024,
+    "popularity": 10198,
+    "members": 3256,
+    "favorites": 3,
+    "synopsis": "Special shorts included on the Blu-ray volumes 2-7 of Amanchu!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 51991,
+            "type": "anime",
+            "name": "Amanchu!: Upyopyo Dive Tsukkome! Amazon no Sekai!",
+            "url": "https://myanimelist.net/anime/51991/Amanchu__Upyopyo_Dive_Tsukkome_Amazon_no_Sekai"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 31771,
+            "type": "anime",
+            "name": "Amanchu!",
+            "url": "https://myanimelist.net/anime/31771/Amanchu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://amanchu-anime.com/bluray.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11683"
+      }
+    ],
+    "streaming": []
+  }
+}

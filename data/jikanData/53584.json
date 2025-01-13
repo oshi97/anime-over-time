@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 53584,
+    "url": "https://myanimelist.net/anime/53584/Okaeri",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/130920.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/130920t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/130920l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/130920.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/130920t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/130920l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Okaeri"
+      },
+      {
+        "type": "Japanese",
+        "title": "おかえり"
+      },
+      {
+        "type": "English",
+        "title": "Welcome Home"
+      }
+    ],
+    "title": "Okaeri",
+    "title_english": "Welcome Home",
+    "title_japanese": "おかえり",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 9, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.27,
+    "scored_by": 121,
+    "rank": null,
+    "popularity": 20612,
+    "members": 241,
+    "favorites": 0,
+    "synopsis": "A music video for Tani Yuuki's latest single Okaeri.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 366,
+        "type": "anime",
+        "name": "Tomoyasu Murata Company",
+        "url": "https://myanimelist.net/anime/producer/366/Tomoyasu_Murata_Company"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/0ZsP6MVjFIo"
+      }
+    ],
+    "streaming": []
+  }
+}

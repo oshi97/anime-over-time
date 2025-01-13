@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 36757,
+    "url": "https://myanimelist.net/anime/36757/Happy☆Twinkle",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88886.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88886t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88886l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88886.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88886t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88886l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Happy☆Twinkle"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jewelpet Twinkle☆ Fan Disc F"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Tinkle"
+      },
+      {
+        "type": "Japanese",
+        "title": "Happy☆てぃんくる"
+      }
+    ],
+    "title": "Happy☆Twinkle",
+    "title_english": null,
+    "title_japanese": "Happy☆てぃんくる",
+    "title_synonyms": [
+      "Jewelpet Twinkle☆ Fan Disc F",
+      "Happy Tinkle"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 16, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.97,
+    "scored_by": 208,
+    "rank": null,
+    "popularity": 15861,
+    "members": 626,
+    "favorites": 4,
+    "synopsis": "A newly-animated music video for the main series' opening theme, bundled with Jewelpet Twinkle☆ Fan Disc F.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      },
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 8217,
+            "type": "anime",
+            "name": "Jewelpet Twinkle☆",
+            "url": "https://myanimelist.net/anime/8217/Jewelpet_Twinkle☆"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tv-tokyo.co.jp/anime/jewelpet2/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7414"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11285"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jewelpet_(anime)"
+      }
+    ],
+    "streaming": []
+  }
+}

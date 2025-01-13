@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 48824,
+    "url": "https://myanimelist.net/anime/48824/Blue_Archive_PVs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1521/114598.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/114598t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/114598l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1521/114598.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/114598t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/114598l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Blue Archive PVs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ブルーアーカイブ"
+      }
+    ],
+    "title": "Blue Archive PVs",
+    "title_english": null,
+    "title_japanese": "ブルーアーカイブ",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-07-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 17, 2020 to ?"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.48,
+    "scored_by": 1075,
+    "rank": null,
+    "popularity": 7601,
+    "members": 7335,
+    "favorites": 95,
+    "synopsis": "Animated promotions for the mobile game Blue Archive.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52420,
+            "type": "anime",
+            "name": "Blue Archive: 1.5-shuunen Kinen Short Animation",
+            "url": "https://myanimelist.net/anime/52420/Blue_Archive__15-shuunen_Kinen_Short_Animation"
+          },
+          {
+            "mal_id": 53670,
+            "type": "anime",
+            "name": "Blue Archive: Beautiful Day Dreamer",
+            "url": "https://myanimelist.net/anime/53670/Blue_Archive__Beautiful_Day_Dreamer"
+          },
+          {
+            "mal_id": 59607,
+            "type": "anime",
+            "name": "Blue Archive April Fools' CMs",
+            "url": "https://myanimelist.net/anime/59607/Blue_Archive_April_Fools_CMs"
+          },
+          {
+            "mal_id": 54309,
+            "type": "anime",
+            "name": "Blue Archive the Animation",
+            "url": "https://myanimelist.net/anime/54309/Blue_Archive_the_Animation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bluearchive.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

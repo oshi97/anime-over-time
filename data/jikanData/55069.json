@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 55069,
+    "url": "https://myanimelist.net/anime/55069/Run_Aways",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1817/135439.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1817/135439t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1817/135439l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1817/135439.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1817/135439t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1817/135439l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Run Aways"
+      },
+      {
+        "type": "Japanese",
+        "title": "RUN AWAYS"
+      }
+    ],
+    "title": "Run Aways",
+    "title_english": null,
+    "title_japanese": "RUN AWAYS",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 19, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22506,
+    "members": 145,
+    "favorites": 0,
+    "synopsis": "Music video for the song Run Aways by m-flo loves chelmico.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55076,
+            "type": "anime",
+            "name": "Mortal Portal Radio",
+            "url": "https://myanimelist.net/anime/55076/Mortal_Portal_Radio"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m-flo.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/M-flo#%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

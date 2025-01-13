@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 52571,
+    "url": "https://myanimelist.net/anime/52571/BANZAI_digital_trippers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/127331.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/127331t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/127331l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/127331.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/127331t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/127331l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BANZAI! digital trippers"
+      },
+      {
+        "type": "Synonym",
+        "title": "Love Live! Sunshine!! × Hatsune Miku"
+      },
+      {
+        "type": "Japanese",
+        "title": "BANZAI! digital trippers"
+      }
+    ],
+    "title": "BANZAI! digital trippers",
+    "title_english": null,
+    "title_japanese": "BANZAI! digital trippers",
+    "title_synonyms": [
+      "Love Live! Sunshine!! × Hatsune Miku"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 24, 2022"
+    },
+    "duration": "7 min",
+    "rating": "G - All Ages",
+    "score": 7.08,
+    "scored_by": 691,
+    "rank": null,
+    "popularity": 13306,
+    "members": 1258,
+    "favorites": 1,
+    "synopsis": "A music video for the song BANZAI! digital trippers by Aqours featuring Hatsune Miku.\n\nIncluded with the BANZAI! digital trippers single Blu-ray/DVD set.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

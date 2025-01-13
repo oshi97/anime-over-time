@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 55244,
+    "url": "https://myanimelist.net/anime/55244/Paku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/135756.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1834/135756t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1834/135756l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/135756.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1834/135756t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1834/135756l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Paku"
+      },
+      {
+        "type": "Japanese",
+        "title": "PAKU"
+      }
+    ],
+    "title": "Paku",
+    "title_english": null,
+    "title_japanese": "PAKU",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.83,
+    "scored_by": 199,
+    "rank": null,
+    "popularity": 18379,
+    "members": 379,
+    "favorites": 0,
+    "synopsis": "Music video for the song Paku by asmi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55247,
+            "type": "anime",
+            "name": "Tirori Mix",
+            "url": "https://myanimelist.net/anime/55247/Tirori_Mix"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.rooftop.tokyo/asmi"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asmi_(singer)#Digital_singles"
+      }
+    ],
+    "streaming": []
+  }
+}

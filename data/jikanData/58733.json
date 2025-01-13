@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 58733,
+    "url": "https://myanimelist.net/anime/58733/Gif_ni_Ted",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/142718.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/142718t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/142718l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/142718.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/142718t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/142718l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gif ni Ted"
+      },
+      {
+        "type": "Japanese",
+        "title": "ギフにテッド"
+      }
+    ],
+    "title": "Gif ni Ted",
+    "title_english": null,
+    "title_japanese": "ギフにテッド",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 24, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.32,
+    "scored_by": 222,
+    "rank": null,
+    "popularity": 17843,
+    "members": 419,
+    "favorites": 0,
+    "synopsis": "Music video for the song Gif ni Ted by Wanuka.\n\nThe song was used as an opening for the anime Henjin no Salad Bowl.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55877,
+            "type": "anime",
+            "name": "Henjin no Salad Bowl",
+            "url": "https://myanimelist.net/anime/55877/Henjin_no_Salad_Bowl"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UpLIEplQEW4"
+      }
+    ],
+    "streaming": []
+  }
+}

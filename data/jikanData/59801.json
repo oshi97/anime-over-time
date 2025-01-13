@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 59801,
+    "url": "https://myanimelist.net/anime/59801/UHA_Mikakutou_x_One_Piece",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1095/145431.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1095/145431t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1095/145431l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1095/145431.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1095/145431t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1095/145431l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "UHA Mikakutou x One Piece"
+      },
+      {
+        "type": "Japanese",
+        "title": "UHA味覚糖 x One Piece"
+      }
+    ],
+    "title": "UHA Mikakutou x One Piece",
+    "title_english": null,
+    "title_japanese": "UHA味覚糖 x One Piece",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": "2013-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2013
+        }
+      },
+      "string": "2012 to 2013"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.69,
+    "scored_by": 151,
+    "rank": null,
+    "popularity": 17813,
+    "members": 421,
+    "favorites": 0,
+    "synopsis": "Collaboration commercials between UHA Mikakutou and One Piece to promote their candy products.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20130116010549/http://uha-mikakuto.co.jp/cm/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

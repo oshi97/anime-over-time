@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 52324,
+    "url": "https://myanimelist.net/anime/52324/Grasshopper_Adventures",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/125107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/125107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/125107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/125107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/125107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/125107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Grasshopper Adventures"
+      },
+      {
+        "type": "Synonym",
+        "title": "Merci Merci Me"
+      },
+      {
+        "type": "Japanese",
+        "title": "Grasshopper Adventures"
+      }
+    ],
+    "title": "Grasshopper Adventures",
+    "title_english": null,
+    "title_japanese": "Grasshopper Adventures",
+    "title_synonyms": [
+      "Merci Merci Me"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-04-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 4,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 27, 2015"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21532,
+    "members": 190,
+    "favorites": 0,
+    "synopsis": "Music video for the song Grasshopper Adventures by Merci Merci Me.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1252,
+        "type": "anime",
+        "name": "Studio Binzo",
+        "url": "https://myanimelist.net/anime/producer/1252/Studio_Binzo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30092,
+            "type": "anime",
+            "name": "Wakie Wakie",
+            "url": "https://myanimelist.net/anime/30092/Wakie_Wakie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/YlL31gm4PWE"
+      }
+    ],
+    "streaming": []
+  }
+}

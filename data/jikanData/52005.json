@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 52005,
+    "url": "https://myanimelist.net/anime/52005/Dead_Dead_Demons_Dededede_Destruction_3DCG_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/132567.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/132567t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/132567l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/132567.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/132567t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/132567l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dead Dead Demons Dededede Destruction 3DCG Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "『デッドデッドデーモンズデデデデデストラクション』3DCGアニメーション"
+      },
+      {
+        "type": "English",
+        "title": "Dead Dead Demons Dededede Destruction 3DCG Animation"
+      }
+    ],
+    "title": "Dead Dead Demons Dededede Destruction 3DCG Animation",
+    "title_english": "Dead Dead Demons Dededede Destruction 3DCG Animation",
+    "title_japanese": "『デッドデッドデーモンズデデデデデストラクション』3DCGアニメーション",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-22T00:00:00+00:00",
+      "to": "2020-09-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": 8,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Dec 22, 2017 to Sep 8, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.14,
+    "scored_by": 321,
+    "rank": null,
+    "popularity": 14492,
+    "members": 913,
+    "favorites": 2,
+    "synopsis": "A short commercial based on Inio Asano's manga commissioned by Mouse Computers in order to promote their \"DAIV\" line of PCs.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 70801,
+            "type": "manga",
+            "name": "Dead Dead Demons Dededede Destruction",
+            "url": "https://myanimelist.net/manga/70801/Dead_Dead_Demons_Dededede_Destruction"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51358,
+            "type": "anime",
+            "name": "Dead Dead Demons Dededede Destruction",
+            "url": "https://myanimelist.net/anime/51358/Dead_Dead_Demons_Dededede_Destruction"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

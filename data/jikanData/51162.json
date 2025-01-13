@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 51162,
+    "url": "https://myanimelist.net/anime/51162/One_Piece__Otoshidama_Special_-_Tokubetsu_Hou_Mugiwara_Kaizokudan_no_Himitsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/121232.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/121232t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/121232l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/121232.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/121232t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/121232l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "One Piece: Otoshidama Special - Tokubetsu Hou Mugiwara Kaizokudan no Himitsu!"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece New Year Special: Special Report - Secret of the Straw Hat Pirates!"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "お年玉スペシャル 特別報 麦わら海賊団の秘密!"
+      },
+      {
+        "type": "English",
+        "title": "One Piece: New Year's Special - The Secret of the Straw Hat Pirates!"
+      }
+    ],
+    "title": "One Piece: Otoshidama Special - Tokubetsu Hou Mugiwara Kaizokudan no Himitsu!",
+    "title_english": "One Piece: New Year's Special - The Secret of the Straw Hat Pirates!",
+    "title_japanese": "お年玉スペシャル 特別報 麦わら海賊団の秘密!",
+    "title_synonyms": [
+      "One Piece New Year Special: Special Report - Secret of the Straw Hat Pirates!",
+      "One Piece Recap"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-01-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 1,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 3, 2006"
+    },
+    "duration": "1 hr 24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 914,
+    "rank": 6646,
+    "popularity": 10555,
+    "members": 2928,
+    "favorites": 1,
+    "synopsis": "A recap that aired as a New Year special. It recaps how the first seven crew members joined.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=69"
+      }
+    ],
+    "streaming": []
+  }
+}

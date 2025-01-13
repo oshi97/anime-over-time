@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 51608,
+    "url": "https://myanimelist.net/anime/51608/Q",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1352/122742.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/122742t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/122742l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1352/122742.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/122742t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/122742l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Q"
+      },
+      {
+        "type": "Synonym",
+        "title": "Calliope Mori x Gawr Gura x DECO*27"
+      },
+      {
+        "type": "English",
+        "title": "Q"
+      }
+    ],
+    "title": "Q",
+    "title_english": "Q",
+    "title_japanese": null,
+    "title_synonyms": [
+      "Calliope Mori x Gawr Gura x DECO*27"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 3, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.45,
+    "scored_by": 2071,
+    "rank": null,
+    "popularity": 10150,
+    "members": 3309,
+    "favorites": 38,
+    "synopsis": "Animated music video for the song Q by DECO*27 &amp; Mori Calliope featuring vocals by Gawr Gura.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/aetXqd9B8WE"
+      }
+    ],
+    "streaming": []
+  }
+}

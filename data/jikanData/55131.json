@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 55131,
+    "url": "https://myanimelist.net/anime/55131/K-Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/135539.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/135539t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/135539l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/135539.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/135539t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/135539l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "K-Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "K드라마"
+      }
+    ],
+    "title": "K-Drama",
+    "title_english": null,
+    "title_japanese": "K드라마",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2015"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23022,
+    "members": 127,
+    "favorites": 0,
+    "synopsis": "Music video for the song K-Drama by OOHYO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2993,
+        "type": "anime",
+        "name": "Mirrorball Music",
+        "url": "https://myanimelist.net/anime/producer/2993/Mirrorball_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oohyo"
+      }
+    ],
+    "streaming": []
+  }
+}

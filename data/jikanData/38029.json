@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 38029,
+    "url": "https://myanimelist.net/anime/38029/Moom__Hajimari_no_Monogatari",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1919/93220.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1919/93220t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1919/93220l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1919/93220.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1919/93220t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1919/93220l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Moom: Hajimari no Monogatari"
+      },
+      {
+        "type": "Japanese",
+        "title": "ムーム はじまりの物語"
+      },
+      {
+        "type": "English",
+        "title": "Moom: The Story of the Beginning"
+      }
+    ],
+    "title": "Moom: Hajimari no Monogatari",
+    "title_english": "Moom: The Story of the Beginning",
+    "title_japanese": "ムーム はじまりの物語",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2017"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.84,
+    "scored_by": 133,
+    "rank": 10724,
+    "popularity": 18845,
+    "members": 342,
+    "favorites": 0,
+    "synopsis": "A prequel to the Moom film which shows Moom coming to life. The short was included on the DVD release of the Moom film.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 25541,
+            "type": "anime",
+            "name": "Moom",
+            "url": "https://myanimelist.net/anime/25541/Moom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.toho.co.jp/dvd/item/html/TDV/TDV26254D.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11800"
+      }
+    ],
+    "streaming": []
+  }
+}

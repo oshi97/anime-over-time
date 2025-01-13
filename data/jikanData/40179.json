@@ -1,0 +1,232 @@
+{
+  "data": {
+    "mal_id": 40179,
+    "url": "https://myanimelist.net/anime/40179/Mini_Toji__Yume",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/102312.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/102312t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/102312l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/102312.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/102312t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/102312l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mini Toji: Yume"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mihousou Episode: Yume"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mini Toji episode 11"
+      },
+      {
+        "type": "Japanese",
+        "title": "みにとじ ゆめ"
+      }
+    ],
+    "title": "Mini Toji: Yume",
+    "title_english": null,
+    "title_japanese": "みにとじ ゆめ",
+    "title_synonyms": [
+      "Mihousou Episode: Yume",
+      "Mini Toji episode 11"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 24, 2019"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 647,
+    "rank": 8934,
+    "popularity": 12314,
+    "members": 1704,
+    "favorites": 2,
+    "synopsis": "An unaired episode of Mini Toji included on the DVD/BD release.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 58,
+        "type": "anime",
+        "name": "Square Enix",
+        "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+      },
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Genco",
+        "url": "https://myanimelist.net/anime/producer/79/Genco"
+      },
+      {
+        "mal_id": 143,
+        "type": "anime",
+        "name": "Mainichi Broadcasting System",
+        "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+      },
+      {
+        "mal_id": 238,
+        "type": "anime",
+        "name": "AT-X",
+        "url": "https://myanimelist.net/anime/producer/238/AT-X"
+      },
+      {
+        "mal_id": 418,
+        "type": "anime",
+        "name": "Studio Gokumi",
+        "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+      },
+      {
+        "mal_id": 1255,
+        "type": "anime",
+        "name": "Glovision",
+        "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+      },
+      {
+        "mal_id": 1468,
+        "type": "anime",
+        "name": "Crunchyroll",
+        "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+      },
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      },
+      {
+        "mal_id": 1744,
+        "type": "anime",
+        "name": "My Theater D.D.",
+        "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 439,
+        "type": "anime",
+        "name": "Project No.9",
+        "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38673,
+            "type": "anime",
+            "name": "Mini Toji",
+            "url": "https://myanimelist.net/anime/38673/Mini_Toji"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35589,
+            "type": "anime",
+            "name": "Toji no Miko",
+            "url": "https://myanimelist.net/anime/35589/Toji_no_Miko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://minitoji.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14489"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21680"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Katana_Maidens_~_Toji_No_Miko"
+      }
+    ],
+    "streaming": []
+  }
+}

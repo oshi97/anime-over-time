@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 55074,
+    "url": "https://myanimelist.net/anime/55074/Pikatto_PikaPika_Pikachu_Campaign_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/135462.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/135462t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/135462l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/135462.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/135462t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/135462l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pikatto PikaPika Pikachu Campaign PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "ピカッと ピカピカ ピカチュウキャンペーン PV"
+      }
+    ],
+    "title": "Pikatto PikaPika Pikachu Campaign PV",
+    "title_english": null,
+    "title_japanese": "ピカッと ピカピカ ピカチュウキャンペーン PV",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 22, 2023"
+    },
+    "duration": "36 sec",
+    "rating": "G - All Ages",
+    "score": 5.77,
+    "scored_by": 123,
+    "rank": null,
+    "popularity": 20212,
+    "members": 262,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2992,
+        "type": "anime",
+        "name": "R11R",
+        "url": "https://myanimelist.net/anime/producer/2992/R11R"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          },
+          {
+            "mal_id": 57596,
+            "type": "anime",
+            "name": "My Pikachu Humming",
+            "url": "https://myanimelist.net/anime/57596/My_Pikachu_Humming"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pikatto-pikapika-pikachu-cpn.pokemon.co.jp/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2vBXFJXt238"
+      }
+    ],
+    "streaming": []
+  }
+}

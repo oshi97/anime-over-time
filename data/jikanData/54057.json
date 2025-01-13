@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 54057,
+    "url": "https://myanimelist.net/anime/54057/Betsu_Sekai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/132228.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/132228t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/132228l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/132228.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/132228t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/132228l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Betsu Sekai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bessekai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Another World"
+      },
+      {
+        "type": "Japanese",
+        "title": "別世界"
+      }
+    ],
+    "title": "Betsu Sekai",
+    "title_english": null,
+    "title_japanese": "別世界",
+    "title_synonyms": [
+      "Bessekai",
+      "Another World"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.72,
+    "scored_by": 610,
+    "rank": null,
+    "popularity": 13025,
+    "members": 1361,
+    "favorites": 11,
+    "synopsis": "Music video for the song Betsu Sekai by Kanata Amane.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      },
+      {
+        "mal_id": 2300,
+        "type": "anime",
+        "name": "Studio Jemi",
+        "url": "https://myanimelist.net/anime/producer/2300/Studio_Jemi"
+      },
+      {
+        "mal_id": 2411,
+        "type": "anime",
+        "name": "Studio Massket",
+        "url": "https://myanimelist.net/anime/producer/2411/Studio_Massket"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 80,
+        "type": "anime",
+        "name": "Visual Arts",
+        "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/music/247/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ktk_EDLDPeY"
+      }
+    ],
+    "streaming": []
+  }
+}

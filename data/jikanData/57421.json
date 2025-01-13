@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57421,
+    "url": "https://myanimelist.net/anime/57421/Tsubasa_La_Liberte",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/140117.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/140117t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/140117l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1417/140117.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/140117t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/140117l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsubasa La Liberte"
+      },
+      {
+        "type": "Japanese",
+        "title": "ツバサ・ラ・リベルテ"
+      }
+    ],
+    "title": "Tsubasa La Liberte",
+    "title_english": null,
+    "title_japanese": "ツバサ・ラ・リベルテ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 2, 2023"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Tsubasa La Liberte (Fes×LIVE ver.) by Hasunosora Girls' High School Idol Club.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 15051,
+            "type": "anime",
+            "name": "Love Live! School Idol Project",
+            "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+          },
+          {
+            "mal_id": 57236,
+            "type": "anime",
+            "name": "Dream Believers",
+            "url": "https://myanimelist.net/anime/57236/Dream_Believers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

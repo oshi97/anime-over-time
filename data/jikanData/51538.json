@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51538,
+    "url": "https://myanimelist.net/anime/51538/Shin_Gakki_da_yo_Waccha_PriMagi_Gakuen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1955/122355.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1955/122355t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1955/122355l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1955/122355.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1955/122355t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1955/122355l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shin Gakki da yo! Waccha PriMagi! Gakuen"
+      },
+      {
+        "type": "Japanese",
+        "title": "新学期だよ！ワッチャプリマジ！学園"
+      }
+    ],
+    "title": "Shin Gakki da yo! Waccha PriMagi! Gakuen",
+    "title_english": null,
+    "title_japanese": "新学期だよ！ワッチャプリマジ！学園",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 3, 2022"
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14099,
+    "popularity": 17099,
+    "members": 480,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50790,
+            "type": "anime",
+            "name": "Maji de Wakaru! Waccha PriMagi Gakuen",
+            "url": "https://myanimelist.net/anime/50790/Maji_de_Wakaru_Waccha_PriMagi_Gakuen"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49285,
+            "type": "anime",
+            "name": "Waccha PriMagi!",
+            "url": "https://myanimelist.net/anime/49285/Waccha_PriMagi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202204/21577_202204031000.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 57759,
+    "url": "https://myanimelist.net/anime/57759/Xiaoke_de_Huatu_Xie_Hua_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1101/140778.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1101/140778t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1101/140778l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1101/140778.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1101/140778t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1101/140778l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiaoke de Huatu Xie Hua Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kay's Daily Doodles: The Metal Crab and the Spiral Conch"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kay's Daily Doodles: Hard at Work"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xiaoke de Huatu Xie Hua: Pan Xie Yu Luo"
+      },
+      {
+        "type": "Japanese",
+        "title": "小刻的画图写话"
+      },
+      {
+        "type": "English",
+        "title": "Kay's Daily Doodles Specials"
+      }
+    ],
+    "title": "Xiaoke de Huatu Xie Hua Specials",
+    "title_english": "Kay's Daily Doodles Specials",
+    "title_japanese": "小刻的画图写话",
+    "title_synonyms": [
+      "Kay's Daily Doodles: The Metal Crab and the Spiral Conch",
+      "Kay's Daily Doodles: Hard at Work",
+      "Xiaoke de Huatu Xie Hua: Pan Xie Yu Luo"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-23T00:00:00+00:00",
+      "to": "2023-04-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 22,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "string": "Apr 23, 2022 to Apr 22, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.29,
+    "scored_by": 213,
+    "rank": 8319,
+    "popularity": 15298,
+    "members": 718,
+    "favorites": 1,
+    "synopsis": "Special episodes of Xiaoke de Huatu Xie Hua which aired before the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2652,
+        "type": "anime",
+        "name": "Gravity Well",
+        "url": "https://myanimelist.net/anime/producer/2652/Gravity_Well"
+      },
+      {
+        "mal_id": 2864,
+        "type": "anime",
+        "name": "Windy Studio",
+        "url": "https://myanimelist.net/anime/producer/2864/Windy_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 55072,
+            "type": "anime",
+            "name": "Xiaoke de Huatu Xie Hua",
+            "url": "https://myanimelist.net/anime/55072/Xiaoke_de_Huatu_Xie_Hua"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

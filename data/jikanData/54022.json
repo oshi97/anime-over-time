@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 54022,
+    "url": "https://myanimelist.net/anime/54022/Saikyou_Donbei_x_Hanma_Baki__Saikyou_no_Dongitsune_Genrutsutsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/132156.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/132156t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/132156l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/132156.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/132156t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/132156l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Saikyou Donbei x Hanma Baki: Saikyou no Dongitsune Genrutsutsu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Strongest Donbei x Hanma Baki: The Strongest Dongitsune Apperas"
+      },
+      {
+        "type": "Japanese",
+        "title": "最強どん兵衛×範馬刃牙「最強のどんぎつね現るッッ」"
+      }
+    ],
+    "title": "Saikyou Donbei x Hanma Baki: Saikyou no Dongitsune Genrutsutsu",
+    "title_english": null,
+    "title_japanese": "最強どん兵衛×範馬刃牙「最強のどんぎつね現るッッ」",
+    "title_synonyms": [
+      "Strongest Donbei x Hanma Baki: The Strongest Dongitsune Apperas"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 21, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.65,
+    "scored_by": 657,
+    "rank": null,
+    "popularity": 12746,
+    "members": 1481,
+    "favorites": 2,
+    "synopsis": "Nissin has teamed up with Baki Hanma for a new anime commercial that promotes the brand's Saikyou Donbei (The Strongest Donbei) cup noodles, which have thicker noodles than the regular Donbei products among other features.\n\n(Source: anitrendz)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 42940,
+            "type": "anime",
+            "name": "Hanma Baki: Son of Ogre",
+            "url": "https://myanimelist.net/anime/42940/Hanma_Baki__Son_of_Ogre"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53443,
+            "type": "anime",
+            "name": "Dongitsune CMs",
+            "url": "https://myanimelist.net/anime/53443/Dongitsune_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.donbei.jp/baki/"
+      }
+    ],
+    "streaming": []
+  }
+}

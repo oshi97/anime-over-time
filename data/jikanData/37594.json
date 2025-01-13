@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 37594,
+    "url": "https://myanimelist.net/anime/37594/Present_Music_2016",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1838/91396.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/91396t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/91396l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1838/91396.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/91396t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/91396l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Present (Music, 2016)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sekai no Owari"
+      },
+      {
+        "type": "Japanese",
+        "title": "プレゼント"
+      },
+      {
+        "type": "English",
+        "title": "Present"
+      }
+    ],
+    "title": "Present (Music, 2016)",
+    "title_english": "Present",
+    "title_japanese": "プレゼント",
+    "title_synonyms": [
+      "Sekai no Owari"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 1, 2016"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.7,
+    "scored_by": 213,
+    "rank": null,
+    "popularity": 17968,
+    "members": 410,
+    "favorites": 0,
+    "synopsis": "Official music video for Sekai no Owari's song Present.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 58410,
+            "type": "anime",
+            "name": "Present (Music)",
+            "url": "https://myanimelist.net/anime/58410/Present_Music"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sekai_no_Owari"
+      }
+    ],
+    "streaming": []
+  }
+}

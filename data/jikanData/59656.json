@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 59656,
+    "url": "https://myanimelist.net/anime/59656/Pokemon_Masters_EX__5-shuunen_Tokubetsu_Eizou_wo_Koukai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1942/145081.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1942/145081t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1942/145081l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1942/145081.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1942/145081t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1942/145081l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Masters EX: 5-shuunen Tokubetsu Eizou wo Koukai!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Masters EX: 5th Anniversary PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "『ポケモンマスターズ EX』5周年特別映像を公開！"
+      },
+      {
+        "type": "English",
+        "title": "Pokemon Masters EX: Arc Suit Awakening"
+      }
+    ],
+    "title": "Pokemon Masters EX: 5-shuunen Tokubetsu Eizou wo Koukai!",
+    "title_english": "Pokemon Masters EX: Arc Suit Awakening",
+    "title_japanese": "『ポケモンマスターズ EX』5周年特別映像を公開！",
+    "title_synonyms": [
+      "Pokemon Masters EX: 5th Anniversary PV"
+    ],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 25, 2024"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6,
+    "scored_by": 106,
+    "rank": null,
+    "popularity": 20260,
+    "members": 260,
+    "favorites": 0,
+    "synopsis": "A promotional video to celebrate 5 years of Pokemon Masters EX.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3010,
+        "type": "anime",
+        "name": ".MP",
+        "url": "https://myanimelist.net/anime/producer/3010/MP"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2570,
+        "type": "anime",
+        "name": "Ijigen Tokyo",
+        "url": "https://myanimelist.net/anime/producer/2570/Ijigen_Tokyo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pokemonmasters-game.com/en-US"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Masters_EX"
+      }
+    ],
+    "streaming": []
+  }
+}

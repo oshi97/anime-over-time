@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 52810,
+    "url": "https://myanimelist.net/anime/52810/Tate_no_Kuni_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1959/127111.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/127111t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/127111l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1959/127111.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/127111t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/127111l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "Sdc76kKHpf8",
+      "url": "https://www.youtube.com/watch?v=Sdc76kKHpf8",
+      "embed_url": "https://www.youtube.com/embed/Sdc76kKHpf8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/Sdc76kKHpf8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/Sdc76kKHpf8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/Sdc76kKHpf8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/Sdc76kKHpf8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/Sdc76kKHpf8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tate no Kuni PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Vertical World PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "タテの国"
+      }
+    ],
+    "title": "Tate no Kuni PV",
+    "title_english": null,
+    "title_japanese": "タテの国",
+    "title_synonyms": [
+      "The Vertical World PV"
+    ],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 22, 2022"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 156,
+    "rank": null,
+    "popularity": 18526,
+    "members": 368,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Shounen Jump+ manga Tate no Kuni.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 117807,
+            "type": "manga",
+            "name": "Tate no Kuni",
+            "url": "https://myanimelist.net/manga/117807/Tate_no_Kuni"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shonenjumpplus.com/episode/10834108156642491399"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Sdc76kKHpf8"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 37284,
+    "url": "https://myanimelist.net/anime/37284/Tanuki_to_Kitsune_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1853/90487.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1853/90487t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1853/90487l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1853/90487.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1853/90487t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1853/90487l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tanuki to Kitsune Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Raccoon Dog and Fox Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "タヌキとキツネ"
+      }
+    ],
+    "title": "Tanuki to Kitsune Specials",
+    "title_english": null,
+    "title_japanese": "タヌキとキツネ",
+    "title_synonyms": [
+      "Raccoon Dog and Fox Specials"
+    ],
+    "type": "Special",
+    "source": "Web manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-05-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 5,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 15, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14592,
+    "popularity": 18345,
+    "members": 382,
+    "favorites": 0,
+    "synopsis": "Two specials of Tanuki to Kitsune released only on the DVD of the main show. The disc will bundle with the manga's 4th tankoubon. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 400,
+        "type": "anime",
+        "name": "Gathering",
+        "url": "https://myanimelist.net/anime/producer/400/Gathering"
+      },
+      {
+        "mal_id": 1829,
+        "type": "anime",
+        "name": "Lesprit",
+        "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36979,
+            "type": "anime",
+            "name": "Tanuki to Kitsune",
+            "url": "https://myanimelist.net/anime/36979/Tanuki_to_Kitsune"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38624,
+            "type": "anime",
+            "name": "Tanuki to Kitsune: Dai 5-kan Hatsubai Kinen Animation",
+            "url": "https://myanimelist.net/anime/38624/Tanuki_to_Kitsune__Dai_5-kan_Hatsubai_Kinen_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 102739,
+            "type": "manga",
+            "name": "Tanuki to Kitsune",
+            "url": "https://myanimelist.net/manga/102739/Tanuki_to_Kitsune"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.fwinc.co.jp/tanukitsu/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13674"
+      }
+    ],
+    "streaming": []
+  }
+}

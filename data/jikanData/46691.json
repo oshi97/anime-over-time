@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 46691,
+    "url": "https://myanimelist.net/anime/46691/Fengkuang_Xiao_Tang_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1117/131116.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/131116t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/131116l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1117/131116.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/131116t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/131116l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fengkuang Xiao Tang 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "疯狂小糖 第4季"
+      },
+      {
+        "type": "English",
+        "title": "Crazy Candies 4th Season"
+      }
+    ],
+    "title": "Fengkuang Xiao Tang 4th Season",
+    "title_english": "Crazy Candies 4th Season",
+    "title_japanese": "疯狂小糖 第4季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018 to ?"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20450,
+    "popularity": 26912,
+    "members": 68,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46690,
+            "type": "anime",
+            "name": "Fengkuang Xiao Tang 3rd Season",
+            "url": "https://myanimelist.net/anime/46690/Fengkuang_Xiao_Tang_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46692,
+            "type": "anime",
+            "name": "Fengkuang Xiao Tang 5th Season",
+            "url": "https://myanimelist.net/anime/46692/Fengkuang_Xiao_Tang_5th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%96%AF%E7%8B%82%E5%B0%8F%E7%B3%96%E7%AC%AC4%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

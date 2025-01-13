@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 55431,
+    "url": "https://myanimelist.net/anime/55431/Sensei_no_Iutoori",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/136076.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/136076t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/136076l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/136076.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/136076t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/136076l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sensei no Iutoori"
+      },
+      {
+        "type": "Japanese",
+        "title": "先生の言うとおり"
+      },
+      {
+        "type": "English",
+        "title": "As Teacher Said"
+      }
+    ],
+    "title": "Sensei no Iutoori",
+    "title_english": "As Teacher Said",
+    "title_japanese": "先生の言うとおり",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23454,
+    "members": 116,
+    "favorites": 0,
+    "synopsis": "Music video for the song Sensei no Iutoori by Shikidrop.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55432,
+            "type": "anime",
+            "name": "Koushin Suru Kaibutsu",
+            "url": "https://myanimelist.net/anime/55432/Koushin_Suru_Kaibutsu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55430,
+            "type": "anime",
+            "name": "Namida Time Capsule",
+            "url": "https://myanimelist.net/anime/55430/Namida_Time_Capsule"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=K6A2YNEZ28Y"
+      }
+    ],
+    "streaming": []
+  }
+}

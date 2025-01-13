@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 35800,
+    "url": "https://myanimelist.net/anime/35800/Ginga",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/86420.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86420t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86420l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/86420.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86420t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86420l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ginga"
+      },
+      {
+        "type": "Synonym",
+        "title": "Oresama"
+      },
+      {
+        "type": "Japanese",
+        "title": "銀河"
+      },
+      {
+        "type": "English",
+        "title": "Ginga"
+      }
+    ],
+    "title": "Ginga",
+    "title_english": "Ginga",
+    "title_japanese": "銀河",
+    "title_synonyms": [
+      "Oresama"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 10, 2016"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.71,
+    "scored_by": 515,
+    "rank": null,
+    "popularity": 14161,
+    "members": 1002,
+    "favorites": 0,
+    "synopsis": "Official music video for Oresama's new single \"Ginga\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35778,
+            "type": "anime",
+            "name": "Ookami Heart",
+            "url": "https://myanimelist.net/anime/35778/Ookami_Heart"
+          },
+          {
+            "mal_id": 35809,
+            "type": "anime",
+            "name": "Otome Chic",
+            "url": "https://myanimelist.net/anime/35809/Otome_Chic"
+          },
+          {
+            "mal_id": 38106,
+            "type": "anime",
+            "name": "Hotohashiru",
+            "url": "https://myanimelist.net/anime/38106/Hotohashiru"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://orsm.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ORESAMA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 54778,
+    "url": "https://myanimelist.net/anime/54778/Hawk_no_Onayami_Soudanshitsu_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1259/134572.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/134572t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/134572l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1259/134572.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/134572t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/134572l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hawk no Onayami Soudanshitsu Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "ホークのお悩み相談室 Special"
+      },
+      {
+        "type": "English",
+        "title": "Hawk's Trouble Consultation Room Special"
+      }
+    ],
+    "title": "Hawk no Onayami Soudanshitsu Special",
+    "title_english": "Hawk's Trouble Consultation Room Special",
+    "title_japanese": "ホークのお悩み相談室 Special",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 25, 2020"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.16,
+    "scored_by": 235,
+    "rank": 12935,
+    "popularity": 15208,
+    "members": 738,
+    "favorites": 0,
+    "synopsis": "A special episode of Hawk no Onayami Soudanshitsu included in the second Blu-Ray of Nanatsu no Taizai: Kamigami no Gekirin.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 42490,
+            "type": "anime",
+            "name": "Hawk no Onayami Soudanshitsu",
+            "url": "https://myanimelist.net/anime/42490/Hawk_no_Onayami_Soudanshitsu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

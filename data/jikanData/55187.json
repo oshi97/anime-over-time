@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 55187,
+    "url": "https://myanimelist.net/anime/55187/Never_Fear",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1668/135655.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/135655t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/135655l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1668/135655.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/135655t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/135655l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Never Fear"
+      },
+      {
+        "type": "Japanese",
+        "title": "Never Fear"
+      },
+      {
+        "type": "English",
+        "title": "Never Fear"
+      }
+    ],
+    "title": "Never Fear",
+    "title_english": "Never Fear",
+    "title_japanese": "Never Fear",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 17, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.38,
+    "scored_by": 238,
+    "rank": null,
+    "popularity": 17290,
+    "members": 463,
+    "favorites": 1,
+    "synopsis": "Music video for the song Never Fear by Mao Abe. \n\nThe song was featured as the ending for Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu anime.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49612,
+            "type": "anime",
+            "name": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+            "url": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=jI0y9SlmKRI&ab_channel=%E9%98%BF%E9%83%A8%E7%9C%9F%E5%A4%AE"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57920,
+    "url": "https://myanimelist.net/anime/57920/Hoshi_wo_Tsunagete",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1205/141085.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1205/141085t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1205/141085l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1205/141085.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1205/141085t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1205/141085l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hoshi wo Tsunagete"
+      },
+      {
+        "type": "Japanese",
+        "title": "星をつなげて"
+      }
+    ],
+    "title": "Hoshi wo Tsunagete",
+    "title_english": null,
+    "title_japanese": "星をつなげて",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 15, 2019"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22262,
+    "members": 155,
+    "favorites": 0,
+    "synopsis": "A music video for the song Hoshi wo Tsunagete by Gothic×Luck that serves as first ending song for Kemono Friends 2 series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2561,
+        "type": "anime",
+        "name": "OTOIRO",
+        "url": "https://myanimelist.net/anime/producer/2561/OTOIRO"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35313,
+            "type": "anime",
+            "name": "Kemono Friends 2",
+            "url": "https://myanimelist.net/anime/35313/Kemono_Friends_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cVPERtPy-kM"
+      }
+    ],
+    "streaming": []
+  }
+}

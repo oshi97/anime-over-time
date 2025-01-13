@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 51380,
+    "url": "https://myanimelist.net/anime/51380/Ice_Cream",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1741/121778.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/121778t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/121778l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1741/121778.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/121778t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/121778l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ice Cream"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイスクリーム"
+      },
+      {
+        "type": "English",
+        "title": "ICECREAM"
+      }
+    ],
+    "title": "Ice Cream",
+    "title_english": "ICECREAM",
+    "title_japanese": "アイスクリーム",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 25, 2019"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21316,
+    "members": 201,
+    "favorites": 0,
+    "synopsis": "Music video directed and animated by Makoto Kubota for the original song Ice Cream by Yoh Kamiyama.\n\n(Source: AniList)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.yohkamiyama.com/posts/video"
+      }
+    ],
+    "streaming": []
+  }
+}

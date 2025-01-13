@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 51577,
+    "url": "https://myanimelist.net/anime/51577/Pastel_Tea_Time",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1028/122599.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1028/122599t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1028/122599l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1028/122599.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1028/122599t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1028/122599l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pastel Tea Time"
+      },
+      {
+        "type": "Japanese",
+        "title": "Pastel Tea Time"
+      }
+    ],
+    "title": "Pastel Tea Time",
+    "title_english": null,
+    "title_japanese": "Pastel Tea Time",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 26, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.21,
+    "scored_by": 465,
+    "rank": null,
+    "popularity": 14354,
+    "members": 948,
+    "favorites": 2,
+    "synopsis": "Pastel Tea Time is the fourth original song of Omaru Polka.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/kdYAZZ5SOFk"
+      }
+    ],
+    "streaming": []
+  }
+}

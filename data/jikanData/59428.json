@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 59428,
+    "url": "https://myanimelist.net/anime/59428/Yuureisensen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1197/144692.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1197/144692t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1197/144692l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1197/144692.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1197/144692t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1197/144692l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuureisensen"
+      },
+      {
+        "type": "Japanese",
+        "title": "幽霊船戦"
+      },
+      {
+        "type": "English",
+        "title": "Dead Ma'am's Chest"
+      }
+    ],
+    "title": "Yuureisensen",
+    "title_english": "Dead Ma'am's Chest",
+    "title_japanese": "幽霊船戦",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 30, 2024"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.36,
+    "scored_by": 344,
+    "rank": null,
+    "popularity": 16228,
+    "members": 576,
+    "favorites": 1,
+    "synopsis": "Music video for the song Yuureisensen by Houshou Marine.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1997,
+        "type": "anime",
+        "name": "Studio Kai",
+        "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=QfGuQELt1Tk"
+      }
+    ],
+    "streaming": []
+  }
+}

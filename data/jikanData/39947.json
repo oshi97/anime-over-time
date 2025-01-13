@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 39947,
+    "url": "https://myanimelist.net/anime/39947/September",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/101476.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/101476t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/101476l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/101476.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/101476t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/101476l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "September"
+      },
+      {
+        "type": "Japanese",
+        "title": "September"
+      }
+    ],
+    "title": "September",
+    "title_english": null,
+    "title_japanese": "September",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-11-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 11,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 17, 2014"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6,
+    "scored_by": 138,
+    "rank": null,
+    "popularity": 19918,
+    "members": 279,
+    "favorites": 0,
+    "synopsis": "Music video directed by Kouhei Yoshino for the Japanese pop cover of Earth, Wind &amp; Fire's September by musical duo PACO (Aaco and Shinpei) on their tribute album \"Pacollaboration EARTH, WIND &amp; FIRE GREATEST HITS COVER.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "Avex Entertainment",
+        "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://paco-web.jp/discography/"
+      }
+    ],
+    "streaming": []
+  }
+}

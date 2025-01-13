@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55467,
+    "url": "https://myanimelist.net/anime/55467/Neuromance",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/136119.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/136119t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/136119l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/136119.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/136119t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/136119l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neuromance"
+      },
+      {
+        "type": "Japanese",
+        "title": "NEUROMANCE"
+      }
+    ],
+    "title": "Neuromance",
+    "title_english": null,
+    "title_japanese": "NEUROMANCE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 6, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22810,
+    "members": 135,
+    "favorites": 1,
+    "synopsis": "Music video for the song Neuromance by RIM.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LyTaD9pbI7M"
+      }
+    ],
+    "streaming": []
+  }
+}

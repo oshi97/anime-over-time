@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 52275,
+    "url": "https://myanimelist.net/anime/52275/Shitteiru_Tegami",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1801/125097.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/125097t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/125097l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1801/125097.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/125097t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/125097l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shitteiru Tegami"
+      },
+      {
+        "type": "Japanese",
+        "title": "知っている手紙"
+      }
+    ],
+    "title": "Shitteiru Tegami",
+    "title_english": null,
+    "title_japanese": "知っている手紙",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 23, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.07,
+    "scored_by": 174,
+    "rank": null,
+    "popularity": 19245,
+    "members": 318,
+    "favorites": 1,
+    "synopsis": "Music video for the song Shitteiru Tegami by ROF-MAO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 55594,
+            "type": "anime",
+            "name": "Chocosanji",
+            "url": "https://myanimelist.net/anime/55594/Chocosanji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/XDwqCbA1cIU"
+      }
+    ],
+    "streaming": []
+  }
+}

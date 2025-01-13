@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 51494,
+    "url": "https://myanimelist.net/anime/51494/Template",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/122194.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/122194t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/122194l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/122194.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/122194t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/122194l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Template"
+      },
+      {
+        "type": "Japanese",
+        "title": "TEMPLATE"
+      }
+    ],
+    "title": "Template",
+    "title_english": null,
+    "title_japanese": "TEMPLATE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 31, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.37,
+    "scored_by": 1056,
+    "rank": null,
+    "popularity": 12146,
+    "members": 1810,
+    "favorites": 14,
+    "synopsis": "Animated music video for the song Template by Suisei Hoshimachi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2419,
+        "type": "anime",
+        "name": "d00r works",
+        "url": "https://myanimelist.net/anime/producer/2419/d00r_works"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/mBuHQeL-OO8"
+      }
+    ],
+    "streaming": []
+  }
+}

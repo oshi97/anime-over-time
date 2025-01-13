@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 37034,
+    "url": "https://myanimelist.net/anime/37034/Drifters__Kokuou-sama_Goranshin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/89808.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/89808t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89808l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/89808.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/89808t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89808l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Drifters: Kokuou-sama Goranshin"
+      },
+      {
+        "type": "Synonym",
+        "title": "Drifters: The Black King Show"
+      },
+      {
+        "type": "Japanese",
+        "title": "黒王様御乱心"
+      }
+    ],
+    "title": "Drifters: Kokuou-sama Goranshin",
+    "title_english": null,
+    "title_japanese": "黒王様御乱心",
+    "title_synonyms": [
+      "Drifters: The Black King Show"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 30, 2016"
+    },
+    "duration": "8 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.6,
+    "scored_by": 1362,
+    "rank": 11756,
+    "popularity": 8473,
+    "members": 5672,
+    "favorites": 0,
+    "synopsis": "Short parody special released with Blu-ray BOX.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 211,
+        "type": "anime",
+        "name": "Rakuonsha",
+        "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 346,
+        "type": "anime",
+        "name": "Hoods Entertainment",
+        "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37046,
+            "type": "anime",
+            "name": "Drifters (OVA): Kokuou-sama Goranshin",
+            "url": "https://myanimelist.net/anime/37046/Drifters_OVA__Kokuou-sama_Goranshin"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31339,
+            "type": "anime",
+            "name": "Drifters",
+            "url": "https://myanimelist.net/anime/31339/Drifters"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nbcuni.co.jp/rondorobe/anime/drifters/Blu-ray/box.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11164"
+      }
+    ],
+    "streaming": []
+  }
+}

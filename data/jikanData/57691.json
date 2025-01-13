@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 57691,
+    "url": "https://myanimelist.net/anime/57691/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai_-_Dai_Bounen_Otanoshimikai_2023",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/140683.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/140683t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/140683l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1544/140683.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/140683t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/140683l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Dai Bounen Otanoshimikai 2023"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fate/Grand Order 藤丸立香はわからない ~大忘年お楽しみ会2023~"
+      },
+      {
+        "type": "English",
+        "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru"
+      }
+    ],
+    "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Dai Bounen Otanoshimikai 2023",
+    "title_english": "Fate/Grand Order: You've Lost Ritsuka Fujimaru",
+    "title_japanese": "Fate/Grand Order 藤丸立香はわからない ~大忘年お楽しみ会2023~",
+    "title_synonyms": [
+      "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.24,
+    "scored_by": 384,
+    "rank": 8593,
+    "popularity": 12004,
+    "members": 1897,
+    "favorites": 0,
+    "synopsis": "Ritsuka Fujimaru—humanity's last master. It would not have been possible to restore humanity without him. However, he does have a shortcoming... he is far too honest! A slapstick comedy in which Fujimaru's simple questions sway the heroic spirits!\n\n(Source: MAL News)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 154711,
+            "type": "manga",
+            "name": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
+            "url": "https://myanimelist.net/manga/154711/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 54042,
+            "type": "anime",
+            "name": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
+            "url": "https://myanimelist.net/anime/54042/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime.fate-go.jp/nazomaru/"
+      }
+    ],
+    "streaming": []
+  }
+}

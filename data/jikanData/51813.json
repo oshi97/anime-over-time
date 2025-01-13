@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 51813,
+    "url": "https://myanimelist.net/anime/51813/Umi_Yori_Fukai_Sora_no_Shita",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/123770.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/123770t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/123770l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/123770.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/123770t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/123770l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Umi Yori Fukai Sora no Shita"
+      },
+      {
+        "type": "Japanese",
+        "title": "海より深い空の下"
+      }
+    ],
+    "title": "Umi Yori Fukai Sora no Shita",
+    "title_english": null,
+    "title_japanese": "海より深い空の下",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 18, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.84,
+    "scored_by": 452,
+    "rank": null,
+    "popularity": 14416,
+    "members": 931,
+    "favorites": 0,
+    "synopsis": "Collaboration between Hololive and Vocaloid P.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nP5mhWX2i0Q"
+      }
+    ],
+    "streaming": []
+  }
+}

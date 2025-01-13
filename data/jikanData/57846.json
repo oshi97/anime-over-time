@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 57846,
+    "url": "https://myanimelist.net/anime/57846/VSPO_x_Vanguard_Animation_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/140923.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/140923t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/140923l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/140923.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/140923t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/140923l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "VSPO! x Vanguard Animation PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぶいすぽっ！×ヴァンガード アニメーションPV"
+      }
+    ],
+    "title": "VSPO! x Vanguard Animation PV",
+    "title_english": null,
+    "title_japanese": "ぶいすぽっ！×ヴァンガード アニメーションPV",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 6, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.03,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 20616,
+    "members": 241,
+    "favorites": 1,
+    "synopsis": "An animated promotional video for a collaboration between VSPO! and Cardfight!! Vanguard.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2881,
+        "type": "anime",
+        "name": "Andraft",
+        "url": "https://myanimelist.net/anime/producer/2881/Andraft"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 54142,
+            "type": "anime",
+            "name": "Cardfight!! Vanguard: Divinez",
+            "url": "https://myanimelist.net/anime/54142/Cardfight_Vanguard__Divinez"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56118,
+            "type": "anime",
+            "name": "VSPO! PVs",
+            "url": "https://myanimelist.net/anime/56118/VSPO_PVs"
+          },
+          {
+            "mal_id": 60186,
+            "type": "anime",
+            "name": "VSPO!",
+            "url": "https://myanimelist.net/anime/60186/VSPO"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

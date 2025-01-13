@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 39056,
+    "url": "https://myanimelist.net/anime/39056/Mirai_Koushi_Harima_SACLA_NEX_RAY",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/98375.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/98375t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/98375l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/98375.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/98375t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/98375l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mirai Koushi Harima SACLA NEX RAY"
+      },
+      {
+        "type": "Japanese",
+        "title": "未来光子 播磨サクラ NEX RAY（ネクスレイ）"
+      }
+    ],
+    "title": "Mirai Koushi Harima SACLA NEX RAY",
+    "title_english": null,
+    "title_japanese": "未来光子 播磨サクラ NEX RAY（ネクスレイ）",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 12, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.6,
+    "scored_by": 356,
+    "rank": null,
+    "popularity": 15023,
+    "members": 784,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 21471,
+            "type": "anime",
+            "name": "Mirai Koushi Harima SACLA",
+            "url": "https://myanimelist.net/anime/21471/Mirai_Koushi_Harima_SACLA"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Ii Kao Shiteru (いい顔してる)\" by Nayugorou (なゆごろう)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://xfel.riken.jp/pr/sacla/?cat=3"
+      }
+    ],
+    "streaming": []
+  }
+}

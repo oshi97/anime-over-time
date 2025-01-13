@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 38626,
+    "url": "https://myanimelist.net/anime/38626/JRA_x_Gudetama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1423/96005.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1423/96005t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1423/96005l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1423/96005.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1423/96005t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1423/96005l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "JRA x Gudetama"
+      },
+      {
+        "type": "Japanese",
+        "title": "JRA×ぐでたま"
+      },
+      {
+        "type": "English",
+        "title": "JRA x Gudetama"
+      }
+    ],
+    "title": "JRA x Gudetama",
+    "title_english": "JRA x Gudetama",
+    "title_japanese": "JRA×ぐでたま",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-26T00:00:00+00:00",
+      "to": "2020-11-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 20,
+          "month": 11,
+          "year": 2020
+        }
+      },
+      "string": "Oct 26, 2018 to Nov 20, 2020"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.24,
+    "scored_by": 176,
+    "rank": null,
+    "popularity": 15892,
+    "members": 620,
+    "favorites": 0,
+    "synopsis": "A Gudetama collaboration with the Japanese Racing Association (JRA).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 23539,
+            "type": "anime",
+            "name": "Gudetama",
+            "url": "https://myanimelist.net/anime/23539/Gudetama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://umabi.jp/gudetama/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10577"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16760"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%A7%E3%81%9F%E3%81%BE"
+      }
+    ],
+    "streaming": []
+  }
+}

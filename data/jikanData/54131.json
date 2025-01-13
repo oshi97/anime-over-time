@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 54131,
+    "url": "https://myanimelist.net/anime/54131/Mameshiba_x_Zanpa_Collab_CM",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1164/132534.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/132534t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/132534l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1164/132534.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/132534t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/132534l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mameshiba x Zanpa Collab CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "豆しば×斬波コラボCM"
+      }
+    ],
+    "title": "Mameshiba x Zanpa Collab CM",
+    "title_english": null,
+    "title_japanese": "豆しば×斬波コラボCM",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 25, 2022"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 5.26,
+    "scored_by": 122,
+    "rank": null,
+    "popularity": 19531,
+    "members": 300,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Mameshiba song Mame Mame Manbo by Zanpa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 7261,
+            "type": "anime",
+            "name": "Mameshiba",
+            "url": "https://myanimelist.net/anime/7261/Mameshiba"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://zanpa.site/musics/12970"
+      }
+    ],
+    "streaming": []
+  }
+}

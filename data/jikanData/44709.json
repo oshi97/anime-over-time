@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 44709,
+    "url": "https://myanimelist.net/anime/44709/Hei_Lian_Da_Baogong_Zhi_Wu_Hui_Qingtian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1960/129849.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/129849t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/129849l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1960/129849.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/129849t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/129849l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hei Lian Da Baogong Zhi Wu Hui Qingtian"
+      },
+      {
+        "type": "Japanese",
+        "title": "黑脸大包公之无悔青天"
+      }
+    ],
+    "title": "Hei Lian Da Baogong Zhi Wu Hui Qingtian",
+    "title_english": null,
+    "title_japanese": "黑脸大包公之无悔青天",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 42,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010 to ?"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20945,
+    "popularity": 27378,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44708,
+            "type": "anime",
+            "name": "Hei Lian Da Baogong",
+            "url": "https://myanimelist.net/anime/44708/Hei_Lian_Da_Baogong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Qs411Y7wZ/?from=search&seid=9352549735917997443"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%BB%91%E8%84%B8%E5%A4%A7%E5%8C%85%E5%85%AC%E4%B9%8B%E6%97%A0%E6%82%94%E9%9D%92%E5%A4%A9"
+      }
+    ],
+    "streaming": []
+  }
+}

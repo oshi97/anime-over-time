@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 58175,
+    "url": "https://myanimelist.net/anime/58175/100_no_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1510/141497.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1510/141497t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1510/141497l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1510/141497.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1510/141497t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1510/141497l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "100% no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hyaku Percent no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "100％の歌"
+      }
+    ],
+    "title": "100% no Uta",
+    "title_english": null,
+    "title_japanese": "100％の歌",
+    "title_synonyms": [
+      "Hyaku Percent no Uta"
+    ],
+    "type": "CM",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-05-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 5,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 17, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Little My sings a song about stuff she is 100% sure of, with Snufkin providing the instrumentals.",
+    "background": "This CM was organized by Suzuki for promoting its Mr.Wagon.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 2150,
+            "type": "anime",
+            "name": "Tanoshii Muumin Ikka",
+            "url": "https://myanimelist.net/anime/2150/Tanoshii_Muumin_Ikka"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

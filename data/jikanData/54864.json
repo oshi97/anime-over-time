@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 54864,
+    "url": "https://myanimelist.net/anime/54864/Meitantei_Conan__Keisatsu_Gakkou-hen_Wild_Police_Story_-_Case_Furuya_Rei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1039/140414.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/140414t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/140414l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1039/140414.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/140414t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/140414l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meitantei Conan Episode 1076.5"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵コナン 警察学校編 Wild Police Story CASE.降谷零"
+      },
+      {
+        "type": "English",
+        "title": "Detective Conan: Police Academy Arc Wild Police Story - Case. Furuya Rei"
+      }
+    ],
+    "title": "Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei",
+    "title_english": "Detective Conan: Police Academy Arc Wild Police Story - Case. Furuya Rei",
+    "title_japanese": "名探偵コナン 警察学校編 Wild Police Story CASE.降谷零",
+    "title_synonyms": [
+      "Meitantei Conan Episode 1076.5"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 11, 2023"
+    },
+    "duration": "25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.87,
+    "scored_by": 504,
+    "rank": 4970,
+    "popularity": 13090,
+    "members": 1335,
+    "favorites": 2,
+    "synopsis": "Final epsiode of Keisatsu Gakkou-hen Wild Police Story that aired between episodes 1076 and 1077 of Detective Conan as a special.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 121951,
+            "type": "manga",
+            "name": "Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story",
+            "url": "https://myanimelist.net/manga/121951/Meitantei_Conan__Keisatsu_Gakkou-hen_-_Wild_Police_Story"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 235,
+            "type": "anime",
+            "name": "Meitantei Conan",
+            "url": "https://myanimelist.net/anime/235/Meitantei_Conan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ytv.co.jp/conan/archive/k20230311.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=266"
+      }
+    ],
+    "streaming": []
+  }
+}

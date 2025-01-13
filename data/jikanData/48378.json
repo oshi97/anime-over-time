@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 48378,
+    "url": "https://myanimelist.net/anime/48378/Motto_ne",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/113339.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/113339t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/113339l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/113339.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/113339t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/113339l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Motto ne!"
+      },
+      {
+        "type": "Japanese",
+        "title": "もっとね！"
+      }
+    ],
+    "title": "Motto ne!",
+    "title_english": null,
+    "title_japanese": "もっとね！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 10, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.49,
+    "scored_by": 605,
+    "rank": null,
+    "popularity": 13491,
+    "members": 1203,
+    "favorites": 0,
+    "synopsis": "Music video released on the Love Live! official YouTube channel for the song Motto ne! that was featured on Kanan Matsuura's first solo album.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/YoYVNh9WgnM"
+      }
+    ],
+    "streaming": []
+  }
+}

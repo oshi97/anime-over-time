@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 34153,
+    "url": "https://myanimelist.net/anime/34153/Eyedrops_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82147.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/82147t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/82147l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82147.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/82147t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/82147l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eyedrops Episode 0"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eye Drops Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドロップス Episode 0"
+      }
+    ],
+    "title": "Eyedrops Episode 0",
+    "title_english": null,
+    "title_japanese": "アイドロップス Episode 0",
+    "title_synonyms": [
+      "Eye Drops Episode 0"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 5, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 4.87,
+    "scored_by": 272,
+    "rank": null,
+    "popularity": 15803,
+    "members": 635,
+    "favorites": 0,
+    "synopsis": "Episode 0 explains the setting: the planet EYE, light-years from Earth. The planet has the ability \"to see things,\" but is commonly assailed by enemies. Protecting the planet from these enemies is the group of girls known as \"Eyedrops.\" The video also explains how the human eye works. \n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 34140,
+            "type": "anime",
+            "name": "Eyedrops",
+            "url": "https://myanimelist.net/anime/34140/Eyedrops"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://eyedrops.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

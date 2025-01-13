@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 57236,
+    "url": "https://myanimelist.net/anime/57236/Dream_Believers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1901/139777.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1901/139777t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1901/139777l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1901/139777.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1901/139777t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1901/139777l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dream Believers"
+      }
+    ],
+    "title": "Dream Believers",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 20, 2023"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.2,
+    "scored_by": 187,
+    "rank": null,
+    "popularity": 18381,
+    "members": 379,
+    "favorites": 0,
+    "synopsis": "A music video for the song Dream Believers (Fes×LIVE ver.) released in full size as a half anniversary commemoration of the game Link! Like! Love Live!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 15051,
+            "type": "anime",
+            "name": "Love Live! School Idol Project",
+            "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AGtF3sfx10o"
+      }
+    ],
+    "streaming": []
+  }
+}

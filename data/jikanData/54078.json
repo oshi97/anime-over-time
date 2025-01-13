@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 54078,
+    "url": "https://myanimelist.net/anime/54078/Deko_Boko_Friends_5",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/132304.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/132304t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/132304l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/132304.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/132304t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/132304l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Deko Boko Friends 5"
+      },
+      {
+        "type": "Japanese",
+        "title": "でこぼこフレンズ 5"
+      }
+    ],
+    "title": "Deko Boko Friends 5",
+    "title_english": null,
+    "title_japanese": "でこぼこフレンズ 5",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 47,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2005"
+    },
+    "duration": "30 sec per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 20073,
+    "popularity": 25052,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54077,
+            "type": "anime",
+            "name": "Deko Boko Friends 4",
+            "url": "https://myanimelist.net/anime/54077/Deko_Boko_Friends_4"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 54115,
+            "type": "anime",
+            "name": "Deko Boko Friends 5 Specials",
+            "url": "https://myanimelist.net/anime/54115/Deko_Boko_Friends_5_Specials"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54114,
+            "type": "anime",
+            "name": "Deko Boko Friends Uta: Hanahana Maron no Kuuchuu Sanpo",
+            "url": "https://myanimelist.net/anime/54114/Deko_Boko_Friends_Uta__Hanahana_Maron_no_Kuuchuu_Sanpo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

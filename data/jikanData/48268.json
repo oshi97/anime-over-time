@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 48268,
+    "url": "https://myanimelist.net/anime/48268/Sinbi_Apartment__Haliui_Teugbyeolhan_Halu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/130294.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/130294t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/130294l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/130294.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/130294t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/130294l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment: Haliui Teugbyeolhan Halu"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트: 하리의 특별한 하루"
+      }
+    ],
+    "title": "Sinbi Apartment: Haliui Teugbyeolhan Halu",
+    "title_english": null,
+    "title_japanese": "신비아파트: 하리의 특별한 하루",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 23, 2019"
+    },
+    "duration": "20 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14278,
+    "popularity": 23176,
+    "members": 123,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 40090,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball X-ui Tansaeng",
+            "url": "https://myanimelist.net/anime/40090/Sinbi_Apartment__Ghost_Ball_X-ui_Tansaeng"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@Shinbihouse"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%B9%84%EC%95%84%ED%8C%8C%ED%8A%B8:_%ED%95%98%EB%A6%AC%EC%9D%98_%ED%8A%B9%EB%B3%84%ED%95%9C_%ED%95%98%EB%A3%A8"
+      }
+    ],
+    "streaming": []
+  }
+}

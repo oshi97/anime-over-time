@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 55307,
+    "url": "https://myanimelist.net/anime/55307/Sayuumou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/135884.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/135884t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/135884l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/135884.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/135884t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/135884l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sayuumou"
+      },
+      {
+        "type": "Japanese",
+        "title": "左右盲"
+      },
+      {
+        "type": "English",
+        "title": "Left-Right Confusion"
+      }
+    ],
+    "title": "Sayuumou",
+    "title_english": "Left-Right Confusion",
+    "title_japanese": "左右盲",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 25, 2022"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.35,
+    "scored_by": 114,
+    "rank": null,
+    "popularity": 21169,
+    "members": 208,
+    "favorites": 0,
+    "synopsis": "Music video for the song Sayuumou by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2054,
+        "type": "anime",
+        "name": "MORIE Inc.",
+        "url": "https://myanimelist.net/anime/producer/2054/MORIE_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yorushika.com/news/detail/11413"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yorushika"
+      }
+    ],
+    "streaming": []
+  }
+}

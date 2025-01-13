@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 51004,
+    "url": "https://myanimelist.net/anime/51004/Ima_wo_Kakeru_Shoujo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1442/120905.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1442/120905t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1442/120905l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1442/120905.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1442/120905t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1442/120905l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ima wo Kakeru Shoujo"
+      },
+      {
+        "type": "Japanese",
+        "title": "今をかける少女"
+      },
+      {
+        "type": "English",
+        "title": "The Girl Who Leapt Present"
+      }
+    ],
+    "title": "Ima wo Kakeru Shoujo",
+    "title_english": "The Girl Who Leapt Present",
+    "title_japanese": "今をかける少女",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 11, 2016"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 160,
+    "rank": null,
+    "popularity": 19150,
+    "members": 325,
+    "favorites": 0,
+    "synopsis": "Music video for the song Ima wo Kakeru Shoujo written by Kano and sung by Miku Hatsune.\n\nIncluded in Kano's 1st Album \"nowhere\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50318,
+            "type": "anime",
+            "name": "Prima Stella",
+            "url": "https://myanimelist.net/anime/50318/Prima_Stella"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/ZBTKkkV9KKg"
+      }
+    ],
+    "streaming": []
+  }
+}

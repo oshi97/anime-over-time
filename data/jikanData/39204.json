@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 39204,
+    "url": "https://myanimelist.net/anime/39204/Demon_Dance_Tokyo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/98866.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/98866t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/98866l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/98866.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/98866t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/98866l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Demon Dance Tokyo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eve"
+      },
+      {
+        "type": "Japanese",
+        "title": "デーモンダンストーキョー"
+      },
+      {
+        "type": "English",
+        "title": "Demon Dance Tokyo"
+      }
+    ],
+    "title": "Demon Dance Tokyo",
+    "title_english": "Demon Dance Tokyo",
+    "title_japanese": "デーモンダンストーキョー",
+    "title_synonyms": [
+      "Eve"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 19, 2016"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.76,
+    "scored_by": 611,
+    "rank": null,
+    "popularity": 13873,
+    "members": 1077,
+    "favorites": 3,
+    "synopsis": "An original song by Eve, animated by Mah. The song became popular enough to be included in Joysound, a Japanese karaoke company who specializes in song libraries.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://eveofficial.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Eve_(%E6%AD%8C%E6%89%8B)"
+      }
+    ],
+    "streaming": []
+  }
+}

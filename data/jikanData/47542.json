@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 47542,
+    "url": "https://myanimelist.net/anime/47542/Sazae-san__Valentine-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/117165.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/117165t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/117165l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1689/117165.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/117165t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/117165l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sazae-san: Valentine-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "サザエさんバレンタインデースペシャル"
+      },
+      {
+        "type": "English",
+        "title": "Sazae-san Valentine's Day Special"
+      }
+    ],
+    "title": "Sazae-san: Valentine-hen",
+    "title_english": "Sazae-san Valentine's Day Special",
+    "title_japanese": "サザエさんバレンタインデースペシャル",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 14, 2021"
+    },
+    "duration": "1 hr",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 13796,
+    "popularity": 18976,
+    "members": 335,
+    "favorites": 1,
+    "synopsis": "Sazae-san Valentine's Special which includes four stories.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 2406,
+            "type": "anime",
+            "name": "Sazae-san",
+            "url": "https://myanimelist.net/anime/2406/Sazae-san"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

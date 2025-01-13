@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 45471,
+    "url": "https://myanimelist.net/anime/45471/Hei_Xingxing_Hu_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1355/129502.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1355/129502t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/129502l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1355/129502.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1355/129502t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/129502l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hei! Xingxing Hu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "嘿！星星狐 第二季"
+      }
+    ],
+    "title": "Hei! Xingxing Hu 2nd Season",
+    "title_english": null,
+    "title_japanese": "嘿！星星狐 第二季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2008 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20953,
+    "popularity": 26750,
+    "members": 69,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45470,
+            "type": "anime",
+            "name": "Hei! Xingxing Hu",
+            "url": "https://myanimelist.net/anime/45470/Hei_Xingxing_Hu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1ox411j7iy?p=1"
+      }
+    ],
+    "streaming": []
+  }
+}

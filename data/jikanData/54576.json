@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 54576,
+    "url": "https://myanimelist.net/anime/54576/Wo_Shi_Zhi_Xiao_Xiaoniao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/133606.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/133606t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/133606l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/133606.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/133606t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/133606l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo Shi Zhi Xiao Xiaoniao"
+      },
+      {
+        "type": "Japanese",
+        "title": "我是隻小小鳥"
+      },
+      {
+        "type": "English",
+        "title": "A Little Bird"
+      }
+    ],
+    "title": "Wo Shi Zhi Xiao Xiaoniao",
+    "title_english": "A Little Bird",
+    "title_japanese": "我是隻小小鳥",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-03-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 3,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 20, 2011"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15181,
+    "popularity": 25194,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "This 5 minute short film serves as a prototype to Wo Shi Zhi Xiao Xiaoniao (2013). However, despite presenting the same story in a way shorter form, it does present unique animation not seen in the movie. It was one of the final entries for the 33rd Golden Harvest Awards for Outstanding Short Films, but ultimately didn't win.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2750,
+        "type": "anime",
+        "name": "Hu Po Donghua",
+        "url": "https://myanimelist.net/anime/producer/2750/Hu_Po_Donghua"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 54575,
+            "type": "anime",
+            "name": "Wo Shi Zhi Xiao Xiaoniao (2013)",
+            "url": "https://myanimelist.net/anime/54575/Wo_Shi_Zhi_Xiao_Xiaoniao_2013"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=VzlVCIMeWRg"
+      }
+    ],
+    "streaming": []
+  }
+}

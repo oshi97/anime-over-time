@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 50318,
+    "url": "https://myanimelist.net/anime/50318/Prima_Stella",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1735/119257.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/119257t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/119257l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1735/119257.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/119257t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/119257l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Prima Stella"
+      },
+      {
+        "type": "Japanese",
+        "title": "Prima Stella (プリマステラ)"
+      }
+    ],
+    "title": "Prima Stella",
+    "title_english": null,
+    "title_japanese": "Prima Stella (プリマステラ)",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 15, 2016"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.99,
+    "scored_by": 136,
+    "rank": null,
+    "popularity": 20248,
+    "members": 261,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Prima Stella by Kano.\nIncluded in 1st Album \"nowhere\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51004,
+            "type": "anime",
+            "name": "Ima wo Kakeru Shoujo",
+            "url": "https://myanimelist.net/anime/51004/Ima_wo_Kakeru_Shoujo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://whv-amusic.com/kano/discography/album/index00050000.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 43492,
+    "url": "https://myanimelist.net/anime/43492/Mr_Fixer",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1881/118218.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1881/118218t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1881/118218l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1881/118218.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1881/118218t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1881/118218l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mr. Fixer"
+      },
+      {
+        "type": "Japanese",
+        "title": "Mr.Fixer"
+      }
+    ],
+    "title": "Mr. Fixer",
+    "title_english": null,
+    "title_japanese": "Mr.Fixer",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 4, 2020"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.85,
+    "scored_by": 626,
+    "rank": null,
+    "popularity": 13331,
+    "members": 1250,
+    "favorites": 1,
+    "synopsis": "The music video for Sou's Mr. Fixer, the opening of Id:Invaded.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40046,
+            "type": "anime",
+            "name": "Id:Invaded",
+            "url": "https://myanimelist.net/anime/40046/Id_Invaded"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/Bd5ptxUujYA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 56821,
+    "url": "https://myanimelist.net/anime/56821/Yoru_wo_Matsu_yo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/138900.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/138900t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/138900l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/138900.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/138900t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/138900l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yoru wo Matsu yo"
+      },
+      {
+        "type": "Japanese",
+        "title": "夜を待つよ"
+      }
+    ],
+    "title": "Yoru wo Matsu yo",
+    "title_english": null,
+    "title_japanese": "夜を待つよ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 1, 2023"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.26,
+    "scored_by": 199,
+    "rank": null,
+    "popularity": 18630,
+    "members": 359,
+    "favorites": 0,
+    "synopsis": "Music video for the song Yoru wo Matsu yo by Midnight Grand Orchestra.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kX7ldIKFD60"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 38384,
+    "url": "https://myanimelist.net/anime/38384/Toyo_Suisan_x_Tanuki_to_Kitsune",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/94808.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/94808t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/94808l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/94808.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/94808t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/94808l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toyo Suisan x Tanuki to Kitsune"
+      },
+      {
+        "type": "Synonym",
+        "title": "Maruchan collab"
+      },
+      {
+        "type": "Synonym",
+        "title": "Akai Kitsune - Midori no Tanuki \"Tanuki to Kitsune\" Collab Animation"
+      },
+      {
+        "type": "Synonym",
+        "title": "Touyou Suisan x Tanuki to Kitsune"
+      },
+      {
+        "type": "Japanese",
+        "title": "東洋水産×「タヌキとキツネ」"
+      }
+    ],
+    "title": "Toyo Suisan x Tanuki to Kitsune",
+    "title_english": null,
+    "title_japanese": "東洋水産×「タヌキとキツネ」",
+    "title_synonyms": [
+      "Maruchan collab",
+      "Akai Kitsune - Midori no Tanuki \"Tanuki to Kitsune\" Collab Animation",
+      "Touyou Suisan x Tanuki to Kitsune"
+    ],
+    "type": "CM",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-09-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 9,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 24, 2018"
+    },
+    "duration": "35 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 19280,
+    "members": 316,
+    "favorites": 0,
+    "synopsis": "A collaboration between Tanuki to Kitsune and Touyou Suisan's Maruchan instant noodle line Akai Kitsune (udon with abura-age) and Midori no Tanuki (soba with ten-kasu) and 7Eleven. Where if people by two instant noodles at 7Eleven they can receive 1 of 4 Tanuki to Kitsune mini-manga.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 102739,
+            "type": "manga",
+            "name": "Tanuki to Kitsune",
+            "url": "https://myanimelist.net/manga/102739/Tanuki_to_Kitsune"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36979,
+            "type": "anime",
+            "name": "Tanuki to Kitsune",
+            "url": "https://myanimelist.net/anime/36979/Tanuki_to_Kitsune"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.sej.co.jp/cmp/aka-midori1809.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13674"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20635"
+      }
+    ],
+    "streaming": []
+  }
+}

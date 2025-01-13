@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 42076,
+    "url": "https://myanimelist.net/anime/42076/Inochi_no_Tabekata",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/107871.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/107871t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/107871l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1422/107871.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1422/107871t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/107871l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Inochi no Tabekata"
+      },
+      {
+        "type": "Japanese",
+        "title": "いのちの食べ方"
+      },
+      {
+        "type": "English",
+        "title": "How to Eat Life"
+      }
+    ],
+    "title": "Inochi no Tabekata",
+    "title_english": "How to Eat Life",
+    "title_japanese": "いのちの食べ方",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 22, 2020"
+    },
+    "duration": "3 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.79,
+    "scored_by": 3733,
+    "rank": null,
+    "popularity": 8252,
+    "members": 6002,
+    "favorites": 25,
+    "synopsis": "Music video for Eve's song Inochi no Tabekata.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54026,
+            "type": "anime",
+            "name": "Fight Song",
+            "url": "https://myanimelist.net/anime/54026/Fight_Song"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 151044,
+            "type": "manga",
+            "name": "Inochi no Tabekata",
+            "url": "https://myanimelist.net/manga/151044/Inochi_no_Tabekata"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eveofficial.com/news/20200522190312.html"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=U7L-3VXAkSA"
+      }
+    ],
+    "streaming": []
+  }
+}

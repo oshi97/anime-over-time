@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 46451,
+    "url": "https://myanimelist.net/anime/46451/Bai_Li_Xiong__Meili_de_Da_Senlin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1275/129583.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/129583t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/129583l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1275/129583.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/129583t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/129583l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bai Li Xiong: Meili de Da Senlin"
+      },
+      {
+        "type": "Japanese",
+        "title": "百利熊之美丽的大森林"
+      }
+    ],
+    "title": "Bai Li Xiong: Meili de Da Senlin",
+    "title_english": null,
+    "title_japanese": "百利熊之美丽的大森林",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2012 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19251,
+    "popularity": 25716,
+    "members": 79,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46449,
+            "type": "anime",
+            "name": "Bai Li Xiong",
+            "url": "https://myanimelist.net/anime/46449/Bai_Li_Xiong"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46452,
+            "type": "anime",
+            "name": "Bai Li Xiong: Yunwu Shan De Mimi",
+            "url": "https://myanimelist.net/anime/46452/Bai_Li_Xiong__Yunwu_Shan_De_Mimi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1bE41127mz/?from=search&seid=16025253403451183360"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%99%BE%E5%88%A9%E7%86%8A%E4%B9%8B%E7%BE%8E%E4%B8%BD%E7%9A%84%E5%A4%A7%E6%A3%AE%E6%9E%97/3534104"
+      }
+    ],
+    "streaming": []
+  }
+}

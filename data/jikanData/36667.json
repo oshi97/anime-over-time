@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 36667,
+    "url": "https://myanimelist.net/anime/36667/Machibouke_2017",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88643.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88643t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88643l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88643.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88643t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88643l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Machibouke (2017)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Waiting in the Rain"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kiwokuza"
+      },
+      {
+        "type": "Japanese",
+        "title": "待ちぼうけ"
+      }
+    ],
+    "title": "Machibouke (2017)",
+    "title_english": null,
+    "title_japanese": "待ちぼうけ",
+    "title_synonyms": [
+      "Waiting in the Rain",
+      "Kiwokuza"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 25, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.25,
+    "scored_by": 126,
+    "rank": null,
+    "popularity": 20324,
+    "members": 257,
+    "favorites": 0,
+    "synopsis": "Music Video for Machibouke from “IroAwase” - the debut album by “Kiwokuza,” the widely popular band that plays Japanese nursery rhymes and folk songs. \n\n(Source: Official YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1343,
+        "type": "anime",
+        "name": "Space Shower Music",
+        "url": "https://myanimelist.net/anime/producer/1343/Space_Shower_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36668,
+            "type": "anime",
+            "name": "Senro wa Tsuzuku yo Dokomademo (2017)",
+            "url": "https://myanimelist.net/anime/36668/Senro_wa_Tsuzuku_yo_Dokomademo_2017"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=oSuWVmN7n1w"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%BE%85%E3%81%A1%E3%81%BC%E3%81%86%E3%81%91"
+      }
+    ],
+    "streaming": []
+  }
+}

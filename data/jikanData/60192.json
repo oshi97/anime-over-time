@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 60192,
+    "url": "https://myanimelist.net/anime/60192/Flower_Rhapsody",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1252/146268.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/146268t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/146268l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1252/146268.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/146268t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/146268l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Flower Rhapsody"
+      },
+      {
+        "type": "Japanese",
+        "title": "flower rhapsody"
+      }
+    ],
+    "title": "Flower Rhapsody",
+    "title_english": null,
+    "title_japanese": "flower rhapsody",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 26, 2024"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.93,
+    "scored_by": 128,
+    "rank": null,
+    "popularity": 19933,
+    "members": 278,
+    "favorites": 2,
+    "synopsis": "Music video for the song Flower Rhapsody by Sakura Miko.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1997,
+        "type": "anime",
+        "name": "Studio Kai",
+        "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BerwUFzdj4U"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 34655,
+    "url": "https://myanimelist.net/anime/34655/I_Was_King",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/83608.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83608t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83608l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/83608.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83608t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83608l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "I Was King"
+      },
+      {
+        "type": "Synonym",
+        "title": "ONE OK ROCK"
+      },
+      {
+        "type": "Japanese",
+        "title": "I was King"
+      }
+    ],
+    "title": "I Was King",
+    "title_english": null,
+    "title_japanese": "I was King",
+    "title_synonyms": [
+      "ONE OK ROCK"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 20, 2016"
+    },
+    "duration": "4 min",
+    "rating": "PG - Children",
+    "score": 6.53,
+    "scored_by": 649,
+    "rank": null,
+    "popularity": 13754,
+    "members": 1116,
+    "favorites": 2,
+    "synopsis": "A music video for One Ok Rock's song \"I Was King\" from the album Ambitions.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1313,
+        "type": "anime",
+        "name": "Amuse",
+        "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ambitions_(One_Ok_Rock_album)"
+      }
+    ],
+    "streaming": []
+  }
+}

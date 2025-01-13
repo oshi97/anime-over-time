@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 42347,
+    "url": "https://myanimelist.net/anime/42347/Hakata_Bus_Terminal_Blues",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/108302.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/108302t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/108302l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/108302.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/108302t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/108302l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hakata Bus Terminal Blues"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hakata Bus Terminal Theme Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "博多バスターミナル ブルース"
+      }
+    ],
+    "title": "Hakata Bus Terminal Blues",
+    "title_english": null,
+    "title_japanese": "博多バスターミナル ブルース",
+    "title_synonyms": [
+      "Hakata Bus Terminal Theme Song"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 30, 2019"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.02,
+    "scored_by": 125,
+    "rank": null,
+    "popularity": 20433,
+    "members": 251,
+    "favorites": 0,
+    "synopsis": "A short theme song made by Takashi Taniguchi for the Hakata Bus Terminal in Fukuoka, Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42346,
+            "type": "anime",
+            "name": "Hakata Bus Terminal Gorou",
+            "url": "https://myanimelist.net/anime/42346/Hakata_Bus_Terminal_Gorou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.h-bt.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

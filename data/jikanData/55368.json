@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 55368,
+    "url": "https://myanimelist.net/anime/55368/PET",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/136005.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/136005t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/136005l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/136005.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/136005t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/136005l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "P.E.T."
+      },
+      {
+        "type": "Japanese",
+        "title": "P.E.T."
+      },
+      {
+        "type": "English",
+        "title": "P.E.T."
+      }
+    ],
+    "title": "P.E.T.",
+    "title_english": "P.E.T.",
+    "title_japanese": "P.E.T.",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.34,
+    "scored_by": 247,
+    "rank": null,
+    "popularity": 17171,
+    "members": 474,
+    "favorites": 2,
+    "synopsis": "Music video for the song P.E.T. by Sakamata Chloe.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wztmSx2_T6w"
+      }
+    ],
+    "streaming": []
+  }
+}

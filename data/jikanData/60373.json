@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 60373,
+    "url": "https://myanimelist.net/anime/60373/Heroine_to_Idol",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1138/146638.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/146638t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/146638l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1138/146638.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/146638t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/146638l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heroine to Idol"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヒロインとアイドル"
+      }
+    ],
+    "title": "Heroine to Idol",
+    "title_english": null,
+    "title_japanese": "ヒロインとアイドル",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2024"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49692,
+            "type": "anime",
+            "name": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
+            "url": "https://myanimelist.net/anime/49692/Heroine_Tarumono_Kiraware_Heroine_to_Naisho_no_Oshigoto"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

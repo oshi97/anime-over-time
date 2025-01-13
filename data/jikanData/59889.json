@@ -1,0 +1,182 @@
+{
+  "data": {
+    "mal_id": 59889,
+    "url": "https://myanimelist.net/anime/59889/Kidou_Keisatsu_Patlabor__EZY",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/145600.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/145600t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/145600l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1155/145600.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1155/145600t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1155/145600l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kidou Keisatsu Patlabor: EZY"
+      },
+      {
+        "type": "Synonym",
+        "title": "Patlabor The Mobile Police: EZY"
+      },
+      {
+        "type": "Japanese",
+        "title": "機動警察パトレイバー EZY（イズィー）"
+      }
+    ],
+    "title": "Kidou Keisatsu Patlabor: EZY",
+    "title_english": null,
+    "title_japanese": "機動警察パトレイバー EZY（イズィー）",
+    "title_synonyms": [
+      "Patlabor The Mobile Police: EZY"
+    ],
+    "type": null,
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2026-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2026
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2026 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 11454,
+    "members": 2236,
+    "favorites": 10,
+    "synopsis": "A new animation in the Kidou Keisatsu Patlabor series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Genco",
+        "url": "https://myanimelist.net/anime/producer/79/Genco"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1288,
+            "type": "anime",
+            "name": "Kidou Keisatsu Patlabor",
+            "url": "https://myanimelist.net/anime/1288/Kidou_Keisatsu_Patlabor"
+          },
+          {
+            "mal_id": 33741,
+            "type": "anime",
+            "name": "Kidou Keisatsu Patlabor: Reboot",
+            "url": "https://myanimelist.net/anime/33741/Kidou_Keisatsu_Patlabor__Reboot"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://patlabor.tokyo/"
+      },
+      {
+        "name": "@patlabor0810",
+        "url": "https://twitter.com/patlabor0810"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patlabor#Patlabor_EZY"
+      }
+    ],
+    "streaming": []
+  }
+}

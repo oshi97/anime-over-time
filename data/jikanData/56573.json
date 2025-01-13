@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56573,
+    "url": "https://myanimelist.net/anime/56573/Space_Donguibogam",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/138311.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/138311t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/138311l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/138311.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/138311t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/138311l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Space Donguibogam"
+      },
+      {
+        "type": "Japanese",
+        "title": "스페이스 동의보감"
+      }
+    ],
+    "title": "Space Donguibogam",
+    "title_english": null,
+    "title_japanese": "스페이스 동의보감",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-03T00:00:00+00:00",
+      "to": "2022-01-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": 26,
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "string": "Nov 3, 2021 to Jan 26, 2022"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14413,
+    "popularity": 24279,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56574,
+            "type": "anime",
+            "name": "Space Donguibogam 2",
+            "url": "https://myanimelist.net/anime/56574/Space_Donguibogam_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://programs.sbs.co.kr/culture/donguibogam/main#"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/스페이스_동의보감"
+      }
+    ],
+    "streaming": []
+  }
+}

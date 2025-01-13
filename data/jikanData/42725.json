@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 42725,
+    "url": "https://myanimelist.net/anime/42725/Sen_no_Hana_Sen_no_Sora",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1578/108949.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/108949t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/108949l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1578/108949.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/108949t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/108949l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sen no Hana Sen no Sora"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "千の花 千の空"
+      }
+    ],
+    "title": "Sen no Hana Sen no Sora",
+    "title_english": null,
+    "title_japanese": "千の花 千の空",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 1, 2005"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20514,
+    "members": 246,
+    "favorites": 0,
+    "synopsis": "Music video for the song Sen no Hana Sen no Sora by Manami Kiyota that was featured on NHK's Minna no Uta program. The video was animated by Atsuko Ishizuka.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN200510_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E7%94%B0%E6%84%9B%E6%9C%AA#%E4%BD%9C%E5%93%81"
+      }
+    ],
+    "streaming": []
+  }
+}

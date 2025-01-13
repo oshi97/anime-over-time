@@ -4,8 +4,8 @@ import writePotentialAnime from './writePotentialAnime.mjs';
 import writeSeasonalAnime from './writeSeasonalAnime.mjs';
 
 async function main() {
-  // writePotentialAnime();
-  // await writeJikanData();
+  writePotentialAnime();
+  await writeJikanData();
   writeSeasonalAnime();
   processDataForUI();
 }

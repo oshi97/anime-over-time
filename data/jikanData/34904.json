@@ -1,0 +1,182 @@
+{
+  "data": {
+    "mal_id": 34904,
+    "url": "https://myanimelist.net/anime/34904/Youjo_Senki__Senkyou_Houkoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84328.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84328t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84328l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/84328.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/84328t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/84328l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Youjo Senki: Senkyou Houkoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Youjo Senki Episode 6.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Youjo Senki Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "幼女戦記 第6.5話「戦況報告」"
+      },
+      {
+        "type": "English",
+        "title": "Saga of Tanya the Evil: War Report"
+      }
+    ],
+    "title": "Youjo Senki: Senkyou Houkoku",
+    "title_english": "Saga of Tanya the Evil: War Report",
+    "title_japanese": "幼女戦記 第6.5話「戦況報告」",
+    "title_synonyms": [
+      "Youjo Senki Episode 6.5",
+      "Youjo Senki Recap"
+    ],
+    "type": "TV Special",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 17, 2017"
+    },
+    "duration": "23 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.71,
+    "scored_by": 19623,
+    "rank": 5804,
+    "popularity": 3769,
+    "members": 38996,
+    "favorites": 37,
+    "synopsis": "Recap of the first 6 episodes of Youjo Senki.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1567,
+        "type": "anime",
+        "name": "Nut",
+        "url": "https://myanimelist.net/anime/producer/1567/Nut"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      },
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      },
+      {
+        "mal_id": 72,
+        "type": "anime",
+        "name": "Reincarnation",
+        "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 32615,
+            "type": "anime",
+            "name": "Youjo Senki",
+            "url": "https://myanimelist.net/anime/32615/Youjo_Senki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://youjo-senki.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11905"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18692"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yōjo_Senki"
+      }
+    ],
+    "streaming": []
+  }
+}

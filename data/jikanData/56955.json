@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56955,
+    "url": "https://myanimelist.net/anime/56955/Gekkouyoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1040/139200.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/139200t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/139200l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1040/139200.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/139200t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/139200l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gekkouyoku"
+      },
+      {
+        "type": "Japanese",
+        "title": "月光浴"
+      },
+      {
+        "type": "English",
+        "title": "Moonbath"
+      }
+    ],
+    "title": "Gekkouyoku",
+    "title_english": "Moonbath",
+    "title_japanese": "月光浴",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 19, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "scored_by": 281,
+    "rank": null,
+    "popularity": 15539,
+    "members": 677,
+    "favorites": 2,
+    "synopsis": "Music video for the song Gekkouyoku by Yorushika. The song was featured as the ending for the anime Ooyukiumi no Kaina: Hoshi no Kenja.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54122,
+            "type": "anime",
+            "name": "Ooyukiumi no Kaina: Hoshi no Kenja",
+            "url": "https://myanimelist.net/anime/54122/Ooyukiumi_no_Kaina__Hoshi_no_Kenja"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wUzvF5xm2C0"
+      }
+    ],
+    "streaming": []
+  }
+}

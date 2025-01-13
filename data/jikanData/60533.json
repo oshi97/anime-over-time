@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 60533,
+    "url": "https://myanimelist.net/anime/60533/Kodamasuru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1601/146977.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1601/146977t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1601/146977l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1601/146977.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1601/146977t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1601/146977l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kodamasuru"
+      },
+      {
+        "type": "Japanese",
+        "title": "谺する"
+      }
+    ],
+    "title": "Kodamasuru",
+    "title_english": null,
+    "title_japanese": "谺する",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 27, 2024"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27624,
+    "members": 50,
+    "favorites": 0,
+    "synopsis": "Music video for the song Kodamasuru by Masaki Suda.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2162,
+        "type": "anime",
+        "name": "Maxilla",
+        "url": "https://myanimelist.net/anime/producer/2162/Maxilla"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2177,
+        "type": "anime",
+        "name": "Mimoid",
+        "url": "https://myanimelist.net/anime/producer/2177/Mimoid"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sudamasaki-music.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cvpG8ppvbFY"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Masaki_Suda"
+      }
+    ],
+    "streaming": []
+  }
+}

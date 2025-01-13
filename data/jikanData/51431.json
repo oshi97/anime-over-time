@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 51431,
+    "url": "https://myanimelist.net/anime/51431/Mazinger_Z_x_Hello_Kitty_x_Chogokin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/121895.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/121895t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/121895l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/121895.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/121895t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/121895l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mazinger Z x Hello Kitty x Chogokin"
+      },
+      {
+        "type": "Japanese",
+        "title": "マジンガーZ×ハローキティ×超合金　"
+      }
+    ],
+    "title": "Mazinger Z x Hello Kitty x Chogokin",
+    "title_english": null,
+    "title_japanese": "マジンガーZ×ハローキティ×超合金　",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 6, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.65,
+    "scored_by": 230,
+    "rank": null,
+    "popularity": 15608,
+    "members": 664,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 150,
+        "type": "anime",
+        "name": "Sanrio",
+        "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+      },
+      {
+        "mal_id": 230,
+        "type": "anime",
+        "name": "Bandai",
+        "url": "https://myanimelist.net/anime/producer/230/Bandai"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51432,
+            "type": "anime",
+            "name": "Chogokin Hello Kitty",
+            "url": "https://myanimelist.net/anime/51432/Chogokin_Hello_Kitty"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 2253,
+            "type": "anime",
+            "name": "Mazinger Z",
+            "url": "https://myanimelist.net/anime/2253/Mazinger_Z"
+          },
+          {
+            "mal_id": 59572,
+            "type": "anime",
+            "name": "Chogokin Gundam★Hello Kitty",
+            "url": "https://myanimelist.net/anime/59572/Chogokin_Gundam★Hello_Kitty"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/I8sQ6GqvD8I"
+      }
+    ],
+    "streaming": []
+  }
+}

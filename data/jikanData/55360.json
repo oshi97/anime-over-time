@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 55360,
+    "url": "https://myanimelist.net/anime/55360/ABC-Mart_Grand_Stage_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1199/135987.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/135987t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/135987l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1199/135987.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/135987t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/135987l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "ABC-Mart Grand Stage CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ABCマートGRAND STAGE CMs"
+      }
+    ],
+    "title": "ABC-Mart Grand Stage CMs",
+    "title_english": null,
+    "title_japanese": "ABCマートGRAND STAGE CMs",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-03T00:00:00+00:00",
+      "to": "2024-08-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 8,
+          "month": 8,
+          "year": 2024
+        }
+      },
+      "string": "Mar 3, 2020 to Aug 8, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21972,
+    "members": 167,
+    "favorites": 0,
+    "synopsis": "Commercials for ABC-MART GRAND STAGE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1934,
+        "type": "anime",
+        "name": "Saigo no Shudan",
+        "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gs.abc-mart.net"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ABC%E3%83%9E%E3%83%BC%E3%83%88"
+      }
+    ],
+    "streaming": []
+  }
+}

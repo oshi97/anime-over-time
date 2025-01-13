@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 46400,
+    "url": "https://myanimelist.net/anime/46400/Ben_Ben_You_Youji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/129715.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/129715t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/129715l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1370/129715.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1370/129715t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1370/129715l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ben Ben You Youji"
+      },
+      {
+        "type": "Japanese",
+        "title": "笨笨悠游记"
+      }
+    ],
+    "title": "Ben Ben You Youji",
+    "title_english": null,
+    "title_japanese": "笨笨悠游记",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010 to ?"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19394,
+    "popularity": 26132,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46401,
+            "type": "anime",
+            "name": "Ben Ben You Youji: Chuanyue Huaxia",
+            "url": "https://myanimelist.net/anime/46401/Ben_Ben_You_Youji__Chuanyue_Huaxia"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep394117?from=search&seid=13318481007573616871"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%AC%A8%E7%AC%A8%E6%82%A0%E6%B8%B8%E8%AE%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

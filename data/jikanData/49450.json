@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 49450,
+    "url": "https://myanimelist.net/anime/49450/Oishinbo_Pilot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1380/117921.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/117921t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/117921l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1380/117921.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/117921t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/117921l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oishinbo Pilot"
+      },
+      {
+        "type": "Japanese",
+        "title": "美味しんぼパイロット"
+      }
+    ],
+    "title": "Oishinbo Pilot",
+    "title_english": null,
+    "title_japanese": "美味しんぼパイロット",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 21, 2016"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18110,
+    "popularity": 19360,
+    "members": 311,
+    "favorites": 2,
+    "synopsis": "The unaired pilot of Oishinbo, included with the first Blu-ray Box. It tells a similar story to that of episode two of the main series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1093,
+            "type": "anime",
+            "name": "Oishinbo",
+            "url": "https://myanimelist.net/anime/1093/Oishinbo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

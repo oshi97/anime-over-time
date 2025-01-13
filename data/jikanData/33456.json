@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 33456,
+    "url": "https://myanimelist.net/anime/33456/Fate_kaleid_liner_Prisma☆Illya_3rei_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1588/121787.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/121787t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/121787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1588/121787.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/121787t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/121787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Prisma Illya 3rei!! Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！『ビースト、再び！』"
+      },
+      {
+        "type": "English",
+        "title": "Fate/Kaleid Liner Prisma Illya 3rei!! Shorts"
+      }
+    ],
+    "title": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials",
+    "title_english": "Fate/Kaleid Liner Prisma Illya 3rei!! Shorts",
+    "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！『ビースト、再び！』",
+    "title_synonyms": [
+      "Prisma Illya 3rei!! Specials"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-30T00:00:00+00:00",
+      "to": "2017-02-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": 24,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      "string": "Sep 30, 2016 to Feb 24, 2017"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.68,
+    "scored_by": 10805,
+    "rank": 6021,
+    "popularity": 4512,
+    "members": 26883,
+    "favorites": 13,
+    "synopsis": "Specials included with the BD/DVD releases.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 300,
+        "type": "anime",
+        "name": "SILVER LINK.",
+        "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 9,
+        "type": "anime",
+        "name": "Ecchi",
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 31706,
+            "type": "anime",
+            "name": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+            "url": "https://myanimelist.net/anime/31706/Fate_kaleid_liner_Prisma☆Illya_3rei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://anime.prisma-illya.jp/3rei/product/bd/bd_1.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11639"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23762"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Fate/kaleid_liner_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%9E%E2%98%86%E3%82%A4%E3%83%AA%E3%83%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

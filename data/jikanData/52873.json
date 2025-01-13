@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 52873,
+    "url": "https://myanimelist.net/anime/52873/Sekai_no_Tsuzuki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1822/127288.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1822/127288t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1822/127288l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1822/127288.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1822/127288t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1822/127288l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sekai no Tsuzuki"
+      },
+      {
+        "type": "Japanese",
+        "title": "世界のつづき"
+      },
+      {
+        "type": "English",
+        "title": "The World's Continuation"
+      }
+    ],
+    "title": "Sekai no Tsuzuki",
+    "title_english": "The World's Continuation",
+    "title_japanese": "世界のつづき",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 17, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.28,
+    "scored_by": 1246,
+    "rank": null,
+    "popularity": 11671,
+    "members": 2105,
+    "favorites": 3,
+    "synopsis": "Music video for the song Sekai no Tsuzuki by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50410,
+            "type": "anime",
+            "name": "One Piece Film: Red",
+            "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sp.universal-music.co.jp/ado/uta-no-uta"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ado_(singer)#Singles"
+      }
+    ],
+    "streaming": []
+  }
+}

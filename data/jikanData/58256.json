@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 58256,
+    "url": "https://myanimelist.net/anime/58256/Super_Nuko_ni_Naritai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1996/141672.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1996/141672t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1996/141672l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1996/141672.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1996/141672t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1996/141672l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Super Nuko ni Naritai"
+      },
+      {
+        "type": "Japanese",
+        "title": "すーぱーぬこになりたい"
+      }
+    ],
+    "title": "Super Nuko ni Naritai",
+    "title_english": null,
+    "title_japanese": "すーぱーぬこになりたい",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 6, 2016"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23574,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": "Music video for the song Super Nuko ni Naritai by Mafumafu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 58255,
+            "type": "anime",
+            "name": "Super Nuko ni Narenkatta",
+            "url": "https://myanimelist.net/anime/58255/Super_Nuko_ni_Narenkatta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=75GL-BYZFfY&t=51s"
+      }
+    ],
+    "streaming": []
+  }
+}

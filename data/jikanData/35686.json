@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 35686,
+    "url": "https://myanimelist.net/anime/35686/Doraemon_2005_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/109880.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/109880t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/109880l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/109880.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/109880t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/109880l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doraemon (2005) Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Doraemon Crayon Shin-chan Haru da! Eiga da! 3-Jikan Anime Matsuri 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドラえもん (2005) Specials"
+      }
+    ],
+    "title": "Doraemon (2005) Specials",
+    "title_english": null,
+    "title_japanese": "ドラえもん (2005) Specials",
+    "title_synonyms": [
+      "Doraemon Crayon Shin-chan Haru da! Eiga da! 3-Jikan Anime Matsuri 2"
+    ],
+    "type": "TV Special",
+    "source": "Unknown",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2005-04-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 15, 2005 to ?"
+    },
+    "duration": "45 min",
+    "rating": "PG - Children",
+    "score": 6.75,
+    "scored_by": 463,
+    "rank": 5582,
+    "popularity": 12776,
+    "members": 1465,
+    "favorites": 5,
+    "synopsis": "59 Doraemon (2005) TV Specials exist as of January 24, 2018.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 966,
+            "type": "anime",
+            "name": "Crayon Shin-chan",
+            "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan"
+          },
+          {
+            "mal_id": 8687,
+            "type": "anime",
+            "name": "Doraemon (2005)",
+            "url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 44407,
+    "url": "https://myanimelist.net/anime/44407/Shinkai_2020",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/110603.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/110603t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/110603l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/110603.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/110603t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/110603l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinkai (2020)"
+      },
+      {
+        "type": "Japanese",
+        "title": "心海"
+      }
+    ],
+    "title": "Shinkai (2020)",
+    "title_english": null,
+    "title_japanese": "心海",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 7, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 7.37,
+    "scored_by": 1619,
+    "rank": null,
+    "popularity": 10831,
+    "members": 2696,
+    "favorites": 8,
+    "synopsis": "Music video arranged by Numa for the song Shinkai by Eve.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40787,
+            "type": "anime",
+            "name": "Josee to Tora to Sakana-tachi",
+            "url": "https://myanimelist.net/anime/40787/Josee_to_Tora_to_Sakana-tachi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eveofficial.com/discography/shinkai.html"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vRPCAAUBMms"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eve_(Japanese_singer)"
+      }
+    ],
+    "streaming": []
+  }
+}

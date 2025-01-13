@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 55412,
+    "url": "https://myanimelist.net/anime/55412/Touitten",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/136057.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/136057t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/136057l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1469/136057.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1469/136057t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1469/136057l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Touitten"
+      },
+      {
+        "type": "Japanese",
+        "title": "橙一点"
+      },
+      {
+        "type": "English",
+        "title": "Orange Point"
+      }
+    ],
+    "title": "Touitten",
+    "title_english": "Orange Point",
+    "title_japanese": "橙一点",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 30, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23138,
+    "members": 124,
+    "favorites": 0,
+    "synopsis": "Music video for the song Touitten by ShiShi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=eH8uTdU3710"
+      }
+    ],
+    "streaming": []
+  }
+}

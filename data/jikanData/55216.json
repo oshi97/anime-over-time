@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 55216,
+    "url": "https://myanimelist.net/anime/55216/Koe_Dake_ga",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1888/135706.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/135706t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/135706l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1888/135706.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/135706t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/135706l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koe Dake ga"
+      },
+      {
+        "type": "Synonym",
+        "title": "Koe?"
+      },
+      {
+        "type": "Japanese",
+        "title": "こえだけが"
+      }
+    ],
+    "title": "Koe Dake ga",
+    "title_english": null,
+    "title_japanese": "こえだけが",
+    "title_synonyms": [
+      "Koe?"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 9, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.76,
+    "scored_by": 431,
+    "rank": null,
+    "popularity": 14692,
+    "members": 865,
+    "favorites": 0,
+    "synopsis": "Music video for the song Koe Dake ga by Hatena. The song was featured as the second ending for Dr. Stone: Stone Wars.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55214,
+            "type": "anime",
+            "name": "Yume ja Nai (2020)",
+            "url": "https://myanimelist.net/anime/55214/Yume_ja_Nai_2020"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40852,
+            "type": "anime",
+            "name": "Dr. Stone: Stone Wars",
+            "url": "https://myanimelist.net/anime/40852/Dr_Stone__Stone_Wars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.hatena-web.com/koe"
+      }
+    ],
+    "streaming": []
+  }
+}

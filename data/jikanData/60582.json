@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 60582,
+    "url": "https://myanimelist.net/anime/60582/Cengjing_You_Yongshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1518/147074.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1518/147074t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1518/147074l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1518/147074.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1518/147074t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1518/147074l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "ZMlogMA-MjY",
+      "url": "https://www.youtube.com/watch?v=ZMlogMA-MjY",
+      "embed_url": "https://www.youtube.com/embed/ZMlogMA-MjY?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/ZMlogMA-MjY/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/ZMlogMA-MjY/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/ZMlogMA-MjY/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/ZMlogMA-MjY/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/ZMlogMA-MjY/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cengjing You Yongshi"
+      },
+      {
+        "type": "Synonym",
+        "title": "용사가 있었는데요"
+      },
+      {
+        "type": "Synonym",
+        "title": "There Was a Hero,Yongsa-ga Isseo-neundeyo"
+      },
+      {
+        "type": "Japanese",
+        "title": "曾经有勇士"
+      },
+      {
+        "type": "English",
+        "title": "So You're Raising a Warrior"
+      }
+    ],
+    "title": "Cengjing You Yongshi",
+    "title_english": "So You're Raising a Warrior",
+    "title_japanese": "曾经有勇士",
+    "title_synonyms": [
+      "용사가 있었는데요",
+      "There Was a Hero,Yongsa-ga Isseo-neundeyo"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 26304,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": "The contrastingly cute dragon, Al, the first king-killer in the demon world, who has a full combat score but is ready to die and longs for a happy retirement, bumps into the cunning human magician Le Fei, and accidentally becomes a super dad who raises Le Fei's son Dino. Will Dino be an ordinary and happy child, or will he bravely pick up the Warrior's Holy Sword and face his own destiny...\n\n(Source: Bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 53,
+        "type": "anime",
+        "name": "Childcare",
+        "url": "https://myanimelist.net/anime/genre/53/Childcare"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 150573,
+            "type": "manga",
+            "name": "So You're Raising a Warrior",
+            "url": "https://myanimelist.net/manga/150573/So_Youre_Raising_a_Warrior"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md21081688"
+      }
+    ],
+    "streaming": []
+  }
+}

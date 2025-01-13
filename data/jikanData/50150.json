@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 50150,
+    "url": "https://myanimelist.net/anime/50150/Ivy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1938/118850.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1938/118850t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1938/118850l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1938/118850.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1938/118850t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1938/118850l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ivy"
+      },
+      {
+        "type": "Japanese",
+        "title": "Ivy"
+      }
+    ],
+    "title": "Ivy",
+    "title_english": null,
+    "title_japanese": "Ivy",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 20, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.9,
+    "scored_by": 125,
+    "rank": null,
+    "popularity": 20505,
+    "members": 247,
+    "favorites": 0,
+    "synopsis": "A music video for the song Ivy from the second album Alstroemeria by Kano.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1011,
+        "type": "anime",
+        "name": "Warner Music Japan",
+        "url": "https://myanimelist.net/anime/producer/1011/Warner_Music_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39187,
+            "type": "anime",
+            "name": "Daisy Blue",
+            "url": "https://myanimelist.net/anime/39187/Daisy_Blue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://whv-amusic.com/kano/discography/album/index00090000.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2_(%E9%B9%BF%E4%B9%83%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+      }
+    ],
+    "streaming": []
+  }
+}

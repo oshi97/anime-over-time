@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 49529,
+    "url": "https://myanimelist.net/anime/49529/Beelzebuz",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/116851.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/116851t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/116851l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1123/116851.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/116851t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/116851l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Beelzebuz"
+      },
+      {
+        "type": "Japanese",
+        "title": "BEELZEBUZ"
+      },
+      {
+        "type": "English",
+        "title": "Beelzebuz"
+      }
+    ],
+    "title": "Beelzebuz",
+    "title_english": "Beelzebuz",
+    "title_japanese": "BEELZEBUZ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.98,
+    "scored_by": 188,
+    "rank": null,
+    "popularity": 17956,
+    "members": 411,
+    "favorites": 2,
+    "synopsis": "Music video for the song Beelzebuz by Fake-Type.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.faketype.net/music-clips"
+      }
+    ],
+    "streaming": []
+  }
+}

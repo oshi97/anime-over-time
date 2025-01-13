@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 35006,
+    "url": "https://myanimelist.net/anime/35006/Happy_Party_Train",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/84529.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/84529t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/84529l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/84529.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/84529t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/84529l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Happy Party Train"
+      },
+      {
+        "type": "Synonym",
+        "title": "Love Live! Sunshine!!: Happy Party Train"
+      },
+      {
+        "type": "Japanese",
+        "title": "HAPPY PARTY TRAIN"
+      }
+    ],
+    "title": "Happy Party Train",
+    "title_english": null,
+    "title_japanese": "HAPPY PARTY TRAIN",
+    "title_synonyms": [
+      "Love Live! Sunshine!!: Happy Party Train"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 5, 2017"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": 7.5,
+    "scored_by": 5130,
+    "rank": null,
+    "popularity": 6767,
+    "members": 9867,
+    "favorites": 19,
+    "synopsis": "Music video included with the third single for the Love Live! Sunshine!! anime idol group Aqours.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 104,
+        "type": "anime",
+        "name": "Lantis",
+        "url": "https://myanimelist.net/anime/producer/104/Lantis"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lovelive-anime.jp/uranohoshi/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=eVwdeIDjXeM"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!"
+      }
+    ],
+    "streaming": []
+  }
+}

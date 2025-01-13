@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 53013,
+    "url": "https://myanimelist.net/anime/53013/Let_You_Down",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1300/128136.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1300/128136t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1300/128136l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1300/128136.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1300/128136t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1300/128136l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Let You Down"
+      },
+      {
+        "type": "Japanese",
+        "title": "Let You Down"
+      },
+      {
+        "type": "English",
+        "title": "Let You Down"
+      }
+    ],
+    "title": "Let You Down",
+    "title_english": "Let You Down",
+    "title_japanese": "Let You Down",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 12, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.82,
+    "scored_by": 6989,
+    "rank": null,
+    "popularity": 6493,
+    "members": 10851,
+    "favorites": 26,
+    "synopsis": "Music video for the song Let You Down by Dawid Podsiadło.\n\nThis song also serves as the ending theme for the anime Cyberpunk: Edgerunners.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2594,
+        "type": "anime",
+        "name": "CD Projekt Red",
+        "url": "https://myanimelist.net/anime/producer/2594/CD_Projekt_Red"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2411,
+        "type": "anime",
+        "name": "Studio Massket",
+        "url": "https://myanimelist.net/anime/producer/2411/Studio_Massket"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42310,
+            "type": "anime",
+            "name": "Cyberpunk: Edgerunners",
+            "url": "https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BnnbP7pCIvQ"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 55342,
+    "url": "https://myanimelist.net/anime/55342/Mannequin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/135955.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/135955t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/135955l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/135955.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/135955t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/135955l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mannequin"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mannequin feat. Hatsune Miku"
+      },
+      {
+        "type": "Japanese",
+        "title": "マネキン"
+      },
+      {
+        "type": "English",
+        "title": "Mannequin"
+      }
+    ],
+    "title": "Mannequin",
+    "title_english": "Mannequin",
+    "title_japanese": "マネキン",
+    "title_synonyms": [
+      "Mannequin feat. Hatsune Miku"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 9, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.38,
+    "scored_by": 195,
+    "rank": null,
+    "popularity": 18602,
+    "members": 361,
+    "favorites": 0,
+    "synopsis": "Music video for the song ' Mannequin by DECO*27 feat. Hatsune Miku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2561,
+        "type": "anime",
+        "name": "OTOIRO",
+        "url": "https://myanimelist.net/anime/producer/2561/OTOIRO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Q1_vm1TwYyU&ab_channel=DECO%2a27"
+      }
+    ],
+    "streaming": []
+  }
+}

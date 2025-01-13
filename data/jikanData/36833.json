@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36833,
+    "url": "https://myanimelist.net/anime/36833/Fate_kaleid_liner_Prisma☆Illya_Movie__Sekka_no_Chikai_-_Kuro_Sakura_no_Heya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1047/103495.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1047/103495t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1047/103495l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1047/103495.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1047/103495t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1047/103495l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い 黒桜の部屋"
+      },
+      {
+        "type": "English",
+        "title": "Fate/Kaleid Liner Prisma Illya: Vow in the Snow - Dark Sakura's Room"
+      }
+    ],
+    "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya",
+    "title_english": "Fate/Kaleid Liner Prisma Illya: Vow in the Snow - Dark Sakura's Room",
+    "title_japanese": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い 黒桜の部屋",
+    "title_synonyms": [
+      "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow Special"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 31, 2018"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.71,
+    "scored_by": 7805,
+    "rank": 5827,
+    "popularity": 4859,
+    "members": 22508,
+    "favorites": 7,
+    "synopsis": "Included with the limited edition BD of Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 113,
+        "type": "anime",
+        "name": "Kadokawa Shoten",
+        "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 300,
+        "type": "anime",
+        "name": "SILVER LINK.",
+        "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 34100,
+            "type": "anime",
+            "name": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+            "url": "https://myanimelist.net/anime/34100/Fate_kaleid_liner_Prisma☆Illya_Movie__Sekka_no_Chikai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://anime.prisma-illya.jp/movie/sekka/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12420"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya"
+      }
+    ],
+    "streaming": []
+  }
+}

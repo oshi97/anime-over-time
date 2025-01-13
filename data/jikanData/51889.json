@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 51889,
+    "url": "https://myanimelist.net/anime/51889/Pokemon_Kids_TV_Douyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/123965.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/123965t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/123965l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/123965.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/123965t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/123965l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Kids TV Douyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Kids TV Children Songs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモン Kids TV 童謡 (どうよう)"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Kids TV: Nursery Rhymes"
+      }
+    ],
+    "title": "Pokemon Kids TV Douyou",
+    "title_english": "Pokémon Kids TV: Nursery Rhymes",
+    "title_japanese": "ポケモン Kids TV 童謡 (どうよう)",
+    "title_synonyms": [
+      "Pokemon Kids TV Children Songs"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2019-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 1, 2019 to ?"
+    },
+    "duration": "2 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 15451,
+    "members": 692,
+    "favorites": 0,
+    "synopsis": "A collection of assorted animated nursery rhymes and children songs released on Pokemon Kids TV Japan YouTube Channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1229,
+        "type": "anime",
+        "name": "Pie in the sky",
+        "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+      },
+      {
+        "mal_id": 1961,
+        "type": "anime",
+        "name": "Creatures Inc.",
+        "url": "https://myanimelist.net/anime/producer/1961/Creatures_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtube.com/c/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3KidsTV"
+      }
+    ],
+    "streaming": []
+  }
+}

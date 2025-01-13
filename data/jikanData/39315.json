@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 39315,
+    "url": "https://myanimelist.net/anime/39315/Kekkaishi__Yoshimori_no_Omoi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1439/99152.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/99152t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/99152l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1439/99152.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/99152t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/99152l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kekkaishi: Yoshimori no Omoi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kekkaishi Recap"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kekkaishi: Yoshimori's Feelings"
+      },
+      {
+        "type": "Japanese",
+        "title": "結界師 良守の想い"
+      }
+    ],
+    "title": "Kekkaishi: Yoshimori no Omoi",
+    "title_english": null,
+    "title_japanese": "結界師 良守の想い",
+    "title_synonyms": [
+      "Kekkaishi Recap",
+      "Kekkaishi: Yoshimori's Feelings"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-05-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 5,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 25, 2007"
+    },
+    "duration": "25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.43,
+    "scored_by": 259,
+    "rank": 7489,
+    "popularity": 13973,
+    "members": 1054,
+    "favorites": 1,
+    "synopsis": "Recap of Kekkaishi included in DVD Vol.4.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 1606,
+            "type": "anime",
+            "name": "Kekkaishi",
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.sunrise-inc.co.jp/kekkaishi/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4574"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kekkaishi"
+      }
+    ],
+    "streaming": []
+  }
+}

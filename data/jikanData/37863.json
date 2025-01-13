@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 37863,
+    "url": "https://myanimelist.net/anime/37863/Diamond_Fusion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/92803.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/92803t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/92803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/92803.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/92803t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/92803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Diamond Fusion"
+      },
+      {
+        "type": "Synonym",
+        "title": "IDOLiSH7: Diamond Fusion/TRIGGER"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドリッシュセブン『DIAMOND FUSION/TRIGGER』"
+      }
+    ],
+    "title": "Diamond Fusion",
+    "title_english": null,
+    "title_japanese": "アイドリッシュセブン『DIAMOND FUSION/TRIGGER』",
+    "title_synonyms": [
+      "IDOLiSH7: Diamond Fusion/TRIGGER"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 30, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 7.14,
+    "scored_by": 1363,
+    "rank": null,
+    "popularity": 10584,
+    "members": 2905,
+    "favorites": 9,
+    "synopsis": "Official music video for TRIGGER's song DIAMOND FUSION also released on their \"HEAVENLY VISITOR\" album. The male idol group is primarily a rival to IDOLiSH7, the latter of which is also the name of the overall game franchise being adapted.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33899,
+            "type": "anime",
+            "name": "IDOLiSH7",
+            "url": "https://myanimelist.net/anime/33899/IDOLiSH7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

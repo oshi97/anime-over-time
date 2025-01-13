@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48530,
+    "url": "https://myanimelist.net/anime/48530/Knockin_Fantasy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/113630.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/113630t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/113630l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1173/113630.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1173/113630t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1173/113630l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Knockin' Fantasy"
+      },
+      {
+        "type": "Japanese",
+        "title": "Knockin' Fantasy"
+      },
+      {
+        "type": "English",
+        "title": "Knockin' Fantasy"
+      }
+    ],
+    "title": "Knockin' Fantasy",
+    "title_english": "Knockin' Fantasy",
+    "title_japanese": "Knockin' Fantasy",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 14, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.17,
+    "scored_by": 163,
+    "rank": null,
+    "popularity": 19060,
+    "members": 330,
+    "favorites": 0,
+    "synopsis": "A music video for one of Ensemble Star's units, Switch, of their song Knockin' Fantasy.",
+    "background": "The song is part of the Ensemble Stars! Unit Song CD 2 Vol.8 Switch album, which is the first single released by Switch.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/discography/16"
+      }
+    ],
+    "streaming": []
+  }
+}

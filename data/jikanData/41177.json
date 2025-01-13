@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 41177,
+    "url": "https://myanimelist.net/anime/41177/Parade_2019",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/105705.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/105705t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/105705l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1306/105705.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/105705t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/105705l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Parade (2019)"
+      },
+      {
+        "type": "Japanese",
+        "title": "パレード"
+      }
+    ],
+    "title": "Parade (2019)",
+    "title_english": null,
+    "title_japanese": "パレード",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 11, 2019"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.54,
+    "scored_by": 451,
+    "rank": null,
+    "popularity": 14680,
+    "members": 869,
+    "favorites": 0,
+    "synopsis": "A music video for the song Parade by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://yorushika.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

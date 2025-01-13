@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 50288,
+    "url": "https://myanimelist.net/anime/50288/Cinderella",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1812/119161.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/119161t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/119161l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1812/119161.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/119161t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/119161l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cinderella"
+      },
+      {
+        "type": "Japanese",
+        "title": "シンデレラ"
+      },
+      {
+        "type": "English",
+        "title": "Cinderella"
+      }
+    ],
+    "title": "Cinderella",
+    "title_english": "Cinderella",
+    "title_japanese": "シンデレラ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 1, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.87,
+    "scored_by": 1373,
+    "rank": null,
+    "popularity": 11073,
+    "members": 2513,
+    "favorites": 6,
+    "synopsis": "Through their mutual longing to escape the monotony of everyday life, two young women write a new tale to bring their vivid fantasies into reality.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1854,
+        "type": "anime",
+        "name": "monofilmo",
+        "url": "https://myanimelist.net/anime/producer/1854/monofilmo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 48926,
+            "type": "anime",
+            "name": "Komi-san wa, Comyushou desu.",
+            "url": "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=utqcdq6AqZg"
+      }
+    ],
+    "streaming": []
+  }
+}

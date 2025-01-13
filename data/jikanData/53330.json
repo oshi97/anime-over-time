@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 53330,
+    "url": "https://myanimelist.net/anime/53330/The_Circle_Of_Butterflies",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/129102.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/129102t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/129102l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/129102.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/129102t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/129102l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The Circle Of Butterflies"
+      },
+      {
+        "type": "Synonym",
+        "title": "Morfonica×佐藤純一(fhána)"
+      },
+      {
+        "type": "Japanese",
+        "title": "The Circle Of Butterflies"
+      }
+    ],
+    "title": "The Circle Of Butterflies",
+    "title_english": null,
+    "title_japanese": "The Circle Of Butterflies",
+    "title_synonyms": [
+      "Morfonica×佐藤純一(fhána)"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 24, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.46,
+    "scored_by": 253,
+    "rank": null,
+    "popularity": 16724,
+    "members": 518,
+    "favorites": 1,
+    "synopsis": "Animated music video for the song The Circle Of Butterflies by Morfonica. This song is a collaboration with Junichi Satou of fhána who composed, and arranged the track.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2379,
+        "type": "anime",
+        "name": "Scooter Films",
+        "url": "https://myanimelist.net/anime/producer/2379/Scooter_Films"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 51989,
+            "type": "anime",
+            "name": "BanG Dream! Morfonication",
+            "url": "https://myanimelist.net/anime/51989/BanG_Dream_Morfonication"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/JfhgKn1hnnk"
+      }
+    ],
+    "streaming": []
+  }
+}

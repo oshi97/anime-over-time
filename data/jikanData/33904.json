@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 33904,
+    "url": "https://myanimelist.net/anime/33904/Suntory_Tennensui_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81598.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81598t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81598l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81598.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81598t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81598l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Suntory Tennensui CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "サントリー天然水CMs"
+      }
+    ],
+    "title": "Suntory Tennensui CMs",
+    "title_english": null,
+    "title_japanese": "サントリー天然水CMs",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-01T00:00:00+00:00",
+      "to": "2020-03-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": 24,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "2013 to Mar 24, 2020"
+    },
+    "duration": "19 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.11,
+    "scored_by": 487,
+    "rank": null,
+    "popularity": 12859,
+    "members": 1432,
+    "favorites": 0,
+    "synopsis": "Suntory commercials set in the alps.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31108,
+            "type": "anime",
+            "name": "Green Dakara x Bakemono no Ko",
+            "url": "https://myanimelist.net/anime/31108/Green_Dakara_x_Bakemono_no_Ko"
+          },
+          {
+            "mal_id": 33902,
+            "type": "anime",
+            "name": "Suntory Minami Alps no Tennensui",
+            "url": "https://myanimelist.net/anime/33902/Suntory_Minami_Alps_no_Tennensui"
+          },
+          {
+            "mal_id": 38028,
+            "type": "anime",
+            "name": "Green Dakara x Mirai no Mirai",
+            "url": "https://myanimelist.net/anime/38028/Green_Dakara_x_Mirai_no_Mirai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.suntory.co.jp/water/tennensui/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E5%A4%A9%E7%84%B6%E6%B0%B4"
+      }
+    ],
+    "streaming": []
+  }
+}

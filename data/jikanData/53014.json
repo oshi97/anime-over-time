@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 53014,
+    "url": "https://myanimelist.net/anime/53014/Kimi_no_Suki_ni_Deaou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1355/128171.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1355/128171t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/128171l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1355/128171.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1355/128171t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/128171l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kimi no Suki ni Deaou."
+      },
+      {
+        "type": "Japanese",
+        "title": "キミの好きに出会おう。"
+      }
+    ],
+    "title": "Kimi no Suki ni Deaou.",
+    "title_english": null,
+    "title_japanese": "キミの好きに出会おう。",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-17T00:00:00+00:00",
+      "to": "2021-09-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": 30,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Mar 17, 2021 to Sep 30, 2021"
+    },
+    "duration": "31 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.95,
+    "scored_by": 148,
+    "rank": null,
+    "popularity": 18705,
+    "members": 353,
+    "favorites": 0,
+    "synopsis": "Commercials directed by Toshitaka Shinoda for the d-anime store. They feature the song \"Matasaburo\" by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1334,
+        "type": "anime",
+        "name": "Docomo Anime Store",
+        "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1936,
+        "type": "anime",
+        "name": "Liberty Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1936/Liberty_Animation_Studio"
+      },
+      {
+        "mal_id": 2570,
+        "type": "anime",
+        "name": "Ijigen Tokyo",
+        "url": "https://myanimelist.net/anime/producer/2570/Ijigen_Tokyo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53275,
+            "type": "anime",
+            "name": "Suki ni Zen Furou",
+            "url": "https://myanimelist.net/anime/53275/Suki_ni_Zen_Furou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

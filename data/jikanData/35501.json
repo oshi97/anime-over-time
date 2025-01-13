@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 35501,
+    "url": "https://myanimelist.net/anime/35501/Mahou_Shoujo_Lyrical_Nanoha_Picture_Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/85556.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/85556t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/85556l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/85556.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/85556t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/85556l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mahou Shoujo Lyrical Nanoha Picture Drama"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nanoha Picture Drama 01"
+      },
+      {
+        "type": "Japanese",
+        "title": "法少女リリカルなのは ピクチャードラマ 魔法少女リリカルIF"
+      }
+    ],
+    "title": "Mahou Shoujo Lyrical Nanoha Picture Drama",
+    "title_english": null,
+    "title_japanese": "法少女リリカルなのは ピクチャードラマ 魔法少女リリカルIF",
+    "title_synonyms": [
+      "Mahou Shoujo Lyrical Nanoha: Picture Drama - Mahou Shoujo Lyrical IF",
+      "Nanoha Picture Drama 01"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 1, 2014"
+    },
+    "duration": "7 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.83,
+    "scored_by": 312,
+    "rank": 10742,
+    "popularity": 12797,
+    "members": 1458,
+    "favorites": 1,
+    "synopsis": "A picture drama released on the BD Box Set of Mahou Shoujo Lyrical Nanoha. Subaru, Teana, Vivio host a radio show promoting their own BD Box Sets. They state that this episode contains content that spoils part of Mahou Shoujo Lyrical Nanoha A's and recommend that the viewer have seen either the A's TV series or the A's film before watching this picture drama.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32316,
+            "type": "anime",
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's Mini Picture Drama",
+            "url": "https://myanimelist.net/anime/32316/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_Mini_Picture_Drama"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 76,
+            "type": "anime",
+            "name": "Mahou Shoujo Lyrical Nanoha",
+            "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kingrecords.co.jp/cs/g/gKIXA-90435/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2430"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magical_Girl_Lyrical_Nanoha"
+      }
+    ],
+    "streaming": []
+  }
+}

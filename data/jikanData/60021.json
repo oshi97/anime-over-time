@@ -1,0 +1,114 @@
+{
+  "data": {
+    "mal_id": 60021,
+    "url": "https://myanimelist.net/anime/60021/Good_Morning_2024",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1249/145883.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/145883t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/145883l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1249/145883.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/145883t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/145883l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Good Morning (2024)"
+      }
+    ],
+    "title": "Good Morning (2024)",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 3, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23114,
+    "members": 125,
+    "favorites": 0,
+    "synopsis": "Music video for the song Good Morning by Minami. The song was featured as the theme song for the TV program Good! Morning.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4houEo1_9mI"
+      }
+    ],
+    "streaming": []
+  }
+}

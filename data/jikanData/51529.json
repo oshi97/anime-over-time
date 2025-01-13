@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 51529,
+    "url": "https://myanimelist.net/anime/51529/Kamisama_no_Idenshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1284/122281.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1284/122281t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1284/122281l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1284/122281.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1284/122281t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1284/122281l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kamisama no Idenshi"
+      },
+      {
+        "type": "Japanese",
+        "title": "神様の遺伝子"
+      }
+    ],
+    "title": "Kamisama no Idenshi",
+    "title_english": null,
+    "title_japanese": "神様の遺伝子",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 18, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.21,
+    "scored_by": 175,
+    "rank": null,
+    "popularity": 19250,
+    "members": 318,
+    "favorites": 0,
+    "synopsis": "Animated music video for the song Kamisama no Idenshi by Mafumafu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/6pHWoFXMs6s"
+      }
+    ],
+    "streaming": []
+  }
+}

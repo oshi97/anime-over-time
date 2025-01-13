@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 42832,
+    "url": "https://myanimelist.net/anime/42832/Tales_of_Crestoria__Toga_Waga_wo_Shoite_Kare_wa_Tatsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/109133.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/109133t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/109133l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/109133.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/109133t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/109133l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "TALES OF CRESTORIA-咎我ヲ背負いて彼は発つ-"
+      },
+      {
+        "type": "English",
+        "title": "Tales of Crestoria: The Wake of Sin"
+      }
+    ],
+    "title": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu",
+    "title_english": "Tales of Crestoria: The Wake of Sin",
+    "title_japanese": "TALES OF CRESTORIA-咎我ヲ背負いて彼は発つ-",
+    "title_synonyms": [],
+    "type": "TV Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 18, 2020"
+    },
+    "duration": "14 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 1572,
+    "rank": 6660,
+    "popularity": 10008,
+    "members": 3454,
+    "favorites": 4,
+    "synopsis": "Short animated TV special depicting the prologue of the main story of TALES OF CRESTORIA, showing Kanata and Misella setting off on their journey.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38361,
+            "type": "anime",
+            "name": "Tales of Crestoria",
+            "url": "https://myanimelist.net/anime/38361/Tales_of_Crestoria"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://crestoria.tales-ch.jp/anime/"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-280055"
+      }
+    ]
+  }
+}

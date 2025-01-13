@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 60012,
+    "url": "https://myanimelist.net/anime/60012/Re_Zero_kara_Hajimeru_Break_Time_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1349/145863.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1349/145863t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1349/145863l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1349/145863.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1349/145863t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1349/145863l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Re:Zero kara Hajimeru Break Time 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Re:ZERO ~Starting Break Time From Zero~ 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Re:Zero kara Hajimeru Kyuukei Jikan 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "Re:ゼロから始める休憩時間（ブレイクタイム）3rd season"
+      },
+      {
+        "type": "English",
+        "title": "Re:ZERO ~Starting Break Time From Zero~ Season 3"
+      }
+    ],
+    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
+    "title_english": "Re:ZERO ~Starting Break Time From Zero~ Season 3",
+    "title_japanese": "Re:ゼロから始める休憩時間（ブレイクタイム）3rd season",
+    "title_synonyms": [
+      "Re:ZERO ~Starting Break Time From Zero~ 3rd Season",
+      "Re:Zero kara Hajimeru Kyuukei Jikan 3"
+    ],
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-10-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 3, 2024 to ?"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.27,
+    "scored_by": 773,
+    "rank": 2977,
+    "popularity": 7657,
+    "members": 7204,
+    "favorites": 11,
+    "synopsis": "The third season of Re:Zero kara Hajimeru Kyuukei Jikan Break Time.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 443,
+        "type": "anime",
+        "name": "Studio PuYUKAI",
+        "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42364,
+            "type": "anime",
+            "name": "Re:Zero kara Hajimeru Break Time 2nd Season",
+            "url": "https://myanimelist.net/anime/42364/Re_Zero_kara_Hajimeru_Break_Time_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 54857,
+            "type": "anime",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "url": "https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Re:Zero"
+      }
+    ],
+    "streaming": []
+  }
+}

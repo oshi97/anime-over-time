@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 48882,
+    "url": "https://myanimelist.net/anime/48882/Hare_Butai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1735/114711.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/114711t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/114711l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1735/114711.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/114711t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/114711l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hare Butai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "晴れ舞台"
+      }
+    ],
+    "title": "Hare Butai",
+    "title_english": null,
+    "title_japanese": "晴れ舞台",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-12-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 1, 2008"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22261,
+    "members": 155,
+    "favorites": 0,
+    "synopsis": "An animated music video for Jero's Hare Butai single, aired on NHK's Minna no Uta.\n\nWith this video, Jero wanted to express gratitude to her grandmother, who died three years before he became famous in Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2250,
+        "type": "anime",
+        "name": "Spooky graphic",
+        "url": "https://myanimelist.net/anime/producer/2250/Spooky_graphic"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN200812_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%99%B4%E3%82%8C%E8%88%9E%E5%8F%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

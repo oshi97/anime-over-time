@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 60599,
+    "url": "https://myanimelist.net/anime/60599/Plus",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1444/147114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/147114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/147114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1444/147114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/147114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/147114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Plus"
+      },
+      {
+        "type": "Japanese",
+        "title": "普拉斯"
+      },
+      {
+        "type": "English",
+        "title": "Plus"
+      }
+    ],
+    "title": "Plus",
+    "title_english": "Plus",
+    "title_japanese": "普拉斯",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 44212,
+            "type": "anime",
+            "name": "Shenhai",
+            "url": "https://myanimelist.net/anime/44212/Shenhai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

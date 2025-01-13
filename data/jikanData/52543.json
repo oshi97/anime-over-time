@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 52543,
+    "url": "https://myanimelist.net/anime/52543/Kotoba_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/126093.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/126093t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/126093l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/126093.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/126093t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/126093l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kotoba Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Synonym",
+        "title": "HaNaMiNa"
+      },
+      {
+        "type": "Japanese",
+        "title": "コトバウタ"
+      }
+    ],
+    "title": "Kotoba Uta",
+    "title_english": null,
+    "title_japanese": "コトバウタ",
+    "title_synonyms": [
+      "Irodorimidori",
+      "HaNaMiNa"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 10, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.65,
+    "scored_by": 195,
+    "rank": null,
+    "popularity": 18495,
+    "members": 370,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Kotoba Uta by the fictional band HaNaMiNa. It is the 75th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52542,
+            "type": "anime",
+            "name": "Forever and...",
+            "url": "https://myanimelist.net/anime/52542/Forever_and"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52544,
+            "type": "anime",
+            "name": "Shikisai Kajou no Diary Music",
+            "url": "https://myanimelist.net/anime/52544/Shikisai_Kajou_no_Diary_Music"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/0jHuiSAIW0Q"
+      }
+    ],
+    "streaming": []
+  }
+}

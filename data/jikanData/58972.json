@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 58972,
+    "url": "https://myanimelist.net/anime/58972/Manga_de_Wakaru_Fate_Grand_Order_Tankoubon_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1771/143387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1771/143387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1771/143387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1771/143387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1771/143387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1771/143387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Manga de Wakaru! Fate/Grand Order Tankoubon CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fgo book release CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "『マンガで分かる！ Fate/Grand Order』単行本発売記念TVCM"
+      }
+    ],
+    "title": "Manga de Wakaru! Fate/Grand Order Tankoubon CMs",
+    "title_english": null,
+    "title_japanese": "『マンガで分かる！ Fate/Grand Order』単行本発売記念TVCM",
+    "title_synonyms": [
+      "Fgo book release CMs"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-29T00:00:00+00:00",
+      "to": "2022-04-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 27,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "string": "Jul 29, 2017 to Apr 27, 2022"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20890,
+    "members": 225,
+    "favorites": 0,
+    "synopsis": "Short commercials released on FGOs official YouTube channel that will tell you everything about FGO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 113244,
+            "type": "manga",
+            "name": "Manga de Wakaru! Fate/Grand Order",
+            "url": "https://myanimelist.net/manga/113244/Manga_de_Wakaru_Fate_Grand_Order"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38958,
+            "type": "anime",
+            "name": "Manga de Wakaru! Fate/Grand Order",
+            "url": "https://myanimelist.net/anime/38958/Manga_de_Wakaru_Fate_Grand_Order"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.fate-go.jp/manga_fgo/"
+      }
+    ],
+    "streaming": []
+  }
+}

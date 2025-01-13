@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 58092,
+    "url": "https://myanimelist.net/anime/58092/Riberion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Riberion"
+      },
+      {
+        "type": "Japanese",
+        "title": "リベリオン"
+      },
+      {
+        "type": "English",
+        "title": "Rebellion"
+      }
+    ],
+    "title": "Riberion",
+    "title_english": "Rebellion",
+    "title_japanese": "リベリオン",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 25, 2022"
+    },
+    "duration": "35 sec",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

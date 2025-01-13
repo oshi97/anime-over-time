@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 34710,
+    "url": "https://myanimelist.net/anime/34710/Choco_Kyouju_no_Oheya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83687.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83687t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83687l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83687.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83687t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83687l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Choco Kyouju no Oheya"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meiji CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "チョコ教授のお部屋"
+      }
+    ],
+    "title": "Choco Kyouju no Oheya",
+    "title_english": null,
+    "title_japanese": "チョコ教授のお部屋",
+    "title_synonyms": [
+      "Meiji CM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 25, 2016"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 4.64,
+    "scored_by": 501,
+    "rank": null,
+    "popularity": 13381,
+    "members": 1234,
+    "favorites": 0,
+    "synopsis": "A Meiji commissioned commercial teaching viewers the health benefits of chocolate such as alleviating high blood pressure.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 25265,
+            "type": "anime",
+            "name": "Megumi to Taiyou: Kajuu Gummi Tweet Love Story",
+            "url": "https://myanimelist.net/anime/25265/Megumi_to_Taiyou__Kajuu_Gummi_Tweet_Love_Story"
+          },
+          {
+            "mal_id": 31165,
+            "type": "anime",
+            "name": "Meiji x Kokosake & anohana Receipt Oubo Campaign",
+            "url": "https://myanimelist.net/anime/31165/Meiji_x_Kokosake___anohana_Receipt_Oubo_Campaign"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.meiji.co.jp/chocohealthlife/oshiete/01/"
+      }
+    ],
+    "streaming": []
+  }
+}

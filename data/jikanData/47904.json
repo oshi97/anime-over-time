@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 47904,
+    "url": "https://myanimelist.net/anime/47904/Hololive_Alternative",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1692/112088.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1692/112088t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1692/112088l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1692/112088.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1692/112088t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1692/112088l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "3RxlzJWWzdY",
+      "url": "https://www.youtube.com/watch?v=3RxlzJWWzdY",
+      "embed_url": "https://www.youtube.com/embed/3RxlzJWWzdY?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/3RxlzJWWzdY/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/3RxlzJWWzdY/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/3RxlzJWWzdY/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/3RxlzJWWzdY/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/3RxlzJWWzdY/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hololive Alternative"
+      },
+      {
+        "type": "Japanese",
+        "title": "ホロライブ・オルタナティブ"
+      }
+    ],
+    "title": "Hololive Alternative",
+    "title_english": null,
+    "title_japanese": "ホロライブ・オルタナティブ",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Mixed media",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-21T00:00:00+00:00",
+      "to": "2022-06-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 11,
+          "month": 6,
+          "year": 2022
+        }
+      },
+      "string": "May 21, 2021 to Jun 11, 2022"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.93,
+    "scored_by": 6295,
+    "rank": null,
+    "popularity": 6332,
+    "members": 11497,
+    "favorites": 65,
+    "synopsis": "Promotional videos for Hololive Alternative multimedia project.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://alt.hololive.tv/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hololive_Production"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 50980,
+    "url": "https://myanimelist.net/anime/50980/Internet_Overdose",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1763/120846.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1763/120846t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1763/120846l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1763/120846.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1763/120846t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1763/120846l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Internet Overdose"
+      },
+      {
+        "type": "Japanese",
+        "title": "INTERNET OVERDOSE"
+      }
+    ],
+    "title": "Internet Overdose",
+    "title_english": null,
+    "title_japanese": "INTERNET OVERDOSE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 28, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.56,
+    "scored_by": 305,
+    "rank": null,
+    "popularity": 16772,
+    "members": 512,
+    "favorites": 6,
+    "synopsis": "Music video for the song Internet Overdose by Aiobahn feat. KOTOKO made to promote the game NEEDY GIRL OVERDOSE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57890,
+            "type": "anime",
+            "name": "Yume Juuya",
+            "url": "https://myanimelist.net/anime/57890/Yume_Juuya"
+          },
+          {
+            "mal_id": 56706,
+            "type": "anime",
+            "name": "Internet Yamero",
+            "url": "https://myanimelist.net/anime/56706/Internet_Yamero"
+          },
+          {
+            "mal_id": 57889,
+            "type": "anime",
+            "name": "Aru Hi no Gogo",
+            "url": "https://myanimelist.net/anime/57889/Aru_Hi_no_Gogo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BnkhBwzBqlQ&t"
+      }
+    ],
+    "streaming": []
+  }
+}

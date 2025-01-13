@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 54575,
+    "url": "https://myanimelist.net/anime/54575/Wo_Shi_Zhi_Xiao_Xiaoniao_2013",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/133605.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/133605t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/133605l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/133605.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/133605t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/133605l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo Shi Zhi Xiao Xiaoniao (2013)"
+      },
+      {
+        "type": "Japanese",
+        "title": "我是隻小小鳥"
+      },
+      {
+        "type": "English",
+        "title": "A Little Bird"
+      }
+    ],
+    "title": "Wo Shi Zhi Xiao Xiaoniao (2013)",
+    "title_english": "A Little Bird",
+    "title_japanese": "我是隻小小鳥",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2013"
+    },
+    "duration": "1 hr 33 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15182,
+    "popularity": 25779,
+    "members": 78,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2750,
+        "type": "anime",
+        "name": "Hu Po Donghua",
+        "url": "https://myanimelist.net/anime/producer/2750/Hu_Po_Donghua"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 54576,
+            "type": "anime",
+            "name": "Wo Shi Zhi Xiao Xiaoniao",
+            "url": "https://myanimelist.net/anime/54576/Wo_Shi_Zhi_Xiao_Xiaoniao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/24857847/"
+      }
+    ],
+    "streaming": []
+  }
+}

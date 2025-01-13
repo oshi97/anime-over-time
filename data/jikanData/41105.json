@@ -1,0 +1,191 @@
+{
+  "data": {
+    "mal_id": 41105,
+    "url": "https://myanimelist.net/anime/41105/Chihayafuru_3__Ima_Hitotabi_no",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/105666.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/105666t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/105666l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/105666.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/105666t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/105666l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chihayafuru 3: Ima Hitotabi no"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chihayafuru 3 Episode 15.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Chihayafuru 3: Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "ちはやふる 3 十五.五首（総集編）"
+      },
+      {
+        "type": "German",
+        "title": "Chihayafuru 3 Folge 15.5 – Dann würden sie darauf warten"
+      },
+      {
+        "type": "Spanish",
+        "title": "Chihayafuru 3 Episodio 15.5: Episodio Resumen"
+      },
+      {
+        "type": "French",
+        "title": "Chihayafuru 3 Épisode 15.5 – En visite"
+      }
+    ],
+    "title": "Chihayafuru 3: Ima Hitotabi no",
+    "title_english": null,
+    "title_japanese": "ちはやふる 3 十五.五首（総集編）",
+    "title_synonyms": [
+      "Chihayafuru 3 Episode 15.5",
+      "Chihayafuru 3: Recap"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2020"
+    },
+    "duration": "22 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "scored_by": 3472,
+    "rank": 5255,
+    "popularity": 6638,
+    "members": 10281,
+    "favorites": 12,
+    "synopsis": "Recap of first fifteen episodes of Chihayafuru 3.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 43,
+        "type": "anime",
+        "name": "Josei",
+        "url": "https://myanimelist.net/anime/genre/43/Josei"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 37379,
+            "type": "anime",
+            "name": "Chihayafuru 3",
+            "url": "https://myanimelist.net/anime/37379/Chihayafuru_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"COLORFUL\" by 99RadioService"
+      ],
+      "endings": [
+        "\"Hitomebore (一目惚れ)\" by Band Harassment (バンドハラスメント)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ntv.co.jp/chihayafuru/story/15-5/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13841"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chihayafuru"
+      }
+    ],
+    "streaming": []
+  }
+}

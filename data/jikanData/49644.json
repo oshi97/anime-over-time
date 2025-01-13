@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 49644,
+    "url": "https://myanimelist.net/anime/49644/We_Are_Us",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1015/117311.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/117311t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/117311l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1015/117311.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/117311t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/117311l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "We Are Us"
+      },
+      {
+        "type": "Japanese",
+        "title": "We Are Us"
+      },
+      {
+        "type": "English",
+        "title": "We Are Us"
+      }
+    ],
+    "title": "We Are Us",
+    "title_english": "We Are Us",
+    "title_japanese": "We Are Us",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 17, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.55,
+    "scored_by": 186,
+    "rank": null,
+    "popularity": 19036,
+    "members": 331,
+    "favorites": 0,
+    "synopsis": "We Are Us is Synthesizer Laboratory's first single. It was originally released on January 17, 2021.\n\n(Source: Irodorimidori Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52529,
+            "type": "anime",
+            "name": "Kimi to, Kono Shunkan",
+            "url": "https://myanimelist.net/anime/52529/Kimi_to_Kono_Shunkan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52530,
+            "type": "anime",
+            "name": "Jack the Game",
+            "url": "https://myanimelist.net/anime/52530/Jack_the_Game"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/CvCdfoDw6DA"
+      }
+    ],
+    "streaming": []
+  }
+}

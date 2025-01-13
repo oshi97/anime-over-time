@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 36599,
+    "url": "https://myanimelist.net/anime/36599/Muteki_We_Are_One",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88449.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88449t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88449l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88449.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88449t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88449l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Muteki We Are One!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "無敵We are one!!"
+      }
+    ],
+    "title": "Muteki We Are One!!",
+    "title_english": null,
+    "title_japanese": "無敵We are one!!",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 19, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.45,
+    "scored_by": 844,
+    "rank": null,
+    "popularity": 11829,
+    "members": 2008,
+    "favorites": 6,
+    "synopsis": "As the Maigahara Senior High School annual festival begins, the members of Irodorimidori finally present the piece they have long been practicing. With their singing hearts more united than ever, their resolve never falters as the group performs the best they can.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Muteki We Are One!! by the fictional band Irodorimidori. It is the seventh song in the franchise. The song was included with the first full Irodorimidori album titled \"Tani,\" released on October 19, 2016.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36598,
+            "type": "anime",
+            "name": "Heart Beat",
+            "url": "https://myanimelist.net/anime/36598/Heart_Beat"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36600,
+            "type": "anime",
+            "name": "Dokidoki Dream!!!",
+            "url": "https://myanimelist.net/anime/36600/Dokidoki_Dream"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song07.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

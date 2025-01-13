@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 33939,
+    "url": "https://myanimelist.net/anime/33939/Kyoto_Gakuen_Daigaku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81649.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81649t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81649l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/81649.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81649t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81649l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyoto Gakuen Daigaku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kyoto Gakuen University"
+      },
+      {
+        "type": "Japanese",
+        "title": "京都学園大学"
+      }
+    ],
+    "title": "Kyoto Gakuen Daigaku",
+    "title_english": null,
+    "title_japanese": "京都学園大学",
+    "title_synonyms": [
+      "Kyoto Gakuen University"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-07-18T00:00:00+00:00",
+      "to": "2015-11-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 7,
+          "year": 2014
+        },
+        "to": {
+          "day": 19,
+          "month": 11,
+          "year": 2015
+        }
+      },
+      "string": "Jul 18, 2014 to Nov 19, 2015"
+    },
+    "duration": "39 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.68,
+    "scored_by": 142,
+    "rank": null,
+    "popularity": 18123,
+    "members": 398,
+    "favorites": 0,
+    "synopsis": "Commercials for Kyoto Gakuen University with their official mascot Uzumasa Sono.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2979,
+        "type": "anime",
+        "name": "Kyoto University of Advanced Science",
+        "url": "https://myanimelist.net/anime/producer/2979/Kyoto_University_of_Advanced_Science"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2773,
+        "type": "anime",
+        "name": "Transistor Studio",
+        "url": "https://myanimelist.net/anime/producer/2773/Transistor_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/user/KyotoGakuenUniv"
+      }
+    ],
+    "streaming": []
+  }
+}

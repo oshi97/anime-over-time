@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 58343,
+    "url": "https://myanimelist.net/anime/58343/Mofu_no_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/141846.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/141846t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/141846l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1945/141846.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/141846t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/141846l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mofu no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Tiny Alien"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mofu Mofu"
+      },
+      {
+        "type": "Japanese",
+        "title": "モフのうた"
+      },
+      {
+        "type": "English",
+        "title": "Mofu's Song"
+      }
+    ],
+    "title": "Mofu no Uta",
+    "title_english": "Mofu's Song",
+    "title_japanese": "モフのうた",
+    "title_synonyms": [
+      "The Tiny Alien",
+      "Mofu Mofu"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21911,
+    "members": 169,
+    "favorites": 0,
+    "synopsis": "Music video for Mofu's plushie version.",
+    "background": "A song created while working on a prototype for a Mofu stuffed animal.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 5241,
+            "type": "anime",
+            "name": "Mofu☆Mofu",
+            "url": "https://myanimelist.net/anime/5241/Mofu☆Mofu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%95%E2%98%86%E3%83%A2%E3%83%95"
+      }
+    ],
+    "streaming": []
+  }
+}

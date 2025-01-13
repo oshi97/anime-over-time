@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 53253,
+    "url": "https://myanimelist.net/anime/53253/Berserk_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/128796.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/128796t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/128796l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/128796.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/128796t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/128796l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Berserk (Music)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ベルセルク"
+      }
+    ],
+    "title": "Berserk (Music)",
+    "title_english": null,
+    "title_japanese": "ベルセルク",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-10-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 10,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 31, 2015"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.64,
+    "scored_by": 294,
+    "rank": null,
+    "popularity": 16020,
+    "members": 603,
+    "favorites": 4,
+    "synopsis": "Music video for the song Berserk by Mafumafu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://uni-mafumafu.jp/movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5"
+      }
+    ],
+    "streaming": []
+  }
+}

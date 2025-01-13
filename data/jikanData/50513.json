@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 50513,
+    "url": "https://myanimelist.net/anime/50513/Tsubame",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/119865.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/119865t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/119865l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/119865.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/119865t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/119865l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsubame"
+      },
+      {
+        "type": "Synonym",
+        "title": "Swallow"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ツバメ"
+      }
+    ],
+    "title": "Tsubame",
+    "title_english": null,
+    "title_japanese": "ツバメ",
+    "title_synonyms": [
+      "Swallow",
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 2, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.69,
+    "scored_by": 385,
+    "rank": null,
+    "popularity": 15705,
+    "members": 651,
+    "favorites": 0,
+    "synopsis": "Music video for the song Tsubame by YOASOBI featuring special group Midories.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56721,
+            "type": "anime",
+            "name": "Tsubame: SDGs Anime Version",
+            "url": "https://myanimelist.net/anime/56721/Tsubame__SDGs_Anime_Version"
+          },
+          {
+            "mal_id": 58306,
+            "type": "anime",
+            "name": "Tsubame: Rainbow Version",
+            "url": "https://myanimelist.net/anime/58306/Tsubame__Rainbow_Version"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN202204_05/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsubame_(song)"
+      }
+    ],
+    "streaming": []
+  }
+}

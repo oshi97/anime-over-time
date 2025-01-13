@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 53339,
+    "url": "https://myanimelist.net/anime/53339/Naeyeop",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1551/129145.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1551/129145t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1551/129145l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1551/129145.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1551/129145t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1551/129145l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Naeyeop"
+      },
+      {
+        "type": "Synonym",
+        "title": "SURL - Beside"
+      },
+      {
+        "type": "Japanese",
+        "title": "내옆"
+      },
+      {
+        "type": "English",
+        "title": "Beside"
+      }
+    ],
+    "title": "Naeyeop",
+    "title_english": "Beside",
+    "title_japanese": "내옆",
+    "title_synonyms": [
+      "SURL - Beside"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 21, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21913,
+    "members": 169,
+    "favorites": 0,
+    "synopsis": "Music video for the song Naeyeop by the band SURL.\n\nI expressed love for the other person as a chair and visualized it as the chair is traveling. But I want to say that in the end, unrequited love ends in \"unrequited love\".\n\nThis music video was featured in the Seoul Indie Ani-Fest 2022.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

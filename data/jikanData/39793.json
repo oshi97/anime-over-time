@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 39793,
+    "url": "https://myanimelist.net/anime/39793/Ever_Green_Never_End",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/100934.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/100934t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/100934l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/100934.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/100934t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/100934l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ever Green Never End"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Ever green Never end"
+      },
+      {
+        "type": "English",
+        "title": "Ever green Never end"
+      }
+    ],
+    "title": "Ever Green Never End",
+    "title_english": "Ever green Never end",
+    "title_japanese": "Ever green Never end",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 8, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.82,
+    "scored_by": 553,
+    "rank": null,
+    "popularity": 13981,
+    "members": 1052,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Ever Green Never End by the fictional band Irodorimidori. It is the 40th song in the franchise and focuses on Shirona Tsukisuzu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39684,
+            "type": "anime",
+            "name": "Sayonara Freeway",
+            "url": "https://myanimelist.net/anime/39684/Sayonara_Freeway"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 40140,
+            "type": "anime",
+            "name": "Issei Kiyuukyoku: Divertimento",
+            "url": "https://myanimelist.net/anime/40140/Issei_Kiyuukyoku__Divertimento"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song040/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

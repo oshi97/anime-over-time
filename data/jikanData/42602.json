@@ -1,0 +1,116 @@
+{
+  "data": {
+    "mal_id": 42602,
+    "url": "https://myanimelist.net/anime/42602/Miloha_CM___Oresama_ni_Amae_Chai_na",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/121233.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/121233t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/121233l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/121233.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/121233t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/121233l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Miloha CM: Oresama ni, Amae Chai na"
+      },
+      {
+        "type": "Japanese",
+        "title": "Miloha（ミロハ）「オレ様に、甘えちゃいな。」"
+      }
+    ],
+    "title": "Miloha CM: Oresama ni, Amae Chai na",
+    "title_english": null,
+    "title_japanese": "Miloha（ミロハ）「オレ様に、甘えちゃいな。」",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2, 2020"
+    },
+    "duration": "20 sec",
+    "rating": "G - All Ages",
+    "score": 5.64,
+    "scored_by": 156,
+    "rank": null,
+    "popularity": 18569,
+    "members": 365,
+    "favorites": 1,
+    "synopsis": "A commercial for Morinaga's \"Miloha\" supplement milk drink, starring Keigo Atobe from Tennis no Ouji-sama.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Tennis no Oujisama",
+            "url": "https://myanimelist.net/anime/22/Tennis_no_Oujisama"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/sEUVgwaqdu4"
+      }
+    ],
+    "streaming": []
+  }
+}

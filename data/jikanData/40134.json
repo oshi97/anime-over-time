@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 40134,
+    "url": "https://myanimelist.net/anime/40134/Mahoutsukai_no_Yome__Gakuin-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1973/102117.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1973/102117t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1973/102117l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1973/102117.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1973/102117t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1973/102117l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mahoutsukai no Yome: Gakuin-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mahoutsukai no Yome: Gakuin-hen Comics Senden PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Magicians Bride: School Arc PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Ancient Magus' Bride: Academy Edition Manga PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "『魔法使いの嫁 学院篇』コミックス宣伝PV"
+      },
+      {
+        "type": "English",
+        "title": "The Ancient Magus' Bride: School Arc PV"
+      }
+    ],
+    "title": "Mahoutsukai no Yome: Gakuin-hen",
+    "title_english": "The Ancient Magus' Bride: School Arc PV",
+    "title_japanese": "『魔法使いの嫁 学院篇』コミックス宣伝PV",
+    "title_synonyms": [
+      "Mahoutsukai no Yome: Gakuin-hen Comics Senden PV",
+      "The Magicians Bride: School Arc PV",
+      "The Ancient Magus' Bride: Academy Edition Manga PV"
+    ],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 10, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "scored_by": 4711,
+    "rank": null,
+    "popularity": 5723,
+    "members": 14900,
+    "favorites": 19,
+    "synopsis": "A short ONA released on the MAGGardeninfo YouTube channel to promote the manga's 11th Volume. Immediately follows the events of the TV show, previewing material from the manga's as-of-yet unadapted 10th Volume with new original animation and voice acting.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 82,
+        "type": "anime",
+        "name": "Urban Fantasy",
+        "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 61189,
+            "type": "manga",
+            "name": "Mahoutsukai no Yome",
+            "url": "https://myanimelist.net/manga/61189/Mahoutsukai_no_Yome"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35062,
+            "type": "anime",
+            "name": "Mahoutsukai no Yome",
+            "url": "https://myanimelist.net/anime/35062/Mahoutsukai_no_Yome"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://magus-bride.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

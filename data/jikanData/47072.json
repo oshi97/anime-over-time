@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 47072,
+    "url": "https://myanimelist.net/anime/47072/Duo_Bao_Yijia_Ren",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/129186.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/129186t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/129186l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/129186.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/129186t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/129186l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Duo Bao Yijia Ren"
+      },
+      {
+        "type": "Japanese",
+        "title": "多宝一家人"
+      }
+    ],
+    "title": "Duo Bao Yijia Ren",
+    "title_english": null,
+    "title_japanese": "多宝一家人",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015 to ?"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20315,
+    "popularity": 26345,
+    "members": 72,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47073,
+            "type": "anime",
+            "name": "Duo Bao Yijia Ren: Zhihui Lunyu",
+            "url": "https://myanimelist.net/anime/47073/Duo_Bao_Yijia_Ren__Zhihui_Lunyu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1ZJ411t7ZQ/?from=search&seid=15179279876788673192"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%A4%9A%E5%AE%9D%E4%B8%80%E5%AE%B6%E4%BA%BA"
+      }
+    ],
+    "streaming": []
+  }
+}

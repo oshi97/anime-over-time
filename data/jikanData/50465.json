@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 50465,
+    "url": "https://myanimelist.net/anime/50465/Odoru_Pompokolin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1707/119672.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1707/119672t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1707/119672l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1707/119672.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1707/119672t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1707/119672l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Odoru Pompokolin"
+      },
+      {
+        "type": "Japanese",
+        "title": "おどるポンポコリン"
+      }
+    ],
+    "title": "Odoru Pompokolin",
+    "title_english": null,
+    "title_japanese": "おどるポンポコリン",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 16, 2019"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.03,
+    "scored_by": 114,
+    "rank": null,
+    "popularity": 20308,
+    "members": 258,
+    "favorites": 0,
+    "synopsis": "Animated music video for the song Odoru Pompokolin from Chibi Maruko-chan, covered by Momoiro Clover Z.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 6149,
+            "type": "anime",
+            "name": "Chibi Maruko-chan (1995)",
+            "url": "https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/ovrRdVce9Mc"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odoru_Pompokolin"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 60158,
+    "url": "https://myanimelist.net/anime/60158/Hai_to_Inari",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1113/146166.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1113/146166t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1113/146166l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1113/146166.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1113/146166t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1113/146166l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hai to Inari"
+      },
+      {
+        "type": "Synonym",
+        "title": "NieR:Automata Ver1.1a Ending 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "エンディングムービー"
+      },
+      {
+        "type": "English",
+        "title": "Hai to Inari"
+      }
+    ],
+    "title": "Hai to Inari",
+    "title_english": "Hai to Inari",
+    "title_japanese": "エンディングムービー",
+    "title_synonyms": [
+      "NieR:Automata Ver1.1a Ending 2"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-06-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 6,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 5, 2024"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51105,
+            "type": "anime",
+            "name": "NieR:Automata Ver1.1a",
+            "url": "https://myanimelist.net/anime/51105/NieR_Automata_Ver11a"
+          },
+          {
+            "mal_id": 56063,
+            "type": "anime",
+            "name": "NieR:Automata Ver1.1a Part 2",
+            "url": "https://myanimelist.net/anime/56063/NieR_Automata_Ver11a_Part_2"
+          },
+          {
+            "mal_id": 59562,
+            "type": "anime",
+            "name": "NieR:Automata Ver1.1a Part 2: Chapter. 13-18 Chousa Report",
+            "url": "https://myanimelist.net/anime/59562/NieR_Automata_Ver11a_Part_2__Chapter_13-18_Chousa_Report"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

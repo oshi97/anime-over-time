@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 54468,
+    "url": "https://myanimelist.net/anime/54468/Akatsuki_no_Chinkonka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1554/138143.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1554/138143t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1554/138143l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1554/138143.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1554/138143t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1554/138143l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akatsuki no Chinkonka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Akatsuki no Requiem"
+      },
+      {
+        "type": "Japanese",
+        "title": "暁の鎮魂歌"
+      },
+      {
+        "type": "English",
+        "title": "Requiem of the Dawn"
+      }
+    ],
+    "title": "Akatsuki no Chinkonka",
+    "title_english": "Requiem of the Dawn",
+    "title_japanese": "暁の鎮魂歌",
+    "title_synonyms": [
+      "Akatsuki no Requiem"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-09-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 9,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 19, 2018"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.34,
+    "scored_by": 1826,
+    "rank": null,
+    "popularity": 9472,
+    "members": 4103,
+    "favorites": 15,
+    "synopsis": "Animated music video for Linked Horizon's song \"Akatsuki no Chinkoka.\"",
+    "background": "The animated music video was included in Linked Horizon's limited edition disc release Rakuen e no Shingeki.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35760,
+            "type": "anime",
+            "name": "Shingeki no Kyojin Season 3",
+            "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shingeki.linked-horizon.com/release/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

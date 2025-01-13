@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 51312,
+    "url": "https://myanimelist.net/anime/51312/ph",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1150/121612.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1150/121612t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1150/121612l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1150/121612.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1150/121612t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1150/121612l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "p.h."
+      },
+      {
+        "type": "Synonym",
+        "title": "PH"
+      },
+      {
+        "type": "Japanese",
+        "title": "p.h."
+      }
+    ],
+    "title": "p.h.",
+    "title_english": null,
+    "title_japanese": "p.h.",
+    "title_synonyms": [
+      "PH"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 29, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21505,
+    "members": 191,
+    "favorites": 0,
+    "synopsis": "Animated music video for the song p.h. by SEVENTHLINKS feat. flower.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/AKQWRnZ_Fc0"
+      }
+    ],
+    "streaming": []
+  }
+}

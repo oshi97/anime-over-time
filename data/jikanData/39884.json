@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 39884,
+    "url": "https://myanimelist.net/anime/39884/Hajimari_no_Sokudo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/101152.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/101152t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/101152l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/101152.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/101152t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/101152l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hajimari no Sokudo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hajimarino Sokudo"
+      },
+      {
+        "type": "Japanese",
+        "title": "はじまりの速度"
+      }
+    ],
+    "title": "Hajimari no Sokudo",
+    "title_english": null,
+    "title_japanese": "はじまりの速度",
+    "title_synonyms": [
+      "Hajimarino Sokudo"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 1, 2016"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.34,
+    "scored_by": 1414,
+    "rank": null,
+    "popularity": 9791,
+    "members": 3721,
+    "favorites": 4,
+    "synopsis": "Music video for the song \"Hajimari no Sokudo\" by Sangatsu no Phantasia.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31798,
+            "type": "anime",
+            "name": "Kiznaiver",
+            "url": "https://myanimelist.net/anime/31798/Kiznaiver"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5xHpBN3TnA0"
+      }
+    ],
+    "streaming": []
+  }
+}

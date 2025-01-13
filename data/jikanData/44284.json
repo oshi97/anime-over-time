@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 44284,
+    "url": "https://myanimelist.net/anime/44284/Ai-mai_Chocolate",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1815/110526.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1815/110526t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1815/110526l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1815/110526.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1815/110526t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1815/110526l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ai-mai Chocolate"
+      },
+      {
+        "type": "Japanese",
+        "title": "Ai-mai Chocolate"
+      },
+      {
+        "type": "English",
+        "title": "Ai-mai Chocolate"
+      }
+    ],
+    "title": "Ai-mai Chocolate",
+    "title_english": "Ai-mai Chocolate",
+    "title_japanese": "Ai-mai Chocolate",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 12, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.81,
+    "scored_by": 250,
+    "rank": null,
+    "popularity": 17382,
+    "members": 455,
+    "favorites": 0,
+    "synopsis": "Official music video for Watame Tsunomaki's first full original song.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/P8OjkcLzYCM"
+      }
+    ],
+    "streaming": []
+  }
+}

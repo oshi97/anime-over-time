@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 53254,
+    "url": "https://myanimelist.net/anime/53254/Robomi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/128797.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/128797t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/128797l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/128797.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/128797t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/128797l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Robomi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ロボミ"
+      }
+    ],
+    "title": "Robomi",
+    "title_english": null,
+    "title_japanese": "ロボミ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 14, 2020"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.92,
+    "scored_by": 169,
+    "rank": null,
+    "popularity": 17142,
+    "members": 477,
+    "favorites": 0,
+    "synopsis": "Music video for the character song of Robomi from Granblue Fantasy.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34454,
+            "type": "anime",
+            "name": "Granblue Fantasy CMs",
+            "url": "https://myanimelist.net/anime/34454/Granblue_Fantasy_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://song.granbluefantasy.jp/cd20"
+      }
+    ],
+    "streaming": []
+  }
+}

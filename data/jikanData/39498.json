@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 39498,
+    "url": "https://myanimelist.net/anime/39498/Asobuild_Concept_Video",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/99700.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/99700t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/99700l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/99700.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/99700t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/99700l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Asobuild Concept Video"
+      },
+      {
+        "type": "Synonym",
+        "title": "Asobuild Teaser Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "アソビルティザームービー"
+      }
+    ],
+    "title": "Asobuild Concept Video",
+    "title_english": null,
+    "title_japanese": "アソビルティザームービー",
+    "title_synonyms": [
+      "Asobuild Teaser Movie"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 5, 2019"
+    },
+    "duration": "42 sec",
+    "rating": "PG - Children",
+    "score": 4.85,
+    "scored_by": 226,
+    "rank": null,
+    "popularity": 17038,
+    "members": 485,
+    "favorites": 0,
+    "synopsis": "Web commercial to promote the grand opening of the entertainment and recreational facility \"ASOBUILD.\" The building is made up of six floors, each with their own theme and unique attractions.",
+    "background": "Qiezi Mabo's character from his song Qiezi Mabo Forever makes a couple appearances throughout the commercial.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      },
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 37273,
+            "type": "anime",
+            "name": "Qiezi Mabo Forever",
+            "url": "https://myanimelist.net/anime/37273/Qiezi_Mabo_Forever"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://asobuild.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

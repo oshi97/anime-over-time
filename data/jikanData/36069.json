@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 36069,
+    "url": "https://myanimelist.net/anime/36069/Echolocation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/87189.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/87189t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/87189l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/87189.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/87189t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/87189l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Echolocation"
+      },
+      {
+        "type": "Synonym",
+        "title": "LITE"
+      },
+      {
+        "type": "Synonym",
+        "title": "Installation"
+      },
+      {
+        "type": "Japanese",
+        "title": "Echolocation"
+      },
+      {
+        "type": "English",
+        "title": "Echolocation"
+      }
+    ],
+    "title": "Echolocation",
+    "title_english": "Echolocation",
+    "title_japanese": "Echolocation",
+    "title_synonyms": [
+      "LITE",
+      "Installation"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 28, 2014"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.58,
+    "scored_by": 185,
+    "rank": null,
+    "popularity": 18645,
+    "members": 358,
+    "favorites": 0,
+    "synopsis": "A video for Lite's song \"Echolocation.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1716,
+        "type": "anime",
+        "name": "Hipland Music Corporation",
+        "url": "https://myanimelist.net/anime/producer/1716/Hipland_Music_Corporation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 58617,
+    "url": "https://myanimelist.net/anime/58617/Bo___Tos",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1092/142485.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1092/142485t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1092/142485l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1092/142485.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1092/142485t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1092/142485l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bo & To's"
+      },
+      {
+        "type": "Synonym",
+        "title": "Botos"
+      },
+      {
+        "type": "Japanese",
+        "title": "보토스"
+      }
+    ],
+    "title": "Bo & To's",
+    "title_english": null,
+    "title_japanese": "보토스",
+    "title_synonyms": [
+      "Botos"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": "2018-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        }
+      },
+      "string": "2016 to 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19467,
+    "popularity": 27340,
+    "members": 64,
+    "favorites": 0,
+    "synopsis": "Mr. A is a kindhearted man who runs a coffee shop. He doesn’t have many customers but his regulars truly appreciate his coffee. He has a cat named Bori. Mr. A adopts two more street cats, Toto and Mozzi. He enjoys his new companions. Yet, at some point, the number of stray animals in the neighborhood begin to increase, and unusual things start happening.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2596,
+        "type": "anime",
+        "name": "Comma Studio",
+        "url": "https://myanimelist.net/anime/producer/2596/Comma_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53042,
+            "type": "anime",
+            "name": "Bo & To's Family",
+            "url": "https://myanimelist.net/anime/53042/Bo___Tos_Family"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://commastudio.co.kr/default/emenu02/menu02_cont01.php?sub=21"
+      }
+    ],
+    "streaming": []
+  }
+}

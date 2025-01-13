@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 37802,
+    "url": "https://myanimelist.net/anime/37802/Ongeki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/92107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/92107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/92107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1143/92107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/92107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/92107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ongeki"
+      },
+      {
+        "type": "Synonym",
+        "title": "O.N.G.E.K.I."
+      },
+      {
+        "type": "Japanese",
+        "title": "オンゲキ"
+      }
+    ],
+    "title": "Ongeki",
+    "title_english": null,
+    "title_japanese": "オンゲキ",
+    "title_synonyms": [
+      "O.N.G.E.K.I."
+    ],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 27, 2018"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.45,
+    "scored_by": 256,
+    "rank": null,
+    "popularity": 15605,
+    "members": 665,
+    "favorites": 1,
+    "synopsis": "A promotional anime for Ongeki, SEGA's new arcade music rhythm game. The arcade game's debut is set for Summer 2018.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52470,
+            "type": "anime",
+            "name": "Startliner",
+            "url": "https://myanimelist.net/anime/52470/Startliner"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ongeki.sega.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%B2%E3%82%AD"
+      }
+    ],
+    "streaming": []
+  }
+}

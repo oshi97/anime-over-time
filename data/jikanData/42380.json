@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 42380,
+    "url": "https://myanimelist.net/anime/42380/Re_I_Am",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1381/108366.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1381/108366t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1381/108366l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1381/108366.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1381/108366t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1381/108366l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Re:I Am"
+      },
+      {
+        "type": "Japanese",
+        "title": "RE:I AM"
+      }
+    ],
+    "title": "Re:I Am",
+    "title_english": null,
+    "title_japanese": "RE:I AM",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-03-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 3,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 20, 2013"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": 6.19,
+    "scored_by": 445,
+    "rank": null,
+    "popularity": 14417,
+    "members": 931,
+    "favorites": 2,
+    "synopsis": "Music video for the title track RE:I AM by Japanese singer Aimer that was on her 5th single. It was included on DVD with the first limited edition release of the CD. The video was directed by Tsuyoshi Araki.",
+    "background": "The song was featured as the sixth ending for Mobile Suit Gundam Unicorn and the second opening for Mobile Suit Gundam Unicorn RE:0096.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1918,
+        "type": "anime",
+        "name": "SME Records",
+        "url": "https://myanimelist.net/anime/producer/1918/SME_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 6336,
+            "type": "anime",
+            "name": "Kidou Senshi Gundam Unicorn",
+            "url": "https://myanimelist.net/anime/6336/Kidou_Senshi_Gundam_Unicorn"
+          },
+          {
+            "mal_id": 42432,
+            "type": "anime",
+            "name": "Kyou kara Omoide",
+            "url": "https://myanimelist.net/anime/42432/Kyou_kara_Omoide"
+          },
+          {
+            "mal_id": 32792,
+            "type": "anime",
+            "name": "Kidou Senshi Gundam Unicorn RE:0096",
+            "url": "https://myanimelist.net/anime/32792/Kidou_Senshi_Gundam_Unicorn_RE_0096"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.aimer-web.jp/movie/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/RE:I_AM_EP"
+      }
+    ],
+    "streaming": []
+  }
+}

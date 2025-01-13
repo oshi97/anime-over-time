@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 40112,
+    "url": "https://myanimelist.net/anime/40112/Otome_no_Inori",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/104214.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/104214t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/104214l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/104214.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/104214t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/104214l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Otome no Inori"
+      },
+      {
+        "type": "Japanese",
+        "title": "乙女の祈り"
+      }
+    ],
+    "title": "Otome no Inori",
+    "title_english": null,
+    "title_japanese": "乙女の祈り",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2006"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.16,
+    "scored_by": 354,
+    "rank": null,
+    "popularity": 15034,
+    "members": 780,
+    "favorites": 1,
+    "synopsis": "A karaoke music video featuring all-new animation released with the Japanese  Slayers Next DVD-BOX.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 535,
+            "type": "anime",
+            "name": "Slayers Next",
+            "url": "https://myanimelist.net/anime/535/Slayers_Next"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=95"
+      }
+    ],
+    "streaming": []
+  }
+}

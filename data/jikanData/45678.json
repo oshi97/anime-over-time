@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 45678,
+    "url": "https://myanimelist.net/anime/45678/Kuaile_Xiao_Zheng_Xing",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1478/128247.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/128247t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/128247l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1478/128247.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/128247t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/128247l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuaile Xiao Zheng Xing"
+      },
+      {
+        "type": "Japanese",
+        "title": "快乐小郑星"
+      }
+    ],
+    "title": "Kuaile Xiao Zheng Xing",
+    "title_english": null,
+    "title_japanese": "快乐小郑星",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 104,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-12-01T00:00:00+00:00",
+      "to": "2013-07-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2012
+        },
+        "to": {
+          "day": 1,
+          "month": 7,
+          "year": 2013
+        }
+      },
+      "string": "Dec 2012 to Jul 2013"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16949,
+    "popularity": 24224,
+    "members": 101,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2013,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%BF%AB%E4%B9%90%E5%B0%8F%E9%83%91%E6%98%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 55253,
+    "url": "https://myanimelist.net/anime/55253/Wuxia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1578/135790.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/135790t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/135790l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1578/135790.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/135790t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/135790l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wuxia"
+      },
+      {
+        "type": "Japanese",
+        "title": "無瑕"
+      },
+      {
+        "type": "English",
+        "title": "Scar"
+      }
+    ],
+    "title": "Wuxia",
+    "title_english": "Scar",
+    "title_japanese": "無瑕",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15244,
+    "popularity": 25886,
+    "members": 77,
+    "favorites": 0,
+    "synopsis": "A girl who was floating freely in the water accidentally gets her skin cut by a sailboat passing by. The story is derived from personal experience, recreating the senses of women in love and the unique inner sense of time through creation.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2678,
+        "type": "anime",
+        "name": "Slow Studio",
+        "url": "https://myanimelist.net/anime/producer/2678/Slow_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://slowstudioart.wixsite.com/slowstudio/%E5%89%AF%E6%9C%AC-%E7%84%A1%E7%91%95"
+      }
+    ],
+    "streaming": []
+  }
+}

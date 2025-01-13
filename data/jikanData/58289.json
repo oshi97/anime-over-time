@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 58289,
+    "url": "https://myanimelist.net/anime/58289/Hello_Hello_Goodbye",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1605/141734.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/141734t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/141734l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1605/141734.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/141734t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/141734l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Hello Goodbye"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハロハログッバイ"
+      }
+    ],
+    "title": "Hello Hello Goodbye",
+    "title_english": null,
+    "title_japanese": "ハロハログッバイ",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-10-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 10,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2, 2010"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 26517,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hello Hello Goodbye by Joe Inoue that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201010_03"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%8F%E3%83%AD%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

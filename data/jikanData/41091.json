@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 41091,
+    "url": "https://myanimelist.net/anime/41091/Tanitsu_Shikousei_Overbloom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1628/105485.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1628/105485t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1628/105485l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1628/105485.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1628/105485t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1628/105485l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tanitsu Shikousei Overbloom"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Synonym",
+        "title": "HaNaMiNa"
+      },
+      {
+        "type": "Japanese",
+        "title": "単一指向性オーバーブルーム"
+      }
+    ],
+    "title": "Tanitsu Shikousei Overbloom",
+    "title_english": null,
+    "title_japanese": "単一指向性オーバーブルーム",
+    "title_synonyms": [
+      "Irodorimidori",
+      "HaNaMiNa"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 3, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.53,
+    "scored_by": 464,
+    "rank": null,
+    "popularity": 14962,
+    "members": 802,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Tanitsu Shikousei Overbloom by the fictional band HaNaMiNa. It is the 47th song in the Irodorimidori franchise and focuses on Hana Katsuragi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41090,
+            "type": "anime",
+            "name": "\"Star\"t",
+            "url": "https://myanimelist.net/anime/41090/Start"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41092,
+            "type": "anime",
+            "name": "Minna e wo Check!",
+            "url": "https://myanimelist.net/anime/41092/Minna_e_wo_Check"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song047/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

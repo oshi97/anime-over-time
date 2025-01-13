@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 54054,
+    "url": "https://myanimelist.net/anime/54054/Road_without_Road",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/132221.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/132221t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/132221l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/132221.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/132221t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/132221l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Road without Road"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Road without Road"
+      }
+    ],
+    "title": "Road without Road",
+    "title_english": null,
+    "title_japanese": "Road without Road",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 3, 2020"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.9,
+    "scored_by": 112,
+    "rank": null,
+    "popularity": 20921,
+    "members": 223,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Road without Road by the fictional band HaNaMiNa. It is the 49th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41092,
+            "type": "anime",
+            "name": "Minna e wo Check!",
+            "url": "https://myanimelist.net/anime/41092/Minna_e_wo_Check"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52525,
+            "type": "anime",
+            "name": "Yaranakya Ikenai Koto Bakari",
+            "url": "https://myanimelist.net/anime/52525/Yaranakya_Ikenai_Koto_Bakari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song049/"
+      }
+    ],
+    "streaming": []
+  }
+}

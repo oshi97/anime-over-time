@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 36221,
+    "url": "https://myanimelist.net/anime/36221/Plus_Kouji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87491.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87491t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87491l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87491.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87491t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87491l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Plus Kouji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kouji Amazake Midori no Oka-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pénélope tête en l'air x Marukome"
+      },
+      {
+        "type": "Japanese",
+        "title": "プラス糀"
+      }
+    ],
+    "title": "Plus Kouji",
+    "title_english": null,
+    "title_japanese": "プラス糀",
+    "title_synonyms": [
+      "Kouji Amazake Midori no Oka-hen",
+      "Pénélope tête en l'air x Marukome"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-28T00:00:00+00:00",
+      "to": "2019-02-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": 1,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      "string": "Aug 28, 2017 to Feb 1, 2019"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20600,
+    "members": 242,
+    "favorites": 0,
+    "synopsis": "A collaboration between Ukkari Pénélope and Marukome for the latter's new product line of amazake, a drink made from fermented rice. Plus Kouji is based on a kouji mold (Aspergillus oryzae) enzyme which allows Marukome's product to contain 0% alcohol and be sugar-free so it is perfectly healthy for pregnant women, babies, and the eldery to drink while keeping the same taste as traditional amazake (which is normally sweet and mildly alcoholic).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34078,
+            "type": "anime",
+            "name": "Ukkari Pénélope (2013)",
+            "url": "https://myanimelist.net/anime/34078/Ukkari_Pénélope_2013"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.marukome.co.jp/amazake/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 44263,
+    "url": "https://myanimelist.net/anime/44263/Shallys",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/121894.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/121894t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/121894l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/121894.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/121894t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/121894l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shallys"
+      },
+      {
+        "type": "Japanese",
+        "title": "シャルイース"
+      },
+      {
+        "type": "English",
+        "title": "Shallys"
+      }
+    ],
+    "title": "Shallys",
+    "title_english": "Shallys",
+    "title_japanese": "シャルイース",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 29, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.4,
+    "scored_by": 271,
+    "rank": null,
+    "popularity": 17128,
+    "members": 478,
+    "favorites": 1,
+    "synopsis": "Official 3D music video for Aki Rosenthal's original song.  \nIt is from the perspective of a half-elf singing and dancing to an \"otherworldly folk song\", incorporating elements from fairy tails and folklore in the imagery.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/en/music/%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B9-2"
+      }
+    ],
+    "streaming": []
+  }
+}

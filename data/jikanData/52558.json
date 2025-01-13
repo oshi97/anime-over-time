@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 52558,
+    "url": "https://myanimelist.net/anime/52558/Vivid_Vice",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1067/126222.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1067/126222t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1067/126222l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1067/126222.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1067/126222t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1067/126222l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Vivid Vice"
+      },
+      {
+        "type": "Japanese",
+        "title": "VIVID VICE"
+      }
+    ],
+    "title": "Vivid Vice",
+    "title_english": null,
+    "title_japanese": "VIVID VICE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.37,
+    "scored_by": 1206,
+    "rank": null,
+    "popularity": 11365,
+    "members": 2303,
+    "favorites": 1,
+    "synopsis": "Music video for the second opening song of Jujutsu Kaisen (TV).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40748,
+            "type": "anime",
+            "name": "Jujutsu Kaisen",
+            "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=EU6I8TxU6Z4"
+      }
+    ],
+    "streaming": []
+  }
+}

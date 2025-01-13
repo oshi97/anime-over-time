@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 37818,
+    "url": "https://myanimelist.net/anime/37818/Osomatsu-san_x_Mameshiba",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1911/92191.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/92191t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/92191l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1911/92191.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/92191t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/92191l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Osomatsu-san x Mameshiba"
+      },
+      {
+        "type": "Japanese",
+        "title": "おそ松さん×豆しば"
+      }
+    ],
+    "title": "Osomatsu-san x Mameshiba",
+    "title_english": null,
+    "title_japanese": "おそ松さん×豆しば",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-27T00:00:00+00:00",
+      "to": "2019-03-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": 20,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      "string": "Mar 27, 2018 to Mar 20, 2019"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.3,
+    "scored_by": 221,
+    "rank": null,
+    "popularity": 13365,
+    "members": 1240,
+    "favorites": 0,
+    "synopsis": "A televised collaboration between Osomatsu-san and Mameshiba.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 7261,
+            "type": "anime",
+            "name": "Mameshiba",
+            "url": "https://myanimelist.net/anime/7261/Mameshiba"
+          },
+          {
+            "mal_id": 35067,
+            "type": "anime",
+            "name": "Osomatsu-san 2nd Season",
+            "url": "https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://dogatch.jp/feature/mameshiba/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B1%86%E3%81%97%E3%81%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

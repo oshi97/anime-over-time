@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 33529,
+    "url": "https://myanimelist.net/anime/33529/Kubbe_PV_Full_ver",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/80651.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80651t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80651l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/80651.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80651t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80651l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kubbe PV Full ver."
+      },
+      {
+        "type": "Japanese",
+        "title": "KUBBE（キュッパ） PV フル ver."
+      }
+    ],
+    "title": "Kubbe PV Full ver.",
+    "title_english": null,
+    "title_japanese": "KUBBE（キュッパ） PV フル ver.",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-05-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 5,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 15, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.6,
+    "scored_by": 157,
+    "rank": null,
+    "popularity": 18716,
+    "members": 353,
+    "favorites": 0,
+    "synopsis": "An extended PV promoting the upcoming ONA series of Kubbe Kort Animasjon. Almost no footage in this PV was used in the 24 episode ONA series and remains unique to this PV.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1522,
+        "type": "anime",
+        "name": "Echoes",
+        "url": "https://myanimelist.net/anime/producer/1522/Echoes"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 33528,
+            "type": "anime",
+            "name": "Kubbe Kort Animasjon",
+            "url": "https://myanimelist.net/anime/33528/Kubbe_Kort_Animasjon"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33527,
+            "type": "anime",
+            "name": "Kubbe no Ongakukai",
+            "url": "https://myanimelist.net/anime/33527/Kubbe_no_Ongakukai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_or2gLvUeO4"
+      }
+    ],
+    "streaming": []
+  }
+}

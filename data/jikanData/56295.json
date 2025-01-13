@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 56295,
+    "url": "https://myanimelist.net/anime/56295/Sinbi_Apartment__Dasi_Mannan_Cheolgungiwa_Cheolwon_Woljeongliui_Jeonseol",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/137804.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/137804t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/137804l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/137804.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/137804t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/137804l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment: Dasi Mannan Cheolgungiwa Cheolwon Woljeongliui Jeonseol"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트 스페셜 다시 만난 철궁이와 철원 월정리의 전설"
+      }
+    ],
+    "title": "Sinbi Apartment: Dasi Mannan Cheolgungiwa Cheolwon Woljeongliui Jeonseol",
+    "title_english": null,
+    "title_japanese": "신비아파트 스페셜 다시 만난 철궁이와 철원 월정리의 전설",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 22, 2022"
+    },
+    "duration": "11 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14273,
+    "popularity": 23176,
+    "members": 123,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2941,
+        "type": "anime",
+        "name": "CJ ENM",
+        "url": "https://myanimelist.net/anime/producer/2941/CJ_ENM"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56290,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Z",
+            "url": "https://myanimelist.net/anime/56290/Sinbi_Apartment__Ghost_Ball_Z"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/신비아파트%20스페셜:%20다시%20만난%20철궁이와%20철원%20월정리의%20전설"
+      }
+    ],
+    "streaming": []
+  }
+}

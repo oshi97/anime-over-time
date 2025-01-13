@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 55707,
+    "url": "https://myanimelist.net/anime/55707/Kokoro",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1146/136550.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/136550t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/136550l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1146/136550.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/136550t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/136550l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kokoro"
+      },
+      {
+        "type": "Japanese",
+        "title": "心"
+      }
+    ],
+    "title": "Kokoro",
+    "title_english": null,
+    "title_japanese": "心",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 30, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23787,
+    "members": 110,
+    "favorites": 0,
+    "synopsis": "Music video for the song Kokoro by Shikidrop.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55430,
+            "type": "anime",
+            "name": "Namida Time Capsule",
+            "url": "https://myanimelist.net/anime/55430/Namida_Time_Capsule"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.youtube.com/watch?v=plNJ_F4Ao58"
+      }
+    ],
+    "streaming": []
+  }
+}

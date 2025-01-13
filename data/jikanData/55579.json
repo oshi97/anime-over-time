@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 55579,
+    "url": "https://myanimelist.net/anime/55579/Seasons_of_Blossom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1665/136331.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/136331t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/136331l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1665/136331.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/136331t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/136331l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Seasons of Blossom"
+      },
+      {
+        "type": "Japanese",
+        "title": "청춘 블라썸 보미의 꽃"
+      }
+    ],
+    "title": "Seasons of Blossom",
+    "title_english": null,
+    "title_japanese": "청춘 블라썸 보미의 꽃",
+    "title_synonyms": [],
+    "type": null,
+    "source": "Web manga",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2024 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Oh, to be young and in love. Oh, to be wild and carefree. The springtime of life is intense, tumultuous, and at times, oh so confusing. Spring, summer, fall and winter — love blossoms in all seasons.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 64,
+        "type": "anime",
+        "name": "Love Polygon",
+        "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 145539,
+            "type": "manga",
+            "name": "Seasons of Blossom",
+            "url": "https://myanimelist.net/manga/145539/Seasons_of_Blossom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

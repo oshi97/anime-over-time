@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 34050,
+    "url": "https://myanimelist.net/anime/34050/Tonari_no_Onigiri-kun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1619/93112.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/93112t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/93112l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1619/93112.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/93112t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/93112l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tonari no Onigiri-kun"
+      },
+      {
+        "type": "Synonym",
+        "title": "My Neighbor Onigiri-kun"
+      },
+      {
+        "type": "Japanese",
+        "title": "となりのおにぎり君"
+      }
+    ],
+    "title": "Tonari no Onigiri-kun",
+    "title_english": null,
+    "title_japanese": "となりのおにぎり君",
+    "title_synonyms": [
+      "My Neighbor Onigiri-kun"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-30T00:00:00+00:00",
+      "to": "2016-11-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 1,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      "string": "Aug 30, 2016 to Nov 1, 2016"
+    },
+    "duration": "18 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.2,
+    "scored_by": 610,
+    "rank": null,
+    "popularity": 12401,
+    "members": 1663,
+    "favorites": 1,
+    "synopsis": "The beverage company Ito En commissioned Studio Ghibli for a mascot and commercials.",
+    "background": "Created by one of Studio Ghibli's top animators, Katsuya Kondo, the story is told over three short video clips, produced as part of a promotion for Ito En, Japan's premier manufacturer of bottled tea drinks.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Studio Ghibli",
+        "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.itoen.co.jp/tonarinoonigirikun/"
+      }
+    ],
+    "streaming": []
+  }
+}

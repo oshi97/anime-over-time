@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56621,
+    "url": "https://myanimelist.net/anime/56621/Hiten",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/138431.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/138431t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/138431l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/138431.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/138431t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/138431l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hiten"
+      },
+      {
+        "type": "Japanese",
+        "title": "飛天"
+      }
+    ],
+    "title": "Hiten",
+    "title_english": null,
+    "title_japanese": "飛天",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 18, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.97,
+    "scored_by": 320,
+    "rank": null,
+    "popularity": 16086,
+    "members": 594,
+    "favorites": 11,
+    "synopsis": "Music video for the song Hiten by Ayase and R-Shitei. The song was featured as the first opening for Rurouni Kenshin: Meiji Kenkaku Romantan (2023).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50613,
+            "type": "anime",
+            "name": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+            "url": "https://myanimelist.net/anime/50613/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_2023"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=G9pt5O0Qu-0"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Ayase"
+      }
+    ],
+    "streaming": []
+  }
+}

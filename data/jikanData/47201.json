@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 47201,
+    "url": "https://myanimelist.net/anime/47201/Juedui_Lingyu_Fanwai_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/129235.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/129235t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/129235l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/129235.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/129235t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/129235l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Juedui Lingyu Fanwai Pian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Juedui Lingyu Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "绝对领域番外篇"
+      }
+    ],
+    "title": "Juedui Lingyu Fanwai Pian",
+    "title_english": null,
+    "title_japanese": "绝对领域番外篇",
+    "title_synonyms": [
+      "Juedui Lingyu Special"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16463,
+    "popularity": 26093,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 47200,
+            "type": "anime",
+            "name": "Juedui Lingyu: Ji Zhan Ji",
+            "url": "https://myanimelist.net/anime/47200/Juedui_Lingyu__Ji_Zhan_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/WCLxgiYtaoI"
+      }
+    ],
+    "streaming": []
+  }
+}

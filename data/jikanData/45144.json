@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 45144,
+    "url": "https://myanimelist.net/anime/45144/Huoxian_Chuanqi_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/128520.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/128520t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/128520l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/128520.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/128520t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/128520l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huoxian Chuanqi 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "火线传奇 第二季"
+      }
+    ],
+    "title": "Huoxian Chuanqi 2nd Season",
+    "title_english": null,
+    "title_japanese": "火线传奇 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": null,
+    "scored_by": null,
+    "rank": 21257,
+    "popularity": 26009,
+    "members": 75,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45143,
+            "type": "anime",
+            "name": "Huoxian Chuanqi",
+            "url": "https://myanimelist.net/anime/45143/Huoxian_Chuanqi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45145,
+            "type": "anime",
+            "name": "Huoxian Chuanqi 3rd Season",
+            "url": "https://myanimelist.net/anime/45145/Huoxian_Chuanqi_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%81%AB%E7%BA%BF%E4%BC%A0%E5%A5%87/18881265"
+      }
+    ],
+    "streaming": []
+  }
+}

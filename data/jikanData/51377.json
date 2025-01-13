@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 51377,
+    "url": "https://myanimelist.net/anime/51377/Keshin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1568/121775.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1568/121775t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1568/121775l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1568/121775.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1568/121775t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1568/121775l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Keshin"
+      },
+      {
+        "type": "Synonym",
+        "title": "Incarnation"
+      },
+      {
+        "type": "Synonym",
+        "title": "POLKADOT STINGRAY × Kamikaze Douga"
+      },
+      {
+        "type": "Japanese",
+        "title": "化身"
+      }
+    ],
+    "title": "Keshin",
+    "title_english": null,
+    "title_japanese": "化身",
+    "title_synonyms": [
+      "Incarnation",
+      "POLKADOT STINGRAY × Kamikaze Douga"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 8, 2020"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "scored_by": 136,
+    "rank": null,
+    "popularity": 19830,
+    "members": 284,
+    "favorites": 0,
+    "synopsis": "A collaboration between Kamikaze Douga and Polkadot Stingray: an animated music video for the song Keshin by Polkadot Stingray. Mixed in with the animation is a back and forth with live-action segments of the band.\n\n(Source: AniList)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/U609b7lOAII"
+      }
+    ],
+    "streaming": []
+  }
+}

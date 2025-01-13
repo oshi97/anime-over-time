@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 42673,
+    "url": "https://myanimelist.net/anime/42673/Rakuen_Tsuihou__Faith_Conquest",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1217/113602.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1217/113602t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1217/113602l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1217/113602.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1217/113602t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1217/113602l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rakuen Tsuihou: Faith Conquest"
+      },
+      {
+        "type": "Japanese",
+        "title": "楽園追放 -Faith Conquest-"
+      }
+    ],
+    "title": "Rakuen Tsuihou: Faith Conquest",
+    "title_english": null,
+    "title_japanese": "楽園追放 -Faith Conquest-",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 18, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.37,
+    "scored_by": 152,
+    "rank": null,
+    "popularity": 19042,
+    "members": 331,
+    "favorites": 1,
+    "synopsis": "A music video for one of Ensemble Star's units, Eden, of their song Rakuen Tsuihou: Faith Conquest.",
+    "background": "The song is part of the ES Idol Song Season 1: Eden single, which is a new unit song featured in the Discord ◆ Internal Conquest event.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

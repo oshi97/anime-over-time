@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56118,
+    "url": "https://myanimelist.net/anime/56118/VSPO_PVs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/137420.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/137420t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/137420l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/137420.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/137420t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/137420l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "VSPO! PVs"
+      },
+      {
+        "type": "Japanese",
+        "title": "ぶいすぽっ!"
+      }
+    ],
+    "title": "VSPO! PVs",
+    "title_english": null,
+    "title_japanese": "ぶいすぽっ!",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2022-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2022 to ?"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22462,
+    "members": 145,
+    "favorites": 1,
+    "synopsis": "Promotional videos for the Virtual eSports Project (VSPO!).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1993,
+        "type": "anime",
+        "name": "Studio Bind",
+        "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 56119,
+            "type": "anime",
+            "name": "For Victory!",
+            "url": "https://myanimelist.net/anime/56119/For_Victory"
+          },
+          {
+            "mal_id": 57846,
+            "type": "anime",
+            "name": "VSPO! x Vanguard Animation PV",
+            "url": "https://myanimelist.net/anime/57846/VSPO_x_Vanguard_Animation_PV"
+          },
+          {
+            "mal_id": 60186,
+            "type": "anime",
+            "name": "VSPO!",
+            "url": "https://myanimelist.net/anime/60186/VSPO"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=t89Uc5Lamck"
+      }
+    ],
+    "streaming": []
+  }
+}

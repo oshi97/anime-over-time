@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 55907,
+    "url": "https://myanimelist.net/anime/55907/Abstractions_Void",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/137221.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/137221t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/137221l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/137221.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/137221t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/137221l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Abstractions Void"
+      },
+      {
+        "type": "Japanese",
+        "title": "Abstractions Void"
+      }
+    ],
+    "title": "Abstractions Void",
+    "title_english": null,
+    "title_japanese": "Abstractions Void",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 24, 2023"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.23,
+    "scored_by": 121,
+    "rank": null,
+    "popularity": 20688,
+    "members": 236,
+    "favorites": 0,
+    "synopsis": "Music video for the song Abstractions Void by KOKO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1684,
+        "type": "anime",
+        "name": "THINKR",
+        "url": "https://myanimelist.net/anime/producer/1684/THINKR"
+      },
+      {
+        "mal_id": 2309,
+        "type": "anime",
+        "name": "Kamitsubaki Studio",
+        "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4enMG7U5pv4"
+      }
+    ],
+    "streaming": []
+  }
+}

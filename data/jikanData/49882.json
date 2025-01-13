@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 49882,
+    "url": "https://myanimelist.net/anime/49882/Akogare_Ranraran",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/122232.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/122232t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/122232l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/122232.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/122232t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/122232l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akogare Ranraran"
+      },
+      {
+        "type": "Japanese",
+        "title": "あこがれランララン"
+      }
+    ],
+    "title": "Akogare Ranraran",
+    "title_english": null,
+    "title_japanese": "あこがれランララン",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.3,
+    "scored_by": 448,
+    "rank": null,
+    "popularity": 14647,
+    "members": 876,
+    "favorites": 0,
+    "synopsis": "Music video for the song Akogare Ranraran by Hanamaru Kunikida (CV: Kanako Takatsuki).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/2aCe7FRp7HE"
+      }
+    ],
+    "streaming": []
+  }
+}

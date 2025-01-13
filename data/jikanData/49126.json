@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 49126,
+    "url": "https://myanimelist.net/anime/49126/Honeycomb_Summer",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/115564.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/115564t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/115564l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/115564.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/115564t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/115564l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Honeycomb Summer"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ensemble Stars!! Idol Song Season 1 Crazy:B"
+      },
+      {
+        "type": "Japanese",
+        "title": "Honeycomb Summer"
+      },
+      {
+        "type": "English",
+        "title": "Honeycomb Summer"
+      }
+    ],
+    "title": "Honeycomb Summer",
+    "title_english": "Honeycomb Summer",
+    "title_japanese": "Honeycomb Summer",
+    "title_synonyms": [
+      "Ensemble Stars!! Idol Song Season 1 Crazy:B"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 7, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.36,
+    "scored_by": 261,
+    "rank": null,
+    "popularity": 16884,
+    "members": 502,
+    "favorites": 1,
+    "synopsis": "A music video for one of Ensemble Star's units, Crazy:B, of their song Honeycomb Summer.\n\nThe song is part of the Ensemble Stars!! Idol Song Season1 Crazy:B album.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/discography/64"
+      }
+    ],
+    "streaming": []
+  }
+}

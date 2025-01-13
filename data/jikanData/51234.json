@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 51234,
+    "url": "https://myanimelist.net/anime/51234/Eternity_Memories",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/127502.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/127502t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/127502l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/127502.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/127502t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/127502l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "2uGe0BIUkl8",
+      "url": "https://www.youtube.com/watch?v=2uGe0BIUkl8",
+      "embed_url": "https://www.youtube.com/embed/2uGe0BIUkl8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/2uGe0BIUkl8/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/2uGe0BIUkl8/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/2uGe0BIUkl8/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/2uGe0BIUkl8/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/2uGe0BIUkl8/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eternity Memories"
+      },
+      {
+        "type": "Synonym",
+        "title": "THE IDOLM@STER CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES"
+      },
+      {
+        "type": "Japanese",
+        "title": "10周年記念アニメーション「ETERNITY MEMORIES」"
+      },
+      {
+        "type": "English",
+        "title": "Eternity Memories"
+      }
+    ],
+    "title": "Eternity Memories",
+    "title_english": "Eternity Memories",
+    "title_japanese": "10周年記念アニメーション「ETERNITY MEMORIES」",
+    "title_synonyms": [
+      "THE IDOLM@STER CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES"
+    ],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 28, 2022"
+    },
+    "duration": "49 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.73,
+    "scored_by": 405,
+    "rank": 5723,
+    "popularity": 13125,
+    "members": 1325,
+    "favorites": 2,
+    "synopsis": "An animation commemorating the 10th anniversary of the The iDOLM@STER Cinderella Girls franchise, featuring 190 idols.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1587,
+        "type": "anime",
+        "name": "Cygames",
+        "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1893,
+        "type": "anime",
+        "name": "CygamesPictures",
+        "url": "https://myanimelist.net/anime/producer/1893/CygamesPictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 23587,
+            "type": "anime",
+            "name": "The iDOLM@STER Cinderella Girls",
+            "url": "https://myanimelist.net/anime/23587/The_iDOLMSTER_Cinderella_Girls"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cinderella.idolmaster.jp/sl-stage/cinderella10thanimation/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25439"
+      }
+    ],
+    "streaming": []
+  }
+}

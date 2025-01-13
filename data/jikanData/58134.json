@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 58134,
+    "url": "https://myanimelist.net/anime/58134/Shijian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1746/141446.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1746/141446t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1746/141446l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1746/141446.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1746/141446t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1746/141446l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shijian"
+      },
+      {
+        "type": "Japanese",
+        "title": "试剑"
+      }
+    ],
+    "title": "Shijian",
+    "title_english": null,
+    "title_japanese": "试剑",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 24, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21685,
+    "members": 181,
+    "favorites": 0,
+    "synopsis": "She walks amidst neon lights and under the brilliant moonlight.\nThe evening shades in the southern part of Arc City soothe drifting souls, setting the stage for an unexpected reunion.\n\"Hey, how have you been?\"\n\n(Source Official site, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2253,
+        "type": "anime",
+        "name": "miHoYoAnime",
+        "url": "https://myanimelist.net/anime/producer/2253/miHoYoAnime"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40100,
+            "type": "anime",
+            "name": "Nu Wushen de Canzhuo",
+            "url": "https://myanimelist.net/anime/40100/Nu_Wushen_de_Canzhuo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.miyoushe.com/bh3/article/29323494"
+      }
+    ],
+    "streaming": []
+  }
+}

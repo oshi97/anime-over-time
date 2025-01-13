@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 58410,
+    "url": "https://myanimelist.net/anime/58410/Present_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/141967.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/141967t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/141967l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/141967.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/141967t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/141967l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Present (Music)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "プレゼント"
+      }
+    ],
+    "title": "Present (Music)",
+    "title_english": null,
+    "title_japanese": "プレゼント",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 1, 2015"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22894,
+    "members": 132,
+    "favorites": 0,
+    "synopsis": "Music video for the song Present by SEKAI NO OWARI that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37594,
+            "type": "anime",
+            "name": "Present (Music, 2016)",
+            "url": "https://myanimelist.net/anime/37594/Present_Music_2016"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201508_01"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/SOS/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88"
+      }
+    ],
+    "streaming": []
+  }
+}

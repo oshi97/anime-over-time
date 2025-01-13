@@ -1,0 +1,187 @@
+{
+  "data": {
+    "mal_id": 34623,
+    "url": "https://myanimelist.net/anime/34623/Bakuon_no_Kobeya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/83535.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83535t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83535l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/83535.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83535t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83535l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bakuon!! no Kobeya"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Bakuon!! Clubhouse"
+      },
+      {
+        "type": "Japanese",
+        "title": "ばくおん!!の小部屋"
+      }
+    ],
+    "title": "Bakuon!! no Kobeya",
+    "title_english": null,
+    "title_japanese": "ばくおん!!の小部屋",
+    "title_synonyms": [
+      "The Bakuon!! Clubhouse"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-24T00:00:00+00:00",
+      "to": "2016-11-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 18,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      "string": "Aug 24, 2016 to Nov 18, 2016"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.22,
+    "scored_by": 1288,
+    "rank": 8718,
+    "popularity": 9584,
+    "members": 3954,
+    "favorites": 2,
+    "synopsis": "Short specials included with the Bakuon!! BD/DVD volumes.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 104,
+        "type": "anime",
+        "name": "Lantis",
+        "url": "https://myanimelist.net/anime/producer/104/Lantis"
+      },
+      {
+        "mal_id": 1113,
+        "type": "anime",
+        "name": "NBCUniversal Entertainment Japan",
+        "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+      },
+      {
+        "mal_id": 1373,
+        "type": "anime",
+        "name": "Akita Shoten",
+        "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 73,
+        "type": "anime",
+        "name": "TMS Entertainment",
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 30795,
+            "type": "anime",
+            "name": "Bakuon!!",
+            "url": "https://myanimelist.net/anime/30795/Bakuon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://bakuon-anime.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11253"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17959"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bakuon!!"
+      }
+    ],
+    "streaming": []
+  }
+}

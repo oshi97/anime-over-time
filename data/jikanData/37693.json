@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 37693,
+    "url": "https://myanimelist.net/anime/37693/Oyashirazu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/91752.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/91752t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/91752l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1392/91752.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/91752t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/91752l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oyashirazu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "親知らず"
+      }
+    ],
+    "title": "Oyashirazu",
+    "title_english": null,
+    "title_japanese": "親知らず",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2, 2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20246,
+    "members": 261,
+    "favorites": 0,
+    "synopsis": "A metaphorical song about the anxiety, frustration, lonliness, and heartache felt during puberty. Like that of wisdom teeth growing in, the pain follows you everywhere.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2818,
+        "type": "anime",
+        "name": "qmotri",
+        "url": "https://myanimelist.net/anime/producer/2818/qmotri"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nhk.or.jp/minna/songs/MIN201804_03/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%A6%AA%E7%9F%A5%E3%82%89%E3%81%9A"
+      }
+    ],
+    "streaming": []
+  }
+}

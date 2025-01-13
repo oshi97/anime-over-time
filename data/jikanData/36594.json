@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36594,
+    "url": "https://myanimelist.net/anime/36594/Brilliant_Better",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88444.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88444t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88444l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88444.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88444t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88444l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Brilliant Better"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "brilliant better"
+      },
+      {
+        "type": "English",
+        "title": "Brilliant Better"
+      }
+    ],
+    "title": "Brilliant Better",
+    "title_english": "Brilliant Better",
+    "title_japanese": "brilliant better",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 21, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 881,
+    "rank": null,
+    "popularity": 12445,
+    "members": 1640,
+    "favorites": 1,
+    "synopsis": "One of Irodorimidori's guitarists, Aliciana Ogata, sings exuding a prim and proper aura. Through various ideals and syncopations, her soul and passion as a musician shine brighter than any diamond as she overcomes her limits.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Brilliant Better by the fictional band Irodorimidori. It is the 2nd song in the franchise and focuses on Aliciana Ogata.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31300,
+            "type": "anime",
+            "name": "Change Our Mirai!",
+            "url": "https://myanimelist.net/anime/31300/Change_Our_Mirai"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36595,
+            "type": "anime",
+            "name": "Fortissimo Bell",
+            "url": "https://myanimelist.net/anime/36595/Fortissimo_Bell"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song02.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

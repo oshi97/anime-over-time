@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 51097,
+    "url": "https://myanimelist.net/anime/51097/MahoYome_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/121065.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/121065t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/121065l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1543/121065.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/121065t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/121065l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "MahoYome Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Maho Yome Extra Episodes"
+      },
+      {
+        "type": "Japanese",
+        "title": "まほよめ"
+      }
+    ],
+    "title": "MahoYome Specials",
+    "title_english": null,
+    "title_japanese": "まほよめ",
+    "title_synonyms": [
+      "Maho Yome Extra Episodes"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 24, 2018"
+    },
+    "duration": "45 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6.1,
+    "scored_by": 330,
+    "rank": 9361,
+    "popularity": 13982,
+    "members": 1052,
+    "favorites": 0,
+    "synopsis": "Extra episodes of MahoYome included on the DVD bundled with ninth volume of Mahoutsukai no Yome manga.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      },
+      {
+        "mal_id": 1673,
+        "type": "anime",
+        "name": "DMM.futureworks",
+        "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36502,
+            "type": "anime",
+            "name": "MahoYome",
+            "url": "https://myanimelist.net/anime/36502/MahoYome"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12942"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ancient_Magus'_Bride"
+      }
+    ],
+    "streaming": []
+  }
+}

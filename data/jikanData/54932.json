@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 54932,
+    "url": "https://myanimelist.net/anime/54932/Kizutsukedo_Aishiteru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1195/135118.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/135118t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/135118l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1195/135118.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/135118t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/135118l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kizutsukedo, Aishiteru."
+      },
+      {
+        "type": "Japanese",
+        "title": "傷つけど、愛してる。"
+      },
+      {
+        "type": "English",
+        "title": "It Might Be Painful, but I Still Love It."
+      }
+    ],
+    "title": "Kizutsukedo, Aishiteru.",
+    "title_english": "It Might Be Painful, but I Still Love It.",
+    "title_japanese": "傷つけど、愛してる。",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.51,
+    "scored_by": 648,
+    "rank": null,
+    "popularity": 13315,
+    "members": 1256,
+    "favorites": 0,
+    "synopsis": "A music video for the song Kizutsukedo, Aishiteru. by TUYU that serves as ending song for Tokyo Revengers: Seiya Kessen-hen",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50608,
+            "type": "anime",
+            "name": "Tokyo Revengers: Seiya Kessen-hen",
+            "url": "https://myanimelist.net/anime/50608/Tokyo_Revengers__Seiya_Kessen-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tuyu-official.jp/kizuai/"
+      }
+    ],
+    "streaming": []
+  }
+}

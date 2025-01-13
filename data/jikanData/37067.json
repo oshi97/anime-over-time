@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 37067,
+    "url": "https://myanimelist.net/anime/37067/Yume_no_Tochuu_de",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/89910.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/89910t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/89910l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/89910.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/89910t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/89910l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yume no Tochuu de"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "夢の途中で"
+      }
+    ],
+    "title": "Yume no Tochuu de",
+    "title_english": null,
+    "title_japanese": "夢の途中で",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.79,
+    "scored_by": 147,
+    "rank": null,
+    "popularity": 19348,
+    "members": 311,
+    "favorites": 0,
+    "synopsis": "A song about the softness you feel when you dream. Like an old friend or family, it is inviting no matter how much you struggle when you are awake.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nhk.or.jp/minna/songs/MIN201708_03/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E9%80%94%E4%B8%AD%E3%81%A7"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 55374,
+    "url": "https://myanimelist.net/anime/55374/Zero_Step",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1705/142528.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1705/142528t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1705/142528l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1705/142528.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1705/142528t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1705/142528l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zero Step"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kuroko no Basket Anime 10th Anniversary Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "「黒子のバスケ」アニメ10周年アニバーサリーソング「ゼロステップ」"
+      }
+    ],
+    "title": "Zero Step",
+    "title_english": null,
+    "title_japanese": "「黒子のバスケ」アニメ10周年アニバーサリーソング「ゼロステップ」",
+    "title_synonyms": [
+      "Kuroko no Basket Anime 10th Anniversary Song"
+    ],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 20, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.35,
+    "scored_by": 310,
+    "rank": null,
+    "popularity": 15122,
+    "members": 758,
+    "favorites": 1,
+    "synopsis": "Music video commemorating the 10th anniversary of Kuroko no Basket.",
+    "background": "A short version of the music video was uploaded onto YouTube on October 28, 2022. The full version was shown with the 4D theatrical screenings of Kuroko no Basket Movie: Last Game beginning January 20, 2023, and was released with the Kuroko no Basket Thanks Disc: 10th Anniversary on March 24, 2023.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 11771,
+            "type": "anime",
+            "name": "Kuroko no Basket",
+            "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kurobas-info.sakura.ne.jp/10th-project/2592/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8gNSQm_USp0"
+      }
+    ],
+    "streaming": []
+  }
+}

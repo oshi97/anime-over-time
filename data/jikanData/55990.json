@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55990,
+    "url": "https://myanimelist.net/anime/55990/Fine",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/137151.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/137151t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/137151l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/137151.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/137151t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/137151l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fine"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fine"
+      }
+    ],
+    "title": "Fine",
+    "title_english": null,
+    "title_japanese": "Fine",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 1, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23623,
+    "members": 113,
+    "favorites": 0,
+    "synopsis": "Music video for the song Fine by Junho (From 2PM).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kpryzZPDaMY"
+      }
+    ],
+    "streaming": []
+  }
+}

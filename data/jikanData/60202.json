@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 60202,
+    "url": "https://myanimelist.net/anime/60202/Momoneko_Ondo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/146278.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/146278t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/146278l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/146278.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/146278t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/146278l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Momoneko Ondo"
+      },
+      {
+        "type": "Japanese",
+        "title": "ももねこ音頭"
+      },
+      {
+        "type": "English",
+        "title": "Momoneko Dance Song"
+      }
+    ],
+    "title": "Momoneko Ondo",
+    "title_english": "Momoneko Dance Song",
+    "title_japanese": "ももねこ音頭",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-07-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 7,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 20, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 25805,
+    "members": 78,
+    "favorites": 0,
+    "synopsis": "Momoneko Ondo promotional video meant as a choreography guide to teach fans the dance moves for the \"Momoneko Ondo: Minna de Odorou!\" event at the Momoneko-sama Matsuri (Momoneko Festival).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 10232,
+            "type": "anime",
+            "name": "Tamayura: Hitotose",
+            "url": "https://myanimelist.net/anime/10232/Tamayura__Hitotose"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MHM5pXsfxnM"
+      }
+    ],
+    "streaming": []
+  }
+}

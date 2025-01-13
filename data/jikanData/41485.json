@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 41485,
+    "url": "https://myanimelist.net/anime/41485/Sarashimono",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/106561.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/106561t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/106561l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/106561.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/106561t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/106561l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sarashimono"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sarashi-mono"
+      },
+      {
+        "type": "Japanese",
+        "title": "さらしもの"
+      }
+    ],
+    "title": "Sarashimono",
+    "title_english": null,
+    "title_japanese": "さらしもの",
+    "title_synonyms": [
+      "Sarashi-mono"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 18, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.83,
+    "scored_by": 157,
+    "rank": null,
+    "popularity": 18991,
+    "members": 334,
+    "favorites": 0,
+    "synopsis": "A music video for the song Sarashimono by Gen Hoshino",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/H6QFLov4WUA"
+      }
+    ],
+    "streaming": []
+  }
+}

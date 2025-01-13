@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 58098,
+    "url": "https://myanimelist.net/anime/58098/1_Year",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/141362.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/141362t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/141362l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/141362.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/141362t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/141362l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "1 Year"
+      },
+      {
+        "type": "Japanese",
+        "title": "1year"
+      }
+    ],
+    "title": "1 Year",
+    "title_english": null,
+    "title_japanese": "1year",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-09-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 9,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 28, 2015"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.92,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 21237,
+    "members": 205,
+    "favorites": 0,
+    "synopsis": "Music video for 1 Year by PinocchioP feat. Hatsune Miku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=FdRljyIlgEo"
+      }
+    ],
+    "streaming": []
+  }
+}

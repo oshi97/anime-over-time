@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 32847,
+    "url": "https://myanimelist.net/anime/32847/Samurai_2011",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/78755.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/78755t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/78755l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/78755.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/78755t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/78755l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Samurai (2011)"
+      },
+      {
+        "type": "Japanese",
+        "title": "SAMURAI"
+      },
+      {
+        "type": "English",
+        "title": "Samurai"
+      }
+    ],
+    "title": "Samurai (2011)",
+    "title_english": "Samurai",
+    "title_japanese": "SAMURAI",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-02-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 2,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 23, 2011"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 4.91,
+    "scored_by": 194,
+    "rank": null,
+    "popularity": 17623,
+    "members": 435,
+    "favorites": 0,
+    "synopsis": "A music video for the Sakamoto Kyouju (サカモト教授) song \"Samurai\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1408,
+        "type": "anime",
+        "name": "Lastrum Music",
+        "url": "https://myanimelist.net/anime/producer/1408/Lastrum_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

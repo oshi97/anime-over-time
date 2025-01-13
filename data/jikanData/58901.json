@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 58901,
+    "url": "https://myanimelist.net/anime/58901/Hazard_Symbol",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/143223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/143223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/143223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/143223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/143223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/143223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hazard Symbol"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハザードシンボル"
+      }
+    ],
+    "title": "Hazard Symbol",
+    "title_english": null,
+    "title_japanese": "ハザードシンボル",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 14, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.44,
+    "scored_by": 106,
+    "rank": null,
+    "popularity": 21306,
+    "members": 202,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hazard Symbol by Yuyu. The song was featured as the opening for Kaii to Otome to Kamikakushi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54199,
+            "type": "anime",
+            "name": "Kaii to Otome to Kamikakushi",
+            "url": "https://myanimelist.net/anime/54199/Kaii_to_Otome_to_Kamikakushi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UqTd2xkHWcI"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 50066,
+    "url": "https://myanimelist.net/anime/50066/Hajimari_wa_Kimi_no_Sora",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/143787.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/143787t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/143787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/143787.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/143787t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/143787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hajimari wa Kimi no Sora"
+      },
+      {
+        "type": "Japanese",
+        "title": "始まりは君の空"
+      }
+    ],
+    "title": "Hajimari wa Kimi no Sora",
+    "title_english": null,
+    "title_japanese": "始まりは君の空",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 7, 2021"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": 6.95,
+    "scored_by": 735,
+    "rank": null,
+    "popularity": 12731,
+    "members": 1487,
+    "favorites": 2,
+    "synopsis": "Animated promotional video bundled with the release of idol unit Liella's first single, Hajimari wa Kimi no Sora.",
+    "background": "The BD release of this single features a full animated version of the idol unit's song Hajimari wa Kimi no Sora, and includes short animated scenes between the members of the unit. (Source: Anilist)",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 41169,
+            "type": "anime",
+            "name": "Love Live! Superstar!!",
+            "url": "https://myanimelist.net/anime/41169/Love_Live_Superstar"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/u68osLiMA_A"
+      }
+    ],
+    "streaming": []
+  }
+}

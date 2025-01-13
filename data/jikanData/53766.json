@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 53766,
+    "url": "https://myanimelist.net/anime/53766/Jantama_Pong☆_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/131642.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/131642t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/131642l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1200/131642.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/131642t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/131642l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jantama Pong☆ Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "じゃんたま PONG☆"
+      },
+      {
+        "type": "English",
+        "title": "Mahjong Soul Pon☆ Special"
+      }
+    ],
+    "title": "Jantama Pong☆ Special",
+    "title_english": "Mahjong Soul Pon☆ Special",
+    "title_japanese": "じゃんたま PONG☆",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 26, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.96,
+    "scored_by": 534,
+    "rank": 10105,
+    "popularity": 13045,
+    "members": 1352,
+    "favorites": 0,
+    "synopsis": "A special episode included with the physical release of Jantama Pong☆.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2379,
+        "type": "anime",
+        "name": "Scooter Films",
+        "url": "https://myanimelist.net/anime/producer/2379/Scooter_Films"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50789,
+            "type": "anime",
+            "name": "Jantama Pong☆",
+            "url": "https://myanimelist.net/anime/50789/Jantama_Pong☆"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://mahjongsoul-pong.jp"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17127"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25116"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mahjong_Soul"
+      }
+    ],
+    "streaming": []
+  }
+}

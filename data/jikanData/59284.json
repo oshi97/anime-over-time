@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 59284,
+    "url": "https://myanimelist.net/anime/59284/Himitsu_no_Oshigoto",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1715/144197.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/144197t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/144197l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1715/144197.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/144197t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/144197l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Himitsu no Oshigoto"
+      },
+      {
+        "type": "Japanese",
+        "title": "ひみつのおしごと"
+      },
+      {
+        "type": "English",
+        "title": "Secret Job"
+      }
+    ],
+    "title": "Himitsu no Oshigoto",
+    "title_english": "Secret Job",
+    "title_japanese": "ひみつのおしごと",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 12, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Himitsu no Oshigoto by Takane Lui.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

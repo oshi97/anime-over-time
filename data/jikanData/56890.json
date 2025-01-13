@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 56890,
+    "url": "https://myanimelist.net/anime/56890/Show",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1599/139053.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1599/139053t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1599/139053l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1599/139053.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1599/139053t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1599/139053l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Show"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Show Another Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "唱"
+      }
+    ],
+    "title": "Show",
+    "title_english": null,
+    "title_japanese": "唱",
+    "title_synonyms": [
+      "Shou",
+      "Show Another Story"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-06T00:00:00+00:00",
+      "to": "2024-09-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 6,
+          "month": 9,
+          "year": 2024
+        }
+      },
+      "string": "Sep 6, 2023 to Sep 6, 2024"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.43,
+    "scored_by": 343,
+    "rank": null,
+    "popularity": 16787,
+    "members": 510,
+    "favorites": 3,
+    "synopsis": "Music videos for the song Show by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.universal-music.co.jp/ado"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=pgXpM4l_MwI"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ado_(singer)"
+      }
+    ],
+    "streaming": []
+  }
+}

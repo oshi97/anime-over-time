@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 58785,
+    "url": "https://myanimelist.net/anime/58785/Micchiri_Neko_March_Deluxe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1229/142833.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1229/142833t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1229/142833l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1229/142833.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1229/142833t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1229/142833l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Micchiri Neko March Deluxe!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mitchiri Neko March Deluxe!"
+      }
+    ],
+    "title": "Micchiri Neko March Deluxe!",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [
+      "Mitchiri Neko March Deluxe!"
+    ],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 26, 2021"
+    },
+    "duration": "Unknown",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "A remake of the Micchiri Neko March Deluxe with a more detailed animation.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 32233,
+            "type": "anime",
+            "name": "Micchiri Neko March",
+            "url": "https://myanimelist.net/anime/32233/Micchiri_Neko_March"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36982,
+            "type": "anime",
+            "name": "Micchiri Neko",
+            "url": "https://myanimelist.net/anime/36982/Micchiri_Neko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

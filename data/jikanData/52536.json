@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 52536,
+    "url": "https://myanimelist.net/anime/52536/Meshimase_Rockn_Roll_Party",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1658/126080.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1658/126080t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1658/126080l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1658/126080.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1658/126080t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1658/126080l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meshimase! Rock'n Roll Party"
+      },
+      {
+        "type": "Japanese",
+        "title": "召しませ！Rock'n Roll Party"
+      }
+    ],
+    "title": "Meshimase! Rock'n Roll Party",
+    "title_english": null,
+    "title_japanese": "召しませ！Rock'n Roll Party",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 3, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.67,
+    "scored_by": 201,
+    "rank": null,
+    "popularity": 18334,
+    "members": 383,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Meshimase! Rock'n Roll Party by the fictional band Irodorimidori. It is the 67th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51600,
+            "type": "anime",
+            "name": "Shoutai Hanmei Nameless Girl",
+            "url": "https://myanimelist.net/anime/51600/Shoutai_Hanmei_Nameless_Girl"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52537,
+            "type": "anime",
+            "name": "Get a Life!",
+            "url": "https://myanimelist.net/anime/52537/Get_a_Life"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/SFspk_2ClZA"
+      }
+    ],
+    "streaming": []
+  }
+}

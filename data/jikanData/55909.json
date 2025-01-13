@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 55909,
+    "url": "https://myanimelist.net/anime/55909/Mirage_Code",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1637/137188.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/137188t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/137188l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1637/137188.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/137188t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/137188l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mirage Code"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミラージュコード"
+      }
+    ],
+    "title": "Mirage Code",
+    "title_english": null,
+    "title_japanese": "ミラージュコード",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 24, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22103,
+    "members": 162,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mirage Code by KOKO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1684,
+        "type": "anime",
+        "name": "THINKR",
+        "url": "https://myanimelist.net/anime/producer/1684/THINKR"
+      },
+      {
+        "mal_id": 2309,
+        "type": "anime",
+        "name": "Kamitsubaki Studio",
+        "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=P0az9IS2XQQ"
+      }
+    ],
+    "streaming": []
+  }
+}

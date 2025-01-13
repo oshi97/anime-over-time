@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 49348,
+    "url": "https://myanimelist.net/anime/49348/Blue_Reflection_Ray_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/116282.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/116282t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/116282l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/116282.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/116282t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/116282l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Blue Reflection Ray Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Blue Reflection Ray Episode 12.5"
+      },
+      {
+        "type": "Japanese",
+        "title": "BLUE REFLECTION RAY/澪 特別編"
+      }
+    ],
+    "title": "Blue Reflection Ray Special",
+    "title_english": null,
+    "title_japanese": "BLUE REFLECTION RAY/澪 特別編",
+    "title_synonyms": [
+      "Blue Reflection Ray Episode 12.5"
+    ],
+    "type": "TV Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 3, 2021"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.78,
+    "scored_by": 343,
+    "rank": 11000,
+    "popularity": 12370,
+    "members": 1673,
+    "favorites": 9,
+    "synopsis": "Recap of the first 12 episodes of Blue Reflection Ray.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 143,
+        "type": "anime",
+        "name": "Mainichi Broadcasting System",
+        "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+      },
+      {
+        "mal_id": 306,
+        "type": "anime",
+        "name": "Magic Capsule",
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+      },
+      {
+        "mal_id": 1671,
+        "type": "anime",
+        "name": "DMM pictures",
+        "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 47639,
+            "type": "anime",
+            "name": "Blue Reflection Ray",
+            "url": "https://myanimelist.net/anime/47639/Blue_Reflection_Ray"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bluereflection-ray.com/news/20210612_01/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16053"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blue_Reflection#Episode_list"
+      }
+    ],
+    "streaming": []
+  }
+}

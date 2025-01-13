@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52544,
+    "url": "https://myanimelist.net/anime/52544/Shikisai_Kajou_no_Diary_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1118/126095.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1118/126095t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1118/126095l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1118/126095.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1118/126095t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1118/126095l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shikisai Kajou no Diary Music"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "色彩過剰のダイアリーミュージック"
+      }
+    ],
+    "title": "Shikisai Kajou no Diary Music",
+    "title_english": null,
+    "title_japanese": "色彩過剰のダイアリーミュージック",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 5, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.42,
+    "scored_by": 208,
+    "rank": null,
+    "popularity": 18282,
+    "members": 387,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Shikisai Kajou no Diary Music by the fictional band Irodorimidori. It is the 76th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52543,
+            "type": "anime",
+            "name": "Kotoba Uta",
+            "url": "https://myanimelist.net/anime/52543/Kotoba_Uta"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53736,
+            "type": "anime",
+            "name": "Chou Rock The Party",
+            "url": "https://myanimelist.net/anime/53736/Chou_Rock_The_Party"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/nzdeDirFggY"
+      }
+    ],
+    "streaming": []
+  }
+}

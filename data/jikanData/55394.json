@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 55394,
+    "url": "https://myanimelist.net/anime/55394/Jantama_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/140909.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/140909t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/140909l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/140909.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/140909t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/140909l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jantama CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mahjong Soul CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jongtama CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "雀魂"
+      }
+    ],
+    "title": "Jantama CMs",
+    "title_english": null,
+    "title_japanese": "雀魂",
+    "title_synonyms": [
+      "Mahjong Soul CMs",
+      "Jongtama CMs"
+    ],
+    "type": "CM",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-06-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 22, 2020 to ?"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21792,
+    "members": 174,
+    "favorites": 0,
+    "synopsis": "Assorted commercials and previews for the Jantama mobile game posted on the official YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 300,
+        "type": "anime",
+        "name": "SILVER LINK.",
+        "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+      },
+      {
+        "mal_id": 2009,
+        "type": "anime",
+        "name": "Yostar Pictures",
+        "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50789,
+            "type": "anime",
+            "name": "Jantama Pong☆",
+            "url": "https://myanimelist.net/anime/50789/Jantama_Pong☆"
+          },
+          {
+            "mal_id": 58792,
+            "type": "anime",
+            "name": "Jantama 5-shuunen Kinen PV",
+            "url": "https://myanimelist.net/anime/58792/Jantama_5-shuunen_Kinen_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://mahjongsoul.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

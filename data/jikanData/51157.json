@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 51157,
+    "url": "https://myanimelist.net/anime/51157/Satsuriku_Tenshi_Jibril_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/121206.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/121206t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/121206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/121206.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/121206t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/121206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Satsuriku Tenshi Jibril PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "NGNL Slaughter Angel Jibril PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "No Game No Life Slaughter Angel Jibril PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "Massacre Angel Jibril PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "殺戮天使ジブリール PV"
+      },
+      {
+        "type": "English",
+        "title": "Slaughter Angel Jibril PV"
+      }
+    ],
+    "title": "Satsuriku Tenshi Jibril PV",
+    "title_english": "Slaughter Angel Jibril PV",
+    "title_japanese": "殺戮天使ジブリール PV",
+    "title_synonyms": [
+      "NGNL Slaughter Angel Jibril PV",
+      "No Game No Life Slaughter Angel Jibril PV",
+      "Massacre Angel Jibril PV"
+    ],
+    "type": "PV",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2014"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.6,
+    "scored_by": 734,
+    "rank": null,
+    "popularity": 11710,
+    "members": 2075,
+    "favorites": 0,
+    "synopsis": "Released as an April Fools prank in 2014, later included in the Blu-ray/DVD release of No Game No Life.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 19815,
+            "type": "anime",
+            "name": "No Game No Life",
+            "url": "https://myanimelist.net/anime/19815/No_Game_No_Life"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://ngnl.jp/tv/goods/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9998"
+      }
+    ],
+    "streaming": []
+  }
+}

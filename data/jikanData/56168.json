@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 56168,
+    "url": "https://myanimelist.net/anime/56168/Yotsukado_no_Melody",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1559/137547.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1559/137547t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1559/137547l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1559/137547.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1559/137547t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1559/137547l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yotsukado no Melody"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "四つ角のメロディー"
+      }
+    ],
+    "title": "Yotsukado no Melody",
+    "title_english": null,
+    "title_japanese": "四つ角のメロディー",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-12-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 1, 2014"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 24287,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": "Music video for the song Yotsukado no Melody by Chiaki Katou that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1726,
+        "type": "anime",
+        "name": "Three-d",
+        "url": "https://myanimelist.net/anime/producer/1726/Three-d"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201412_02"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E3%81%A4%E8%A7%92%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

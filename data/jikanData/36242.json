@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36242,
+    "url": "https://myanimelist.net/anime/36242/TOHO_Cinemas_x_One_Piece_Film__Gold_-_Tokubetsu_Eizou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87543.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87543t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87543l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87543.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87543t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87543l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou"
+      },
+      {
+        "type": "Japanese",
+        "title": "ONE PIECE FILM GOLD×ＴＯＨＯシネマズ 特別映像"
+      },
+      {
+        "type": "English",
+        "title": "TOHO Cinemas x One Piece Film: Gold - Special Video"
+      }
+    ],
+    "title": "TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou",
+    "title_english": "TOHO Cinemas x One Piece Film: Gold - Special Video",
+    "title_japanese": "ONE PIECE FILM GOLD×ＴＯＨＯシネマズ 特別映像",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-02-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 2,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 29, 2016"
+    },
+    "duration": "21 sec",
+    "rating": "G - All Ages",
+    "score": 6.17,
+    "scored_by": 1977,
+    "rank": null,
+    "popularity": 8646,
+    "members": 5368,
+    "favorites": 0,
+    "synopsis": "A collaboration between One Piece Film: Gold and TOHO Cinemas. It features the One Piece cast in a manga sakuga style batting around ball which then becomes gold colored with the cast gaining their colored anime film's design too. The golden ball then turns into the TOHO Cinemas logo as Luffy holds it out to the viewer.\n\nEiichiro Oda himself supervised the collaboration to give the most manga-art accurate imagery possible.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36241,
+            "type": "anime",
+            "name": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi",
+            "url": "https://myanimelist.net/anime/36241/One_Piece_Film__Gold_-_Cine_Mike_Popcorn_Kokuchi"
+          },
+          {
+            "mal_id": 31490,
+            "type": "anime",
+            "name": "One Piece Film: Gold",
+            "url": "https://myanimelist.net/anime/31490/One_Piece_Film__Gold"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.onepiece-film2016.com/news/48.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11529"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Piece_Film:_Gold"
+      }
+    ],
+    "streaming": []
+  }
+}

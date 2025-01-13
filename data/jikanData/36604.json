@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 36604,
+    "url": "https://myanimelist.net/anime/36604/Bang_Babang_Bang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88454.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88454t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88454l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88454.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88454t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88454l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bang Babang Bang!!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Bang Babang Bang!!!"
+      },
+      {
+        "type": "English",
+        "title": "Bang Babang Bang!!!"
+      }
+    ],
+    "title": "Bang Babang Bang!!!",
+    "title_english": "Bang Babang Bang!!!",
+    "title_japanese": "Bang Babang Bang!!!",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 22, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.35,
+    "scored_by": 3480,
+    "rank": null,
+    "popularity": 6450,
+    "members": 11017,
+    "favorites": 372,
+    "synopsis": "Official music video for the song Bang Babang Bang!!! by the fictional band Irodorimidori. It is the 14th song in the franchise and focuses on Aliciana Ogata.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36603,
+            "type": "anime",
+            "name": "Neko Matsuri",
+            "url": "https://myanimelist.net/anime/36603/Neko_Matsuri"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36605,
+            "type": "anime",
+            "name": "Tic Tac Dreamin'",
+            "url": "https://myanimelist.net/anime/36605/Tic_Tac_Dreamin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song14.html"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wWWTUvHaUmk"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

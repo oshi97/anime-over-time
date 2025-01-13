@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 37504,
+    "url": "https://myanimelist.net/anime/37504/Mob_Psycho_Mini",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/91141.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/91141t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/91141l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1225/91141.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1225/91141t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1225/91141l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mob Psycho Mini"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mob Psycho 100 Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "モブサイコ mini"
+      }
+    ],
+    "title": "Mob Psycho Mini",
+    "title_english": null,
+    "title_japanese": "モブサイコ mini",
+    "title_synonyms": [
+      "Mob Psycho 100 Specials"
+    ],
+    "type": "Special",
+    "source": "Web manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-28T00:00:00+00:00",
+      "to": "2017-02-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": 22,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      "string": "Sep 28, 2016 to Feb 22, 2017"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.47,
+    "scored_by": 13806,
+    "rank": 7287,
+    "popularity": 3844,
+    "members": 37529,
+    "favorites": 16,
+    "synopsis": "Specials bundled with the Blu-ray volumes of Mob Psycho 100.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Bones",
+        "url": "https://myanimelist.net/anime/producer/4/Bones"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32182,
+            "type": "anime",
+            "name": "Mob Psycho 100",
+            "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mobpsycho100.com/#BD_DVD"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11803"
+      }
+    ],
+    "streaming": []
+  }
+}

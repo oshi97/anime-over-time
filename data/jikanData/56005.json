@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 56005,
+    "url": "https://myanimelist.net/anime/56005/Tomoshibi_Serenade",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1882/137184.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1882/137184t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1882/137184l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1882/137184.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1882/137184t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1882/137184l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tomoshibi Serenade"
+      },
+      {
+        "type": "Synonym",
+        "title": "Touka Serenade"
+      },
+      {
+        "type": "Japanese",
+        "title": "灯火セレナード"
+      }
+    ],
+    "title": "Tomoshibi Serenade",
+    "title_english": null,
+    "title_japanese": "灯火セレナード",
+    "title_synonyms": [
+      "Touka Serenade"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 9, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.32,
+    "scored_by": 131,
+    "rank": null,
+    "popularity": 19701,
+    "members": 291,
+    "favorites": 2,
+    "synopsis": "Music video for the song Tomoshibi Serenade by ChouCho. The song was featured as the ending for Shokei Shoujo no Virgin Road.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 47162,
+            "type": "anime",
+            "name": "Shokei Shoujo no Virgin Road",
+            "url": "https://myanimelist.net/anime/47162/Shokei_Shoujo_no_Virgin_Road"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://choucho-net.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ChouCho"
+      }
+    ],
+    "streaming": []
+  }
+}

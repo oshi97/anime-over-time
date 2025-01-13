@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 52346,
+    "url": "https://myanimelist.net/anime/52346/Sayonara_Hero",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1386/125151.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1386/125151t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1386/125151l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1386/125151.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1386/125151t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1386/125151l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sayonara Hero"
+      },
+      {
+        "type": "Synonym",
+        "title": "Goodbye Hero"
+      },
+      {
+        "type": "Japanese",
+        "title": "さよならヒーロー"
+      }
+    ],
+    "title": "Sayonara Hero",
+    "title_english": null,
+    "title_japanese": "さよならヒーロー",
+    "title_synonyms": [
+      "Goodbye Hero"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-06-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 6,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 30, 2019"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.14,
+    "scored_by": 314,
+    "rank": null,
+    "popularity": 15829,
+    "members": 631,
+    "favorites": 2,
+    "synopsis": "This song follows in the same theme of \"shit days\", with an uptempo, loud guitar sound, a piano track, and lyrics comprising of doubts about pretending to be someone who you're not.\n\n(Source: hololivepro.com)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/music/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC/"
+      }
+    ],
+    "streaming": []
+  }
+}

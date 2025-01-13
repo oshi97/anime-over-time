@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 51149,
+    "url": "https://myanimelist.net/anime/51149/Golden_Douga_Gekijou_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1194/121164.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/121164t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/121164l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1194/121164.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/121164t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/121164l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Golden Douga Gekijou Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゴールデン道画劇場"
+      }
+    ],
+    "title": "Golden Douga Gekijou Specials",
+    "title_english": null,
+    "title_japanese": "ゴールデン道画劇場",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-27T00:00:00+00:00",
+      "to": "2023-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Jul 27, 2018 to Sep 27, 2023"
+    },
+    "duration": "26 sec per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.08,
+    "scored_by": 396,
+    "rank": 9502,
+    "popularity": 12950,
+    "members": 1391,
+    "favorites": 0,
+    "synopsis": "Extra episodes included on volumes 1 and 7-12 of the BD/DVD.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      },
+      {
+        "mal_id": 1673,
+        "type": "anime",
+        "name": "DMM.futureworks",
+        "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37755,
+            "type": "anime",
+            "name": "Golden Douga Gekijou",
+            "url": "https://myanimelist.net/anime/37755/Golden_Douga_Gekijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.kamuy-anime.com/bddvd/01.html"
+      }
+    ],
+    "streaming": []
+  }
+}

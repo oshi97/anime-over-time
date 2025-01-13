@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 57604,
+    "url": "https://myanimelist.net/anime/57604/Shinkaron",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1836/140562.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/140562t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/140562l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1836/140562.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/140562t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/140562l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinkaron"
+      },
+      {
+        "type": "Japanese",
+        "title": "進化論"
+      }
+    ],
+    "title": "Shinkaron",
+    "title_english": null,
+    "title_japanese": "進化論",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 25228,
+    "members": 86,
+    "favorites": 0,
+    "synopsis": "Music video for the song Shinkaron by Mr.Children.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.mrchildren.jp"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mr._Children"
+      }
+    ],
+    "streaming": []
+  }
+}

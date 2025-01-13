@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 42367,
+    "url": "https://myanimelist.net/anime/42367/Yasai_no_Yousei__NY_Salad_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1898/108327.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/108327t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/108327l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1898/108327.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/108327t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/108327l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yasai no Yousei: N.Y. Salad Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "やさいのようせいスペシャル"
+      },
+      {
+        "type": "English",
+        "title": "Vegetable Fairies N.Y. SALAD Special"
+      }
+    ],
+    "title": "Yasai no Yousei: N.Y. Salad Special",
+    "title_english": "Vegetable Fairies N.Y. SALAD Special",
+    "title_japanese": "やさいのようせいスペシャル",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-04-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 4,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 29, 2014"
+    },
+    "duration": "30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15810,
+    "popularity": 22003,
+    "members": 166,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 466,
+        "type": "anime",
+        "name": "Digital Media Lab",
+        "url": "https://myanimelist.net/anime/producer/466/Digital_Media_Lab"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 10705,
+            "type": "anime",
+            "name": "Yasai no Yousei: N.Y.Salad",
+            "url": "https://myanimelist.net/anime/10705/Yasai_no_Yousei__NYSalad"
+          }
+        ]
+      },
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 42366,
+            "type": "anime",
+            "name": "Yasai no Yousei: N.Y. Salad The Movie",
+            "url": "https://myanimelist.net/anime/42366/Yasai_no_Yousei__NY_Salad_The_Movie"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 18817,
+            "type": "anime",
+            "name": "Yasai no Yousei: Quiz Gekijou",
+            "url": "https://myanimelist.net/anime/18817/Yasai_no_Yousei__Quiz_Gekijou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=qxJt7kmsI3M"
+      }
+    ],
+    "streaming": []
+  }
+}

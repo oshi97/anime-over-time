@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 37610,
+    "url": "https://myanimelist.net/anime/37610/Nemurihime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1013/91416.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1013/91416t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1013/91416l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1013/91416.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1013/91416t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1013/91416l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nemurihime"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Sleeping Princess"
+      },
+      {
+        "type": "Japanese",
+        "title": "ネムリヒメ"
+      },
+      {
+        "type": "English",
+        "title": "Sleeping Beauty"
+      }
+    ],
+    "title": "Nemurihime",
+    "title_english": "Sleeping Beauty",
+    "title_japanese": "ネムリヒメ",
+    "title_synonyms": [
+      "The Sleeping Princess"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2015"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.59,
+    "scored_by": 164,
+    "rank": null,
+    "popularity": 18895,
+    "members": 340,
+    "favorites": 0,
+    "synopsis": "The story details the baku from the previous song visiting the coffin of a woman he once loved, who presumably died of an unspecified cause. He then explains that he steals the souls of people in order to keep her alive, and continues to do so until the day when she eventually wakes up from her coma. He also seems to lament the fact that whatever dreams he does give her, ends up giving her nightmares.\n\n(Source: Vocaloid Wikia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37609,
+            "type": "anime",
+            "name": "Yumekui Shirokuro Baku",
+            "url": "https://myanimelist.net/anime/37609/Yumekui_Shirokuro_Baku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rGhe2dEIMFU"
+      }
+    ],
+    "streaming": []
+  }
+}

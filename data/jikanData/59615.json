@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 59615,
+    "url": "https://myanimelist.net/anime/59615/Pokemon_Card_Game_PV__Trainers_Pokemon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1920/144941.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1920/144941t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1920/144941l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1920/144941.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1920/144941t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1920/144941l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Card Game PV: Trainer's Pokemon"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンカードゲームPV 「Trainer's Pokémon」"
+      }
+    ],
+    "title": "Pokemon Card Game PV: Trainer's Pokemon",
+    "title_english": null,
+    "title_japanese": "ポケモンカードゲームPV 「Trainer's Pokémon」",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 19, 2024"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.22,
+    "scored_by": 141,
+    "rank": null,
+    "popularity": 19212,
+    "members": 320,
+    "favorites": 1,
+    "synopsis": "A PV for the Trainer's Pokemon cards releasing in 2025.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon-card.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4SFx2kplm8c"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+      }
+    ],
+    "streaming": []
+  }
+}

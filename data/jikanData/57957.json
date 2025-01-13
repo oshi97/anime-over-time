@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 57957,
+    "url": "https://myanimelist.net/anime/57957/Sacrifice",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/141143.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/141143t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/141143l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1263/141143.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1263/141143t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1263/141143l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sacrifice"
+      },
+      {
+        "type": "Japanese",
+        "title": "サクリファイス"
+      }
+    ],
+    "title": "Sacrifice",
+    "title_english": null,
+    "title_japanese": "サクリファイス",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 6, 2019"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21407,
+    "members": 197,
+    "favorites": 0,
+    "synopsis": "Music video for the song Sacrifice by Mafumafu. The song was featured as the opening for Katsute Kami Datta Kemono-tachi e.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39199,
+            "type": "anime",
+            "name": "Katsute Kami Datta Kemono-tachi e",
+            "url": "https://myanimelist.net/anime/39199/Katsute_Kami_Datta_Kemono-tachi_e"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://uni-mafumafu.jp/movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/watch?v=boLiYzE3xM8"
+      }
+    ],
+    "streaming": []
+  }
+}

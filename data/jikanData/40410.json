@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 40410,
+    "url": "https://myanimelist.net/anime/40410/Ring_no_Seraph",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1146/103080.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/103080t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/103080l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1146/103080.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/103080t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/103080l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ring no Seraph"
+      },
+      {
+        "type": "Synonym",
+        "title": "Seraphim On The Ring - Mitchie M feat. Hatsune Miku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kagamine Rin"
+      },
+      {
+        "type": "Synonym",
+        "title": "KAITO"
+      },
+      {
+        "type": "Japanese",
+        "title": "リングの熾天使"
+      },
+      {
+        "type": "English",
+        "title": "Seraphim on the Ring"
+      }
+    ],
+    "title": "Ring no Seraph",
+    "title_english": "Seraphim on the Ring",
+    "title_japanese": "リングの熾天使",
+    "title_synonyms": [
+      "Seraphim On The Ring - Mitchie M feat. Hatsune Miku",
+      "Kagamine Rin",
+      "KAITO"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 29, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.93,
+    "scored_by": 943,
+    "rank": null,
+    "popularity": 12475,
+    "members": 1624,
+    "favorites": 4,
+    "synopsis": "A pro wrestling match in which Miku and Rin (Cutie Angels) play against Meiko and Luka. The ringside commentator is KAITO. The referee is Len.\n\n(Source: Mitchie M's YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mitchie-m.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

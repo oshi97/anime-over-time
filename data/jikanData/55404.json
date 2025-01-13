@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 55404,
+    "url": "https://myanimelist.net/anime/55404/Slash",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1290/136047.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1290/136047t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1290/136047l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1290/136047.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1290/136047t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1290/136047l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Slash"
+      },
+      {
+        "type": "Japanese",
+        "title": "slash"
+      },
+      {
+        "type": "English",
+        "title": "Slash"
+      }
+    ],
+    "title": "Slash",
+    "title_english": "Slash",
+    "title_japanese": "slash",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-05-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 5,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 22, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.51,
+    "scored_by": 549,
+    "rank": null,
+    "popularity": 13971,
+    "members": 1053,
+    "favorites": 3,
+    "synopsis": "Music video for the song Slash by yama.\n\nThe song featured in this music video also serves as the opening theme of the anime Mobile Suit Gundam: The Witch from Mercury Season 2.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1877,
+        "type": "anime",
+        "name": "MAZRI",
+        "url": "https://myanimelist.net/anime/producer/1877/MAZRI"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2311,
+        "type": "anime",
+        "name": "Gyorai Eizo Inc.",
+        "url": "https://myanimelist.net/anime/producer/2311/Gyorai_Eizo_Inc"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53199,
+            "type": "anime",
+            "name": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+            "url": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tsh7waq3Fyo"
+      }
+    ],
+    "streaming": []
+  }
+}

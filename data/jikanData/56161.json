@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 56161,
+    "url": "https://myanimelist.net/anime/56161/Retronix_Symphony",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/137518.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/137518t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/137518l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1170/137518.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/137518t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/137518l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Retronix Symphony"
+      },
+      {
+        "type": "Japanese",
+        "title": "Retronix Symphony"
+      }
+    ],
+    "title": "Retronix Symphony",
+    "title_english": null,
+    "title_japanese": "Retronix Symphony",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-10-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 26, 2011"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27812,
+    "members": 32,
+    "favorites": 0,
+    "synopsis": "Music video for Retronix Symphony by Mop of Head.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 56162,
+            "type": "anime",
+            "name": "Retronix Symphony: Betsu Vector Version",
+            "url": "https://myanimelist.net/anime/56162/Retronix_Symphony__Betsu_Vector_Version"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://mopofhead.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=S2C9iWWPwtA"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Mop_of_Head#%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%93%E3%83%87%E3%82%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

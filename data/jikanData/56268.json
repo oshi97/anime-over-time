@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 56268,
+    "url": "https://myanimelist.net/anime/56268/Hello_Carbot_×_Mecard_Ball",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1576/137759.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/137759t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/137759l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1576/137759.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/137759t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/137759l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Carbot × Mecard Ball"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 카봇×메카드볼"
+      },
+      {
+        "type": "English",
+        "title": "Hello Carbot × Mecard Ball"
+      }
+    ],
+    "title": "Hello Carbot × Mecard Ball",
+    "title_english": "Hello Carbot × Mecard Ball",
+    "title_japanese": "헬로 카봇×메카드볼",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-02T00:00:00+00:00",
+      "to": "2023-04-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 23,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "string": "Apr 2, 2023 to Apr 23, 2023"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20962,
+    "popularity": 22953,
+    "members": 130,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 56274,
+            "type": "anime",
+            "name": "Mecard Ball Mega",
+            "url": "https://myanimelist.net/anime/56274/Mecard_Ball_Mega"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35541,
+            "type": "anime",
+            "name": "Turning Mecard",
+            "url": "https://myanimelist.net/anime/35541/Turning_Mecard"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://programs.sbs.co.kr/culture/carbot7/clips/59275"
+      }
+    ],
+    "streaming": []
+  }
+}

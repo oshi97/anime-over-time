@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 57624,
+    "url": "https://myanimelist.net/anime/57624/Touhikou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/140588.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/140588t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/140588l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/140588.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/140588t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/140588l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Touhikou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tohiko"
+      },
+      {
+        "type": "Japanese",
+        "title": "逃避行"
+      }
+    ],
+    "title": "Touhikou",
+    "title_english": null,
+    "title_japanese": "逃避行",
+    "title_synonyms": [
+      "Tohiko"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 24, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.73,
+    "scored_by": 158,
+    "rank": null,
+    "popularity": 19990,
+    "members": 275,
+    "favorites": 1,
+    "synopsis": "Music video for the song Touhikou by Eve.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=uWZ6VyQ-cMI"
+      }
+    ],
+    "streaming": []
+  }
+}

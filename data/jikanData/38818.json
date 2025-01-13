@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 38818,
+    "url": "https://myanimelist.net/anime/38818/Please_Marry_Me",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1498/97320.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/97320t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/97320l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1498/97320.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/97320t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/97320l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Please! Marry Me!!"
+      },
+      {
+        "type": "Japanese",
+        "title": "PLEASE! MARRY ME!!"
+      },
+      {
+        "type": "English",
+        "title": "Please! Marry Me!!"
+      }
+    ],
+    "title": "Please! Marry Me!!",
+    "title_english": "Please! Marry Me!!",
+    "title_japanese": "PLEASE! MARRY ME!!",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-05-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 5,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 21, 2008"
+    },
+    "duration": "3 min",
+    "rating": "PG - Children",
+    "score": 5.55,
+    "scored_by": 191,
+    "rank": null,
+    "popularity": 18165,
+    "members": 396,
+    "favorites": 0,
+    "synopsis": "Music video directed by Mitsuyuki Ishibashi and animation director Kousuke Sugimoto for PLEASE! MARRY ME!! by the band ketchup mania.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1390,
+        "type": "anime",
+        "name": "Toy's Factory",
+        "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 38819,
+            "type": "anime",
+            "name": "Bad! Bad! Bad!",
+            "url": "https://myanimelist.net/anime/38819/Bad_Bad_Bad"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

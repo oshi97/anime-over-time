@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 55705,
+    "url": "https://myanimelist.net/anime/55705/Fight_Club",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/136547.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/136547t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/136547l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/136547.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/136547t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/136547l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fight Club"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fight Club"
+      }
+    ],
+    "title": "Fight Club",
+    "title_english": null,
+    "title_japanese": "Fight Club",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 15, 2019"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23348,
+    "members": 119,
+    "favorites": 0,
+    "synopsis": "Music video for the song Fight Club by Kenmochi Hidefumi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kenmochihidefumi.com"
+      }
+    ],
+    "streaming": []
+  }
+}

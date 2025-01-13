@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 54723,
+    "url": "https://myanimelist.net/anime/54723/gdgd_Fairies_Movie_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/134217.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/134217t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/134217l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/134217.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/134217t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/134217l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "gdgd Fairies Movie Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "3 Fairies Hold a Press Conference"
+      },
+      {
+        "type": "Synonym",
+        "title": "3 Faires go to the Movies"
+      }
+    ],
+    "title": "gdgd Fairies Movie Specials",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [
+      "3 Fairies Hold a Press Conference",
+      "3 Faires go to the Movies"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-11-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 11,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 19, 2014"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20603,
+    "popularity": 22292,
+    "members": 154,
+    "favorites": 0,
+    "synopsis": "Specials bundled with bluray release of gdgd Fairies Movie.\n\nFirst episode is about the three fairies holding a press conference. Second episode is about them going to see a movie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 24071,
+            "type": "anime",
+            "name": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+            "url": "https://myanimelist.net/anime/24071/gdgd_Fairies_Movie__tte_Iu_Eiga_wa_Dou_kana"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10621"
+      }
+    ],
+    "streaming": []
+  }
+}

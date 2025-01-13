@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 54046,
+    "url": "https://myanimelist.net/anime/54046/Be_Authentic",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1540/132212.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1540/132212t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/132212l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1540/132212.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1540/132212t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/132212l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Be Authentic"
+      },
+      {
+        "type": "Japanese",
+        "title": "BE AUTHENTIC"
+      }
+    ],
+    "title": "Be Authentic",
+    "title_english": null,
+    "title_japanese": "BE AUTHENTIC",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.38,
+    "scored_by": 221,
+    "rank": null,
+    "popularity": 17610,
+    "members": 436,
+    "favorites": 2,
+    "synopsis": "Music video for TRIGGER's performance at BLACK or WHITE LIVE SHOWDOWN 2022.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 46654,
+            "type": "anime",
+            "name": "IDOLiSH7 Third Beat! Part 2",
+            "url": "https://myanimelist.net/anime/46654/IDOLiSH7_Third_Beat_Part_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

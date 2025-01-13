@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 55147,
+    "url": "https://myanimelist.net/anime/55147/My_Show",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1579/135581.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/135581t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/135581l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1579/135581.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/135581t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/135581l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "My Show"
+      },
+      {
+        "type": "Japanese",
+        "title": "My Show"
+      },
+      {
+        "type": "English",
+        "title": "My Show"
+      }
+    ],
+    "title": "My Show",
+    "title_english": "My Show",
+    "title_japanese": "My Show",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-07-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 7,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 14, 2016"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23039,
+    "members": 127,
+    "favorites": 0,
+    "synopsis": "Music video for SM STATION's track My Show, composed by LDN Noise and sung by Cha Ji Yeon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3035,
+        "type": "anime",
+        "name": "Koinrush Studio",
+        "url": "https://myanimelist.net/anime/producer/3035/Koinrush_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.smtown.com/production/album/11258"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=whQUpGmh66w&ab_channel=SMTOWN"
+      }
+    ],
+    "streaming": []
+  }
+}

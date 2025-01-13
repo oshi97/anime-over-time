@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 54282,
+    "url": "https://myanimelist.net/anime/54282/Datte_Kyou_made_Koiwazurai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/132852.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/132852t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/132852l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/132852.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/132852t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/132852l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Datte Kyou made Koiwazurai"
+      },
+      {
+        "type": "Japanese",
+        "title": "だって今日まで恋煩い"
+      }
+    ],
+    "title": "Datte Kyou made Koiwazurai",
+    "title_english": null,
+    "title_japanese": "だって今日まで恋煩い",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 12, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.92,
+    "scored_by": 151,
+    "rank": null,
+    "popularity": 19792,
+    "members": 286,
+    "favorites": 0,
+    "synopsis": "Music video for the song Datte Kyou made Koiwazurai by BMK. The song was featured as the second ending for Digimon Ghost Game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49515,
+            "type": "anime",
+            "name": "Digimon Ghost Game",
+            "url": "https://myanimelist.net/anime/49515/Digimon_Ghost_Game"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bmk-official.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/BMK_(%E9%9F%B3%E6%A5%BD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97)#%E4%BD%9C%E5%93%81"
+      }
+    ],
+    "streaming": []
+  }
+}

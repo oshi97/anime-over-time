@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 55669,
+    "url": "https://myanimelist.net/anime/55669/Albino",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1291/136473.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1291/136473t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1291/136473l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1291/136473.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1291/136473t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1291/136473l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Albino"
+      },
+      {
+        "type": "Japanese",
+        "title": "albino"
+      },
+      {
+        "type": "English",
+        "title": "Albino"
+      }
+    ],
+    "title": "Albino",
+    "title_english": "Albino",
+    "title_japanese": "albino",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 10, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22354,
+    "members": 151,
+    "favorites": 0,
+    "synopsis": "Music video for the song albino by DUSTCELL.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ojyOpvamDd0"
+      }
+    ],
+    "streaming": []
+  }
+}

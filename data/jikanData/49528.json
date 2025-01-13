@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 49528,
+    "url": "https://myanimelist.net/anime/49528/Mister_Jewel_Box",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1505/116850.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/116850t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/116850l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1505/116850.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/116850t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/116850l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mister Jewel Box"
+      },
+      {
+        "type": "Japanese",
+        "title": "Mister Jewel Box"
+      },
+      {
+        "type": "English",
+        "title": "Mister Jewel Box"
+      }
+    ],
+    "title": "Mister Jewel Box",
+    "title_english": "Mister Jewel Box",
+    "title_japanese": "Mister Jewel Box",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 22, 2020"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.59,
+    "scored_by": 255,
+    "rank": null,
+    "popularity": 17235,
+    "members": 468,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49527,
+            "type": "anime",
+            "name": "Princess♂",
+            "url": "https://myanimelist.net/anime/49527/Princess♂"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51513,
+            "type": "anime",
+            "name": "Kruel Kreator",
+            "url": "https://myanimelist.net/anime/51513/Kruel_Kreator"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.faketype.net/music-clips"
+      }
+    ],
+    "streaming": []
+  }
+}

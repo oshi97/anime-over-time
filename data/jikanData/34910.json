@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 34910,
+    "url": "https://myanimelist.net/anime/34910/Heya_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/84226.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/84226t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/84226l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/84226.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/84226t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/84226l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heya (Music)"
+      },
+      {
+        "type": "Japanese",
+        "title": "部屋"
+      },
+      {
+        "type": "English",
+        "title": "The Room"
+      }
+    ],
+    "title": "Heya (Music)",
+    "title_english": "The Room",
+    "title_japanese": "部屋",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011"
+    },
+    "duration": "3 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.24,
+    "scored_by": 324,
+    "rank": null,
+    "popularity": 16063,
+    "members": 597,
+    "favorites": 1,
+    "synopsis": "Music video by Miyo Satou for the title track Heya by Japanese band Siraoka on their first album.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://siraoka.tumblr.com/pv"
+      }
+    ],
+    "streaming": []
+  }
+}

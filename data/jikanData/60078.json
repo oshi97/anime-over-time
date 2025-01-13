@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 60078,
+    "url": "https://myanimelist.net/anime/60078/Charisma_Picnic",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1052/146007.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1052/146007t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/146007l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1052/146007.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1052/146007t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/146007l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Charisma Picnic"
+      },
+      {
+        "type": "Japanese",
+        "title": "カリスマピクニック"
+      }
+    ],
+    "title": "Charisma Picnic",
+    "title_english": null,
+    "title_japanese": "カリスマピクニック",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27802,
+    "members": 35,
+    "favorites": 0,
+    "synopsis": "Music video for the song Charisma Picnic by Charisma.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://charisma-house.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=V8tzcj14CeQ"
+      }
+    ],
+    "streaming": []
+  }
+}

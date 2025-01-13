@@ -1,0 +1,184 @@
+{
+  "data": {
+    "mal_id": 60063,
+    "url": "https://myanimelist.net/anime/60063/Fairy_Tail__100-nen_Quest_-_Kanwa_-_Lucys_Diary",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1563/145960.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1563/145960t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1563/145960l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1563/145960.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1563/145960t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1563/145960l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fairy Tail: 100-nen Quest - Kanwa - Lucy's Diary"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fairy Tail: 100-nen Quest Episode 13.5"
+      },
+      {
+        "type": "Japanese",
+        "title": "閑話・Lucy's diary"
+      },
+      {
+        "type": "English",
+        "title": "Fairy Tail: 100 Years Quest - Going Off Topic - Lucy's Diary"
+      }
+    ],
+    "title": "Fairy Tail: 100-nen Quest - Kanwa - Lucy's Diary",
+    "title_english": "Fairy Tail: 100 Years Quest - Going Off Topic - Lucy's Diary",
+    "title_japanese": "閑話・Lucy's diary",
+    "title_synonyms": [
+      "Fairy Tail: 100-nen Quest Episode 13.5"
+    ],
+    "type": "TV Special",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 6, 2024"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.22,
+    "scored_by": 592,
+    "rank": 8733,
+    "popularity": 12628,
+    "members": 1538,
+    "favorites": 0,
+    "synopsis": "A recap of the first thirteen episodes of Fairy Tail: 100-nen Quest.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 1284,
+        "type": "anime",
+        "name": "Avex Pictures",
+        "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 49785,
+            "type": "anime",
+            "name": "Fairy Tail: 100-nen Quest",
+            "url": "https://myanimelist.net/anime/49785/Fairy_Tail__100-nen_Quest"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Story\" by Da-iCE"
+      ],
+      "endings": [
+        "\"Tomo yo Koko de Sayonara da (友よここでサヨナラだ)\" by Boku ga Mitakatta Aozora (僕が見たかった青空)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.fairytail100yq.com/"
+      },
+      {
+        "name": "@fairytail_PR",
+        "url": "https://twitter.com/fairytail_PR"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16637"
+      }
+    ],
+    "streaming": []
+  }
+}

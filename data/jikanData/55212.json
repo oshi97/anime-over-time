@@ -1,0 +1,117 @@
+{
+  "data": {
+    "mal_id": 55212,
+    "url": "https://myanimelist.net/anime/55212/Polaris",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1406/139836.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1406/139836t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1406/139836l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1406/139836.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1406/139836t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1406/139836l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Polaris"
+      },
+      {
+        "type": "Japanese",
+        "title": "북극성"
+      },
+      {
+        "type": "English",
+        "title": "Polaris"
+      }
+    ],
+    "title": "Polaris",
+    "title_english": "Polaris",
+    "title_japanese": "북극성",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 6, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for song Polaris.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2993,
+        "type": "anime",
+        "name": "Mirrorball Music",
+        "url": "https://myanimelist.net/anime/producer/2993/Mirrorball_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

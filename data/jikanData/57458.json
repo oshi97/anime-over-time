@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 57458,
+    "url": "https://myanimelist.net/anime/57458/Mayi_Chuanqi__Zhongji_Yi_Zhan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/140185.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/140185t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/140185l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/140185.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/140185t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/140185l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mayi Chuanqi: Zhongji Yi Zhan"
+      },
+      {
+        "type": "Japanese",
+        "title": "蚂蚁传奇之终极一战"
+      }
+    ],
+    "title": "Mayi Chuanqi: Zhongji Yi Zhan",
+    "title_english": null,
+    "title_japanese": "蚂蚁传奇之终极一战",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 9, 2023"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17397,
+    "popularity": 24385,
+    "members": 99,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 59243,
+            "type": "anime",
+            "name": "Mayi Chuanqi: Shenmu Qi Yuan",
+            "url": "https://myanimelist.net/anime/59243/Mayi_Chuanqi__Shenmu_Qi_Yuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36671702/"
+      }
+    ],
+    "streaming": []
+  }
+}

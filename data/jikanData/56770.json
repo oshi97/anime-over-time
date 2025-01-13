@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 56770,
+    "url": "https://myanimelist.net/anime/56770/Holidays",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1374/138804.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1374/138804t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1374/138804l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1374/138804.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1374/138804t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1374/138804l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Holidays!"
+      },
+      {
+        "type": "Japanese",
+        "title": "Holidays!"
+      }
+    ],
+    "title": "Holidays!",
+    "title_english": null,
+    "title_japanese": "Holidays!",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 16, 2021"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.12,
+    "scored_by": 158,
+    "rank": null,
+    "popularity": 19795,
+    "members": 286,
+    "favorites": 0,
+    "synopsis": "Music video for the song Holidays! by Tsunomaki Watame.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=keZcK802kV4"
+      }
+    ],
+    "streaming": []
+  }
+}

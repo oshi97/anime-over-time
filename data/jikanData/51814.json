@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 51814,
+    "url": "https://myanimelist.net/anime/51814/Miren_Record",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1299/123771.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/123771t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/123771l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1299/123771.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/123771t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/123771l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Miren Record"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wistful Record"
+      },
+      {
+        "type": "Japanese",
+        "title": "未練レコード"
+      }
+    ],
+    "title": "Miren Record",
+    "title_english": null,
+    "title_japanese": "未練レコード",
+    "title_synonyms": [
+      "Wistful Record"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.77,
+    "scored_by": 485,
+    "rank": null,
+    "popularity": 14237,
+    "members": 980,
+    "favorites": 0,
+    "synopsis": "First collaboration between Hololive and Vocaloid P.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yVxmv4oqPzs"
+      }
+    ],
+    "streaming": []
+  }
+}

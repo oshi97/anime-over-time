@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 58064,
+    "url": "https://myanimelist.net/anime/58064/Keep_Holding_On",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/141306.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/141306t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/141306l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/141306.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/141306t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/141306l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Keep Holding On"
+      },
+      {
+        "type": "Japanese",
+        "title": "Keep Holding On"
+      }
+    ],
+    "title": "Keep Holding On",
+    "title_english": null,
+    "title_japanese": "Keep Holding On",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 5, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Keep Holding On by POLINA.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42163,
+            "type": "anime",
+            "name": "Arknights",
+            "url": "https://myanimelist.net/anime/42163/Arknights"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

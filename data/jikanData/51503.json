@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 51503,
+    "url": "https://myanimelist.net/anime/51503/Palette",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/122223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/122223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/122223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/122223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/122223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/122223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Palette"
+      },
+      {
+        "type": "Japanese",
+        "title": "Palette"
+      },
+      {
+        "type": "English",
+        "title": "Palette"
+      }
+    ],
+    "title": "Palette",
+    "title_english": "Palette",
+    "title_japanese": "Palette",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 18, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.82,
+    "scored_by": 506,
+    "rank": null,
+    "popularity": 14535,
+    "members": 904,
+    "favorites": 5,
+    "synopsis": "A music video for the song Palette by Tokoyami Towa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/Ud73fm4Uoq0"
+      }
+    ],
+    "streaming": []
+  }
+}

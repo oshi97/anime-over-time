@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 40222,
+    "url": "https://myanimelist.net/anime/40222/Agitation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1284/102877.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1284/102877t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1284/102877l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1284/102877.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1284/102877t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1284/102877l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Agitation!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Agitation！"
+      },
+      {
+        "type": "English",
+        "title": "Agitation!"
+      }
+    ],
+    "title": "Agitation!",
+    "title_english": "Agitation!",
+    "title_japanese": "Agitation！",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 6, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.57,
+    "scored_by": 572,
+    "rank": null,
+    "popularity": 13884,
+    "members": 1072,
+    "favorites": 0,
+    "synopsis": "The members of the reformed Maigahara Light Music Club—guitarist Nadeshiko Igarashi, bassist Nanase Hagiwara, and drummer Minae Ono—are onstage for their first live performance. Shaking their souls as they sing their hearts out, they have nothing to fear as their burning passion for music will lead their way.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Agitation!. It is the 44th song in the franchise and focuses on \"Maigahara Koukou Keion-bu,\" an after school club band with Nanase Hagiwara, Nadeshiko Igarashi, and Minae Ono as members.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40140,
+            "type": "anime",
+            "name": "Issei Kiyuukyoku: Divertimento",
+            "url": "https://myanimelist.net/anime/40140/Issei_Kiyuukyoku__Divertimento"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 40360,
+            "type": "anime",
+            "name": "Shout Our Evidence!",
+            "url": "https://myanimelist.net/anime/40360/Shout_Our_Evidence"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song044/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

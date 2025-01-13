@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48540,
+    "url": "https://myanimelist.net/anime/48540/Holy_Angels_Carol",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1199/113650.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/113650t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/113650l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1199/113650.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/113650t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/113650l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Holy Angel's Carol"
+      },
+      {
+        "type": "Japanese",
+        "title": "Holy Angel's Carol"
+      },
+      {
+        "type": "English",
+        "title": "Holy Angel's Carol"
+      }
+    ],
+    "title": "Holy Angel's Carol",
+    "title_english": "Holy Angel's Carol",
+    "title_japanese": "Holy Angel's Carol",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 13, 2019"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.02,
+    "scored_by": 170,
+    "rank": null,
+    "popularity": 18874,
+    "members": 342,
+    "favorites": 0,
+    "synopsis": "A music video for one of Ensemble Star's units, fine, of their song Holy Angel's Carol.",
+    "background": "The song is part of the ENSEMBLE STARS! ALBUM SERIES PRESENT -fine- album, which is the first studio album released by fine.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/discography/41"
+      }
+    ],
+    "streaming": []
+  }
+}

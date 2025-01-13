@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 42662,
+    "url": "https://myanimelist.net/anime/42662/Fanta_Jiisan_no_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1081/108845.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1081/108845t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/108845l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1081/108845.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1081/108845t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/108845l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fanta Jiisan no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ファンタ爺さんのうた"
+      }
+    ],
+    "title": "Fanta Jiisan no Uta",
+    "title_english": null,
+    "title_japanese": "ファンタ爺さんのうた",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2004-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2004
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 1, 2004"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21677,
+    "members": 182,
+    "favorites": 0,
+    "synopsis": "Music video for the song Fanta Jiisan no Uta by Yumi Ishikawa and the Morinoki Children's Choir (Morinoki Jidou Gasshoudan) that was featured on NHK's Minna no Uta program. The video features former NHK announcer Tsuneji Tsukagoshi's character Fanta Jiisan. Mr. Tsukagoshi also wrote the lyrics for the song and his younger brother, Teiji Tsukagoshi, did the illustrations for the video.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN200408_03/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E7%88%BA%E3%81%95%E3%82%93%E3%81%AE%E3%81%86%E3%81%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

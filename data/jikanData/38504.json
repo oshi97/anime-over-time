@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 38504,
+    "url": "https://myanimelist.net/anime/38504/Ongaku_wa_Tomatta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1266/95529.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1266/95529t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1266/95529l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1266/95529.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1266/95529t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1266/95529l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ongaku wa Tomatta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Panpan no Tou"
+      },
+      {
+        "type": "Japanese",
+        "title": "音楽は止まった"
+      },
+      {
+        "type": "English",
+        "title": "Ongaku wa Tomatta"
+      }
+    ],
+    "title": "Ongaku wa Tomatta",
+    "title_english": "Ongaku wa Tomatta",
+    "title_japanese": "音楽は止まった",
+    "title_synonyms": [
+      "Panpan no Tou"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 6, 2013"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.48,
+    "scored_by": 119,
+    "rank": null,
+    "popularity": 20387,
+    "members": 253,
+    "favorites": 0,
+    "synopsis": "Official music video for Panpan no Tou's song Ongaku wa Tomatta.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1934,
+        "type": "anime",
+        "name": "Saigo no Shudan",
+        "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.saigono.info/works.html"
+      }
+    ],
+    "streaming": []
+  }
+}

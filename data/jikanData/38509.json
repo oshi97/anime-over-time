@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 38509,
+    "url": "https://myanimelist.net/anime/38509/Kensaku_Shounen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/95534.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/95534t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/95534l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/95534.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/95534t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/95534l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kensaku Shounen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nanao Tabito"
+      },
+      {
+        "type": "Japanese",
+        "title": "検索少年"
+      }
+    ],
+    "title": "Kensaku Shounen",
+    "title_english": null,
+    "title_japanese": "検索少年",
+    "title_synonyms": [
+      "Nanao Tabito"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2010"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 102,
+    "rank": null,
+    "popularity": 21016,
+    "members": 217,
+    "favorites": 0,
+    "synopsis": "Nanao Tabito's song Kensaku Shounen held a music video contest. Where anyone could create a music video and submit it for prize money. Saigo no Shudan competed with an entirely animated piece and won the grand prize.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1934,
+        "type": "anime",
+        "name": "Saigo no Shudan",
+        "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.saigono.info/works.html"
+      }
+    ],
+    "streaming": []
+  }
+}

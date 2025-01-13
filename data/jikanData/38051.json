@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 38051,
+    "url": "https://myanimelist.net/anime/38051/Rikaisha",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/93684.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/93684t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/93684l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/93684.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/93684t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/93684l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rikaisha"
+      },
+      {
+        "type": "Synonym",
+        "title": "22/7"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nanabun no Nijuuni"
+      },
+      {
+        "type": "Japanese",
+        "title": "理解者"
+      }
+    ],
+    "title": "Rikaisha",
+    "title_english": null,
+    "title_japanese": "理解者",
+    "title_synonyms": [
+      "22/7",
+      "Nanabun no Nijuuni"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 22, 2018"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.22,
+    "scored_by": 866,
+    "rank": null,
+    "popularity": 12112,
+    "members": 1837,
+    "favorites": 2,
+    "synopsis": "Music video included with the third single of the digital idol group 22/7 (Nanabun no Nijuuni).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 235,
+        "type": "anime",
+        "name": "Shirogumi",
+        "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37589,
+            "type": "anime",
+            "name": "Ano Hi no Kanojo-tachi",
+            "url": "https://myanimelist.net/anime/37589/Ano_Hi_no_Kanojo-tachi"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36191,
+            "type": "anime",
+            "name": "Boku wa Sonzai Shiteinakatta",
+            "url": "https://myanimelist.net/anime/36191/Boku_wa_Sonzai_Shiteinakatta"
+          },
+          {
+            "mal_id": 37406,
+            "type": "anime",
+            "name": "Shampoo no Nioi ga Shita",
+            "url": "https://myanimelist.net/anime/37406/Shampoo_no_Nioi_ga_Shita"
+          },
+          {
+            "mal_id": 40147,
+            "type": "anime",
+            "name": "Nani mo Shite Agerarenai",
+            "url": "https://myanimelist.net/anime/40147/Nani_mo_Shite_Agerarenai"
+          },
+          {
+            "mal_id": 40148,
+            "type": "anime",
+            "name": "22/7",
+            "url": "https://myanimelist.net/anime/40148/22_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nanabunnonijyuuni.com/discography/archive/?SRCL-9891"
+      }
+    ],
+    "streaming": []
+  }
+}

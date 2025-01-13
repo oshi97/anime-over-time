@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 40888,
+    "url": "https://myanimelist.net/anime/40888/Kidou_Senshi_Gakuen__Kaettekita_G-Reco_Koushien",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1861/105481.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1861/105481t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1861/105481l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1861/105481.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1861/105481t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1861/105481l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kidou Senshi Gakuen: Kaettekita G-Reco Koushien"
+      },
+      {
+        "type": "Japanese",
+        "title": "モビルスーツ学園「帰ってきたＧ-レコ甲子園」"
+      },
+      {
+        "type": "English",
+        "title": "Mobile Suit Academy: The Return of 'G-Reco Koushien'"
+      }
+    ],
+    "title": "Kidou Senshi Gakuen: Kaettekita G-Reco Koushien",
+    "title_english": "Mobile Suit Academy: The Return of 'G-Reco Koushien'",
+    "title_japanese": "モビルスーツ学園「帰ってきたＧ-レコ甲子園」",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-17T00:00:00+00:00",
+      "to": "2023-03-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Jan 17, 2020 to Mar 24, 2023"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16731,
+    "popularity": 14372,
+    "members": 940,
+    "favorites": 0,
+    "synopsis": "Short specials bundled with the Blu-ray volumes of the Gundam: G no Reconguista movies.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34519,
+            "type": "anime",
+            "name": "Kidou Senshi Gakuen: G-Reco Koushien",
+            "url": "https://myanimelist.net/anime/34519/Kidou_Senshi_Gakuen__G-Reco_Koushien"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38714,
+            "type": "anime",
+            "name": "Gundam: G no Reconguista Movie I - Ike! Core Fighter",
+            "url": "https://myanimelist.net/anime/38714/Gundam__G_no_Reconguista_Movie_I_-_Ike_Core_Fighter"
+          },
+          {
+            "mal_id": 40890,
+            "type": "anime",
+            "name": "Gundam: G no Reconguista Movie II - Bellri Gekishin",
+            "url": "https://myanimelist.net/anime/40890/Gundam__G_no_Reconguista_Movie_II_-_Bellri_Gekishin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://g-reco.net/1st/#bddvd"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_G%E3%81%AE%E3%83%AC%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%B9%E3%82%BF#%E7%AC%AC1%E9%83%A8"
+      }
+    ],
+    "streaming": []
+  }
+}

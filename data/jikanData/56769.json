@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 56769,
+    "url": "https://myanimelist.net/anime/56769/Mo_Shi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1480/138803.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/138803t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/138803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1480/138803.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/138803t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/138803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mo Shi"
+      },
+      {
+        "type": "Japanese",
+        "title": "默示"
+      },
+      {
+        "type": "English",
+        "title": "Implied"
+      }
+    ],
+    "title": "Mo Shi",
+    "title_english": "Implied",
+    "title_japanese": "默示",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17675,
+    "popularity": 26594,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2822,
+        "type": "anime",
+        "name": "Shykeumo Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/2822/Shykeumo_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

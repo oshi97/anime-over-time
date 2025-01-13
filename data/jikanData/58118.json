@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 58118,
+    "url": "https://myanimelist.net/anime/58118/Ghibli_Park_Yukkuri_Kite_Kudasai__Ugoku_Shiro-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1778/141387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1778/141387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1778/141387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1778/141387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1778/141387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1778/141387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ghibli Park Yukkuri Kite Kudasai: Ugoku Shiro-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "ジブリパーク ゆっくりきて下さい。動く城編"
+      }
+    ],
+    "title": "Ghibli Park Yukkuri Kite Kudasai: Ugoku Shiro-hen",
+    "title_english": null,
+    "title_japanese": "ジブリパーク ゆっくりきて下さい。動く城編",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 12, 2024"
+    },
+    "duration": "15 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "A 15-second animated commercial for Ghibli Park featuring a moving castle evocative of Howl no Ugoku Shiro (Howl's Moving Castle).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 431,
+            "type": "anime",
+            "name": "Howl no Ugoku Shiro",
+            "url": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

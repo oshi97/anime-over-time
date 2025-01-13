@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 51831,
+    "url": "https://myanimelist.net/anime/51831/Tanjou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/123920.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/123920t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/123920l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/123920.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/123920t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/123920l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tanjou"
+      },
+      {
+        "type": "Japanese",
+        "title": "誕生"
+      },
+      {
+        "type": "English",
+        "title": "Birth"
+      }
+    ],
+    "title": "Tanjou",
+    "title_english": "Birth",
+    "title_japanese": "誕生",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 26, 2020"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.86,
+    "scored_by": 140,
+    "rank": null,
+    "popularity": 20015,
+    "members": 274,
+    "favorites": 0,
+    "synopsis": "There are two versions of this music video.\n\nBoth videos feature the same song and animation, but one is sung by Hatsune Miku on Niconico, and the other is a self-cover from the author himself, Harumaki Gohan, on YouTube.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2244,
+        "type": "anime",
+        "name": "Studio Gohan",
+        "url": "https://myanimelist.net/anime/producer/2244/Studio_Gohan"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/KJWek21tuyA"
+      }
+    ],
+    "streaming": []
+  }
+}

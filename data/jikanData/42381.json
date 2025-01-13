@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 42381,
+    "url": "https://myanimelist.net/anime/42381/Yuki_no_Furu_Machi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/108368.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/108368t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/108368l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/108368.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/108368t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/108368l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuki no Furu Machi"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Snow-Clad Town"
+      },
+      {
+        "type": "Japanese",
+        "title": "雪の降る街"
+      }
+    ],
+    "title": "Yuki no Furu Machi",
+    "title_english": null,
+    "title_japanese": "雪の降る街",
+    "title_synonyms": [
+      "The Snow-Clad Town"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-02-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 2,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 23, 2012"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.07,
+    "scored_by": 236,
+    "rank": null,
+    "popularity": 17647,
+    "members": 433,
+    "favorites": 0,
+    "synopsis": "Stop motion music video for the song Yuki no Furu Machi by Aimer that was on her third maxi single. The music video was directed by Go Matsuda and Masakazu Fukatsu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1918,
+        "type": "anime",
+        "name": "SME Records",
+        "url": "https://myanimelist.net/anime/producer/1918/SME_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.aimer-web.jp/movie/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97/%E5%86%AC%E3%81%AE%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 40793,
+    "url": "https://myanimelist.net/anime/40793/Bokutachi_no_Kidzuki-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1793/104566.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1793/104566t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1793/104566l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1793/104566.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1793/104566t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1793/104566l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bokutachi no Kidzuki-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "JRA-VAN TRY CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "『JRA-VAN TRY』CM～僕たちの気づき篇"
+      },
+      {
+        "type": "English",
+        "title": "Our Realization Arc"
+      }
+    ],
+    "title": "Bokutachi no Kidzuki-hen",
+    "title_english": "Our Realization Arc",
+    "title_japanese": "『JRA-VAN TRY』CM～僕たちの気づき篇",
+    "title_synonyms": [
+      "JRA-VAN TRY CM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2019"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 180,
+    "rank": null,
+    "popularity": 16250,
+    "members": 572,
+    "favorites": 1,
+    "synopsis": "A special short to promote the web app of JRA-VAN TRY for horse races.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://jra-van.jp/pr/try/"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/watch?v=4JErjlMIdds"
+      }
+    ],
+    "streaming": []
+  }
+}

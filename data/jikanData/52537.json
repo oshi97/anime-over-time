@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52537,
+    "url": "https://myanimelist.net/anime/52537/Get_a_Life",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1162/126081.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1162/126081t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1162/126081l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1162/126081.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1162/126081t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1162/126081l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Get a Life!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Get a Life!"
+      }
+    ],
+    "title": "Get a Life!",
+    "title_english": null,
+    "title_japanese": "Get a Life!",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 31, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.82,
+    "scored_by": 201,
+    "rank": null,
+    "popularity": 18326,
+    "members": 384,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Get a Life! by the fictional band Irodorimidori. It is the 69th song in the Irodorimidori franchise and focuses on Naru Hakobe, Nagi Kobotoke and Shirona Tsukisuzu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52536,
+            "type": "anime",
+            "name": "Meshimase! Rock'n Roll Party",
+            "url": "https://myanimelist.net/anime/52536/Meshimase_Rockn_Roll_Party"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52538,
+            "type": "anime",
+            "name": "Limits",
+            "url": "https://myanimelist.net/anime/52538/Limits"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/_KMN2UN955Q"
+      }
+    ],
+    "streaming": []
+  }
+}

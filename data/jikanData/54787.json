@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 54787,
+    "url": "https://myanimelist.net/anime/54787/Hello-Ni-Zd-Marha-Bon-Hola",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1627/134602.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1627/134602t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1627/134602l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1627/134602.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1627/134602t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1627/134602l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello-Ni-Zd-Marha-Bon-Hola"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハローニーズドマルハボンオラ"
+      }
+    ],
+    "title": "Hello-Ni-Zd-Marha-Bon-Hola",
+    "title_english": null,
+    "title_japanese": "ハローニーズドマルハボンオラ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 12, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22955,
+    "members": 130,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hello-Ni-Zd-Marha-Bon-Hola by Baby-Hamitang.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50681,
+            "type": "anime",
+            "name": "Baby-Hamitang",
+            "url": "https://myanimelist.net/anime/50681/Baby-Hamitang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

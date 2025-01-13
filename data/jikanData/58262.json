@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 58262,
+    "url": "https://myanimelist.net/anime/58262/Oishiku_Tsukurou_Puchipuchi_Dance",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1488/141684.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/141684t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/141684l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1488/141684.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/141684t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/141684l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oishiku Tsukurou! Puchipuchi Dance"
+      },
+      {
+        "type": "Japanese",
+        "title": "おいしく作ろう！プチプチ・ダンス"
+      }
+    ],
+    "title": "Oishiku Tsukurou! Puchipuchi Dance",
+    "title_english": null,
+    "title_japanese": "おいしく作ろう！プチプチ・ダンス",
+    "title_synonyms": [],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2015"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18106,
+    "popularity": 25471,
+    "members": 83,
+    "favorites": 0,
+    "synopsis": "A story about a meerkat cook who comes to Eddie's town.\n\n(Source: Studio Placebo, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2907,
+        "type": "anime",
+        "name": "Studio Placebo",
+        "url": "https://myanimelist.net/anime/producer/2907/Studio_Placebo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 29431,
+            "type": "anime",
+            "name": "Eddie the Fast Break",
+            "url": "https://myanimelist.net/anime/29431/Eddie_the_Fast_Break"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://studio-placebo.jp/works/00044"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%81%E3%83%97%E3%83%81%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

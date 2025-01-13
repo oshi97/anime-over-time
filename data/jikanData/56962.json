@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56962,
+    "url": "https://myanimelist.net/anime/56962/Jibun_Katte_Dazzling",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1237/139233.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1237/139233t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1237/139233l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1237/139233.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1237/139233t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1237/139233l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jibun Katte Dazzling"
+      },
+      {
+        "type": "Japanese",
+        "title": "自分勝手Dazzling"
+      },
+      {
+        "type": "English",
+        "title": "Selfish Dazzling"
+      }
+    ],
+    "title": "Jibun Katte Dazzling",
+    "title_english": "Selfish Dazzling",
+    "title_japanese": "自分勝手Dazzling",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 21, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.23,
+    "scored_by": 143,
+    "rank": null,
+    "popularity": 20263,
+    "members": 260,
+    "favorites": 0,
+    "synopsis": "Music video for the song Jibun Katte Dazzling by Hoshimachi Suisei.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Mm87JgTx2Ao"
+      }
+    ],
+    "streaming": []
+  }
+}

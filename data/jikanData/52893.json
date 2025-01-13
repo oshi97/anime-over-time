@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 52893,
+    "url": "https://myanimelist.net/anime/52893/Kaze_no_Yukue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1816/127367.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1816/127367t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1816/127367l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1816/127367.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1816/127367t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1816/127367l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaze no Yukue"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Wind's Whereabouts"
+      },
+      {
+        "type": "Japanese",
+        "title": "風のゆくえ"
+      },
+      {
+        "type": "English",
+        "title": "Where the Wind Blows"
+      }
+    ],
+    "title": "Kaze no Yukue",
+    "title_english": "Where the Wind Blows",
+    "title_japanese": "風のゆくえ",
+    "title_synonyms": [
+      "The Wind's Whereabouts"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 24, 2022"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 7.51,
+    "scored_by": 1873,
+    "rank": null,
+    "popularity": 9839,
+    "members": 3658,
+    "favorites": 15,
+    "synopsis": "Music video for the song Kaze no Yukue by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2292,
+        "type": "anime",
+        "name": "Toei Advertising",
+        "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50410,
+            "type": "anime",
+            "name": "One Piece Film: Red",
+            "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sp.universal-music.co.jp/ado/uta-no-uta"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=YO-rXgQKlF8"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ado_(singer)#Singles"
+      }
+    ],
+    "streaming": []
+  }
+}

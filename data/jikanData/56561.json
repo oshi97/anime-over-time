@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 56561,
+    "url": "https://myanimelist.net/anime/56561/Idol_Land_PriPara_Episode_0",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1224/138315.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/138315t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/138315l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1224/138315.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/138315t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/138315l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Idol Land PriPara Episode 0"
+      },
+      {
+        "type": "Synonym",
+        "title": "Idol Land Hajimechaimashita!"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドルランド始めちゃいました！"
+      }
+    ],
+    "title": "Idol Land PriPara Episode 0",
+    "title_english": null,
+    "title_japanese": "アイドルランド始めちゃいました！",
+    "title_synonyms": [
+      "Idol Land Hajimechaimashita!"
+    ],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 1, 2021"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.68,
+    "scored_by": 110,
+    "rank": 6031,
+    "popularity": 19122,
+    "members": 327,
+    "favorites": 0,
+    "synopsis": "PriPara is undergoing a new system update, and everyone is gathered at PriPara to watch as it updates. However, an unexpected error occurs, and all PriPara store locations have disappeared as well as the PriPara memories of any idol who was outside of PriPara during this time.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 103,
+        "type": "anime",
+        "name": "Tatsunoko Production",
+        "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44376,
+            "type": "anime",
+            "name": "Idol Land PriPara",
+            "url": "https://myanimelist.net/anime/44376/Idol_Land_PriPara"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Psa5j3rQKwM"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15911"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Idol_Time_PriPara"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 36111,
+    "url": "https://myanimelist.net/anime/36111/Ima",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/87259.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/87259t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/87259l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/87259.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/87259t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/87259l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ima"
+      },
+      {
+        "type": "Japanese",
+        "title": "今"
+      },
+      {
+        "type": "English",
+        "title": "Now"
+      }
+    ],
+    "title": "Ima",
+    "title_english": "Now",
+    "title_japanese": "今",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 2017"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21485,
+    "members": 193,
+    "favorites": 0,
+    "synopsis": "Music video for Ima by Nozaki Ricon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=m4zXRv_0NVE"
+      }
+    ],
+    "streaming": []
+  }
+}

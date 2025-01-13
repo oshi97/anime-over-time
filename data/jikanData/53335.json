@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 53335,
+    "url": "https://myanimelist.net/anime/53335/Natsugare",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/129107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/129107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/129107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/129107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/129107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/129107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Natsugare"
+      },
+      {
+        "type": "Japanese",
+        "title": "夏枯れ"
+      },
+      {
+        "type": "English",
+        "title": "Summer Slack"
+      }
+    ],
+    "title": "Natsugare",
+    "title_english": "Summer Slack",
+    "title_japanese": "夏枯れ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 15, 2022"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.29,
+    "scored_by": 294,
+    "rank": null,
+    "popularity": 16247,
+    "members": 573,
+    "favorites": 0,
+    "synopsis": "Music video for the song Natsugare by ZUTOMAYO. The music video is prominently made up of scenes not seen in the anime movie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49938,
+            "type": "anime",
+            "name": "Ame wo Tsugeru Hyouryuu Danchi",
+            "url": "https://myanimelist.net/anime/49938/Ame_wo_Tsugeru_Hyouryuu_Danchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/Nmemc-b6cdU"
+      }
+    ],
+    "streaming": []
+  }
+}

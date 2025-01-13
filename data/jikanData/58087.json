@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 58087,
+    "url": "https://myanimelist.net/anime/58087/Kabigon_Meets_Snorlax",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/141345.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/141345t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/141345l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/141345.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/141345t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/141345l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kabigon Meets Snorlax"
+      },
+      {
+        "type": "Japanese",
+        "title": "KABIGON meets SNORLAX"
+      }
+    ],
+    "title": "Kabigon Meets Snorlax",
+    "title_english": null,
+    "title_japanese": "KABIGON meets SNORLAX",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2024"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.41,
+    "scored_by": 175,
+    "rank": null,
+    "popularity": 18591,
+    "members": 363,
+    "favorites": 1,
+    "synopsis": "A promotional video for CHRIS's solo exhibition KABIGON meets SNORLAX at KOMIYAMA TOKYO G. It is a collaboration with Project Snorlax.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 80,
+        "type": "anime",
+        "name": "Visual Arts",
+        "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.jp/special/project_kabigon/CHRIS"
+      }
+    ],
+    "streaming": []
+  }
+}

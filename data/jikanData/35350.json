@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 35350,
+    "url": "https://myanimelist.net/anime/35350/SYZ_Project",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85134.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85134t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85134l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/85134.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85134t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85134l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "SYZ Project"
+      },
+      {
+        "type": "Synonym",
+        "title": "ShizuPro"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bakubaku Dokin"
+      },
+      {
+        "type": "Synonym",
+        "title": "SBS x DLE"
+      },
+      {
+        "type": "Japanese",
+        "title": "しずぷろ～S(静岡の)Y(夜を)Z(ざわつかせる)プロジェクト～"
+      }
+    ],
+    "title": "SYZ Project",
+    "title_english": null,
+    "title_japanese": "しずぷろ～S(静岡の)Y(夜を)Z(ざわつかせる)プロジェクト～",
+    "title_synonyms": [
+      "ShizuPro",
+      "Bakubaku Dokin",
+      "SBS x DLE"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-03-31T00:00:00+00:00",
+      "to": "2017-04-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 3,
+          "year": 2015
+        },
+        "to": {
+          "day": 3,
+          "month": 4,
+          "year": 2017
+        }
+      },
+      "string": "Mar 31, 2015 to Apr 3, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21082,
+    "members": 213,
+    "favorites": 1,
+    "synopsis": "A music project collaboration between the anime studio DLE and Shizuoka prefecture. The main focus is to invigorate Shizuoka's night life tourism as a fun, weird, and sexy place to be. \n\nThe project name is a combination of: \nS (Shizuoka no) Y (Yoru wo) Z (Zawatsuka seru) Project ＝ SYZ Project (pronounced ShizuPro)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.syz.website/"
+      }
+    ],
+    "streaming": []
+  }
+}

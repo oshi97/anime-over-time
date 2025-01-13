@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 52751,
+    "url": "https://myanimelist.net/anime/52751/Umayon_Shinsaku_Short_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/127123.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/127123t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/127123l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1294/127123.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/127123t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/127123l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Umayon Shinsaku Short Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Umayon New Short Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "うまよん 新作ショートアニメ"
+      }
+    ],
+    "title": "Umayon Shinsaku Short Anime",
+    "title_english": null,
+    "title_japanese": "うまよん 新作ショートアニメ",
+    "title_synonyms": [
+      "Umayon New Short Anime"
+    ],
+    "type": "Special",
+    "source": "4-koma manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 8, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.47,
+    "scored_by": 637,
+    "rank": 7231,
+    "popularity": 12855,
+    "members": 1434,
+    "favorites": 2,
+    "synopsis": "Additional Umayon episodes included in the Blu-Ray release.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1396,
+        "type": "anime",
+        "name": "W-Toon Studio",
+        "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+      },
+      {
+        "mal_id": 1673,
+        "type": "anime",
+        "name": "DMM.futureworks",
+        "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38835,
+            "type": "anime",
+            "name": "Umayon",
+            "url": "https://myanimelist.net/anime/38835/Umayon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://umamusume.jp/products/detail.php?id=products-038"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14537"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 54094,
+    "url": "https://myanimelist.net/anime/54094/Ojarumaru_Planetarium_Special__Ginga_ga_Maro_wo_Yondeiru_-_Futari_no_Negai_Boshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/132356.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/132356t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/132356l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/132356.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/132356t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/132356l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ojarumaru Planetarium Special: Ginga ga Maro wo Yondeiru - Futari no Negai Boshi"
+      },
+      {
+        "type": "Japanese",
+        "title": "おじゃる丸プラネタリウムスペシャル　銀河がマロを呼んでいる ～ふたりの願い星～"
+      }
+    ],
+    "title": "Ojarumaru Planetarium Special: Ginga ga Maro wo Yondeiru - Futari no Negai Boshi",
+    "title_english": null,
+    "title_japanese": "おじゃる丸プラネタリウムスペシャル　銀河がマロを呼んでいる ～ふたりの願い星～",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2013"
+    },
+    "duration": "25 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18111,
+    "popularity": 25248,
+    "members": 86,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 4459,
+            "type": "anime",
+            "name": "Ojarumaru",
+            "url": "https://myanimelist.net/anime/4459/Ojarumaru"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.goto.co.jp/planetarium/program/ojarumaru_ginga/"
+      }
+    ],
+    "streaming": []
+  }
+}

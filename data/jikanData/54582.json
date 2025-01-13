@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 54582,
+    "url": "https://myanimelist.net/anime/54582/Shirokuma_Nichijou_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1818/139499.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/139499t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/139499l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1818/139499.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/139499t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/139499l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shirokuma Nichijou Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tokyo Gas Shirokuma no Shiritori-hen TVCM"
+      },
+      {
+        "type": "Japanese",
+        "title": "シロクマ日常劇場"
+      },
+      {
+        "type": "English",
+        "title": "Tokyo Gas \"The Polar Bears' Daily Drama\" TV Commercial"
+      }
+    ],
+    "title": "Shirokuma Nichijou Gekijou",
+    "title_english": "Tokyo Gas \"The Polar Bears' Daily Drama\" TV Commercial",
+    "title_japanese": "シロクマ日常劇場",
+    "title_synonyms": [
+      "Tokyo Gas Shirokuma no Shiritori-hen TVCM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 24, 2022"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22935,
+    "members": 130,
+    "favorites": 0,
+    "synopsis": "By depicting the daily lives of two polar bears, this commercial raises awareness of the issue of global warming and promotes efforts to recycle CO2 and synthesize methane, the main component of city gas (methanation).\n\nMultiply versions of this commercial exist. They feature different dialogues, but animation is the same.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 366,
+        "type": "anime",
+        "name": "Tomoyasu Murata Company",
+        "url": "https://myanimelist.net/anime/producer/366/Tomoyasu_Murata_Company"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tomoyasu.net/client-works-2"
+      }
+    ],
+    "streaming": []
+  }
+}

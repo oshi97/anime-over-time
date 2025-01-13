@@ -1,0 +1,113 @@
+{
+  "data": {
+    "mal_id": 41500,
+    "url": "https://myanimelist.net/anime/41500/Cobalt_Memories",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1220/106603.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/106603t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/106603l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1220/106603.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/106603t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/106603l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cobalt Memories"
+      },
+      {
+        "type": "Japanese",
+        "title": "コバルトメモリーズ"
+      }
+    ],
+    "title": "Cobalt Memories",
+    "title_english": null,
+    "title_japanese": "コバルトメモリーズ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 16, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.04,
+    "scored_by": 191,
+    "rank": null,
+    "popularity": 18367,
+    "members": 381,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2244,
+        "type": "anime",
+        "name": "Studio Gohan",
+        "url": "https://myanimelist.net/anime/producer/2244/Studio_Gohan"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

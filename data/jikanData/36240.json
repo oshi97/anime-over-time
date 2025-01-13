@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 36240,
+    "url": "https://myanimelist.net/anime/36240/Scratch_x_One_Piece_Film__Gold",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87541.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87541t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87541l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87541.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87541t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87541l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Scratch x One Piece Film: Gold"
+      },
+      {
+        "type": "Synonym",
+        "title": "Takarakuji"
+      },
+      {
+        "type": "Japanese",
+        "title": "SCRATCH × ONE PIECE FILM GOLD"
+      },
+      {
+        "type": "English",
+        "title": "Scratch x One Piece Film: Gold"
+      }
+    ],
+    "title": "Scratch x One Piece Film: Gold",
+    "title_english": "Scratch x One Piece Film: Gold",
+    "title_japanese": "SCRATCH × ONE PIECE FILM GOLD",
+    "title_synonyms": [
+      "Takarakuji"
+    ],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 2016"
+    },
+    "duration": "15 sec",
+    "rating": "G - All Ages",
+    "score": 6.34,
+    "scored_by": 3379,
+    "rank": null,
+    "popularity": 6934,
+    "members": 9265,
+    "favorites": 3,
+    "synopsis": "A TV collaboration between One Piece Film: Gold and Takarakuji the nationwide lottery system in Japan. The commercial is promoting lottery scratch cards with One Piece designs on them.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30153,
+            "type": "anime",
+            "name": "Takarakuji x Rope",
+            "url": "https://myanimelist.net/anime/30153/Takarakuji_x_Rope"
+          },
+          {
+            "mal_id": 31490,
+            "type": "anime",
+            "name": "One Piece Film: Gold",
+            "url": "https://myanimelist.net/anime/31490/One_Piece_Film__Gold"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.onepiece-film2016.com/news/120.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11529"
+      }
+    ],
+    "streaming": []
+  }
+}

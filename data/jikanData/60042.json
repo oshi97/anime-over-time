@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 60042,
+    "url": "https://myanimelist.net/anime/60042/Sakuranbo_Message",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/145915.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/145915t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/145915l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/145915.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/145915t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/145915l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sakuranbo Message"
+      },
+      {
+        "type": "Japanese",
+        "title": "さくらんぼメッセージ"
+      },
+      {
+        "type": "English",
+        "title": "Cherry Message"
+      }
+    ],
+    "title": "Sakuranbo Message",
+    "title_english": "Cherry Message",
+    "title_japanese": "さくらんぼメッセージ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21563,
+    "members": 189,
+    "favorites": 0,
+    "synopsis": "Music video for the song Sakuranbo Message by Sakura Miko.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/en/music/468"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2dkJB8a201s"
+      }
+    ],
+    "streaming": []
+  }
+}

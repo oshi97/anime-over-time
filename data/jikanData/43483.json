@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 43483,
+    "url": "https://myanimelist.net/anime/43483/Toaru_Kagaku_no_Railgun_T__Motto_Marutto_Railgun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1220/109813.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/109813t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/109813l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1220/109813.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/109813t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/109813l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Toaru Kagaku no Railgun MMR V,Toaru Kagaku no Railgun MMR VI,"
+      },
+      {
+        "type": "Japanese",
+        "title": "とある科学の超電磁砲T もっとまるっと超電磁砲"
+      }
+    ],
+    "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun",
+    "title_english": null,
+    "title_japanese": "とある科学の超電磁砲T もっとまるっと超電磁砲",
+    "title_synonyms": [
+      "Toaru Kagaku no Railgun MMR V,Toaru Kagaku no Railgun MMR VI,"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-30T00:00:00+00:00",
+      "to": "2020-10-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 9,
+          "month": 10,
+          "year": 2020
+        }
+      },
+      "string": "Apr 30, 2020 to Oct 9, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.84,
+    "scored_by": 2759,
+    "rank": 5151,
+    "popularity": 7211,
+    "members": 8458,
+    "favorites": 10,
+    "synopsis": "Toaru Kagaku no Railgun T specials that were released on Blu-ray and DVD volumes.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38481,
+            "type": "anime",
+            "name": "Toaru Kagaku no Railgun T",
+            "url": "https://myanimelist.net/anime/38481/Toaru_Kagaku_no_Railgun_T"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://toaru-project.com/railgun_t/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14441"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun"
+      }
+    ],
+    "streaming": []
+  }
+}

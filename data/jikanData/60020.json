@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 60020,
+    "url": "https://myanimelist.net/anime/60020/Yeon-ui_Pyeonji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/145875.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/145875t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/145875l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/145875.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/145875t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/145875l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yeon-ui Pyeonji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Your Letter"
+      },
+      {
+        "type": "Japanese",
+        "title": "연의 편지"
+      }
+    ],
+    "title": "Yeon-ui Pyeonji",
+    "title_english": null,
+    "title_japanese": "연의 편지",
+    "title_synonyms": [
+      "Your Letter"
+    ],
+    "type": "Movie",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "1 hr 40 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 18895,
+    "members": 341,
+    "favorites": 1,
+    "synopsis": "Lee Sori, a polite and righteous girl, attends a middle school plagued with bullying. Enraged by the tragic effects it has had on her friend Kim Julie, she decides to take a stand against the bullying. Unfortunately, this only leads the bullies to switch their target to Sori.\n\nBelieving a new environment would rid her of the hopeless situation, Sori returns to the city she used to live in and transfers schools. However, the traumatizing experiences that constantly haunt Sori's memory cause her to alienate herself from everyone else.\n\nJust as the grim reality of Sori's circumstances begin to set in, she discovers a mysterious letter taped under her desk. While the contents of the letter intrigue her, they only lead her to another letter. Now following a seemingly endless trail of messages, Sori is on a scavenger hunt to find the true purpose of these letters and the anonymous person behind it all.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 120875,
+            "type": "manga",
+            "name": "Your Letter",
+            "url": "https://myanimelist.net/manga/120875/Your_Letter"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52877,
+            "type": "anime",
+            "name": "Yeon-ui Pyeonji PV",
+            "url": "https://myanimelist.net/anime/52877/Yeon-ui_Pyeonji_PV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

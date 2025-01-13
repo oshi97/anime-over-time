@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 48586,
+    "url": "https://myanimelist.net/anime/48586/ABC_Tenkiyohou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1757/113786.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1757/113786t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1757/113786l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1757/113786.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1757/113786t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1757/113786l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "ABC Tenkiyohou"
+      },
+      {
+        "type": "Synonym",
+        "title": "ABC Weather News x TECARAT"
+      },
+      {
+        "type": "Japanese",
+        "title": "ABC天気予報"
+      }
+    ],
+    "title": "ABC Tenkiyohou",
+    "title_english": null,
+    "title_japanese": "ABC天気予報",
+    "title_synonyms": [
+      "ABC Weather News x TECARAT"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.82,
+    "scored_by": 139,
+    "rank": 10794,
+    "popularity": 19540,
+    "members": 299,
+    "favorites": 0,
+    "synopsis": "A weather forecast background video that follows a teeny tiny old man as he embarks on a journey, wherever his feet and the wind take him. Using stop-motion photography on location, it is an experimental work that explores the coexistence of the sense of speed of location shooting with the precision of animation shooting.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3004,
+        "type": "anime",
+        "name": "Taiyo Kikaku",
+        "url": "https://myanimelist.net/anime/producer/3004/Taiyo_Kikaku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2178,
+        "type": "anime",
+        "name": "Tecarat",
+        "url": "https://myanimelist.net/anime/producer/2178/Tecarat"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tecarat.jp/works/abc"
+      }
+    ],
+    "streaming": []
+  }
+}

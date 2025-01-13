@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 49153,
+    "url": "https://myanimelist.net/anime/49153/Girls___Panzer_Movie__Cinematic_Concert_-_Fushou_Akiyama_Yukari_no_Sensha_Kouza_-_Shoujun-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/115636.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/115636t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/115636l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/115636.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/115636t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/115636l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Girls & Panzer Movie: Cinematic Concert - Fushou Akiyama Yukari no Sensha Kouza - Shoujun-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Girls und Panzer der Film Cinematic Concert: Unlucky Yukari Akiyama's Tank Course"
+      },
+      {
+        "type": "Japanese",
+        "title": "ガールズ&パンツァー 劇場版 シネマティック・コンサート 不肖・秋山優花里の戦車講座 照準編"
+      }
+    ],
+    "title": "Girls & Panzer Movie: Cinematic Concert - Fushou Akiyama Yukari no Sensha Kouza - Shoujun-hen",
+    "title_english": null,
+    "title_japanese": "ガールズ&パンツァー 劇場版 シネマティック・コンサート 不肖・秋山優花里の戦車講座 照準編",
+    "title_synonyms": [
+      "Girls und Panzer der Film Cinematic Concert: Unlucky Yukari Akiyama's Tank Course"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 22, 2017"
+    },
+    "duration": "11 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.7,
+    "scored_by": 586,
+    "rank": 5909,
+    "popularity": 10521,
+    "members": 2961,
+    "favorites": 4,
+    "synopsis": "An additional episode of Fushou Akiyama Yukari no Sensha Kouza released with the BD of the cinematic concert for the movie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Actas",
+        "url": "https://myanimelist.net/anime/producer/60/Actas"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "CGDCT",
+        "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+      },
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      },
+      {
+        "mal_id": 38,
+        "type": "anime",
+        "name": "Military",
+        "url": "https://myanimelist.net/anime/genre/38/Military"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 18617,
+            "type": "anime",
+            "name": "Girls & Panzer Movie",
+            "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://girls-und-panzer-finale.jp/goods/bddvd-cinematicconcert/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10008"
+      }
+    ],
+    "streaming": []
+  }
+}

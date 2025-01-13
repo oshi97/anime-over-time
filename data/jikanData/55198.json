@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 55198,
+    "url": "https://myanimelist.net/anime/55198/Rendezvous",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1781/135685.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/135685t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/135685l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1781/135685.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/135685t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/135685l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rendezvous"
+      },
+      {
+        "type": "Japanese",
+        "title": "랑데뷰"
+      },
+      {
+        "type": "English",
+        "title": "Rendezvous"
+      }
+    ],
+    "title": "Rendezvous",
+    "title_english": "Rendezvous",
+    "title_japanese": "랑데뷰",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 24, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22622,
+    "members": 140,
+    "favorites": 0,
+    "synopsis": "Music video for Newton's song Rendezvou featuring J.O.Y.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2993,
+        "type": "anime",
+        "name": "Mirrorball Music",
+        "url": "https://myanimelist.net/anime/producer/2993/Mirrorball_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=qjqP9x8kYQM&ab_channel=JazzyRelaxBMG"
+      }
+    ],
+    "streaming": []
+  }
+}

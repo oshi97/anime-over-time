@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 54278,
+    "url": "https://myanimelist.net/anime/54278/Watashi_no_Hashtag_ga_Baenakute",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/132854.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/132854t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/132854l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1954/132854.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1954/132854t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1954/132854l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "nSHuMPhTyPE",
+      "url": "https://www.youtube.com/watch?v=nSHuMPhTyPE",
+      "embed_url": "https://www.youtube.com/embed/nSHuMPhTyPE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/nSHuMPhTyPE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/nSHuMPhTyPE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/nSHuMPhTyPE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/nSHuMPhTyPE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/nSHuMPhTyPE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Watashi no Hashtag ga Baenakute."
+      },
+      {
+        "type": "Synonym",
+        "title": "My Hashtag Does Not Shine"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kyocera CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "私のハッシュタグが映えなくて。"
+      }
+    ],
+    "title": "Watashi no Hashtag ga Baenakute.",
+    "title_english": null,
+    "title_japanese": "私のハッシュタグが映えなくて。",
+    "title_synonyms": [
+      "My Hashtag Does Not Shine",
+      "Kyocera CM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.07,
+    "scored_by": 556,
+    "rank": null,
+    "popularity": 11787,
+    "members": 2025,
+    "favorites": 7,
+    "synopsis": "The story is set in a 'smart city' envisioned by Kyocera, where people express themselves through hashtags on overhead displays.\n\nYoshitoki has designed the original characters, and at first glance, you can see her style throughout the video. The female lead, Yume, closely resembles Shouko Nishimiya from A Silent Voice.\n\nUnlike Nishimiya, however, Yume lacks confidence and she constantly worries that her hashtag won't stand out. To overcome this, she comes up with a special hashtag known as a 'weird tag'.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2424,
+        "type": "anime",
+        "name": "Bandai Namco Filmworks",
+        "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50762,
+            "type": "anime",
+            "name": "\"Anata wo Hitokoto de Arawashite Kudasai\" no Shitsumon ga Nigate da.",
+            "url": "https://myanimelist.net/anime/50762/Anata_wo_Hitokoto_de_Arawashite_Kudasai_no_Shitsumon_ga_Nigate_da"
+          },
+          {
+            "mal_id": 58141,
+            "type": "anime",
+            "name": "Ima wa Shourai ni Hairimasu ka.",
+            "url": "https://myanimelist.net/anime/58141/Ima_wa_Shourai_ni_Hairimasu_ka"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.kyocera.co.jp/animation/tagunaku/"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26962"
+      }
+    ],
+    "streaming": []
+  }
+}

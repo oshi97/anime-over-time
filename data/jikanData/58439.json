@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 58439,
+    "url": "https://myanimelist.net/anime/58439/Pokemon_Go_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1466/145588.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1466/145588t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1466/145588l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1466/145588.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1466/145588t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1466/145588l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Go CMs"
+      }
+    ],
+    "title": "Pokemon Go CMs",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2018-10-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 9, 2018 to ?"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23131,
+    "members": 124,
+    "favorites": 0,
+    "synopsis": "Animated commercials for Pokemon Go.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://pokemongolive.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go"
+      }
+    ],
+    "streaming": []
+  }
+}

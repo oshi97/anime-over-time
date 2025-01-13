@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 59683,
+    "url": "https://myanimelist.net/anime/59683/Animal_Maru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1504/145128.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1504/145128t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/145128l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1504/145128.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1504/145128t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/145128l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Animal Maru"
+      },
+      {
+        "type": "Synonym",
+        "title": "Animal Circles"
+      },
+      {
+        "type": "Japanese",
+        "title": "アニマルま～る"
+      },
+      {
+        "type": "English",
+        "title": "Animal Circle"
+      }
+    ],
+    "title": "Animal Maru",
+    "title_english": "Animal Circle",
+    "title_japanese": "アニマルま～る",
+    "title_synonyms": [
+      "Animal Circles"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 25, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23849,
+    "members": 108,
+    "favorites": 0,
+    "synopsis": "Music video for the song Animal Maru by Natori Sana.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2240,
+        "type": "anime",
+        "name": "Studio Daisy",
+        "url": "https://myanimelist.net/anime/producer/2240/Studio_Daisy"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.youtube.com/watch?v=sDzPtgBJWqQ"
+      }
+    ],
+    "streaming": []
+  }
+}

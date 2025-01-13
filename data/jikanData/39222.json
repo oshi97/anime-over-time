@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 39222,
+    "url": "https://myanimelist.net/anime/39222/Move_to_the_Future",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/98942.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/98942t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/98942l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/98942.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/98942t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/98942l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Move to the Future"
+      },
+      {
+        "type": "Japanese",
+        "title": "MOVE TO THE FUTURE"
+      },
+      {
+        "type": "English",
+        "title": "Move to the Future"
+      }
+    ],
+    "title": "Move to the Future",
+    "title_english": "Move to the Future",
+    "title_japanese": "MOVE TO THE FUTURE",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-31T00:00:00+00:00",
+      "to": "2024-09-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 20,
+          "month": 9,
+          "year": 2024
+        }
+      },
+      "string": "Jan 31, 2020 to Sep 20, 2024"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.07,
+    "scored_by": 201,
+    "rank": null,
+    "popularity": 14077,
+    "members": 1023,
+    "favorites": 1,
+    "synopsis": "A short video about moving in the future by transportation company Art Corporation.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1993,
+        "type": "anime",
+        "name": "Studio Bind",
+        "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+      },
+      {
+        "mal_id": 2835,
+        "type": "anime",
+        "name": "ROLL2",
+        "url": "https://myanimelist.net/anime/producer/2835/ROLL2"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55042,
+            "type": "anime",
+            "name": "Move to the Future Episode 0",
+            "url": "https://myanimelist.net/anime/55042/Move_to_the_Future_Episode_0"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.the0123.com/anime/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14665"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25406"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56757,
+    "url": "https://myanimelist.net/anime/56757/Everlasting_Soul",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1660/138775.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1660/138775t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1660/138775l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1660/138775.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1660/138775t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1660/138775l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Everlasting Soul"
+      },
+      {
+        "type": "Japanese",
+        "title": "Everlasting Soul"
+      }
+    ],
+    "title": "Everlasting Soul",
+    "title_english": null,
+    "title_japanese": "Everlasting Soul",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 9, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.51,
+    "scored_by": 174,
+    "rank": null,
+    "popularity": 19213,
+    "members": 320,
+    "favorites": 0,
+    "synopsis": "Music video for the song Everlasting Soul by Tsunomaki Watame.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/en/music/everlasting-soul"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5KsXVs8Vg7U"
+      }
+    ],
+    "streaming": []
+  }
+}

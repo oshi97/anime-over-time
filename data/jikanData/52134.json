@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 52134,
+    "url": "https://myanimelist.net/anime/52134/Mob_Psycho_100__Tankoubon_Hatsubai_Kinen_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1630/124609.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/124609t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/124609l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1630/124609.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/124609t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/124609l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mob Psycho 100: Tankoubon Hatsubai Kinen Anime"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mob Psycho 100 Tankoubon 3-kan Hatsubai Kinen Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "『モブサイコ100』 単行本発売記念アニメ"
+      },
+      {
+        "type": "English",
+        "title": "Mob Psycho 100: Manga Volume Release Commemoration Anime"
+      }
+    ],
+    "title": "Mob Psycho 100: Tankoubon Hatsubai Kinen Anime",
+    "title_english": "Mob Psycho 100: Manga Volume Release Commemoration Anime",
+    "title_japanese": "『モブサイコ100』 単行本発売記念アニメ",
+    "title_synonyms": [
+      "Mob Psycho 100 Tankoubon 3-kan Hatsubai Kinen Anime"
+    ],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-02-17T00:00:00+00:00",
+      "to": "2013-06-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 2,
+          "year": 2013
+        },
+        "to": {
+          "day": 20,
+          "month": 6,
+          "year": 2013
+        }
+      },
+      "string": "Feb 17, 2013 to Jun 20, 2013"
+    },
+    "duration": "51 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.2,
+    "scored_by": 1321,
+    "rank": null,
+    "popularity": 9777,
+    "members": 3738,
+    "favorites": 4,
+    "synopsis": "Promotional animations for release of 2nd and 3rd Mob Psycho 100 manga volumes.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 60783,
+            "type": "manga",
+            "name": "Mob Psycho 100",
+            "url": "https://myanimelist.net/manga/60783/Mob_Psycho_100"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32182,
+            "type": "anime",
+            "name": "Mob Psycho 100",
+            "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UEvrca5KCZ4"
+      }
+    ],
+    "streaming": []
+  }
+}

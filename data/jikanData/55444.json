@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55444,
+    "url": "https://myanimelist.net/anime/55444/Noroshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1241/136088.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1241/136088t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1241/136088l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1241/136088.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1241/136088t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1241/136088l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Noroshi"
+      },
+      {
+        "type": "Japanese",
+        "title": "狼煙"
+      }
+    ],
+    "title": "Noroshi",
+    "title_english": null,
+    "title_japanese": "狼煙",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 29, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22888,
+    "members": 132,
+    "favorites": 0,
+    "synopsis": "Music video for the song Noroshi by syudou.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bZ0_W6y_J9A"
+      }
+    ],
+    "streaming": []
+  }
+}

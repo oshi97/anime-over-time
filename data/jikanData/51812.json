@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 51812,
+    "url": "https://myanimelist.net/anime/51812/Zassou-kun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/123769.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/123769t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/123769l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/123769.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/123769t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/123769l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zassou-kun"
+      },
+      {
+        "type": "Japanese",
+        "title": "雑草くん"
+      }
+    ],
+    "title": "Zassou-kun",
+    "title_english": null,
+    "title_japanese": "雑草くん",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-08-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 8,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 31, 2013"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21909,
+    "members": 169,
+    "favorites": 0,
+    "synopsis": "Music video for the song Zassou-kun by B-DASH.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 52162,
+            "type": "anime",
+            "name": "5-Okunen Button",
+            "url": "https://myanimelist.net/anime/52162/5-Okunen_Button"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/R0xkmjTs-6A"
+      }
+    ],
+    "streaming": []
+  }
+}

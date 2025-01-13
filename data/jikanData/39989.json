@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 39989,
+    "url": "https://myanimelist.net/anime/39989/Yamiyo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1389/101642.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1389/101642t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1389/101642l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1389/101642.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1389/101642t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1389/101642l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yamiyo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eve"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dark Night"
+      },
+      {
+        "type": "Japanese",
+        "title": "闇夜"
+      },
+      {
+        "type": "English",
+        "title": "Yamiyo"
+      }
+    ],
+    "title": "Yamiyo",
+    "title_english": "Yamiyo",
+    "title_japanese": "闇夜",
+    "title_synonyms": [
+      "Eve",
+      "Dark Night"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-06-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 6,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 24, 2019"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 7.45,
+    "scored_by": 4471,
+    "rank": null,
+    "popularity": 7326,
+    "members": 8133,
+    "favorites": 31,
+    "synopsis": "Official music video for Eve's song Yamiyo, the song was used as the second ED to the Dororo TV series. The song was on EVE's digital album release the following day.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1747,
+        "type": "anime",
+        "name": "Twin Engine",
+        "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37520,
+            "type": "anime",
+            "name": "Dororo",
+            "url": "https://myanimelist.net/anime/37520/Dororo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eveofficial-yamiyo.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BEEFXAltoqo"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Eve_(%E6%AD%8C%E6%89%8B)"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 59244,
+    "url": "https://myanimelist.net/anime/59244/Mayi_Chuanqi__Liehuo_Chongsheng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1628/144098.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1628/144098t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1628/144098l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1628/144098.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1628/144098t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1628/144098l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mayi Chuanqi: Liehuo Chongsheng"
+      },
+      {
+        "type": "Japanese",
+        "title": "蚂蚁传奇之烈火重生"
+      },
+      {
+        "type": "English",
+        "title": "Ant Legend 2"
+      }
+    ],
+    "title": "Mayi Chuanqi: Liehuo Chongsheng",
+    "title_english": "Ant Legend 2",
+    "title_japanese": "蚂蚁传奇之烈火重生",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-06-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 6,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 29, 2024"
+    },
+    "duration": "1 hr 34 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17398,
+    "popularity": 27420,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59243,
+            "type": "anime",
+            "name": "Mayi Chuanqi: Shenmu Qi Yuan",
+            "url": "https://myanimelist.net/anime/59243/Mayi_Chuanqi__Shenmu_Qi_Yuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36942064/"
+      }
+    ],
+    "streaming": []
+  }
+}

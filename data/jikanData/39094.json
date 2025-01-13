@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 39094,
+    "url": "https://myanimelist.net/anime/39094/Toaru_Majutsu_no_Index-tan_III",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1937/98538.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/98538t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/98538l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1937/98538.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/98538t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/98538l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toaru Majutsu no Index-tan III"
+      },
+      {
+        "type": "Synonym",
+        "title": "Toaru Majutsu no Index-tan III Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "A Certain Magical Index-tan III"
+      },
+      {
+        "type": "Japanese",
+        "title": "とある魔術の禁書目録たん"
+      },
+      {
+        "type": "English",
+        "title": "A Certain Magical Index III: Specials"
+      }
+    ],
+    "title": "Toaru Majutsu no Index-tan III",
+    "title_english": "A Certain Magical Index III: Specials",
+    "title_japanese": "とある魔術の禁書目録たん",
+    "title_synonyms": [
+      "Toaru Majutsu no Index-tan III Specials",
+      "A Certain Magical Index-tan III"
+    ],
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-26T00:00:00+00:00",
+      "to": "2019-04-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": 30,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      "string": "Dec 26, 2018 to Apr 30, 2019"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.49,
+    "scored_by": 3496,
+    "rank": 7132,
+    "popularity": 6080,
+    "members": 12698,
+    "favorites": 8,
+    "synopsis": "New series of shorts featuring Index-tan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 10249,
+            "type": "anime",
+            "name": "Toaru Majutsu no Index-tan II",
+            "url": "https://myanimelist.net/anime/10249/Toaru_Majutsu_no_Index-tan_II"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 36432,
+            "type": "anime",
+            "name": "Toaru Majutsu no Index III",
+            "url": "https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://toaru-project.com/index_3/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13481"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21108"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Certain_Magical_Index"
+      }
+    ],
+    "streaming": []
+  }
+}

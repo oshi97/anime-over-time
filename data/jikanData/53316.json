@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 53316,
+    "url": "https://myanimelist.net/anime/53316/Pocket_no_Naka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1928/129031.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/129031t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/129031l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1928/129031.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/129031t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/129031l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "F0Ai1MPdByQ",
+      "url": "https://www.youtube.com/watch?v=F0Ai1MPdByQ",
+      "embed_url": "https://www.youtube.com/embed/F0Ai1MPdByQ?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/F0Ai1MPdByQ/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/F0Ai1MPdByQ/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/F0Ai1MPdByQ/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/F0Ai1MPdByQ/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/F0Ai1MPdByQ/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pocket no Naka"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケットの中"
+      },
+      {
+        "type": "English",
+        "title": "In Your Pocket"
+      }
+    ],
+    "title": "Pocket no Naka",
+    "title_english": "In Your Pocket",
+    "title_japanese": "ポケットの中",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 24, 2022"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.97,
+    "scored_by": 124,
+    "rank": null,
+    "popularity": 20240,
+    "members": 261,
+    "favorites": 0,
+    "synopsis": "Music video for the song Pocket no Naka by Quruli. It serves as the ending for Rilakkuma to Yuuenchi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 261,
+        "type": "anime",
+        "name": "San-X",
+        "url": "https://myanimelist.net/anime/producer/261/San-X"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1133,
+        "type": "anime",
+        "name": "dwarf",
+        "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 43694,
+            "type": "anime",
+            "name": "Rilakkuma to Yuuenchi",
+            "url": "https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.quruli.net/news/20228152200"
+      }
+    ],
+    "streaming": []
+  }
+}

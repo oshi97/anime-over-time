@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 50001,
+    "url": "https://myanimelist.net/anime/50001/Tom_to_Jerry",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1035/118515.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1035/118515t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1035/118515l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1035/118515.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1035/118515t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1035/118515l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tom to Jerry"
+      },
+      {
+        "type": "Japanese",
+        "title": "トムとジェリー"
+      },
+      {
+        "type": "English",
+        "title": "Tom and Jerry"
+      }
+    ],
+    "title": "Tom to Jerry",
+    "title_english": "Tom and Jerry",
+    "title_japanese": "トムとジェリー",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 12, 2021"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.38,
+    "scored_by": 266,
+    "rank": 7765,
+    "popularity": 16164,
+    "members": 585,
+    "favorites": 0,
+    "synopsis": "A Japanese animated Tom and Jerry short that was shown at the Tom and Jerry Cartoon Carnival in Japan from March 12th-28th, 2021. Limited edition plushies,  based on designs from the short by Chara Chara Maki Art, were also sold at the event.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 152186,
+            "type": "manga",
+            "name": "Tom to Jerry: Nanairo",
+            "url": "https://myanimelist.net/manga/152186/Tom_to_Jerry__Nanairo"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 53907,
+            "type": "anime",
+            "name": "Tom to Jerry Gokko",
+            "url": "https://myanimelist.net/anime/53907/Tom_to_Jerry_Gokko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

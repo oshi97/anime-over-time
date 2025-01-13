@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 60062,
+    "url": "https://myanimelist.net/anime/60062/Liella_no_Uta_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1029/145959.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/145959t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/145959l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1029/145959.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/145959t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/145959l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Liella no Uta 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "リエラのうた3"
+      }
+    ],
+    "title": "Liella no Uta 3",
+    "title_english": null,
+    "title_japanese": "リエラのうた3",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-06T00:00:00+00:00",
+      "to": "2024-12-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": 22,
+          "month": 12,
+          "year": 2024
+        }
+      },
+      "string": "Oct 6, 2024 to Dec 22, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.73,
+    "scored_by": 148,
+    "rank": null,
+    "popularity": 15750,
+    "members": 644,
+    "favorites": 1,
+    "synopsis": "Continuation of Liella no Uta, a weekly animated music segment shown with each Love Live! Superstar!! 3rd Season episode exclusively on the NHK Educational TV (NHK E) broadcast of the TV anime.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52745,
+            "type": "anime",
+            "name": "Liella no Uta 2",
+            "url": "https://myanimelist.net/anime/52745/Liella_no_Uta_2"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53287,
+            "type": "anime",
+            "name": "Love Live! Superstar!! 3rd Season",
+            "url": "https://myanimelist.net/anime/53287/Love_Live_Superstar_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.lovelive-anime.jp/yuigaoka/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Love_Live!_Superstar!!"
+      }
+    ],
+    "streaming": []
+  }
+}

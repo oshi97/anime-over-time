@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 48217,
+    "url": "https://myanimelist.net/anime/48217/Byeonsinjadongcha_Tobot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1222/126942.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1222/126942t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1222/126942l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1222/126942.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1222/126942t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1222/126942l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Byeonsinjadongcha Tobot"
+      },
+      {
+        "type": "Synonym",
+        "title": "Byeonsinjadongcha Ttobos"
+      },
+      {
+        "type": "Japanese",
+        "title": "변신자동차 또봇"
+      },
+      {
+        "type": "English",
+        "title": "Tobot"
+      }
+    ],
+    "title": "Byeonsinjadongcha Tobot",
+    "title_english": "Tobot",
+    "title_japanese": "변신자동차 또봇",
+    "title_synonyms": [
+      "Byeonsinjadongcha Ttobos"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-04-12T00:00:00+00:00",
+      "to": "2010-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 4,
+          "year": 2010
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        }
+      },
+      "string": "Apr 12, 2010 to 2010"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19574,
+    "popularity": 23276,
+    "members": 121,
+    "favorites": 0,
+    "synopsis": "The first start of Tobot. Twin sons, Ryan and Kory's father, Dr. Franklin Char, was kidnapped. Will Ryan and Kory be able to save Dr. Char with Tobots, X and Y?\n\n(Source: Wikipedia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 48218,
+            "type": "anime",
+            "name": "Athlon Tobot",
+            "url": "https://myanimelist.net/anime/48218/Athlon_Tobot"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tobot#Season_1_(unmanned_airing_date:_April_2010)"
+      }
+    ],
+    "streaming": []
+  }
+}

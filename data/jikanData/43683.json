@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 43683,
+    "url": "https://myanimelist.net/anime/43683/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising_-_Epilogue_Plus_-_Yume_wo_Genjitsu_ni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1447/110165.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1447/110165.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni"
+      },
+      {
+        "type": "Synonym",
+        "title": "My Hero Academia Movie 2: Heroes Rising Epilogue Plus"
+      },
+      {
+        "type": "Synonym",
+        "title": "Boku no Hero Academia the Movie 2 Picture Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》"
+      },
+      {
+        "type": "English",
+        "title": "My Hero Academia: Heroes Rising - Epilogue Plus"
+      }
+    ],
+    "title": "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni",
+    "title_english": "My Hero Academia: Heroes Rising - Epilogue Plus",
+    "title_japanese": "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》",
+    "title_synonyms": [
+      "My Hero Academia Movie 2: Heroes Rising Epilogue Plus",
+      "Boku no Hero Academia the Movie 2 Picture Drama"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2020"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.46,
+    "scored_by": 20461,
+    "rank": 2093,
+    "popularity": 3287,
+    "members": 50145,
+    "favorites": 100,
+    "synopsis": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Bones",
+        "url": "https://myanimelist.net/anime/producer/4/Bones"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39565,
+            "type": "anime",
+            "name": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+            "url": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://heroaca-movie.com/bddvd/"
+      }
+    ],
+    "streaming": []
+  }
+}

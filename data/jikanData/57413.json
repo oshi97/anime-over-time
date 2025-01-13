@@ -1,0 +1,119 @@
+{
+  "data": {
+    "mal_id": 57413,
+    "url": "https://myanimelist.net/anime/57413/Xfit_x_One_Piece",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/145392.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/145392t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/145392l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1234/145392.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/145392t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/145392l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xfit x One Piece"
+      }
+    ],
+    "title": "Xfit x One Piece",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-02-21T00:00:00+00:00",
+      "to": "2016-06-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 2,
+          "year": 2016
+        },
+        "to": {
+          "day": 20,
+          "month": 6,
+          "year": 2016
+        }
+      },
+      "string": "Feb 21, 2016 to Jun 20, 2016"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.65,
+    "scored_by": 134,
+    "rank": null,
+    "popularity": 18954,
+    "members": 336,
+    "favorites": 0,
+    "synopsis": "Collaboration commercials between Xfit razors and One Piece to promote their specially branded packaging which included figurines of characters from the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20160603232000/https://www.kai-group.com/products/campaign/xfit/onepiece/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 60035,
+    "url": "https://myanimelist.net/anime/60035/Garbage_Time_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1732/145906.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1732/145906t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1732/145906l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1732/145906.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1732/145906t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1732/145906l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Garbage Time PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "가비지타임"
+      }
+    ],
+    "title": "Garbage Time PV",
+    "title_english": null,
+    "title_japanese": "가비지타임",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 3, 2024"
+    },
+    "duration": "26 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27522,
+    "members": 60,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      },
+      {
+        "mal_id": 77,
+        "type": "anime",
+        "name": "Team Sports",
+        "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 161988,
+            "type": "manga",
+            "name": "Garbage Time",
+            "url": "https://myanimelist.net/manga/161988/Garbage_Time"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=WYFHEtO2pjw"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 41167,
+    "url": "https://myanimelist.net/anime/41167/Crescent_Rise",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1094/105689.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/105689t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/105689l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1094/105689.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/105689t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/105689l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Crescent Rise"
+      },
+      {
+        "type": "Synonym",
+        "title": "IDOLiSH7: Crescent rise/TRIGGER"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドリッシュセブン『Crescent rise/TRIGGER』"
+      }
+    ],
+    "title": "Crescent Rise",
+    "title_english": null,
+    "title_japanese": "アイドリッシュセブン『Crescent rise/TRIGGER』",
+    "title_synonyms": [
+      "IDOLiSH7: Crescent rise/TRIGGER"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 27, 2020"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.86,
+    "scored_by": 912,
+    "rank": null,
+    "popularity": 11982,
+    "members": 1912,
+    "favorites": 4,
+    "synopsis": "Official music video for TRIGGER's song Crescent Rise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 803,
+        "type": "anime",
+        "name": "Trigger",
+        "url": "https://myanimelist.net/anime/producer/803/Trigger"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33899,
+            "type": "anime",
+            "name": "IDOLiSH7",
+            "url": "https://myanimelist.net/anime/33899/IDOLiSH7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/HkHPsrScA00"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15380"
+      }
+    ],
+    "streaming": []
+  }
+}

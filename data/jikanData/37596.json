@@ -1,0 +1,222 @@
+{
+  "data": {
+    "mal_id": 37596,
+    "url": "https://myanimelist.net/anime/37596/Poputepipikku_TV_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/100387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/100387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/100387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/100387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/100387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/100387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Poputepipikku TV Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pop Team Epic (2019)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポプテピピック　ＴＶスペシャル"
+      },
+      {
+        "type": "English",
+        "title": "Pop Team Epic TV Special"
+      },
+      {
+        "type": "German",
+        "title": "Pop Team Epic TV Special"
+      },
+      {
+        "type": "French",
+        "title": "Pop Team Epic TV Special"
+      }
+    ],
+    "title": "Poputepipikku TV Special",
+    "title_english": "Pop Team Epic TV Special",
+    "title_japanese": "ポプテピピック　ＴＶスペシャル",
+    "title_synonyms": [
+      "Pop Team Epic (2019)"
+    ],
+    "type": "TV Special",
+    "source": "4-koma manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2019"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.34,
+    "scored_by": 9779,
+    "rank": 2643,
+    "popularity": 4601,
+    "members": 25714,
+    "favorites": 15,
+    "synopsis": "Episode 13 and 14 of Poputepipikku. The special has four versions shown on four different broadcasters: Tokyo MX (Blue Dragon ver.), Nico Nico Douga (Vermilion Bird ver.), Abema TV Anilive (White Tiger ver.) and Abema TV Pop Team Epic Channel (Black Tortoise ver.). Each version has a unique combination of seiyuus.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2272,
+        "type": "anime",
+        "name": "AC-Bu",
+        "url": "https://myanimelist.net/anime/producer/2272/AC-Bu"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35330,
+            "type": "anime",
+            "name": "Poputepipikku",
+            "url": "https://myanimelist.net/anime/35330/Poputepipikku"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 95016,
+            "type": "manga",
+            "name": "Poputepipikku",
+            "url": "https://myanimelist.net/manga/95016/Poputepipikku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"last sparkle\" by Sumire Uesaka"
+      ],
+      "endings": [
+        "1: \"Fuusen Hikou\" by Aya Uchida & Yuka Ozaki (eps 1)",
+        "1: \"Fuusen Hikou\" by Kento Itou & Ryuichi Kijima (eps 1)",
+        "2: \"Fuusen Hikou\" by Shouta Aoi (eps 2)",
+        "2: \"AOI Traveler\" by Shouta Aoi (eps 2)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://hoshiiro.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13977"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22476"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pop_Team_Epic#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94%E3%83%83%E3%82%AF#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/4785"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-275207"
+      },
+      {
+        "name": "HIDIVE",
+        "url": "https://www.hidive.com/movies/pop-team-epic-tv-special"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 54422,
+    "url": "https://myanimelist.net/anime/54422/Maru-neun_Gangjwi_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/133233.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/133233t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/133233l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/133233.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/133233t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/133233l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maru-neun Gangjwi (Music)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Maru is a Puppy"
+      },
+      {
+        "type": "Japanese",
+        "title": "마루는 강쥐"
+      }
+    ],
+    "title": "Maru-neun Gangjwi (Music)",
+    "title_english": null,
+    "title_japanese": "마루는 강쥐",
+    "title_synonyms": [
+      "Maru is a Puppy"
+    ],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 9, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21640,
+    "members": 184,
+    "favorites": 0,
+    "synopsis": "Music video for the song \"Maru-neun Gangjwi\" by Pododang.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 71,
+        "type": "anime",
+        "name": "Pets",
+        "url": "https://myanimelist.net/anime/genre/71/Pets"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 162807,
+            "type": "manga",
+            "name": "Maru Is a Puppy",
+            "url": "https://myanimelist.net/manga/162807/Maru_Is_a_Puppy"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UqzHPE9BI7A"
+      }
+    ],
+    "streaming": []
+  }
+}

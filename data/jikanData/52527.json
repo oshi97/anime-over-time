@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52527,
+    "url": "https://myanimelist.net/anime/52527/After-School_Emotion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/126069.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/126069t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/126069l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/126069.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/126069t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/126069l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "After-School Emotion"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "アフタースクール・エモーション"
+      }
+    ],
+    "title": "After-School Emotion",
+    "title_english": null,
+    "title_japanese": "アフタースクール・エモーション",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2, 2020"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.51,
+    "scored_by": 223,
+    "rank": null,
+    "popularity": 17537,
+    "members": 442,
+    "favorites": 0,
+    "synopsis": "Official music video for the song After-School Emotion by the fictional band Irodorimidori. It is the 55th song in the Irodorimidori franchise and focuses on Serina Akesaka and Nazuna Tennouzu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52526,
+            "type": "anime",
+            "name": "Day by Day CRiSiS Songs",
+            "url": "https://myanimelist.net/anime/52526/Day_by_Day_CRiSiS_Songs"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52528,
+            "type": "anime",
+            "name": "I Just Rock",
+            "url": "https://myanimelist.net/anime/52528/I_Just_Rock"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/7U6HB1NYt6E"
+      }
+    ],
+    "streaming": []
+  }
+}

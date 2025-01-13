@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 36685,
+    "url": "https://myanimelist.net/anime/36685/Force_Live",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88669.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88669t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88669l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88669.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88669t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88669l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Force Live"
+      },
+      {
+        "type": "Japanese",
+        "title": "FORCE LIVE"
+      }
+    ],
+    "title": "Force Live",
+    "title_english": null,
+    "title_japanese": "FORCE LIVE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Visual novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 15, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.53,
+    "scored_by": 876,
+    "rank": null,
+    "popularity": 10990,
+    "members": 2572,
+    "favorites": 5,
+    "synopsis": "A music video for the theme song of game \"Utapri Shining Live\", performed by QUARTET NIGHT.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 116,
+        "type": "anime",
+        "name": "Broccoli",
+        "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31178,
+            "type": "anime",
+            "name": "Uta no☆Prince-sama♪ Maji Love Legend Star",
+            "url": "https://myanimelist.net/anime/31178/Uta_no☆Prince-sama♪_Maji_Love_Legend_Star"
+          },
+          {
+            "mal_id": 36684,
+            "type": "anime",
+            "name": "Shining☆Romance",
+            "url": "https://myanimelist.net/anime/36684/Shining☆Romance"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

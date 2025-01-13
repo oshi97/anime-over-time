@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 59415,
+    "url": "https://myanimelist.net/anime/59415/Dark_Machine__The_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/144524.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/144524.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "CoDmCce30C4",
+      "url": "https://www.youtube.com/watch?v=CoDmCce30C4",
+      "embed_url": "https://www.youtube.com/embed/CoDmCce30C4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/CoDmCce30C4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/CoDmCce30C4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/CoDmCce30C4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/CoDmCce30C4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/CoDmCce30C4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dark Machine: The Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "DARK MACHINE -The Animation-"
+      }
+    ],
+    "title": "Dark Machine: The Animation",
+    "title_english": null,
+    "title_japanese": "DARK MACHINE -The Animation-",
+    "title_synonyms": [],
+    "type": null,
+    "source": "Game",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 18899,
+    "members": 340,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 169,
+        "type": "anime",
+        "name": "Fuji TV",
+        "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2157,
+        "type": "anime",
+        "name": "Production +h.",
+        "url": "https://myanimelist.net/anime/producer/2157/Production__h"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://darkmachinegame.com/"
+      },
+      {
+        "name": "@DarkMachineGame",
+        "url": "https://twitter.com/DarkMachineGame"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18777"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33020"
+      }
+    ],
+    "streaming": []
+  }
+}

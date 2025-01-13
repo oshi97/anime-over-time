@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 60251,
+    "url": "https://myanimelist.net/anime/60251/TAMAPOP",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1481/146385.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1481/146385t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1481/146385l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1481/146385.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1481/146385t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1481/146385l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "TAMAPOP"
+      },
+      {
+        "type": "Synonym",
+        "title": "TAMAPOP / Chameleon Lime Whoopie Pie: Official Music Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "TAMAPOP / カメレオン・ライム・ウーピーパイ：Official Music Video"
+      },
+      {
+        "type": "English",
+        "title": "TAMAPOP"
+      }
+    ],
+    "title": "TAMAPOP",
+    "title_english": "TAMAPOP",
+    "title_japanese": "TAMAPOP / カメレオン・ライム・ウーピーパイ：Official Music Video",
+    "title_synonyms": [
+      "TAMAPOP / Chameleon Lime Whoopie Pie: Official Music Video"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 23, 2023"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "\"Tamagotchi Uni\" TVCM song by Chameleon Lime Whoopie Pie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 6900,
+            "type": "anime",
+            "name": "Tamagotchi!",
+            "url": "https://myanimelist.net/anime/6900/Tamagotchi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 37266,
+    "url": "https://myanimelist.net/anime/37266/Ano_Ko_Secret",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1525/90454.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/90454t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/90454l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1525/90454.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/90454t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/90454l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ano Ko Secret"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eve"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bunka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Anoko Secret"
+      },
+      {
+        "type": "Japanese",
+        "title": "あの娘シークレット"
+      },
+      {
+        "type": "English",
+        "title": "The Secret About That Girl"
+      }
+    ],
+    "title": "Ano Ko Secret",
+    "title_english": "The Secret About That Girl",
+    "title_japanese": "あの娘シークレット",
+    "title_synonyms": [
+      "Eve",
+      "Bunka",
+      "Anoko Secret"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 13, 2017"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 7.4,
+    "scored_by": 2415,
+    "rank": null,
+    "popularity": 9598,
+    "members": 3936,
+    "favorites": 9,
+    "synopsis": "An original song by Eve, sung by Hatsune Miku, animated by Okamoto and TriF Studio. Eve's self-cover uses the same animated footage and was released on July 15, 2017. Eve included his self-cover MV on his own self-made record label harapeco records's CD+DVD release on December 13, 2017 as a part of his \"Bunka\" album.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1843,
+        "type": "anime",
+        "name": "TriF Studio",
+        "url": "https://myanimelist.net/anime/producer/1843/TriF_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://cargocollective.com/okamotics/MV-anoko-secret"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=sgdPlDG1-8k"
+      }
+    ],
+    "streaming": []
+  }
+}

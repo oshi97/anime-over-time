@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 43318,
+    "url": "https://myanimelist.net/anime/43318/Because",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1357/109689.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/109689t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/109689l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1357/109689.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/109689t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/109689l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Because"
+      },
+      {
+        "type": "Japanese",
+        "title": "because"
+      }
+    ],
+    "title": "Because",
+    "title_english": null,
+    "title_japanese": "because",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 1, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.57,
+    "scored_by": 171,
+    "rank": null,
+    "popularity": 18641,
+    "members": 358,
+    "favorites": 0,
+    "synopsis": "Music video directed by Takaharu Shimizu for the song because by Japanese instrumental jazz-fusion band Jizue from their seventh studio album \"Seeds\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 123,
+        "type": "anime",
+        "name": "Victor Entertainment",
+        "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.jizue.com/movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jizue#Discography"
+      }
+    ],
+    "streaming": []
+  }
+}

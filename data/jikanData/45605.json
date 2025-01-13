@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 45605,
+    "url": "https://myanimelist.net/anime/45605/Bear_Bear_Bear_Kuma_Kumadam-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1341/110988.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/110988t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/110988l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1341/110988.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/110988t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/110988l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bear Bear Bear Kuma! Kumadam-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "べあべあべあくまー! クマダム編"
+      }
+    ],
+    "title": "Bear Bear Bear Kuma! Kumadam-hen",
+    "title_english": null,
+    "title_japanese": "べあべあべあくまー! クマダム編",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-27T00:00:00+00:00",
+      "to": "2021-03-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": 24,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Jan 27, 2021 to Mar 24, 2021"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.74,
+    "scored_by": 535,
+    "rank": 11173,
+    "popularity": 11990,
+    "members": 1904,
+    "favorites": 1,
+    "synopsis": "Bonus episodes of the Bear Bear Bear Kuma! shorts released on the Blu-rays/DVDs for Kuma Kuma Kuma Bear.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1264,
+        "type": "anime",
+        "name": "EMT Squared",
+        "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 43353,
+            "type": "anime",
+            "name": "Bear Bear Bear Kuma!",
+            "url": "https://myanimelist.net/anime/43353/Bear_Bear_Bear_Kuma"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kumakumakumabear.com/special/index00420000.html"
+      }
+    ],
+    "streaming": []
+  }
+}

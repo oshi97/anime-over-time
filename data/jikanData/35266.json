@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 35266,
+    "url": "https://myanimelist.net/anime/35266/Higanjima_X__Aniki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88803.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88803t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88803.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88803t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Higanjima X: Aniki"
+      },
+      {
+        "type": "Synonym",
+        "title": "Higanjima X Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "彼岸島Ｘ「兄貴」"
+      }
+    ],
+    "title": "Higanjima X: Aniki",
+    "title_english": null,
+    "title_japanese": "彼岸島Ｘ「兄貴」",
+    "title_synonyms": [
+      "Higanjima X Special"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 30, 2017"
+    },
+    "duration": "3 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": null,
+    "scored_by": null,
+    "rank": 21031,
+    "popularity": 17322,
+    "members": 460,
+    "favorites": 1,
+    "synopsis": "A new episode of Higanjima X that was included in Blu-ray.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 32,
+        "type": "anime",
+        "name": "Vampire",
+        "url": "https://myanimelist.net/anime/genre/32/Vampire"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34222,
+            "type": "anime",
+            "name": "Higanjima X",
+            "url": "https://myanimelist.net/anime/34222/Higanjima_X"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://higanjimax.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12465"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18788"
+      }
+    ],
+    "streaming": []
+  }
+}

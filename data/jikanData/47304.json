@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 47304,
+    "url": "https://myanimelist.net/anime/47304/Shengxiao_Baobei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1662/130743.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/130743t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/130743l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1662/130743.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/130743t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/130743l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shengxiao Baobei"
+      },
+      {
+        "type": "Japanese",
+        "title": "生肖宝贝"
+      }
+    ],
+    "title": "Shengxiao Baobei",
+    "title_english": null,
+    "title_japanese": "生肖宝贝",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 19, 2016 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 13975,
+    "popularity": 27389,
+    "members": 63,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%94%9F%E8%82%96%E5%AE%9D%E8%B4%9D/20116056"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 55758,
+    "url": "https://myanimelist.net/anime/55758/Meitantei_Pork",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1986/136653.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/136653t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/136653l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1986/136653.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/136653t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/136653l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Pork"
+      },
+      {
+        "type": "Synonym",
+        "title": "Detective Pork"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵ポーク"
+      }
+    ],
+    "title": "Meitantei Pork",
+    "title_english": null,
+    "title_japanese": "名探偵ポーク",
+    "title_synonyms": [
+      "Detective Pork"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17453,
+    "popularity": 26586,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2780,
+        "type": "anime",
+        "name": "Studio Artegg",
+        "url": "https://myanimelist.net/anime/producer/2780/Studio_Artegg"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://artegg-yumi.net/Studio_artegg_Film.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Artegg-yumi#%E7%9F%AD%E7%B7%A8%E6%98%A0%E7%94%BB"
+      }
+    ],
+    "streaming": []
+  }
+}

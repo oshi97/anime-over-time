@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 52343,
+    "url": "https://myanimelist.net/anime/52343/Starry_Regrets",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/125148.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/125148t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/125148l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/125148.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/125148t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/125148l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Starry Regrets"
+      },
+      {
+        "type": "Japanese",
+        "title": "Starry Regrets"
+      }
+    ],
+    "title": "Starry Regrets",
+    "title_english": null,
+    "title_japanese": "Starry Regrets",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 28, 2019"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.87,
+    "scored_by": 287,
+    "rank": null,
+    "popularity": 16405,
+    "members": 555,
+    "favorites": 0,
+    "synopsis": "A sad and melancholic ballad about the singer's regrets over not having conveyed their feelings to an unrequited love who is no longer here. The song also features another theme about properly conveying our feelings to our loved ones while we can.\n\n(Source: hololivepro.com)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/music/starry-regrets/"
+      }
+    ],
+    "streaming": []
+  }
+}

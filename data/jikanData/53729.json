@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 53729,
+    "url": "https://myanimelist.net/anime/53729/We_Are_PAC-MAN",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1720/131571.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1720/131571t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1720/131571l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1720/131571.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1720/131571t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1720/131571l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "We Are PAC-MAN!"
+      },
+      {
+        "type": "Synonym",
+        "title": "PAC-MAN Theme Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "We are PAC-MAN!"
+      }
+    ],
+    "title": "We Are PAC-MAN!",
+    "title_english": null,
+    "title_japanese": "We are PAC-MAN!",
+    "title_synonyms": [
+      "PAC-MAN Theme Song"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 23, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.12,
+    "scored_by": 134,
+    "rank": null,
+    "popularity": 20528,
+    "members": 245,
+    "favorites": 0,
+    "synopsis": "An original music video produced by Bandai Namco Entertainment for the PAC-MAN theme song We Are PAC-MAN!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1233,
+        "type": "anime",
+        "name": "Bandai Namco Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 79,
+        "type": "anime",
+        "name": "Video Game",
+        "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

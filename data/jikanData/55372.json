@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 55372,
+    "url": "https://myanimelist.net/anime/55372/End_Like_This",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/136013.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/136013t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/136013l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/136013.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/136013t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/136013l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "End Like This"
+      },
+      {
+        "type": "Japanese",
+        "title": "End Like This"
+      },
+      {
+        "type": "English",
+        "title": "End Like This"
+      }
+    ],
+    "title": "End Like This",
+    "title_english": "End Like This",
+    "title_japanese": "End Like This",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 9, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.29,
+    "scored_by": 188,
+    "rank": null,
+    "popularity": 18420,
+    "members": 376,
+    "favorites": 1,
+    "synopsis": "Music video for Chapter 7, based on the final fight between Rhodes Island and Patriot.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42163,
+            "type": "anime",
+            "name": "Arknights",
+            "url": "https://myanimelist.net/anime/42163/Arknights"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=i8seBJzVOnI"
+      }
+    ],
+    "streaming": []
+  }
+}

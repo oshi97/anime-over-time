@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 55288,
+    "url": "https://myanimelist.net/anime/55288/Day_by_Day_2023",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/135855.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/135855t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/135855l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/135855.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/135855t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/135855l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Day by Day (2023)"
+      },
+      {
+        "type": "Japanese",
+        "title": "Day By Day"
+      }
+    ],
+    "title": "Day by Day (2023)",
+    "title_english": null,
+    "title_japanese": "Day By Day",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 16, 2023"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.3,
+    "scored_by": 300,
+    "rank": null,
+    "popularity": 15509,
+    "members": 681,
+    "favorites": 1,
+    "synopsis": "Music video for the song Day by Day by Aviella. The song was made for Arknights to commemorate the third anniversary of the global server and the global release of Ideal City.\n\n(Source: Arknights Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2761,
+        "type": "anime",
+        "name": "ARCUS",
+        "url": "https://myanimelist.net/anime/producer/2761/ARCUS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42163,
+            "type": "anime",
+            "name": "Arknights",
+            "url": "https://myanimelist.net/anime/42163/Arknights"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=I7Swz4_PpBE"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 34856,
+    "url": "https://myanimelist.net/anime/34856/Cluster_A",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/84136.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/84136t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/84136l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/84136.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/84136t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/84136l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cluster A"
+      },
+      {
+        "type": "Synonym",
+        "title": "in the blue shirt"
+      },
+      {
+        "type": "Synonym",
+        "title": "MARU-151"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cyanotype"
+      },
+      {
+        "type": "Japanese",
+        "title": "Cluster A"
+      },
+      {
+        "type": "English",
+        "title": "Cluster A"
+      }
+    ],
+    "title": "Cluster A",
+    "title_english": "Cluster A",
+    "title_japanese": "Cluster A",
+    "title_synonyms": [
+      "in the blue shirt",
+      "MARU-151",
+      "Cyanotype"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 13, 2016"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.45,
+    "scored_by": 226,
+    "rank": null,
+    "popularity": 17984,
+    "members": 409,
+    "favorites": 0,
+    "synopsis": "An official music video for the song Cluster A from the [MARU-151] in the blue shirt - Cyanotype release by the band \"in the blue shirt\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://maltinerecords.cs8.biz/151.html"
+      }
+    ],
+    "streaming": []
+  }
+}

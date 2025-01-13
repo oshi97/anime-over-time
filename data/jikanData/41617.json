@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 41617,
+    "url": "https://myanimelist.net/anime/41617/Shounen_Sunday_CM__Joujuu_Senjin_Mushibugyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1167/106879.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1167/106879t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1167/106879l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1167/106879.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1167/106879t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1167/106879l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "fcUM9IzOOYI",
+      "url": "https://www.youtube.com/watch?v=fcUM9IzOOYI",
+      "embed_url": "https://www.youtube.com/embed/fcUM9IzOOYI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/fcUM9IzOOYI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/fcUM9IzOOYI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/fcUM9IzOOYI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/fcUM9IzOOYI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/fcUM9IzOOYI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shounen Sunday CM: Joujuu Senjin!! Mushibugyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shounen Sunday CM: Mushibugyou"
+      },
+      {
+        "type": "Japanese",
+        "title": "サンデーCM劇場「ムシブギョー」"
+      }
+    ],
+    "title": "Shounen Sunday CM: Joujuu Senjin!! Mushibugyou",
+    "title_english": null,
+    "title_japanese": "サンデーCM劇場「ムシブギョー」",
+    "title_synonyms": [
+      "Shounen Sunday CM: Mushibugyou"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-06-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 6,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 18, 2011"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.73,
+    "scored_by": 150,
+    "rank": null,
+    "popularity": 18607,
+    "members": 361,
+    "favorites": 0,
+    "synopsis": "Mushibugyou television commercial for Shounen Sunday magazine.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      },
+      {
+        "mal_id": 1143,
+        "type": "anime",
+        "name": "TOHO animation",
+        "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 36717,
+            "type": "manga",
+            "name": "Joujuu Senjin!! Mushibugyou",
+            "url": "https://myanimelist.net/manga/36717/Joujuu_Senjin_Mushibugyou"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 17505,
+            "type": "anime",
+            "name": "Mushibugyou",
+            "url": "https://myanimelist.net/anime/17505/Mushibugyou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20180404011606/https://websunday.net/theater/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mushibugy%C5%8D"
+      }
+    ],
+    "streaming": []
+  }
+}

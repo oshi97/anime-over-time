@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 42800,
+    "url": "https://myanimelist.net/anime/42800/Wild_Cleaner",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/109077.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/109077t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/109077l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1046/109077.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/109077t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/109077l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wild Cleaner"
+      },
+      {
+        "type": "Synonym",
+        "title": "MTV Ultrahits"
+      },
+      {
+        "type": "Japanese",
+        "title": "Wild Cleaner"
+      }
+    ],
+    "title": "Wild Cleaner",
+    "title_english": null,
+    "title_japanese": "Wild Cleaner",
+    "title_synonyms": [
+      "MTV Ultrahits"
+    ],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 2019"
+    },
+    "duration": "10 sec",
+    "rating": "G - All Ages",
+    "score": 5.41,
+    "scored_by": 162,
+    "rank": null,
+    "popularity": 18621,
+    "members": 360,
+    "favorites": 0,
+    "synopsis": "A station ID by Densuke28 for MTV ULTRAHITS.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2087,
+        "type": "anime",
+        "name": "CEKAI",
+        "url": "https://myanimelist.net/anime/producer/2087/CEKAI"
+      },
+      {
+        "mal_id": 2659,
+        "type": "anime",
+        "name": "MTV Japan",
+        "url": "https://myanimelist.net/anime/producer/2659/MTV_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://densuke28.com/post/190591118200/mtv-ultrahits-2019-director-densuke28-music"
+      }
+    ],
+    "streaming": []
+  }
+}

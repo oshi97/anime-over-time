@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 36888,
+    "url": "https://myanimelist.net/anime/36888/Chikatetsu_ni_Noru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/89263.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89263t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89263l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/89263.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89263t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89263l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chikatetsu ni Noru"
+      },
+      {
+        "type": "Japanese",
+        "title": "地下鉄に乗るっ"
+      }
+    ],
+    "title": "Chikatetsu ni Noru",
+    "title_english": null,
+    "title_japanese": "地下鉄に乗るっ",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 27, 2017"
+    },
+    "duration": "12 min",
+    "rating": "PG - Children",
+    "score": 5.55,
+    "scored_by": 297,
+    "rank": 11910,
+    "popularity": 14857,
+    "members": 821,
+    "favorites": 0,
+    "synopsis": "A group of three high school girls explore Kyoto using the Kyoto City Subway system.",
+    "background": "This special was crowdfunded and made as an advertisement for the Kyoto City Subway, with the three high school girls being the mascots for the subway since 2011. It premiered on May 27, 2017 at Live House Kyoto VOXhall.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2311,
+        "type": "anime",
+        "name": "Gyorai Eizo Inc.",
+        "url": "https://myanimelist.net/anime/producer/2311/Gyorai_Eizo_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 95891,
+            "type": "manga",
+            "name": "\"Chikatetsu ni Noru\" Series: Kyo Girls Days - Uzumasa Moe no Tsukumo Gikyoku",
+            "url": "https://myanimelist.net/manga/95891/Chikatetsu_ni_Noru_Series__Kyo_Girls_Days_-_Uzumasa_Moe_no_Tsukumo_Gikyoku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://chikatetsu.moe/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12151"
+      }
+    ],
+    "streaming": []
+  }
+}

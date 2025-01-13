@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 41119,
+    "url": "https://myanimelist.net/anime/41119/Kakuza_Tousan_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/105578.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/105578t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/105578l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/105578.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/105578t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/105578l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kakuza Tousan Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "かくざ父さん"
+      }
+    ],
+    "title": "Kakuza Tousan Specials",
+    "title_english": null,
+    "title_japanese": "かくざ父さん",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-06-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 6,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 20, 2007"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16584,
+    "popularity": 22526,
+    "members": 144,
+    "favorites": 0,
+    "synopsis": "DVD specials of Kakuza Tousan. The first episode has a musician lemon and balloon fight for Touko's affection. The second episode has a French speaking sugar stick packet as the fiancé of an oddly young Touko.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41118,
+            "type": "anime",
+            "name": "Kakuza Tousan",
+            "url": "https://myanimelist.net/anime/41118/Kakuza_Tousan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/contents/fight_tension/kakuzatousan.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%96%E7%88%B6%E3%81%95%E3%82%93"
+      }
+    ],
+    "streaming": []
+  }
+}

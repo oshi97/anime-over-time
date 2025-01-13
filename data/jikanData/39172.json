@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 39172,
+    "url": "https://myanimelist.net/anime/39172/Kaisei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1492/98688.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/98688t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/98688l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1492/98688.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/98688t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/98688l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaisei"
+      },
+      {
+        "type": "Synonym",
+        "title": "Re:Start"
+      },
+      {
+        "type": "Japanese",
+        "title": "快晴"
+      },
+      {
+        "type": "English",
+        "title": "Clear Weather"
+      }
+    ],
+    "title": "Kaisei",
+    "title_english": "Clear Weather",
+    "title_japanese": "快晴",
+    "title_synonyms": [
+      "Re:Start"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 31, 2017"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.47,
+    "scored_by": 230,
+    "rank": null,
+    "popularity": 17373,
+    "members": 455,
+    "favorites": 0,
+    "synopsis": "An original song by Orangestar featuring the Vocaloid IA, animated by Waboku.\n\nThis song was initially featured in the album Re:Start with Hatsune Miku as the vocal, and was released in August 30, 2017.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BwGpXK3W6tE"
+      }
+    ],
+    "streaming": []
+  }
+}

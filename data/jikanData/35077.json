@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 35077,
+    "url": "https://myanimelist.net/anime/35077/Gooorgeous",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/84657.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/84657t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/84657l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/84657.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/84657t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/84657l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gooorgeous"
+      },
+      {
+        "type": "Japanese",
+        "title": "ゴ〜〜ジャス"
+      }
+    ],
+    "title": "Gooorgeous",
+    "title_english": null,
+    "title_japanese": "ゴ〜〜ジャス",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 12, 2017"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.51,
+    "scored_by": 595,
+    "rank": null,
+    "popularity": 12479,
+    "members": 1621,
+    "favorites": 1,
+    "synopsis": "The music video was a first part of a series of commemorations for the Macross franchise's 35th anniversary which happened in 2017. It was only shown on two giant streetside screens in Tokyo, Alta Vision in Shinjuku and UDX Vision in Akihabara. \n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 9,
+        "type": "anime",
+        "name": "Ecchi",
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 3572,
+            "type": "anime",
+            "name": "Macross F",
+            "url": "https://myanimelist.net/anime/3572/Macross_F"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12979"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36602,
+    "url": "https://myanimelist.net/anime/36602/My_Dearest_Song",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88452.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88452t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88452l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/88452.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/88452t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/88452l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "My Dearest Song"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "My Dearest Song"
+      },
+      {
+        "type": "English",
+        "title": "My Dearest Song"
+      }
+    ],
+    "title": "My Dearest Song",
+    "title_english": "My Dearest Song",
+    "title_japanese": "My Dearest Song",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-11-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 11,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 30, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.78,
+    "scored_by": 749,
+    "rank": null,
+    "popularity": 13037,
+    "members": 1356,
+    "favorites": 3,
+    "synopsis": "Alongside her older sister and violinist Nachi, Shirona Tsukisuzu joins Irodorimidori. As the band's cellist, Shirona begins voicing out the melodies she has been keeping for years. To this end, the desire Shirona has to seek out her dearest one shines through, no matter how far apart they may become.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song My Dearest Song by the fictional band Irodorimidori. It is the 12th song in the franchise and focuses on Shirona Tsukisuzu. The song was included with the second full Irodorimidori album titled \"Suisen,\" released on November 1, 2017.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36601,
+            "type": "anime",
+            "name": "Moushin Soloist Life!",
+            "url": "https://myanimelist.net/anime/36601/Moushin_Soloist_Life"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36603,
+            "type": "anime",
+            "name": "Neko Matsuri",
+            "url": "https://myanimelist.net/anime/36603/Neko_Matsuri"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song12.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

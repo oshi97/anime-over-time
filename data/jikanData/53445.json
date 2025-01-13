@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 53445,
+    "url": "https://myanimelist.net/anime/53445/Running_in_the_Dark",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/131948.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/131948t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/131948l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/131948.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/131948t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/131948l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Running in the Dark"
+      },
+      {
+        "type": "Japanese",
+        "title": "Running In The Dark"
+      }
+    ],
+    "title": "Running in the Dark",
+    "title_english": null,
+    "title_japanese": "Running In The Dark",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 23, 2022"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.74,
+    "scored_by": 423,
+    "rank": null,
+    "popularity": 14920,
+    "members": 808,
+    "favorites": 1,
+    "synopsis": "Animated music video for the song Running In The Dark by MONKEY MAJIK.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 50205,
+            "type": "anime",
+            "name": "Arknights: Reimei Zensou",
+            "url": "https://myanimelist.net/anime/50205/Arknights__Reimei_Zensou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MIKl8khLW9Y"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 59369,
+    "url": "https://myanimelist.net/anime/59369/Lycoris_Recoil_Short_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1697/144390.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1697/144390t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1697/144390l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1697/144390.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1697/144390t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1697/144390l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lycoris Recoil Short Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "リコリス・リコイル ショートムービー"
+      }
+    ],
+    "title": "Lycoris Recoil Short Movie",
+    "title_english": null,
+    "title_japanese": "リコリス・リコイル ショートムービー",
+    "title_synonyms": [],
+    "type": null,
+    "source": "Original",
+    "episodes": 6,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 4775,
+    "members": 23465,
+    "favorites": 51,
+    "synopsis": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 50709,
+            "type": "anime",
+            "name": "Lycoris Recoil",
+            "url": "https://myanimelist.net/anime/50709/Lycoris_Recoil"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://lycoris-recoil.com/"
+      },
+      {
+        "name": "@lycoris_recoil",
+        "url": "https://twitter.com/lycoris_recoil"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32964"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lycoris_Recoil"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

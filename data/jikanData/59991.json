@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 59991,
+    "url": "https://myanimelist.net/anime/59991/High_Score_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1774/145821.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1774/145821t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1774/145821l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1774/145821.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1774/145821t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1774/145821l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "High Score Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "HIGH SCORE"
+      }
+    ],
+    "title": "High Score Specials",
+    "title_english": null,
+    "title_japanese": "HIGH SCORE",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "4-koma manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2012"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 21034,
+    "popularity": 25385,
+    "members": 84,
+    "favorites": 0,
+    "synopsis": "Special episodes of High Score that were included with the DVD release of the series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 276,
+        "type": "anime",
+        "name": "DLE",
+        "url": "https://myanimelist.net/anime/producer/276/DLE"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 10958,
+            "type": "anime",
+            "name": "High Score",
+            "url": "https://myanimelist.net/anime/10958/High_Score"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20121125091313/https://www.ribon-highscore.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8722"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13224"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/HIGH_SCORE#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 53990,
+    "url": "https://myanimelist.net/anime/53990/Majime_ni_Fumajime_Kaiketsu_Zorori__Uchuu_Tanken_Daisakusen_-_Chikyuu_wo_Mezase-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/132082.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/132082t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/132082l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/132082.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/132082t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/132082l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen - Chikyuu wo Mezase-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "まじめにふまじめかいけつゾロリ　宇宙たんけん大さくせん　ちきゅうをめざせ編"
+      }
+    ],
+    "title": "Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen - Chikyuu wo Mezase-hen",
+    "title_english": null,
+    "title_japanese": "まじめにふまじめかいけつゾロリ　宇宙たんけん大さくせん　ちきゅうをめざせ編",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2006"
+    },
+    "duration": "22 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17289,
+    "popularity": 24259,
+    "members": 101,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1753,
+        "type": "anime",
+        "name": "D & D Pictures",
+        "url": "https://myanimelist.net/anime/producer/1753/D___D_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53989,
+            "type": "anime",
+            "name": "Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen - Ougon no Hoshi wo Sagase-hen",
+            "url": "https://myanimelist.net/anime/53989/Majime_ni_Fumajime_Kaiketsu_Zorori__Uchuu_Tanken_Daisakusen_-_Ougon_no_Hoshi_wo_Sagase-hen"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 2707,
+            "type": "anime",
+            "name": "Majime ni Fumajime Kaiketsu Zorori",
+            "url": "https://myanimelist.net/anime/2707/Majime_ni_Fumajime_Kaiketsu_Zorori"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

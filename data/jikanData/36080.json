@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 36080,
+    "url": "https://myanimelist.net/anime/36080/Metamorphosis",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/87201.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/87201t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87201l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/87201.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/87201t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87201l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Metamorphosis"
+      },
+      {
+        "type": "Synonym",
+        "title": "Caricature"
+      },
+      {
+        "type": "Synonym",
+        "title": "FROG"
+      },
+      {
+        "type": "Japanese",
+        "title": "METAMORPHOSIS"
+      },
+      {
+        "type": "English",
+        "title": "Metamorphosis"
+      }
+    ],
+    "title": "Metamorphosis",
+    "title_english": "Metamorphosis",
+    "title_japanese": "METAMORPHOSIS",
+    "title_synonyms": [
+      "Caricature",
+      "FROG"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-06-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 6,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 21, 2009"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.01,
+    "scored_by": 192,
+    "rank": null,
+    "popularity": 16002,
+    "members": 605,
+    "favorites": 3,
+    "synopsis": "Official music video for FROG's song Metamorphosis which was included on their 2nd album \"Caricature\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://columbia.jp/i-columbia/release/cocp_60072.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%B2%96%E4%BA%95%E7%A4%BC%E4%BA%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

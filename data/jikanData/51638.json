@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 51638,
+    "url": "https://myanimelist.net/anime/51638/Doggy_Gods_Street",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1601/124431.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1601/124431t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1601/124431l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1601/124431.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1601/124431t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1601/124431l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doggy God's Street"
+      },
+      {
+        "type": "Japanese",
+        "title": "Doggy god's street"
+      }
+    ],
+    "title": "Doggy God's Street",
+    "title_english": null,
+    "title_japanese": "Doggy god's street",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 13, 2022"
+    },
+    "duration": "3 min",
+    "rating": null,
+    "score": 7.32,
+    "scored_by": 1590,
+    "rank": null,
+    "popularity": 10905,
+    "members": 2638,
+    "favorites": 19,
+    "synopsis": "The animated music video for virtual YouTuber Inugami Korone's original song Doggy God's Street.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wLNTAMY1NZA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 49454,
+    "url": "https://myanimelist.net/anime/49454/Gabuli",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1499/116618.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/116618t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/116618l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1499/116618.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/116618t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/116618l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gabuli"
+      },
+      {
+        "type": "Japanese",
+        "title": "GABULI(ガブリ)"
+      }
+    ],
+    "title": "Gabuli",
+    "title_english": null,
+    "title_japanese": "GABULI(ガブリ)",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-15T00:00:00+00:00",
+      "to": "2022-03-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 19,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Jul 15, 2021 to Mar 19, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.43,
+    "scored_by": 196,
+    "rank": null,
+    "popularity": 16497,
+    "members": 543,
+    "favorites": 0,
+    "synopsis": "A mixed media web project.\n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2288,
+        "type": "anime",
+        "name": "Qzil.la",
+        "url": "https://myanimelist.net/anime/producer/2288/Qzilla"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://gabuliiiiiii.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16442"
+      }
+    ],
+    "streaming": []
+  }
+}

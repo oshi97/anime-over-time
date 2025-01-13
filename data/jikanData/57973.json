@@ -1,0 +1,119 @@
+{
+  "data": {
+    "mal_id": 57973,
+    "url": "https://myanimelist.net/anime/57973/Rinrin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1216/141172.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/141172t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/141172l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1216/141172.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/141172t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/141172l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rinrin"
+      },
+      {
+        "type": "Japanese",
+        "title": "鈴々"
+      },
+      {
+        "type": "English",
+        "title": "Ring Ring"
+      }
+    ],
+    "title": "Rinrin",
+    "title_english": "Ring Ring",
+    "title_japanese": "鈴々",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 26, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22828,
+    "members": 134,
+    "favorites": 0,
+    "synopsis": "Music video for the song Rinrin by PEOPLE 1.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ppppeople1.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/PEOPLE_1"
+      }
+    ],
+    "streaming": []
+  }
+}

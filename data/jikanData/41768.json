@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 41768,
+    "url": "https://myanimelist.net/anime/41768/Yakou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/108066.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/108066t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/108066l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/108066.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/108066t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/108066l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yakou"
+      },
+      {
+        "type": "Japanese",
+        "title": "夜行"
+      },
+      {
+        "type": "English",
+        "title": "Night Journey"
+      }
+    ],
+    "title": "Yakou",
+    "title_english": "Night Journey",
+    "title_japanese": "夜行",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2020"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.39,
+    "scored_by": 442,
+    "rank": null,
+    "popularity": 14900,
+    "members": 813,
+    "favorites": 0,
+    "synopsis": "A music video for the song Yakou by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1033,
+        "type": "anime",
+        "name": "Studio Colorido",
+        "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yorushika.com/news/detail/11102"
+      }
+    ],
+    "streaming": []
+  }
+}

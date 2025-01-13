@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 38158,
+    "url": "https://myanimelist.net/anime/38158/HuGoon_no_Hug_Hug_Song",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1248/93399.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1248/93399t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1248/93399l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1248/93399.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1248/93399t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1248/93399l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "HuGoo.n no Hug Hug Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "ハグ～ンのハグハグソング"
+      }
+    ],
+    "title": "HuGoo.n no Hug Hug Song",
+    "title_english": null,
+    "title_japanese": "ハグ～ンのハグハグソング",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 9, 2018"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.1,
+    "scored_by": 171,
+    "rank": null,
+    "popularity": 17830,
+    "members": 420,
+    "favorites": 0,
+    "synopsis": "A music video commissioned by Elleair, a household paper product company, for their disposable baby diapers. It's so safe that you can hug your baby and play around with it without worrying about spilling out from the action. In the music video it shows the mascot GOO.N (グ～ン) doing such with a baby.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 19535,
+            "type": "anime",
+            "name": "Taka no Tsume GO: Utsukushiki Elleair Shoushuu Plus",
+            "url": "https://myanimelist.net/anime/19535/Taka_no_Tsume_GO__Utsukushiki_Elleair_Shoushuu_Plus"
+          },
+          {
+            "mal_id": 37850,
+            "type": "anime",
+            "name": "Elleair x Kamiusagi Rope",
+            "url": "https://myanimelist.net/anime/37850/Elleair_x_Kamiusagi_Rope"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.elleair.jp/goo-n/hugoon/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%A8%E3%83%BC%E3%83%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

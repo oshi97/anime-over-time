@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 60554,
+    "url": "https://myanimelist.net/anime/60554/Bao_Ke_Meng_Donghua_Tujian__Qian_Ling_Bai_Li",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/147022.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/147022t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/147022l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1641/147022.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1641/147022t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1641/147022l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bao Ke Meng Donghua Tujian: Qian Ling Bai Li"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon Douga Zukan"
+      },
+      {
+        "type": "Synonym",
+        "title": "ポケモン動画図鑑"
+      },
+      {
+        "type": "Japanese",
+        "title": "宝可梦动画图鉴 千伶百俐"
+      }
+    ],
+    "title": "Bao Ke Meng Donghua Tujian: Qian Ling Bai Li",
+    "title_english": null,
+    "title_japanese": "宝可梦动画图鉴 千伶百俐",
+    "title_synonyms": [
+      "Pokemon Douga Zukan",
+      "ポケモン動画図鑑"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-11-27T00:00:00+00:00",
+      "to": "2024-12-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 11,
+          "year": 2024
+        },
+        "to": {
+          "day": 16,
+          "month": 12,
+          "year": 2024
+        }
+      },
+      "string": "Nov 27, 2024 to Dec 16, 2024"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19322,
+    "popularity": 22197,
+    "members": 158,
+    "favorites": 0,
+    "synopsis": "Second season of Bao Ke Meng Donghua Tujian.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59620,
+            "type": "anime",
+            "name": "Bao Ke Meng Donghua Tujian: Xiaoqi Dao Zhong",
+            "url": "https://myanimelist.net/anime/59620/Bao_Ke_Meng_Donghua_Tujian__Xiaoqi_Dao_Zhong"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59621,
+            "type": "anime",
+            "name": "Bao Ke Meng Donghua Tujian: Yi Bu Pian",
+            "url": "https://myanimelist.net/anime/59621/Bao_Ke_Meng_Donghua_Tujian__Yi_Bu_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 52939,
+    "url": "https://myanimelist.net/anime/52939/Kangaroo_wa_Doko_ni_Itta_no_ka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1428/132872.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1428/132872t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1428/132872l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1428/132872.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1428/132872t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1428/132872l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kangaroo wa Doko ni Itta no ka"
+      },
+      {
+        "type": "Synonym",
+        "title": "Where did the kangaroo go?"
+      },
+      {
+        "type": "Japanese",
+        "title": "カンガルーはどこに行ったのか"
+      }
+    ],
+    "title": "Kangaroo wa Doko ni Itta no ka",
+    "title_english": null,
+    "title_japanese": "カンガルーはどこに行ったのか",
+    "title_synonyms": [
+      "Where did the kangaroo go?"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 17, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22537,
+    "members": 144,
+    "favorites": 0,
+    "synopsis": "Music video for Kangaroo wa Doko ni Itta no ka by Uchikubi Gokumon Doukoukai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 9768,
+            "type": "anime",
+            "name": "Shima Shima Tora no Shimajirou",
+            "url": "https://myanimelist.net/anime/9768/Shima_Shima_Tora_no_Shimajirou"
+          },
+          {
+            "mal_id": 34259,
+            "type": "anime",
+            "name": "Chotto Ugoku!? \"Futeneko\"",
+            "url": "https://myanimelist.net/anime/34259/Chotto_Ugoku_Futeneko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/YGXmSRBD9cE"
+      }
+    ],
+    "streaming": []
+  }
+}

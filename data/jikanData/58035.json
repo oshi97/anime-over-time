@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 58035,
+    "url": "https://myanimelist.net/anime/58035/Tom_to_Jerry_Gokko_Aeon_Cinema_Collab_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1479/141266.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1479/141266t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1479/141266l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1479/141266.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1479/141266t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1479/141266l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tom to Jerry Gokko Aeon Cinema Collab Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "「とむとじぇりーごっこ」イオンシネマコラボムービー"
+      }
+    ],
+    "title": "Tom to Jerry Gokko Aeon Cinema Collab Movie",
+    "title_english": null,
+    "title_japanese": "「とむとじぇりーごっこ」イオンシネマコラボムービー",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 5, 2024"
+    },
+    "duration": "20 sec",
+    "rating": "G - All Ages",
+    "score": 6.12,
+    "scored_by": 156,
+    "rank": null,
+    "popularity": 18954,
+    "members": 336,
+    "favorites": 3,
+    "synopsis": "A collaboration short between Tom to Jerry and Aeon Cinema shown in Aeon Cinema theaters before films.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 415,
+        "type": "anime",
+        "name": "Warner Bros. Japan",
+        "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 866,
+        "type": "anime",
+        "name": "Fanworks",
+        "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+      },
+      {
+        "mal_id": 1763,
+        "type": "anime",
+        "name": "Studio Nanahoshi",
+        "url": "https://myanimelist.net/anime/producer/1763/Studio_Nanahoshi"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53907,
+            "type": "anime",
+            "name": "Tom to Jerry Gokko",
+            "url": "https://myanimelist.net/anime/53907/Tom_to_Jerry_Gokko"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://wwws.warnerbros.co.jp/tomandjerry/short-animation/"
+      },
+      {
+        "name": "@TomAndJerry_JP",
+        "url": "https://twitter.com/TomAndJerry_JP/status/1754420322605150715"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=j3pdvBtdzmk"
+      }
+    ],
+    "streaming": []
+  }
+}

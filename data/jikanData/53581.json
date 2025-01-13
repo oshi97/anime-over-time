@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 53581,
+    "url": "https://myanimelist.net/anime/53581/In_the_Back_Room",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/130896.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/130896t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/130896l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/130896.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/130896t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/130896l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "In the Back Room"
+      },
+      {
+        "type": "Japanese",
+        "title": "インザバックルーム"
+      },
+      {
+        "type": "English",
+        "title": "In the Back Room"
+      }
+    ],
+    "title": "In the Back Room",
+    "title_english": "In the Back Room",
+    "title_japanese": "インザバックルーム",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 9, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.67,
+    "scored_by": 1634,
+    "rank": null,
+    "popularity": 10669,
+    "members": 2843,
+    "favorites": 1,
+    "synopsis": "A music video for the song In the Back Room by syudou that serves as fifth ending song for Chainsaw Man series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 44511,
+            "type": "anime",
+            "name": "Chainsaw Man",
+            "url": "https://myanimelist.net/anime/44511/Chainsaw_Man"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/eW620xcBnVE"
+      }
+    ],
+    "streaming": []
+  }
+}

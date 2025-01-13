@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 41090,
+    "url": "https://myanimelist.net/anime/41090/Start",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/105484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/105484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/105484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/105484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/105484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/105484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "\"Star\"t"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Synonym",
+        "title": "HaNaMiNa"
+      },
+      {
+        "type": "Japanese",
+        "title": "\"STAR\"T"
+      },
+      {
+        "type": "English",
+        "title": "\"Star\"t"
+      }
+    ],
+    "title": "\"Star\"t",
+    "title_english": "\"Star\"t",
+    "title_japanese": "\"STAR\"T",
+    "title_synonyms": [
+      "Irodorimidori",
+      "HaNaMiNa"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 21, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.41,
+    "scored_by": 711,
+    "rank": null,
+    "popularity": 13600,
+    "members": 1163,
+    "favorites": 0,
+    "synopsis": "With the arrival of the second guitarist, Hana Katsuragi, the Light Music Club is finally complete! After renaming the band HaNaMiNa using the first syllables of the members' names, Hana, Nanase, Minae, and Nadeshiko set out for the quartet's first live performance.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song \" \"Star\"t\". It is the 46th song in the franchise. The song was included with the HaNaMiNa's CD of the same name, released on October 24, 2019.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40360,
+            "type": "anime",
+            "name": "Shout Our Evidence!",
+            "url": "https://myanimelist.net/anime/40360/Shout_Our_Evidence"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 41091,
+            "type": "anime",
+            "name": "Tanitsu Shikousei Overbloom",
+            "url": "https://myanimelist.net/anime/41091/Tanitsu_Shikousei_Overbloom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song046/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

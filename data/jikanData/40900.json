@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 40900,
+    "url": "https://myanimelist.net/anime/40900/MrAFFECTiON",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/104883.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/104883t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/104883l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/104883.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/104883t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/104883l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mr.AFFECTiON"
+      },
+      {
+        "type": "Synonym",
+        "title": "IDOLiSH7: Mr. Affection"
+      },
+      {
+        "type": "Japanese",
+        "title": "【BĻACK OR WHiTE】『Mr.AFFECTiON/IDOLiSH7』"
+      },
+      {
+        "type": "English",
+        "title": "Mr. Affection"
+      }
+    ],
+    "title": "Mr.AFFECTiON",
+    "title_english": "Mr. Affection",
+    "title_japanese": "【BĻACK OR WHiTE】『Mr.AFFECTiON/IDOLiSH7』",
+    "title_synonyms": [
+      "IDOLiSH7: Mr. Affection"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 16, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.16,
+    "scored_by": 983,
+    "rank": null,
+    "popularity": 11758,
+    "members": 2043,
+    "favorites": 5,
+    "synopsis": "Official music video for IDOLiSH7's song \"Mr.AFFECTiON\" for the 2019 BĻACK OR WHiTE event.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1109,
+        "type": "anime",
+        "name": "Orange",
+        "url": "https://myanimelist.net/anime/producer/1109/Orange"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33899,
+            "type": "anime",
+            "name": "IDOLiSH7",
+            "url": "https://myanimelist.net/anime/33899/IDOLiSH7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://idolish7.com/movie/"
+      }
+    ],
+    "streaming": []
+  }
+}

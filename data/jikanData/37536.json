@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 37536,
+    "url": "https://myanimelist.net/anime/37536/Maware_Troika",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1427/92701.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/92701t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/92701l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1427/92701.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/92701t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/92701l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maware Troika"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Maware Toro-Ika"
+      },
+      {
+        "type": "Japanese",
+        "title": "回れトロイカ"
+      }
+    ],
+    "title": "Maware Troika",
+    "title_english": null,
+    "title_japanese": "回れトロイカ",
+    "title_synonyms": [
+      "Minna no Uta",
+      "Maware Toro-Ika"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 1, 2013"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.71,
+    "scored_by": 107,
+    "rank": null,
+    "popularity": 20352,
+    "members": 255,
+    "favorites": 0,
+    "synopsis": "A song about a man who grew up eating conveyor belt sushi. The title formally means toro (tuna) and ika (squid) but makes a pun with troika, a traditional Russian harness driving combination, using three horses abreast, usually pulling a sleigh.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201310_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9B%9E%E3%82%8C%E3%83%88%E3%83%AD%E3%82%A4%E3%82%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

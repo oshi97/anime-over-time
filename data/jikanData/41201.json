@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 41201,
+    "url": "https://myanimelist.net/anime/41201/Mai_Mai_Mai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1311/105778.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/105778t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/105778l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1311/105778.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/105778t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/105778l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mai Mai Mai"
+      },
+      {
+        "type": "Japanese",
+        "title": "マイマイマイ"
+      },
+      {
+        "type": "English",
+        "title": "Buy Buy Buy"
+      }
+    ],
+    "title": "Mai Mai Mai",
+    "title_english": "Buy Buy Buy",
+    "title_japanese": "マイマイマイ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 28, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.34,
+    "scored_by": 154,
+    "rank": null,
+    "popularity": 20164,
+    "members": 265,
+    "favorites": 0,
+    "synopsis": "Song performed at the 2020 Bilibili New Year Gala.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/uaUp71oQO9I"
+      }
+    ],
+    "streaming": []
+  }
+}

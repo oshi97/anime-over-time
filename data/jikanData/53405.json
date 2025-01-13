@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 53405,
+    "url": "https://myanimelist.net/anime/53405/Zanki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/145152.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/145152t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/145152l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/145152.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/145152t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/145152l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zanki"
+      },
+      {
+        "type": "Japanese",
+        "title": "残機"
+      },
+      {
+        "type": "English",
+        "title": "Time Left"
+      }
+    ],
+    "title": "Zanki",
+    "title_english": "Time Left",
+    "title_japanese": "残機",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 20, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.61,
+    "scored_by": 1811,
+    "rank": null,
+    "popularity": 10119,
+    "members": 3341,
+    "favorites": 1,
+    "synopsis": "Music video for the song Zanki by ZUTOMAYO.",
+    "background": "The song debuted as the ending song for Chainsaw Man anime episode 2.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 44511,
+            "type": "anime",
+            "name": "Chainsaw Man",
+            "url": "https://myanimelist.net/anime/44511/Chainsaw_Man"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/6OC92oxs4gA"
+      }
+    ],
+    "streaming": []
+  }
+}

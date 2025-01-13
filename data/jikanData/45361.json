@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 45361,
+    "url": "https://myanimelist.net/anime/45361/Kuai_Yue_Jia_Nianhua",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/126108.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/126108t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/126108l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/126108.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/126108t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/126108l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuai Yue Jia Nianhua"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Stuff 5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kuaile Dongxi 5"
+      },
+      {
+        "type": "Japanese",
+        "title": "快乐家年华"
+      }
+    ],
+    "title": "Kuai Yue Jia Nianhua",
+    "title_english": null,
+    "title_japanese": "快乐家年华",
+    "title_synonyms": [
+      "Happy Stuff 5",
+      "Kuaile Dongxi 5"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2012 to ?"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16910,
+    "popularity": 26625,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45358,
+            "type": "anime",
+            "name": "Kuaile Dongxi 4",
+            "url": "https://myanimelist.net/anime/45358/Kuaile_Dongxi_4"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45362,
+            "type": "anime",
+            "name": "Kuaile Xiang Qian Chong",
+            "url": "https://myanimelist.net/anime/45362/Kuaile_Xiang_Qian_Chong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1eW411g7to?from=search&seid=13747151641472672959"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%BF%AB%E4%B9%90%E5%AE%B6%E5%B9%B4%E5%8D%8E/13888087"
+      }
+    ],
+    "streaming": []
+  }
+}

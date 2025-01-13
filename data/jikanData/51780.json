@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 51780,
+    "url": "https://myanimelist.net/anime/51780/Digimon_Ghost_Game_Recap",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/123680.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/123680t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/123680l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/123680.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/123680t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/123680l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Digimon Ghost Game Recap"
+      },
+      {
+        "type": "Synonym",
+        "title": "Digimon Ghost Game Episode 24.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Digimon Ghost Game: Takenaka Naoto ga Kataru Kaiki no Sekai"
+      },
+      {
+        "type": "Japanese",
+        "title": "デジモンゴーストゲーム"
+      }
+    ],
+    "title": "Digimon Ghost Game Recap",
+    "title_english": null,
+    "title_japanese": "デジモンゴーストゲーム",
+    "title_synonyms": [
+      "Digimon Ghost Game Episode 24.5",
+      "Digimon Ghost Game: Takenaka Naoto ga Kataru Kaiki no Sekai"
+    ],
+    "type": "TV Special",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 8, 2022"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.77,
+    "scored_by": 726,
+    "rank": 11064,
+    "popularity": 11860,
+    "members": 1984,
+    "favorites": 1,
+    "synopsis": "Recap of the first 24 episodes of Digimon Ghost Game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 49515,
+            "type": "anime",
+            "name": "Digimon Ghost Game",
+            "url": "https://myanimelist.net/anime/49515/Digimon_Ghost_Game"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16502"
+      }
+    ],
+    "streaming": []
+  }
+}

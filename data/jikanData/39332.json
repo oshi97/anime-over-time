@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 39332,
+    "url": "https://myanimelist.net/anime/39332/Monster_Special_Edition",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1226/99268.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Monster Special Edition"
+      },
+      {
+        "type": "Synonym",
+        "title": "Monster Recaps"
+      },
+      {
+        "type": "Japanese",
+        "title": "モンスター スペシャルバージョン"
+      }
+    ],
+    "title": "Monster Special Edition",
+    "title_english": null,
+    "title_japanese": "モンスター スペシャルバージョン",
+    "title_synonyms": [
+      "Monster Recaps"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-12-27T00:00:00+00:00",
+      "to": "2005-12-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 12,
+          "year": 2005
+        },
+        "to": {
+          "day": 28,
+          "month": 12,
+          "year": 2005
+        }
+      },
+      "string": "Dec 27, 2005 to Dec 28, 2005"
+    },
+    "duration": "1 hr 23 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.53,
+    "scored_by": 885,
+    "rank": 6899,
+    "popularity": 10486,
+    "members": 2991,
+    "favorites": 2,
+    "synopsis": "Special recap edition of Monster TV series in 2 parts.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 50,
+        "type": "anime",
+        "name": "Adult Cast",
+        "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 19,
+            "type": "anime",
+            "name": "Monster",
+            "url": "https://myanimelist.net/anime/19/Monster"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.ntv.co.jp/monster/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1539"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Monster_manga"
+      }
+    ],
+    "streaming": []
+  }
+}

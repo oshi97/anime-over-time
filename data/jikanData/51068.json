@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 51068,
+    "url": "https://myanimelist.net/anime/51068/Manga_Bakemonogatari_Shaft_Seisaku_Tokubetsu_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1970/121278.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1970/121278t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/121278l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1970/121278.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1970/121278t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/121278l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "eMHtiWvDQxA",
+      "url": "https://www.youtube.com/watch?v=eMHtiWvDQxA",
+      "embed_url": "https://www.youtube.com/embed/eMHtiWvDQxA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/eMHtiWvDQxA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/eMHtiWvDQxA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/eMHtiWvDQxA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/eMHtiWvDQxA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/eMHtiWvDQxA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Manga \"Bakemonogatari\" Shaft Seisaku Tokubetsu PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "漫画『化物語』シャフト制作特別PV"
+      },
+      {
+        "type": "English",
+        "title": "Bakemonogatari Shaft Special Production PV"
+      }
+    ],
+    "title": "Manga \"Bakemonogatari\" Shaft Seisaku Tokubetsu PV",
+    "title_english": "Bakemonogatari Shaft Special Production PV",
+    "title_japanese": "漫画『化物語』シャフト制作特別PV",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 16, 2022"
+    },
+    "duration": "3 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.22,
+    "scored_by": 2096,
+    "rank": null,
+    "popularity": 9310,
+    "members": 4329,
+    "favorites": 5,
+    "synopsis": "Promotional video coinciding with the release of the 16th Bakemonogatari manga volume.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 44,
+        "type": "anime",
+        "name": "Shaft",
+        "url": "https://myanimelist.net/anime/producer/44/Shaft"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 113010,
+            "type": "manga",
+            "name": "Bakemonogatari",
+            "url": "https://myanimelist.net/manga/113010/Bakemonogatari"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 5081,
+            "type": "anime",
+            "name": "Bakemonogatari",
+            "url": "https://myanimelist.net/anime/5081/Bakemonogatari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/eMHtiWvDQxA"
+      }
+    ],
+    "streaming": []
+  }
+}

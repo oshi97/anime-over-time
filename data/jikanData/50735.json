@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 50735,
+    "url": "https://myanimelist.net/anime/50735/Coruscate__DNA",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/120890.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/120890t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/120890l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/120890.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/120890t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/120890l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Coruscate: DNA"
+      },
+      {
+        "type": "Japanese",
+        "title": "CORUSCATE -DNA-"
+      }
+    ],
+    "title": "Coruscate: DNA",
+    "title_english": null,
+    "title_japanese": "CORUSCATE -DNA-",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 29, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.98,
+    "scored_by": 622,
+    "rank": null,
+    "popularity": 12779,
+    "members": 1465,
+    "favorites": 9,
+    "synopsis": "Music video of the project band RAISE A SUILEN.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 537,
+        "type": "anime",
+        "name": "SANZIGEN",
+        "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33573,
+            "type": "anime",
+            "name": "BanG Dream!",
+            "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/43k5yuD3V70"
+      }
+    ],
+    "streaming": []
+  }
+}

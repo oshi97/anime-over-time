@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 59832,
+    "url": "https://myanimelist.net/anime/59832/Annecy_Festival_60th_Anniversary_PVs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1717/145485.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/145485t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/145485l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1717/145485.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/145485t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/145485l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Annecy Festival 60th Anniversary PVs"
+      },
+      {
+        "type": "Japanese",
+        "title": "Annecy Festival 60th Anniversary PVs"
+      }
+    ],
+    "title": "Annecy Festival 60th Anniversary PVs",
+    "title_english": null,
+    "title_japanese": "Annecy Festival 60th Anniversary PVs",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 16, 2021"
+    },
+    "duration": "20 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.98,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 20131,
+    "members": 267,
+    "favorites": 0,
+    "synopsis": "Contributions by Toei Animation to celebrate the 60th anniversary of the Annecy International Animation Film Festival.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          },
+          {
+            "mal_id": 30694,
+            "type": "anime",
+            "name": "Dragon Ball Super",
+            "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

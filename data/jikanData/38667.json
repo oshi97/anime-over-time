@@ -1,0 +1,156 @@
+{
+  "data": {
+    "mal_id": 38667,
+    "url": "https://myanimelist.net/anime/38667/Wz__Hand_Shakers_with_Wz",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/96165.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/96165t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/96165l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/96165.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/96165t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/96165l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "W'z: Hand Shakers with W'z"
+      },
+      {
+        "type": "Synonym",
+        "title": "W'z Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "ウィズ"
+      }
+    ],
+    "title": "W'z: Hand Shakers with W'z",
+    "title_english": null,
+    "title_japanese": "ウィズ",
+    "title_synonyms": [
+      "W'z Special"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2019"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.73,
+    "scored_by": 934,
+    "rank": 11232,
+    "popularity": 10344,
+    "members": 3109,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "This is a side story to both W'z and Hand Shakers. Chronologically it occurs prior to Hand Shakers, but after Hand Shakers: Go ago Go. The episode came bundled with the first Blu-ray/DVD volume of W'z.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 309,
+        "type": "anime",
+        "name": "GoHands",
+        "url": "https://myanimelist.net/anime/producer/309/GoHands"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37509,
+            "type": "anime",
+            "name": "W'z",
+            "url": "https://myanimelist.net/anime/37509/Wz"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Kamisama wa Kitto (神様はきっと)\" by Fuki"
+      ],
+      "endings": [
+        "\"Reason\" by Ryouhei Takenaka (竹中凌平)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://wz-anime.net/bdvd/vol1/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13934"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "HIDIVE",
+        "url": "https://www.hidive.com/movies/wz-ova"
+      }
+    ]
+  }
+}

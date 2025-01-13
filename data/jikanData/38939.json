@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 38939,
+    "url": "https://myanimelist.net/anime/38939/Kakegurui_Picture_Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/98035.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/98035t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/98035l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/98035.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/98035t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/98035l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kakegurui Picture Drama"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kakegurui: Compulsive Gambler Picture Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "賭ケグルイ メイド喫茶百花王"
+      }
+    ],
+    "title": "Kakegurui Picture Drama",
+    "title_english": null,
+    "title_japanese": "賭ケグルイ メイド喫茶百花王",
+    "title_synonyms": [
+      "Kakegurui: Compulsive Gambler Picture Drama"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-13T00:00:00+00:00",
+      "to": "2018-02-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 9,
+          "month": 2,
+          "year": 2018
+        }
+      },
+      "string": "Oct 13, 2017 to Feb 9, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.68,
+    "scored_by": 14128,
+    "rank": 6036,
+    "popularity": 3863,
+    "members": 37011,
+    "favorites": 50,
+    "synopsis": "Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 569,
+        "type": "anime",
+        "name": "MAPPA",
+        "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 59,
+        "type": "anime",
+        "name": "High Stakes Game",
+        "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 34933,
+            "type": "anime",
+            "name": "Kakegurui",
+            "url": "https://myanimelist.net/anime/34933/Kakegurui"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kakegurui-anime.com/1st/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12834"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19102"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kakegurui_%E2%80%93_Compulsive_Gambler"
+      }
+    ],
+    "streaming": []
+  }
+}

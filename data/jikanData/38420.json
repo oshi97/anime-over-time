@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 38420,
+    "url": "https://myanimelist.net/anime/38420/Minimini_TV_CM",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1573/96416.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1573/96416t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1573/96416l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1573/96416.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1573/96416t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1573/96416l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Minimini TV CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミニミニTVCM"
+      }
+    ],
+    "title": "Minimini TV CM",
+    "title_english": null,
+    "title_japanese": "ミニミニTVCM",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-09-01T00:00:00+00:00",
+      "to": "2013-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2011
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2013
+        }
+      },
+      "string": "Sep 2011 to Oct 2013"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 19334,
+    "members": 312,
+    "favorites": 0,
+    "synopsis": "Animated commercials for Minimini, a real estate company that specializes in apartments some of which require no deposits and short term leases including fully furnished rooms. They are usually small units/studios made to be affordable for university students or adults recently joining the workforce.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 23621,
+            "type": "anime",
+            "name": "Sagashita no wa Oheya, Mitsuketa no wa Mirai",
+            "url": "https://myanimelist.net/anime/23621/Sagashita_no_wa_Oheya_Mitsuketa_no_wa_Mirai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://minimini.jp/tokushu/cm/back-number/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B"
+      }
+    ],
+    "streaming": []
+  }
+}

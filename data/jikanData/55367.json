@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 55367,
+    "url": "https://myanimelist.net/anime/55367/Mosh_Race",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1071/136004.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/136004t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/136004l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1071/136004.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/136004t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/136004l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mosh Race"
+      },
+      {
+        "type": "Japanese",
+        "title": "モッシュレース"
+      },
+      {
+        "type": "English",
+        "title": "Mosh Race"
+      }
+    ],
+    "title": "Mosh Race",
+    "title_english": "Mosh Race",
+    "title_japanese": "モッシュレース",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 27, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.21,
+    "scored_by": 205,
+    "rank": null,
+    "popularity": 18299,
+    "members": 386,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mosh Race by Sakura Miko and Usada Pekora.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_ZJ8MrEXIio"
+      }
+    ],
+    "streaming": []
+  }
+}

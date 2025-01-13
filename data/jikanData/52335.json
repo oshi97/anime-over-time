@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 52335,
+    "url": "https://myanimelist.net/anime/52335/Hikari_no_Machi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1532/125127.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1532/125127t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1532/125127l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1532/125127.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1532/125127t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1532/125127l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hikari no Machi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ひかりのまち"
+      }
+    ],
+    "title": "Hikari no Machi",
+    "title_english": null,
+    "title_japanese": "ひかりのまち",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 25, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.95,
+    "scored_by": 297,
+    "rank": null,
+    "popularity": 16473,
+    "members": 546,
+    "favorites": 0,
+    "synopsis": "AZKi's 3rd original song, produced by music production group SCRAMBLES.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      },
+      {
+        "mal_id": 2539,
+        "type": "anime",
+        "name": "INoNaKa Music",
+        "url": "https://myanimelist.net/anime/producer/2539/INoNaKa_Music"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hololive.hololivepro.com/music/%E3%81%B2%E3%81%8B%E3%82%8A%E3%81%AE%E3%81%BE%E3%81%A1/"
+      }
+    ],
+    "streaming": []
+  }
+}

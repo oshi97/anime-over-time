@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 51433,
+    "url": "https://myanimelist.net/anime/51433/Mattaku_Mi_ni_Naranai_Hibi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1002/121934.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1002/121934t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1002/121934l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1002/121934.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1002/121934t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1002/121934l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mattaku Mi ni Naranai Hibi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Completely Useless Days"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wholly Useless Days"
+      },
+      {
+        "type": "Japanese",
+        "title": "全く身にならない日々"
+      }
+    ],
+    "title": "Mattaku Mi ni Naranai Hibi",
+    "title_english": null,
+    "title_japanese": "全く身にならない日々",
+    "title_synonyms": [
+      "Completely Useless Days",
+      "Wholly Useless Days"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 8, 2018"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.92,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 21143,
+    "members": 209,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mattaku Mi ni Naranai Hibi, performed by Kiyo and Retort.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51474,
+            "type": "anime",
+            "name": "Mattaku Mi ni Naranai Song",
+            "url": "https://myanimelist.net/anime/51474/Mattaku_Mi_ni_Naranai_Song"
+          },
+          {
+            "mal_id": 51471,
+            "type": "anime",
+            "name": "Mattaku Mi ni Naranai Kiseki",
+            "url": "https://myanimelist.net/anime/51471/Mattaku_Mi_ni_Naranai_Kiseki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/dBwjqSweKJk"
+      }
+    ],
+    "streaming": []
+  }
+}

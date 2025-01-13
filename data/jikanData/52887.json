@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 52887,
+    "url": "https://myanimelist.net/anime/52887/Majimag_Kalchum",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/127310.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/127310t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/127310l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/127310.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/127310t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/127310l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Majimag Kalchum"
+      },
+      {
+        "type": "Japanese",
+        "title": "마지막 칼춤"
+      },
+      {
+        "type": "English",
+        "title": "Last Sword Dance"
+      }
+    ],
+    "title": "Majimag Kalchum",
+    "title_english": "Last Sword Dance",
+    "title_japanese": "마지막 칼춤",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 10, 2022"
+    },
+    "duration": "3 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.2,
+    "scored_by": 163,
+    "rank": null,
+    "popularity": 19135,
+    "members": 326,
+    "favorites": 0,
+    "synopsis": "Music video for the song Last Sword Dance by Jo Gwangil. Serves as a promo for Return of the Blossoming Blade manhwa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 146878,
+            "type": "manga",
+            "name": "Return of the Blossoming Blade",
+            "url": "https://myanimelist.net/manga/146878/Return_of_the_Blossoming_Blade"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52878,
+            "type": "anime",
+            "name": "Hwasan Gwihwan PV",
+            "url": "https://myanimelist.net/anime/52878/Hwasan_Gwihwan_PV"
+          },
+          {
+            "mal_id": 57926,
+            "type": "anime",
+            "name": "Mangaehwa",
+            "url": "https://myanimelist.net/anime/57926/Mangaehwa"
+          },
+          {
+            "mal_id": 55608,
+            "type": "anime",
+            "name": "Maehwa",
+            "url": "https://myanimelist.net/anime/55608/Maehwa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lhUXVfEQiRM"
+      }
+    ],
+    "streaming": []
+  }
+}

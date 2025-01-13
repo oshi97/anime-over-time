@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 36600,
+    "url": "https://myanimelist.net/anime/36600/Dokidoki_Dream",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88450.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88450t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88450l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88450.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88450t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88450l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dokidoki Dream!!!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "ドキドキDREAM!!!"
+      }
+    ],
+    "title": "Dokidoki Dream!!!",
+    "title_english": null,
+    "title_japanese": "ドキドキDREAM!!!",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 16, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.51,
+    "scored_by": 777,
+    "rank": null,
+    "popularity": 12950,
+    "members": 1391,
+    "favorites": 0,
+    "synopsis": "As a prestigious academy focused on music, Maigahara Senior High School expects its students to excel in the field. As such, the members of Irodorimidori do everything they can to improve their synchronization and achieve greater harmony. As they approach perfection, nothing can stop them in their journey to become the school's best band!\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Dokidoki Dream!!! by the fictional band Irodorimidori. It is the 11th song in the franchise. The song was included with the second full Irodorimidori album titled \"Suisen,\" released on November 1, 2017.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36599,
+            "type": "anime",
+            "name": "Muteki We Are One!!",
+            "url": "https://myanimelist.net/anime/36599/Muteki_We_Are_One"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36601,
+            "type": "anime",
+            "name": "Moushin Soloist Life!",
+            "url": "https://myanimelist.net/anime/36601/Moushin_Soloist_Life"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song10.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 55324,
+    "url": "https://myanimelist.net/anime/55324/Devilman_Pilot_Film",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/135928.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/135928t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/135928l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/135928.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/135928t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/135928l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Devilman Pilot Film"
+      },
+      {
+        "type": "Japanese",
+        "title": "デビルマン パイロットフィルム"
+      }
+    ],
+    "title": "Devilman Pilot Film",
+    "title_english": null,
+    "title_japanese": "デビルマン パイロットフィルム",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2015"
+    },
+    "duration": "2 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 5.72,
+    "scored_by": 136,
+    "rank": 11254,
+    "popularity": 17591,
+    "members": 437,
+    "favorites": 0,
+    "synopsis": "Unaired pilot film released for the first time in the Blu-ray box release.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 2252,
+            "type": "anime",
+            "name": "Devilman",
+            "url": "https://myanimelist.net/anime/2252/Devilman"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%9E%E3%83%B3"
+      }
+    ],
+    "streaming": []
+  }
+}

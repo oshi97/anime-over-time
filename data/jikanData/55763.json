@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55763,
+    "url": "https://myanimelist.net/anime/55763/Tripper",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1598/136673.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/136673t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/136673l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1598/136673.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/136673t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/136673l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tripper"
+      },
+      {
+        "type": "Japanese",
+        "title": "TRIPPER"
+      }
+    ],
+    "title": "Tripper",
+    "title_english": null,
+    "title_japanese": "TRIPPER",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 5, 2019"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23448,
+    "members": 117,
+    "favorites": 0,
+    "synopsis": "Music video for the song TRIPPER by Kankan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vjt8UQ2Q4F8"
+      }
+    ],
+    "streaming": []
+  }
+}

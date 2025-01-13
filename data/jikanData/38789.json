@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 38789,
+    "url": "https://myanimelist.net/anime/38789/One_Room__Second_Season_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1630/97029.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/97029t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/97029l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1630/97029.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/97029t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/97029l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "One Room: Second Season Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Room 2nd Season Extra"
+      },
+      {
+        "type": "Japanese",
+        "title": "One Room セカンドシーズン -extra-"
+      }
+    ],
+    "title": "One Room: Second Season Special",
+    "title_english": null,
+    "title_japanese": "One Room セカンドシーズン -extra-",
+    "title_synonyms": [
+      "One Room 2nd Season Extra"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-11-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 11,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 30, 2018"
+    },
+    "duration": "11 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.67,
+    "scored_by": 4359,
+    "rank": 11506,
+    "popularity": 6498,
+    "members": 10834,
+    "favorites": 5,
+    "synopsis": "One Room 2nd Season  special included on the BD release of the main show. It follows bedroom 'role play' scenarios you have with the girls and dream scenarios you have while asleep near the girls.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1379,
+        "type": "anime",
+        "name": "Zero-G",
+        "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 9,
+        "type": "anime",
+        "name": "Ecchi",
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38061,
+            "type": "anime",
+            "name": "One Room: Second Season - Hanasaka Yui no Prologue",
+            "url": "https://myanimelist.net/anime/38061/One_Room__Second_Season_-_Hanasaka_Yui_no_Prologue"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 36431,
+            "type": "anime",
+            "name": "One Room: Second Season",
+            "url": "https://myanimelist.net/anime/36431/One_Room__Second_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://oneroom-anime.com/products/blu-ray2/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13480"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20897"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Room"
+      }
+    ],
+    "streaming": []
+  }
+}

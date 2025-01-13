@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57292,
+    "url": "https://myanimelist.net/anime/57292/Tokyo_Wabi-Sabi_Lullaby",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/139902.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/139902t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/139902l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/139902.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/139902t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/139902l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo Wabi-Sabi Lullaby"
+      },
+      {
+        "type": "Japanese",
+        "title": "Tokyo Wabi-Sabi Lullaby"
+      }
+    ],
+    "title": "Tokyo Wabi-Sabi Lullaby",
+    "title_english": null,
+    "title_japanese": "Tokyo Wabi-Sabi Lullaby",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 25, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.68,
+    "scored_by": 264,
+    "rank": null,
+    "popularity": 16923,
+    "members": 499,
+    "favorites": 1,
+    "synopsis": "Music video for the song Tokyo Wabi-Sabi Lullaby by Gawr Gura.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=D7XANR5cacE"
+      }
+    ],
+    "streaming": []
+  }
+}

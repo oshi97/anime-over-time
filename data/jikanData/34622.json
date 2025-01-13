@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 34622,
+    "url": "https://myanimelist.net/anime/34622/Giant_Robo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/83534.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83534t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83534l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/83534.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83534t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83534l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Giant Robo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Giant Robo Prologue-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "GR: Giant Robot Pilot"
+      },
+      {
+        "type": "Japanese",
+        "title": "ジャイアントロボ"
+      }
+    ],
+    "title": "Giant Robo",
+    "title_english": null,
+    "title_japanese": "ジャイアントロボ",
+    "title_synonyms": [
+      "Giant Robo Prologue-hen",
+      "GR: Giant Robot Pilot"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-07-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 7,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 27, 2007"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.8,
+    "scored_by": 349,
+    "rank": 10928,
+    "popularity": 13416,
+    "members": 1225,
+    "favorites": 3,
+    "synopsis": "The pilot for GR: Giant Robo. However, there were significant changes between the pilot and the actual show, including a different writer and a different director. Thus, the special is less a promo for the series than an alternate version of how the series might have looked.\n\n(Source: Orphan)",
+    "background": "The pilot was included on the GR: Giant Robo Millennium Box Set release.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 254,
+        "type": "anime",
+        "name": "Soft Garage",
+        "url": "https://myanimelist.net/anime/producer/254/Soft_Garage"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "OLM",
+        "url": "https://myanimelist.net/anime/producer/28/OLM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 3146,
+            "type": "anime",
+            "name": "GR: Giant Robo",
+            "url": "https://myanimelist.net/anime/3146/GR__Giant_Robo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20100222001404/http://www.gr-anime.com/index.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4916"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6939"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/GR-GIANT_ROBO-"
+      }
+    ],
+    "streaming": []
+  }
+}

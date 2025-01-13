@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55968,
+    "url": "https://myanimelist.net/anime/55968/Hana_ni_Kaze",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1027/137105.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/137105t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/137105l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1027/137105.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/137105t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/137105l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hana ni Kaze"
+      },
+      {
+        "type": "Japanese",
+        "title": "花に風"
+      }
+    ],
+    "title": "Hana ni Kaze",
+    "title_english": null,
+    "title_japanese": "花に風",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-02-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 2,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 10, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.09,
+    "scored_by": 111,
+    "rank": null,
+    "popularity": 21004,
+    "members": 218,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hana ni Kaze by Balloon. The song was made to commemorate Sony Store's 360 Reality Audio experience.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ixLrlhthgHs"
+      }
+    ],
+    "streaming": []
+  }
+}

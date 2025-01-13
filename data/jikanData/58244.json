@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 58244,
+    "url": "https://myanimelist.net/anime/58244/Pokedance",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1258/141641.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/141641t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/141641l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1258/141641.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/141641t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/141641l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokedance"
+      },
+      {
+        "type": "Japanese",
+        "title": "POKÉDANCE"
+      }
+    ],
+    "title": "Pokedance",
+    "title_english": null,
+    "title_japanese": "POKÉDANCE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 27, 2024"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.61,
+    "scored_by": 425,
+    "rank": null,
+    "popularity": 14808,
+    "members": 829,
+    "favorites": 1,
+    "synopsis": "To commemorate Pokémon Day on February 27th, past Pokémon partners will gather and dance! A special animation MV Pokedance drawn by nine animators has been released! Everyone, try dancing too!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "@Pokemon_cojp",
+        "url": "https://twitter.com/Pokemon_cojp/status/1762349551300620354"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Wkrs11bLvpo"
+      }
+    ],
+    "streaming": []
+  }
+}

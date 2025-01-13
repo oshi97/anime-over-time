@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52808,
+    "url": "https://myanimelist.net/anime/52808/Kami_no_Manimani_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1545/127109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1545/127109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1545/127109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1545/127109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1545/127109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1545/127109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kami no Manimani PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "神のまにまに"
+      }
+    ],
+    "title": "Kami no Manimani PV",
+    "title_english": null,
+    "title_japanese": "神のまにまに",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-05-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 5,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 13, 2022"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.78,
+    "scored_by": 150,
+    "rank": null,
+    "popularity": 17984,
+    "members": 408,
+    "favorites": 1,
+    "synopsis": "Promotional video for the Shounen Jump+ manga Kami no Manimani.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 139762,
+            "type": "manga",
+            "name": "Kami no Manimani",
+            "url": "https://myanimelist.net/manga/139762/Kami_no_Manimani"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://shonenjumpplus.com/episode/3269754496419328851"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CCPsDy-LH0U"
+      }
+    ],
+    "streaming": []
+  }
+}

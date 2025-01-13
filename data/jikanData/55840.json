@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 55840,
+    "url": "https://myanimelist.net/anime/55840/Shin_Fake_Style",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1341/136854.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/136854t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/136854l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1341/136854.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/136854t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/136854l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shin Fake Style"
+      },
+      {
+        "type": "Japanese",
+        "title": "真FAKE STYLE"
+      },
+      {
+        "type": "English",
+        "title": "Real Fake Style"
+      }
+    ],
+    "title": "Shin Fake Style",
+    "title_english": "Real Fake Style",
+    "title_japanese": "真FAKE STYLE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 5, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22162,
+    "members": 159,
+    "favorites": 0,
+    "synopsis": "Music video for the song Shin Fake Style by FAKE TYPE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32747,
+            "type": "anime",
+            "name": "Fake Style II",
+            "url": "https://myanimelist.net/anime/32747/Fake_Style_II"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=IwR2ae-gDrc"
+      }
+    ],
+    "streaming": []
+  }
+}

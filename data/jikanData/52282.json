@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 52282,
+    "url": "https://myanimelist.net/anime/52282/Dragon_Ball_Z_x_Kao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/124922.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/124922t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/124922l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1376/124922.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/124922t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/124922l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dragon Ball Z x Kao"
+      },
+      {
+        "type": "Japanese",
+        "title": "Dragon Ball Z x Kao"
+      }
+    ],
+    "title": "Dragon Ball Z x Kao",
+    "title_english": null,
+    "title_japanese": "Dragon Ball Z x Kao",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 20, 2018"
+    },
+    "duration": "33 sec",
+    "rating": "G - All Ages",
+    "score": 6.15,
+    "scored_by": 1024,
+    "rank": null,
+    "popularity": 11015,
+    "members": 2549,
+    "favorites": 2,
+    "synopsis": "Dragon Ball Z does a commercial with the Japanese brand Kao. It starts off with Bulma telling Vegeta to clean the bathroom. Vegeta notices how dirty the bathroom is and gets mad and uses his power to clean it, destroying a part of the bathroom. Soon after Bulma tells Vegeta there is another way to clean the bathroom by using Kao cleaning sprays.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 813,
+            "type": "anime",
+            "name": "Dragon Ball Z",
+            "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 40155,
+    "url": "https://myanimelist.net/anime/40155/Tokyo_2020_Olympics_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1161/102197.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1161/102197t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1161/102197l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1161/102197.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1161/102197t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1161/102197l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo 2020 Olympics CMs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tokyo 2020"
+      },
+      {
+        "type": "Japanese",
+        "title": "東京2020オリンピック"
+      },
+      {
+        "type": "English",
+        "title": "Tokyo 2020"
+      }
+    ],
+    "title": "Tokyo 2020 Olympics CMs",
+    "title_english": "Tokyo 2020",
+    "title_japanese": "東京2020オリンピック",
+    "title_synonyms": [
+      "Tokyo 2020"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-22T00:00:00+00:00",
+      "to": "2021-05-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 13,
+          "month": 5,
+          "year": 2021
+        }
+      },
+      "string": "Jul 22, 2018 to May 13, 2021"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 18669,
+    "members": 356,
+    "favorites": 0,
+    "synopsis": "As the Tokyo 2020 Olympic and Paralympic games approached, various official animated promotional videos were created for the big event. The styles ranged from traditional animation, to stop motion, to hybrid live-action.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 54291,
+            "type": "anime",
+            "name": "Pinkfong Wonderstar",
+            "url": "https://myanimelist.net/anime/54291/Pinkfong_Wonderstar"
+          },
+          {
+            "mal_id": 53380,
+            "type": "anime",
+            "name": "Agisang-eo Ollie Tululutulu",
+            "url": "https://myanimelist.net/anime/53380/Agisang-eo_Ollie_Tululutulu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://tokyo2020.org/jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Summer_Olympics"
+      }
+    ],
+    "streaming": []
+  }
+}

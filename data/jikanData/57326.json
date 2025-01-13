@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 57326,
+    "url": "https://myanimelist.net/anime/57326/Glass_Mado",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1073/139961.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/139961t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/139961l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1073/139961.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/139961t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/139961l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Glass Mado"
+      },
+      {
+        "type": "Japanese",
+        "title": "硝子窓"
+      },
+      {
+        "type": "English",
+        "title": "Glass Window"
+      }
+    ],
+    "title": "Glass Mado",
+    "title_english": "Glass Window",
+    "title_japanese": "硝子窓",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 26, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21730,
+    "members": 179,
+    "favorites": 0,
+    "synopsis": "Music video for the song Glass Mado by King Gnu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2878,
+        "type": "anime",
+        "name": "Khaki",
+        "url": "https://myanimelist.net/anime/producer/2878/Khaki"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2122,
+        "type": "anime",
+        "name": "PERIMETRON",
+        "url": "https://myanimelist.net/anime/producer/2122/PERIMETRON"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52510,
+            "type": "anime",
+            "name": "Chameleon (2022)",
+            "url": "https://myanimelist.net/anime/52510/Chameleon_2022"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://kinggnu.jp/videos"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_Gnu"
+      }
+    ],
+    "streaming": []
+  }
+}

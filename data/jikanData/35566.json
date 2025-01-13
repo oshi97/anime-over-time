@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 35566,
+    "url": "https://myanimelist.net/anime/35566/Koe_no_Katachi_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1231/98784.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/98784t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/98784l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1231/98784.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/98784t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/98784l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koe no Katachi Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Koi wo Shita no wa"
+      },
+      {
+        "type": "Synonym",
+        "title": "Speed of Youth"
+      },
+      {
+        "type": "Japanese",
+        "title": "聲の形"
+      },
+      {
+        "type": "English",
+        "title": "A Silent Voice Specials"
+      }
+    ],
+    "title": "Koe no Katachi Specials",
+    "title_english": "A Silent Voice Specials",
+    "title_japanese": "聲の形",
+    "title_synonyms": [
+      "Koi wo Shita no wa",
+      "Speed of Youth"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 17, 2017"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.1,
+    "scored_by": 7286,
+    "rank": 3899,
+    "popularity": 4541,
+    "members": 26583,
+    "favorites": 45,
+    "synopsis": "The limited first edition of the Blu-ray Disc for Kyoto Animation's film adaptation of Yoshitoki Ooima's A Silent Voice manga includes two bonus new animation videos of AIKO's theme song Koi wo Shita no wa and Kensuke Ushio's in-film track Speed of Youth.\n\nKyoto Animation produced the videos inspired by the songs, and the film's director Naoko Yamada personally handled the videos' storyboards and technical direction.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Kyoto Animation",
+        "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 28851,
+            "type": "anime",
+            "name": "Koe no Katachi",
+            "url": "https://myanimelist.net/anime/28851/Koe_no_Katachi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://koenokatachi-movie.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10937"
+      }
+    ],
+    "streaming": []
+  }
+}

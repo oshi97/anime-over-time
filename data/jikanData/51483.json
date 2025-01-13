@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 51483,
+    "url": "https://myanimelist.net/anime/51483/Bakeyo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1819/122183.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/122183t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/122183l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1819/122183.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/122183t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/122183l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bakeyo"
+      },
+      {
+        "type": "Japanese",
+        "title": "化けよ"
+      }
+    ],
+    "title": "Bakeyo",
+    "title_english": null,
+    "title_japanese": "化けよ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 12, 2020"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.67,
+    "scored_by": 122,
+    "rank": null,
+    "popularity": 20831,
+    "members": 228,
+    "favorites": 0,
+    "synopsis": "A music video for the song Bakeyo by domico.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/-mx86dXHTaQ"
+      }
+    ],
+    "streaming": []
+  }
+}

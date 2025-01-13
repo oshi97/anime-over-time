@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 55988,
+    "url": "https://myanimelist.net/anime/55988/Kiutsu_Hakudakusu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1208/137140.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/137140t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/137140l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1208/137140.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/137140t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/137140l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kiutsu, Hakudakusu"
+      },
+      {
+        "type": "Japanese",
+        "title": "気鬱、白濁す"
+      },
+      {
+        "type": "English",
+        "title": "White Drizzle in Gloom"
+      }
+    ],
+    "title": "Kiutsu, Hakudakusu",
+    "title_english": "White Drizzle in Gloom",
+    "title_japanese": "気鬱、白濁す",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 26, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "scored_by": 386,
+    "rank": null,
+    "popularity": 15623,
+    "members": 662,
+    "favorites": 1,
+    "synopsis": "Music video for the song Kiutsu, Hakudakusu by Togenashi Togeari, the band in the anime Girls Band Cry.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55102,
+            "type": "anime",
+            "name": "Girls Band Cry",
+            "url": "https://myanimelist.net/anime/55102/Girls_Band_Cry"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://girls-band-cry.com/movie/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=7R7EcEefRNI"
+      }
+    ],
+    "streaming": []
+  }
+}

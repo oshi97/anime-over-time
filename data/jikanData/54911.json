@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 54911,
+    "url": "https://myanimelist.net/anime/54911/Seventeen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1890/134920.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1890/134920t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1890/134920l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1890/134920.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1890/134920t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1890/134920l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Seventeen"
+      },
+      {
+        "type": "Synonym",
+        "title": "17"
+      },
+      {
+        "type": "Japanese",
+        "title": "セブンティーン"
+      },
+      {
+        "type": "English",
+        "title": "Seventeen"
+      }
+    ],
+    "title": "Seventeen",
+    "title_english": "Seventeen",
+    "title_japanese": "セブンティーン",
+    "title_synonyms": [
+      "17"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 27, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.99,
+    "scored_by": 300,
+    "rank": null,
+    "popularity": 16736,
+    "members": 515,
+    "favorites": 2,
+    "synopsis": "A music video for the song Seventeen by YOASOBI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2754,
+        "type": "anime",
+        "name": "Contrail",
+        "url": "https://myanimelist.net/anime/producer/2754/Contrail"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=0yoM7ETNPIY&ab_channel=Ayase%2FYOASOBI"
+      }
+    ],
+    "streaming": []
+  }
+}

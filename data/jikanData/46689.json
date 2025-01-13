@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 46689,
+    "url": "https://myanimelist.net/anime/46689/Fengkuang_Xiao_Tang_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/131114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/131114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/131114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1242/131114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/131114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/131114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fengkuang Xiao Tang 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "疯狂小糖 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Crazy Candies 2nd Season"
+      }
+    ],
+    "title": "Fengkuang Xiao Tang 2nd Season",
+    "title_english": "Crazy Candies 2nd Season",
+    "title_japanese": "疯狂小糖 第二季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015 to ?"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20448,
+    "popularity": 26738,
+    "members": 69,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46688,
+            "type": "anime",
+            "name": "Fengkuang Xiao Tang",
+            "url": "https://myanimelist.net/anime/46688/Fengkuang_Xiao_Tang"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46690,
+            "type": "anime",
+            "name": "Fengkuang Xiao Tang 3rd Season",
+            "url": "https://myanimelist.net/anime/46690/Fengkuang_Xiao_Tang_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%96%AF%E7%8B%82%E5%B0%8F%E7%B3%96%E7%AC%AC%E4%BA%8C%E5%AD%A3/15905409"
+      }
+    ],
+    "streaming": []
+  }
+}

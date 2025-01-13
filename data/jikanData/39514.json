@@ -1,0 +1,176 @@
+{
+  "data": {
+    "mal_id": 39514,
+    "url": "https://myanimelist.net/anime/39514/Giniro_no_Kami_no_Agito_Pilot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/99742.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/99742t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/99742l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1014/99742.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1014/99742t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1014/99742l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Giniro no Kami no Agito Pilot"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gin-iro no Kami no Agito Pilot"
+      },
+      {
+        "type": "Synonym",
+        "title": "Silver-Haired Agito Pilot"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gin-iro no Kami no Agito Eizou Tokuten - Shoki Pilot Film"
+      },
+      {
+        "type": "Japanese",
+        "title": "銀色の髪のアギト パイロットフィルム"
+      }
+    ],
+    "title": "Giniro no Kami no Agito Pilot",
+    "title_english": null,
+    "title_japanese": "銀色の髪のアギト パイロットフィルム",
+    "title_synonyms": [
+      "Gin-iro no Kami no Agito Pilot",
+      "Silver-Haired Agito Pilot",
+      "Gin-iro no Kami no Agito Eizou Tokuten - Shoki Pilot Film"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-06-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 6,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 23, 2006"
+    },
+    "duration": "5 min",
+    "rating": "PG - Children",
+    "score": 6.01,
+    "scored_by": 263,
+    "rank": 9879,
+    "popularity": 13745,
+    "members": 1117,
+    "favorites": 0,
+    "synopsis": "The pilot of Giniro no Kami no Agito included on the DVD release of the film. It contains no dialogue. It was also included on the later BD release of the film.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Gonzo",
+        "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 1140,
+            "type": "anime",
+            "name": "Giniro no Kami no Agito",
+            "url": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.gonzo.co.jp/works/gin-iro/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3385"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5488"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Origin:_Spirits_of_the_Past"
+      }
+    ],
+    "streaming": []
+  }
+}

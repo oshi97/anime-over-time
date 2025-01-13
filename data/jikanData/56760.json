@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 56760,
+    "url": "https://myanimelist.net/anime/56760/Fire_Bomber_2012",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/138782.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/138782t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/138782l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1974/138782.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/138782t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/138782l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fire Bomber 2012"
+      },
+      {
+        "type": "Japanese",
+        "title": "FIRE BOMBER 2012"
+      }
+    ],
+    "title": "Fire Bomber 2012",
+    "title_english": null,
+    "title_japanese": "FIRE BOMBER 2012",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-11-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 11,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 23, 2012"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for Planet Dancer, featuring new animation to portray characters from both Macross 7 and Macross F performing the song.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 15177,
+            "type": "anime",
+            "name": "Macross FB7: Ore no Uta wo Kike!",
+            "url": "https://myanimelist.net/anime/15177/Macross_FB7__Ore_no_Uta_wo_Kike"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

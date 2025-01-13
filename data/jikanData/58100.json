@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 58100,
+    "url": "https://myanimelist.net/anime/58100/Hakushi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1337/141364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/141364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/141364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1337/141364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/141364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/141364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hakushi"
+      },
+      {
+        "type": "Japanese",
+        "title": "白紙"
+      }
+    ],
+    "title": "Hakushi",
+    "title_english": null,
+    "title_japanese": "白紙",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 13, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 24095,
+    "members": 104,
+    "favorites": 0,
+    "synopsis": "Music video for the song Hakushi by Natsuki Aoya.",
+    "background": "Graduate Work 2020 by Sou Miyazaki, Tokyo Zokei University.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2567,
+        "type": "anime",
+        "name": "Tokyo Zokei University",
+        "url": "https://myanimelist.net/anime/producer/2567/Tokyo_Zokei_University"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=QC5IPOe6_9k"
+      }
+    ],
+    "streaming": []
+  }
+}

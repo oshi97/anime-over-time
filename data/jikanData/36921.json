@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 36921,
+    "url": "https://myanimelist.net/anime/36921/That_Is_How_I_Roll",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/89637.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/89637t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/89637l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/89637.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/89637t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/89637l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "That Is How I Roll!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Afterglow"
+      },
+      {
+        "type": "Japanese",
+        "title": "That Is How I Roll!"
+      },
+      {
+        "type": "English",
+        "title": "That Is How I Roll!"
+      }
+    ],
+    "title": "That Is How I Roll!",
+    "title_english": "That Is How I Roll!",
+    "title_japanese": "That Is How I Roll!",
+    "title_synonyms": [
+      "Afterglow"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 7, 2017"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.31,
+    "scored_by": 1065,
+    "rank": null,
+    "popularity": 11613,
+    "members": 2143,
+    "favorites": 3,
+    "synopsis": "Music video of the band project Afterglow.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 33573,
+            "type": "anime",
+            "name": "BanG Dream!",
+            "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32338,
+            "type": "anime",
+            "name": "Yes! BanG_Dream!",
+            "url": "https://myanimelist.net/anime/32338/Yes_BanG_Dream"
+          },
+          {
+            "mal_id": 34252,
+            "type": "anime",
+            "name": "Star Beat!: Hoshi no Kodou",
+            "url": "https://myanimelist.net/anime/34252/Star_Beat__Hoshi_no_Kodou"
+          },
+          {
+            "mal_id": 34412,
+            "type": "anime",
+            "name": "Hashiri Hajimeta bakari no Kimi ni",
+            "url": "https://myanimelist.net/anime/34412/Hashiri_Hajimeta_bakari_no_Kimi_ni"
+          },
+          {
+            "mal_id": 45108,
+            "type": "anime",
+            "name": "One of Us",
+            "url": "https://myanimelist.net/anime/45108/One_of_Us"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bang-dream.bushimo.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 52822,
+    "url": "https://myanimelist.net/anime/52822/Kimi_wa_Houkago_Insomnia_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/127148.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/127148t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/127148l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/127148.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/127148t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/127148l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kimi wa Houkago Insomnia PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "君は放課後インソムニア　スペシャルアニメーションPV"
+      },
+      {
+        "type": "English",
+        "title": "Insomniacs After School PV"
+      }
+    ],
+    "title": "Kimi wa Houkago Insomnia PV",
+    "title_english": "Insomniacs After School PV",
+    "title_japanese": "君は放課後インソムニア　スペシャルアニメーションPV",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 28, 2021"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.52,
+    "scored_by": 854,
+    "rank": null,
+    "popularity": 11280,
+    "members": 2358,
+    "favorites": 1,
+    "synopsis": "Promotional video for the Big Comic Spirits manga Kimi wa Houkago Insomnia.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 839,
+        "type": "anime",
+        "name": "LIDENFILMS",
+        "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 121213,
+            "type": "manga",
+            "name": "Kimi wa Houkago Insomnia",
+            "url": "https://myanimelist.net/manga/121213/Kimi_wa_Houkago_Insomnia"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50796,
+            "type": "anime",
+            "name": "Kimi wa Houkago Insomnia",
+            "url": "https://myanimelist.net/anime/50796/Kimi_wa_Houkago_Insomnia"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://bigcomicbros.net/work/6437"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insomniacs_After_School"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 60321,
+    "url": "https://myanimelist.net/anime/60321/Kuroi_Rayquaza_Kourin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1525/146552.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/146552t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/146552l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1525/146552.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/146552t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/146552l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuroi Rayquaza Kourin"
+      },
+      {
+        "type": "Japanese",
+        "title": "黒いレックウザ光臨"
+      },
+      {
+        "type": "English",
+        "title": "Shiny Rayquaza Takes Flight Across Paldea!"
+      }
+    ],
+    "title": "Kuroi Rayquaza Kourin",
+    "title_english": "Shiny Rayquaza Takes Flight Across Paldea!",
+    "title_japanese": "黒いレックウザ光臨",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-11-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 11,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 18, 2024"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 27531,
+    "members": 60,
+    "favorites": 0,
+    "synopsis": "A promotional video to announce the arrival of Black Rayquaza in the Pokemon Scarlet Violet Terra Raid Battle. It's part of a larger campaign with Black Rayquaza who will make appearances across various Pokemon media.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2570,
+        "type": "anime",
+        "name": "Ijigen Tokyo",
+        "url": "https://myanimelist.net/anime/producer/2570/Ijigen_Tokyo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.co.jp/ex/blackrayquaza/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet"
+      }
+    ],
+    "streaming": []
+  }
+}

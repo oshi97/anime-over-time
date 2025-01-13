@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 46220,
+    "url": "https://myanimelist.net/anime/46220/Mo_Jiao_Zhentan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1208/129824.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/129824t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/129824l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1208/129824.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/129824t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/129824l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mo Jiao Zhentan"
+      },
+      {
+        "type": "Japanese",
+        "title": "魔角侦探"
+      },
+      {
+        "type": "English",
+        "title": "Mojospy"
+      }
+    ],
+    "title": "Mo Jiao Zhentan",
+    "title_english": "Mojospy",
+    "title_japanese": "魔角侦探",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17662,
+    "popularity": 25824,
+    "members": 77,
+    "favorites": 0,
+    "synopsis": "A 14-year-old detective named Qi Letian, with the help of her assistant Huo Xing, must deal with an evil cult called the Eye of Light.\n\n(Source: tvtropes)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46221,
+            "type": "anime",
+            "name": "Mo Jiao Zhentan 2: Da Sanjiao Jihua",
+            "url": "https://myanimelist.net/anime/46221/Mo_Jiao_Zhentan_2__Da_Sanjiao_Jihua"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ss1768/?from=search&seid=18229368508558311790"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%AD%94%E8%A7%92%E4%BE%A6%E6%8E%A2"
+      }
+    ],
+    "streaming": []
+  }
+}

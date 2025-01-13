@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 51842,
+    "url": "https://myanimelist.net/anime/51842/Seven_Count",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1496/123918.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1496/123918t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1496/123918l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1496/123918.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1496/123918t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1496/123918l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Seven Count"
+      },
+      {
+        "type": "Japanese",
+        "title": "セブンカウント"
+      }
+    ],
+    "title": "Seven Count",
+    "title_english": null,
+    "title_japanese": "セブンカウント",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 27, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.47,
+    "scored_by": 291,
+    "rank": null,
+    "popularity": 15200,
+    "members": 739,
+    "favorites": 1,
+    "synopsis": "Music video for the prologue image song \"Seven Count\" for the TV anime The Idolm@ster Million Live! screened at AnimeJapan 2022.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 235,
+        "type": "anime",
+        "name": "Shirogumi",
+        "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42385,
+            "type": "anime",
+            "name": "The iDOLM@STER Million Live!",
+            "url": "https://myanimelist.net/anime/42385/The_iDOLMSTER_Million_Live"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/_XKtVD8z5aQ"
+      }
+    ],
+    "streaming": []
+  }
+}

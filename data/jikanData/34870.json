@@ -1,0 +1,177 @@
+{
+  "data": {
+    "mal_id": 34870,
+    "url": "https://myanimelist.net/anime/34870/BanG_Dream_Asonjatta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/89692.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/89692t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/89692l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/89692.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/89692t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/89692l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "MyxumwVaYSI",
+      "url": "https://www.youtube.com/watch?v=MyxumwVaYSI",
+      "embed_url": "https://www.youtube.com/embed/MyxumwVaYSI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/MyxumwVaYSI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/MyxumwVaYSI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/MyxumwVaYSI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/MyxumwVaYSI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/MyxumwVaYSI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BanG Dream! Asonjatta!"
+      },
+      {
+        "type": "Synonym",
+        "title": "BanG Dream! Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "BanG Dream！ 遊んじゃった！"
+      },
+      {
+        "type": "English",
+        "title": "BanG Dream! We Had Some Fun!"
+      }
+    ],
+    "title": "BanG Dream! Asonjatta!",
+    "title_english": "BanG Dream! We Had Some Fun!",
+    "title_japanese": "BanG Dream！ 遊んじゃった！",
+    "title_synonyms": [
+      "BanG Dream! Special"
+    ],
+    "type": "Special",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-11-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 22, 2017"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.09,
+    "scored_by": 7072,
+    "rank": 3955,
+    "popularity": 5965,
+    "members": 13400,
+    "favorites": 24,
+    "synopsis": "Unaired episode included with the 7th Blu-ray volume of BanG Dream!.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Xebec",
+        "url": "https://myanimelist.net/anime/producer/27/Xebec"
+      },
+      {
+        "mal_id": 1353,
+        "type": "anime",
+        "name": "Issen",
+        "url": "https://myanimelist.net/anime/producer/1353/Issen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33573,
+            "type": "anime",
+            "name": "BanG Dream!",
+            "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Tokimeki Experience! (ときめきエクスペリエンス！)\" by Poppin'Party"
+      ],
+      "endings": [
+        "\"Nesshoku Starmine (熱色スターマイン)\" by Roselia"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.bang-dream.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12262"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/BanG_Dream!"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "HIDIVE",
+        "url": "https://www.hidive.com/movies/bang-dream-ova"
+      }
+    ]
+  }
+}

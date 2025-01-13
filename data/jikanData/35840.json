@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 35840,
+    "url": "https://myanimelist.net/anime/35840/Hataraku_Saibou_CM",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/86588.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86588t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86588l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/86588.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86588t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86588l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hataraku Saibou CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "はたらく細胞"
+      },
+      {
+        "type": "English",
+        "title": "Cells at Work!"
+      }
+    ],
+    "title": "Hataraku Saibou CM",
+    "title_english": "Cells at Work!",
+    "title_japanese": "はたらく細胞",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 2, 2017"
+    },
+    "duration": "58 sec",
+    "rating": "PG - Children",
+    "score": 6.82,
+    "scored_by": 8086,
+    "rank": null,
+    "popularity": 4950,
+    "members": 21613,
+    "favorites": 62,
+    "synopsis": "A special animated commercial to celebrate the release of the manga's fifth volume. The full length version of the commercial was released on Kodansha's official YouTube channel the day after the short version was released on TV.\n\nIt features the anthropomorphized cells of a human body, with the protagonist being a red blood cell named AE-3803.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 287,
+        "type": "anime",
+        "name": "David Production",
+        "url": "https://myanimelist.net/anime/producer/287/David_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      },
+      {
+        "mal_id": 67,
+        "type": "anime",
+        "name": "Medical",
+        "url": "https://myanimelist.net/anime/genre/67/Medical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 91641,
+            "type": "manga",
+            "name": "Hataraku Saibou",
+            "url": "https://myanimelist.net/manga/91641/Hataraku_Saibou"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37141,
+            "type": "anime",
+            "name": "Hataraku Saibou",
+            "url": "https://myanimelist.net/anime/37141/Hataraku_Saibou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/hataraku_saibou/status/880621970861178880"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cells_at_Work!"
+      }
+    ],
+    "streaming": []
+  }
+}

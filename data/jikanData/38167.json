@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 38167,
+    "url": "https://myanimelist.net/anime/38167/Malta_no_Bouken_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1572/93453.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1572/93453t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1572/93453l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1572/93453.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1572/93453t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1572/93453l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Malta no Bouken Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "マルタの冒険　シーズン２"
+      }
+    ],
+    "title": "Malta no Bouken Season 2",
+    "title_english": null,
+    "title_japanese": "マルタの冒険　シーズン２",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17302,
+    "popularity": 22556,
+    "members": 143,
+    "favorites": 0,
+    "synopsis": "The second season of Malta no Bouken. Most of the events take place during Malta's summer vacation.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 30906,
+            "type": "anime",
+            "name": "Malta no Bouken",
+            "url": "https://myanimelist.net/anime/30906/Malta_no_Bouken"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38166,
+            "type": "anime",
+            "name": "Malta no Bouken Season 3",
+            "url": "https://myanimelist.net/anime/38166/Malta_no_Bouken_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://malta-go.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

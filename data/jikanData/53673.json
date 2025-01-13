@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 53673,
+    "url": "https://myanimelist.net/anime/53673/Longlong_Juggessji_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1040/131439.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/131439t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/131439l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1040/131439.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/131439t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/131439l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Longlong Juggessji? 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wouldn't it be Long? 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "롱롱 죽겠지?"
+      },
+      {
+        "type": "English",
+        "title": "Journey of Long 2nd Season"
+      }
+    ],
+    "title": "Longlong Juggessji? 2nd Season",
+    "title_english": "Journey of Long 2nd Season",
+    "title_japanese": "롱롱 죽겠지?",
+    "title_synonyms": [
+      "Wouldn't it be Long? 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17193,
+    "popularity": 25705,
+    "members": 79,
+    "favorites": 0,
+    "synopsis": "The second season of Longlong Juggessji?",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48192,
+            "type": "anime",
+            "name": "Longlong Juggessji?",
+            "url": "https://myanimelist.net/anime/48192/Longlong_Juggessji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.animaxtv.co.kr/programs/rongrongjuggessji"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A1%B1%EB%A1%B1%EC%A3%BD%EA%B2%A0%EC%A7%80%3F"
+      }
+    ],
+    "streaming": []
+  }
+}

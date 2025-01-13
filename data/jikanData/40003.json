@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 40003,
+    "url": "https://myanimelist.net/anime/40003/Animatope",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1335/101673.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/101673t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/101673l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1335/101673.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/101673t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/101673l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Animatope"
+      },
+      {
+        "type": "Synonym",
+        "title": "Space Shower TV Station ID"
+      },
+      {
+        "type": "Synonym",
+        "title": "CANVAS 1.6.1 Animatope"
+      },
+      {
+        "type": "Japanese",
+        "title": "Animatope"
+      }
+    ],
+    "title": "Animatope",
+    "title_english": null,
+    "title_japanese": "Animatope",
+    "title_synonyms": [
+      "Space Shower TV Station ID",
+      "CANVAS 1.6.1 Animatope"
+    ],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 14, 2011"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 5.01,
+    "scored_by": 218,
+    "rank": null,
+    "popularity": 17526,
+    "members": 443,
+    "favorites": 0,
+    "synopsis": "Space Shower TV Station ID directed by Takashi Ohashi, with music by composed by Yuri Habuka and sung by PUPI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://stationid.spaceshowertv.com/ja/486/"
+      }
+    ],
+    "streaming": []
+  }
+}

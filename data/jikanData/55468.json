@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 55468,
+    "url": "https://myanimelist.net/anime/55468/9-gatsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/136120.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/136120t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/136120l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/136120.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/136120t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/136120l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "9-gatsu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Juukyuu-gatsu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Juuku-Gatsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "十九月"
+      }
+    ],
+    "title": "9-gatsu",
+    "title_english": null,
+    "title_japanese": "十九月",
+    "title_synonyms": [
+      "Juukyuu-gatsu",
+      "Juuku-Gatsu"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 9, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21700,
+    "members": 181,
+    "favorites": 0,
+    "synopsis": "Music video for the song 9-gatsu by RIM.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2177,
+        "type": "anime",
+        "name": "Mimoid",
+        "url": "https://myanimelist.net/anime/producer/2177/Mimoid"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=EGhhBKr4OzY"
+      }
+    ],
+    "streaming": []
+  }
+}

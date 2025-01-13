@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 40366,
+    "url": "https://myanimelist.net/anime/40366/Three_Workers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1448/102891.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/102891t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/102891l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1448/102891.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/102891t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/102891l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Three Workers"
+      },
+      {
+        "type": "Japanese",
+        "title": "three workers"
+      }
+    ],
+    "title": "Three Workers",
+    "title_english": null,
+    "title_japanese": "three workers",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.67,
+    "scored_by": 119,
+    "rank": null,
+    "popularity": 20584,
+    "members": 242,
+    "favorites": 0,
+    "synopsis": "An early animation by Saki Iyori for a class assignment that allows sounds to be seen. Each sound is depicted by a character. It features the song I'm 9 Today by Icelandic experimental musical group Múm from their debut studio album \"Yesterday Was Dramatic – Today Is OK\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sakiiyori.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

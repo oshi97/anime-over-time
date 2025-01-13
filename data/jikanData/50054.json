@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 50054,
+    "url": "https://myanimelist.net/anime/50054/Ham",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/118639.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/118639t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/118639l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1702/118639.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/118639t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/118639l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ham"
+      },
+      {
+        "type": "Japanese",
+        "title": "Ham"
+      },
+      {
+        "type": "English",
+        "title": "Ham"
+      }
+    ],
+    "title": "Ham",
+    "title_english": "Ham",
+    "title_japanese": "Ham",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 11, 2020"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.49,
+    "scored_by": 301,
+    "rank": null,
+    "popularity": 16170,
+    "members": 584,
+    "favorites": 0,
+    "synopsis": "Music video directed and animated by goru for the song Ham by ZUTOMAYO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/ouLndhBRL4w"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16158"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 48827,
+    "url": "https://myanimelist.net/anime/48827/Glory_or_Dust",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1526/114608.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1526/114608t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1526/114608l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1526/114608.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1526/114608t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1526/114608l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Glory or Dust"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hypnosis Mic: Glory or Dust"
+      },
+      {
+        "type": "Japanese",
+        "title": "ヒプノシスマイク -Glory or Dust-"
+      }
+    ],
+    "title": "Glory or Dust",
+    "title_english": null,
+    "title_japanese": "ヒプノシスマイク -Glory or Dust-",
+    "title_synonyms": [
+      "Hypnosis Mic: Glory or Dust"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 22, 2021"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "scored_by": 222,
+    "rank": null,
+    "popularity": 17554,
+    "members": 441,
+    "favorites": 3,
+    "synopsis": "Music video for Glory or Dust, the 2nd Division Rap Battle theme song, performed by Division All Stars.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40803,
+            "type": "anime",
+            "name": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+            "url": "https://myanimelist.net/anime/40803/Hypnosis_Mic__Division_Rap_Battle_-_Rhyme_Anima"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/gc9ZDehc1yY"
+      }
+    ],
+    "streaming": []
+  }
+}

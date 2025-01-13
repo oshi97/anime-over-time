@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 38521,
+    "url": "https://myanimelist.net/anime/38521/Tengu_desu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1251/95578.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1251/95578t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1251/95578l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1251/95578.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1251/95578t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1251/95578l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tengu desu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kitsunetsuki"
+      },
+      {
+        "type": "Japanese",
+        "title": "てんぐです"
+      }
+    ],
+    "title": "Tengu desu",
+    "title_english": null,
+    "title_japanese": "てんぐです",
+    "title_synonyms": [
+      "Kitsunetsuki"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 11, 2018"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.34,
+    "scored_by": 331,
+    "rank": null,
+    "popularity": 14844,
+    "members": 823,
+    "favorites": 0,
+    "synopsis": "Music Video of Kitsunetsuki's Tengu Desu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2676,
+        "type": "anime",
+        "name": "Pmats9 studio",
+        "url": "https://myanimelist.net/anime/producer/2676/Pmats9_studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37511,
+            "type": "anime",
+            "name": "Kedamono Damono",
+            "url": "https://myanimelist.net/anime/37511/Kedamono_Damono"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://9mm.jp/kitsunetsuki/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%84%E3%83%8D%E3%83%84%E3%82%AD"
+      }
+    ],
+    "streaming": []
+  }
+}

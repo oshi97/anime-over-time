@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 52875,
+    "url": "https://myanimelist.net/anime/52875/Yoru_no_Pierrot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1486/127290.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1486/127290t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1486/127290l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1486/127290.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1486/127290t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1486/127290l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yoru no Pierrot"
+      },
+      {
+        "type": "Japanese",
+        "title": "夜のピエロ"
+      }
+    ],
+    "title": "Yoru no Pierrot",
+    "title_english": null,
+    "title_japanese": "夜のピエロ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 14, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.62,
+    "scored_by": 425,
+    "rank": null,
+    "popularity": 15301,
+    "members": 717,
+    "favorites": 0,
+    "synopsis": "Music video for the song Yoru no Pierrot by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50042,
+            "type": "anime",
+            "name": "Yoru no Pierrot (TeddyLoid Remix)",
+            "url": "https://myanimelist.net/anime/50042/Yoru_no_Pierrot_TeddyLoid_Remix"
+          },
+          {
+            "mal_id": 52982,
+            "type": "anime",
+            "name": "Yoru no Pierrot 360°",
+            "url": "https://myanimelist.net/anime/52982/Yoru_no_Pierrot_360°"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.universal-music.co.jp/ado"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ado_(singer)#Singles"
+      }
+    ],
+    "streaming": []
+  }
+}

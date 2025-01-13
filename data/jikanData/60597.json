@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 60597,
+    "url": "https://myanimelist.net/anime/60597/Da_Wang_Rao_Ming_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/147112.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/147112t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/147112l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/147112.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/147112t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/147112l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Da Wang Rao Ming 3"
+      },
+      {
+        "type": "Synonym",
+        "title": "Spare Me"
+      },
+      {
+        "type": "Synonym",
+        "title": "Great Lord! 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "大王饶命 第三季"
+      }
+    ],
+    "title": "Da Wang Rao Ming 3",
+    "title_english": null,
+    "title_japanese": "大王饶命 第三季",
+    "title_synonyms": [
+      "Spare Me",
+      "Great Lord! 3rd Season"
+    ],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 12,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "The third season of Da Wang Rao Ming.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51898,
+            "type": "anime",
+            "name": "Da Wang Rao Ming 2",
+            "url": "https://myanimelist.net/anime/51898/Da_Wang_Rao_Ming_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

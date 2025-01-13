@@ -1,0 +1,185 @@
+{
+  "data": {
+    "mal_id": 41531,
+    "url": "https://myanimelist.net/anime/41531/Hataraku_Saibou_Black_CM",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/106749t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/106749l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/106749.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/106749t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/106749l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hataraku Saibou Black CM"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hataraku Saibou Black PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "ataraku Saibou Black Special Video"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cells at Work Code Black PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "はたらく細胞BLACK"
+      },
+      {
+        "type": "English",
+        "title": "Cells at Work [Black]"
+      }
+    ],
+    "title": "Hataraku Saibou Black CM",
+    "title_english": "Cells at Work [Black]",
+    "title_japanese": "はたらく細胞BLACK",
+    "title_synonyms": [
+      "Hataraku Saibou Black PV",
+      "ataraku Saibou Black Special Video",
+      "Cells at Work Code Black PV"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 4, 2020"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.62,
+    "scored_by": 2222,
+    "rank": null,
+    "popularity": 7412,
+    "members": 7805,
+    "favorites": 4,
+    "synopsis": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      },
+      {
+        "mal_id": 67,
+        "type": "anime",
+        "name": "Medical",
+        "url": "https://myanimelist.net/anime/genre/67/Medical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 114638,
+            "type": "manga",
+            "name": "Hataraku Saibou Black",
+            "url": "https://myanimelist.net/manga/114638/Hataraku_Saibou_Black"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 41694,
+            "type": "anime",
+            "name": "Hataraku Saibou Black",
+            "url": "https://myanimelist.net/anime/41694/Hataraku_Saibou_Black"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://twitter.com/cellsatworkbla1/status/1213473268067258368"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-280697"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 50691,
+    "url": "https://myanimelist.net/anime/50691/Hentatsu_TV__Oomisoka_Tokubetsu-ban",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/120271.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/120271t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/120271l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1398/120271.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/120271t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/120271l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hentatsu (TV): Oomisoka Tokubetsu-ban"
+      },
+      {
+        "type": "Japanese",
+        "title": "へんたつ　大晦日特別版"
+      },
+      {
+        "type": "English",
+        "title": "Hentatsu New Year's Eve Special Edition"
+      }
+    ],
+    "title": "Hentatsu (TV): Oomisoka Tokubetsu-ban",
+    "title_english": "Hentatsu New Year's Eve Special Edition",
+    "title_japanese": "へんたつ　大晦日特別版",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21005,
+    "popularity": 20954,
+    "members": 221,
+    "favorites": 0,
+    "synopsis": "Two-minute Hentatsu special that aired on New Year's Eve.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 40995,
+            "type": "anime",
+            "name": "Hentatsu (TV)",
+            "url": "https://myanimelist.net/anime/40995/Hentatsu_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hentatsu.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

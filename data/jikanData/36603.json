@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 36603,
+    "url": "https://myanimelist.net/anime/36603/Neko_Matsuri",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/88453.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88453t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88453l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/88453.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88453t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88453l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Neko Matsuri"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫祭り"
+      }
+    ],
+    "title": "Neko Matsuri",
+    "title_english": null,
+    "title_japanese": "猫祭り",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 5, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.01,
+    "scored_by": 994,
+    "rank": null,
+    "popularity": 11590,
+    "members": 2160,
+    "favorites": 9,
+    "synopsis": "Even during the holiday season, Naru Hakobe is still as active as ever. With the festivities around her swarming with cats, it is no surprise that she finds them adorable. However, petting these cute critters for too long may give Naru something she could never have expected.\n\n[Written by MAL Rewrite]",
+    "background": "Official music video for the song Neko Matsuri by the fictional band Irodorimidori. It is the 13th song in the franchise and focuses on Naru Hakobe. The song was included with the second full Irodorimidori album titled \"Suisen,\" released on November 1, 2017.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 167,
+        "type": "anime",
+        "name": "Sega",
+        "url": "https://myanimelist.net/anime/producer/167/Sega"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36602,
+            "type": "anime",
+            "name": "My Dearest Song",
+            "url": "https://myanimelist.net/anime/36602/My_Dearest_Song"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36604,
+            "type": "anime",
+            "name": "Bang Babang Bang!!!",
+            "url": "https://myanimelist.net/anime/36604/Bang_Babang_Bang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/song/song13.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

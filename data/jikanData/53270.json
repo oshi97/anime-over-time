@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 53270,
+    "url": "https://myanimelist.net/anime/53270/Good_Day",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/128916.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/128916t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/128916l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/128916.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/128916t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/128916l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Good Day"
+      },
+      {
+        "type": "Japanese",
+        "title": "GOOD DAY"
+      },
+      {
+        "type": "English",
+        "title": "Good Day"
+      }
+    ],
+    "title": "Good Day",
+    "title_english": "Good Day",
+    "title_japanese": "GOOD DAY",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.33,
+    "scored_by": 1626,
+    "rank": null,
+    "popularity": 10415,
+    "members": 3058,
+    "favorites": 3,
+    "synopsis": "Special Anya inspired song Good Day animation MV. The MV was released to commemorate 2,000,000 subscribers to the TOHO animation YouTube channel.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      },
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 50265,
+            "type": "anime",
+            "name": "Spy x Family",
+            "url": "https://myanimelist.net/anime/50265/Spy_x_Family"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/yE3A2AfOt1Q"
+      }
+    ],
+    "streaming": []
+  }
+}

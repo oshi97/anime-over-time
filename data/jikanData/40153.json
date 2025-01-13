@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 40153,
+    "url": "https://myanimelist.net/anime/40153/Teeter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/102188.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/102188t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/102188l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/102188.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/102188t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/102188l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Teeter"
+      },
+      {
+        "type": "Synonym",
+        "title": "mock"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dolly"
+      },
+      {
+        "type": "Japanese",
+        "title": "teeter"
+      },
+      {
+        "type": "English",
+        "title": "teeter"
+      }
+    ],
+    "title": "Teeter",
+    "title_english": "teeter",
+    "title_japanese": "teeter",
+    "title_synonyms": [
+      "mock",
+      "Dolly"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-02T00:00:00+00:00",
+      "to": "2019-01-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 16,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Jul 2, 2018 to Jan 16, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.96,
+    "scored_by": 204,
+    "rank": null,
+    "popularity": 17374,
+    "members": 455,
+    "favorites": 0,
+    "synopsis": "Keina Suda's 1st EP titled \"teeter\" will have a limited edition release bundled with a DVD that contains 2 animated items on December 16, 2019. First is the official music video for mock animated by Avogado6 (a short version was also released on Suda's official YouTube channel). Second is the official music video for Dolly animated by Avogado6  (it was also released on Suda's official YouTube channel).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1011,
+        "type": "anime",
+        "name": "Warner Music Japan",
+        "url": "https://myanimelist.net/anime/producer/1011/Warner_Music_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sp.wmg.jp/suda-keina/teeter/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A0%88%E7%94%B0%E6%99%AF%E5%87%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

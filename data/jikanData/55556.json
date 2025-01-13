@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 55556,
+    "url": "https://myanimelist.net/anime/55556/JERV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1789/136261.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1789/136261t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1789/136261l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1789/136261.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1789/136261t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1789/136261l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "JERV"
+      },
+      {
+        "type": "Synonym",
+        "title": "Book Trailer \"JERV\""
+      },
+      {
+        "type": "Japanese",
+        "title": "JERV"
+      },
+      {
+        "type": "English",
+        "title": "Jerv"
+      }
+    ],
+    "title": "JERV",
+    "title_english": "Jerv",
+    "title_japanese": "JERV",
+    "title_synonyms": [
+      "Book Trailer \"JERV\""
+    ],
+    "type": "PV",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020"
+    },
+    "duration": "54 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22448,
+    "members": 147,
+    "favorites": 0,
+    "synopsis": "An animated trailer by Hirotoshi Iwasaki for the book \"JERV\" by Norwegian writer Ida Fjeldbraaten.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hirotoshiiwasaki.com/book-trailer-jerv"
+      }
+    ],
+    "streaming": []
+  }
+}

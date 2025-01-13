@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 52847,
+    "url": "https://myanimelist.net/anime/52847/Gyakkou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1145/127268.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1145/127268t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1145/127268l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1145/127268.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1145/127268t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1145/127268l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gyakkou"
+      },
+      {
+        "type": "Japanese",
+        "title": "逆光"
+      },
+      {
+        "type": "English",
+        "title": "Backlight"
+      }
+    ],
+    "title": "Gyakkou",
+    "title_english": "Backlight",
+    "title_japanese": "逆光",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 6, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.77,
+    "scored_by": 1820,
+    "rank": null,
+    "popularity": 10458,
+    "members": 3015,
+    "favorites": 9,
+    "synopsis": "Music video for the song Gyakkou by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 3010,
+        "type": "anime",
+        "name": ".MP",
+        "url": "https://myanimelist.net/anime/producer/3010/MP"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52832,
+            "type": "anime",
+            "name": "Shin Jidai",
+            "url": "https://myanimelist.net/anime/52832/Shin_Jidai"
+          },
+          {
+            "mal_id": 50410,
+            "type": "anime",
+            "name": "One Piece Film: Red",
+            "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sp.universal-music.co.jp/ado/uta-no-uta"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ado_(singer)#Singles"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 46139,
+    "url": "https://myanimelist.net/anime/46139/Haha_Xiong__Shikong_Tanxian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/130937.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/130937t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/130937l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/130937.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/130937t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/130937l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haha Xiong: Shikong Tanxian"
+      },
+      {
+        "type": "Japanese",
+        "title": "哈哈熊之时空探险"
+      }
+    ],
+    "title": "Haha Xiong: Shikong Tanxian",
+    "title_english": null,
+    "title_japanese": "哈哈熊之时空探险",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019 to ?"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20829,
+    "popularity": 27224,
+    "members": 65,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 46133,
+            "type": "anime",
+            "name": "Haha Xiong Juchang: Diming Gushi",
+            "url": "https://myanimelist.net/anime/46133/Haha_Xiong_Juchang__Diming_Gushi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

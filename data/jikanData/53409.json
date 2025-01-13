@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 53409,
+    "url": "https://myanimelist.net/anime/53409/Melt",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1555/129607.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/129607t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/129607l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1555/129607.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/129607t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/129607l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Melt"
+      },
+      {
+        "type": "Japanese",
+        "title": "メルト"
+      }
+    ],
+    "title": "Melt",
+    "title_english": null,
+    "title_japanese": "メルト",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2009"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.21,
+    "scored_by": 253,
+    "rank": null,
+    "popularity": 17236,
+    "members": 468,
+    "favorites": 1,
+    "synopsis": "Music video for the song Melt by supercell.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Gonzo",
+        "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Supercell_(band)"
+      }
+    ],
+    "streaming": []
+  }
+}

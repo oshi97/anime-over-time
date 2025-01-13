@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 44259,
+    "url": "https://myanimelist.net/anime/44259/Next_Color_Planet",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1533/110488.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/110488t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/110488l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1533/110488.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/110488t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/110488l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Next Color Planet"
+      },
+      {
+        "type": "Japanese",
+        "title": "NEXT COLOR PLANET"
+      },
+      {
+        "type": "English",
+        "title": "Next Color Planet"
+      }
+    ],
+    "title": "Next Color Planet",
+    "title_english": "Next Color Planet",
+    "title_japanese": "NEXT COLOR PLANET",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 22, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.54,
+    "scored_by": 439,
+    "rank": null,
+    "popularity": 15462,
+    "members": 691,
+    "favorites": 5,
+    "synopsis": "To celebrate Suisei's 2nd Anniversary, her third original song Next Color Planet music video was released!\n\nThe making of this song was made through a collaboration between idol V-tuber Hoshimachi Suisei and Takuya Sakai, of Arte Refract fame.\n\n(Source: Anilist)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/vQHVGXdcqEQ"
+      }
+    ],
+    "streaming": []
+  }
+}

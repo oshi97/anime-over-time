@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 54834,
+    "url": "https://myanimelist.net/anime/54834/Funauta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1062/134698.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1062/134698t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1062/134698l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1062/134698.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1062/134698t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1062/134698l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Funauta"
+      },
+      {
+        "type": "Japanese",
+        "title": "舟唄"
+      }
+    ],
+    "title": "Funauta",
+    "title_english": null,
+    "title_japanese": "舟唄",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 5, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22150,
+    "members": 160,
+    "favorites": 0,
+    "synopsis": "Music video for the song Funauta by Aki Yashiro. The song was featured on her 2021 Best Hits album that was released in commemoration of fifty years since her debut.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2401,
+        "type": "anime",
+        "name": "YURUPPE Inc.",
+        "url": "https://myanimelist.net/anime/producer/2401/YURUPPE_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://yashiro.mirion.co.jp"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%88%9F%E5%94%84"
+      }
+    ],
+    "streaming": []
+  }
+}

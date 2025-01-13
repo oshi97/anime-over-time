@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 40971,
+    "url": "https://myanimelist.net/anime/40971/Newsong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/105144.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/105144t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/105144l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/105144.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/105144t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/105144l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Newsong"
+      },
+      {
+        "type": "Japanese",
+        "title": "Newsong"
+      },
+      {
+        "type": "English",
+        "title": "New Song"
+      }
+    ],
+    "title": "Newsong",
+    "title_english": "New Song",
+    "title_japanese": "Newsong",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.33,
+    "scored_by": 1885,
+    "rank": null,
+    "popularity": 9517,
+    "members": 4045,
+    "favorites": 9,
+    "synopsis": "Music video for the track Newsong by Japanese rock band tacica. The song was featured as the tenth opening for Naruto: Shippuuden.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1918,
+        "type": "anime",
+        "name": "SME Records",
+        "url": "https://myanimelist.net/anime/producer/1918/SME_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1735,
+            "type": "anime",
+            "name": "Naruto: Shippuuden",
+            "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.tacica.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Newsong_e.p."
+      }
+    ],
+    "streaming": []
+  }
+}

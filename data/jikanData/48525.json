@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48525,
+    "url": "https://myanimelist.net/anime/48525/Last_Lament",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1105/113618.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/113618t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/113618l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1105/113618.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/113618t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/113618l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Last Lament"
+      },
+      {
+        "type": "Japanese",
+        "title": "Last Lament"
+      },
+      {
+        "type": "English",
+        "title": "Last Lament"
+      }
+    ],
+    "title": "Last Lament",
+    "title_english": "Last Lament",
+    "title_japanese": "Last Lament",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 19, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "scored_by": 180,
+    "rank": null,
+    "popularity": 18734,
+    "members": 351,
+    "favorites": 3,
+    "synopsis": "A music video for one of Ensemble Star's units, Valkyrie, of their song Last Lament.",
+    "background": "The song is part of the Ensemble Stars! Unit Song CD 3 Vol.4 Valkyrie album, which is the second single released by Valkyrie.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemble-stars.jp/discography/22"
+      }
+    ],
+    "streaming": []
+  }
+}

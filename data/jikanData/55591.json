@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 55591,
+    "url": "https://myanimelist.net/anime/55591/Idol_Mori_Calliope_Cover",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/136977.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/136977t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/136977l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/136977.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/136977t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/136977l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Idol (Mori Calliope Cover)"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドル (Mori Calliope Cover)"
+      }
+    ],
+    "title": "Idol (Mori Calliope Cover)",
+    "title_english": null,
+    "title_japanese": "アイドル (Mori Calliope Cover)",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 6, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.25,
+    "scored_by": 1003,
+    "rank": null,
+    "popularity": 12313,
+    "members": 1700,
+    "favorites": 2,
+    "synopsis": "Official music video for Mori Calliope's cover of the song Idol, originally by YOASOBI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1397,
+        "type": "anime",
+        "name": "Universal Music Japan",
+        "url": "https://myanimelist.net/anime/producer/1397/Universal_Music_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 55016,
+            "type": "anime",
+            "name": "Idol",
+            "url": "https://myanimelist.net/anime/55016/Idol"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=JmZRrKEqG2M"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 56450,
+    "url": "https://myanimelist.net/anime/56450/Boku_wa_Konya_Deteiku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/138074.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/138074t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/138074l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/138074.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/138074t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/138074l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boku wa Konya, Deteiku"
+      },
+      {
+        "type": "Japanese",
+        "title": "僕は今夜、出て行く"
+      }
+    ],
+    "title": "Boku wa Konya, Deteiku",
+    "title_english": null,
+    "title_japanese": "僕は今夜、出て行く",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-05-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 5,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 13, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22078,
+    "members": 162,
+    "favorites": 0,
+    "synopsis": "Boku wa Konya, Deteiku is the eleventh single by 22/7. It is the last single that Reina Miyase participated in.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 40148,
+            "type": "anime",
+            "name": "22/7",
+            "url": "https://myanimelist.net/anime/40148/22_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=87IzmBR3v4o"
+      }
+    ],
+    "streaming": []
+  }
+}

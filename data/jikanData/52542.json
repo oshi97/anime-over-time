@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52542,
+    "url": "https://myanimelist.net/anime/52542/Forever_and",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/126091.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/126091t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/126091l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/126091.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/126091t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/126091l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Forever and..."
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Forever and..."
+      }
+    ],
+    "title": "Forever and...",
+    "title_english": null,
+    "title_japanese": "Forever and...",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 8, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.64,
+    "scored_by": 196,
+    "rank": null,
+    "popularity": 18419,
+    "members": 376,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Forever and... by the fictional band Synthesizer Laboratory. It is the 74th song in the Irodorimidori franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52541,
+            "type": "anime",
+            "name": "Starting Over",
+            "url": "https://myanimelist.net/anime/52541/Starting_Over"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52543,
+            "type": "anime",
+            "name": "Kotoba Uta",
+            "url": "https://myanimelist.net/anime/52543/Kotoba_Uta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/GTAEPLDD4y0"
+      }
+    ],
+    "streaming": []
+  }
+}

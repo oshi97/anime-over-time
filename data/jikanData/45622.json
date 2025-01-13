@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 45622,
+    "url": "https://myanimelist.net/anime/45622/Kyou_kara_Maou_Taizenshu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/138109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/138109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/138109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/138109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/138109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/138109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyou kara Maou! Taizenshu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kyou kara Maou! Recaps"
+      },
+      {
+        "type": "Japanese",
+        "title": "今日からマ王! 大全集"
+      },
+      {
+        "type": "English",
+        "title": "Kyou kara Maou! Great Complete Collection"
+      }
+    ],
+    "title": "Kyou kara Maou! Taizenshu",
+    "title_english": "Kyou kara Maou! Great Complete Collection",
+    "title_japanese": "今日からマ王! 大全集",
+    "title_synonyms": [
+      "Kyou kara Maou! Recaps"
+    ],
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-02-19T00:00:00+00:00",
+      "to": "2005-08-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 2,
+          "year": 2005
+        },
+        "to": {
+          "day": 20,
+          "month": 8,
+          "year": 2005
+        }
+      },
+      "string": "Feb 19, 2005 to Aug 20, 2005"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17025,
+    "popularity": 19583,
+    "members": 297,
+    "favorites": 1,
+    "synopsis": "Recaps of Kyou kara Maou! with new narration by Yuuri.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Isekai",
+        "url": "https://myanimelist.net/anime/genre/62/Isekai"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 251,
+            "type": "anime",
+            "name": "Kyou kara Maou!",
+            "url": "https://myanimelist.net/anime/251/Kyou_kara_Maou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1677"
+      }
+    ],
+    "streaming": []
+  }
+}

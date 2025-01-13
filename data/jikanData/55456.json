@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55456,
+    "url": "https://myanimelist.net/anime/55456/Kasumi_ga_Tsuite_Kuru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/136101.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/136101t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/136101l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1671/136101.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/136101t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/136101l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kasumi ga Tsuite Kuru"
+      },
+      {
+        "type": "Japanese",
+        "title": "霞がついてくる"
+      }
+    ],
+    "title": "Kasumi ga Tsuite Kuru",
+    "title_english": null,
+    "title_japanese": "霞がついてくる",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 9, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22249,
+    "members": 155,
+    "favorites": 0,
+    "synopsis": "Music video for the song Kasumi ga Tsuite Kuru by ISEKAIJOUCHO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=EXicNyq5fG4"
+      }
+    ],
+    "streaming": []
+  }
+}

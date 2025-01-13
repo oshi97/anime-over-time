@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 47471,
+    "url": "https://myanimelist.net/anime/47471/Wudi_Xiaolu_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/129458.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/129458t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/129458l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1057/129458.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/129458t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/129458l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wudi Xiaolu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "无敌小鹿 第2季"
+      }
+    ],
+    "title": "Wudi Xiaolu 2nd Season",
+    "title_english": null,
+    "title_japanese": "无敌小鹿 第2季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017 to ?"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15226,
+    "popularity": 26595,
+    "members": 70,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47470,
+            "type": "anime",
+            "name": "Wudi Xiaolu",
+            "url": "https://myanimelist.net/anime/47470/Wudi_Xiaolu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47472,
+            "type": "anime",
+            "name": "Wudi Xiaolu 3rd Season",
+            "url": "https://myanimelist.net/anime/47472/Wudi_Xiaolu_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://waptv.sogou.com/cartoon/mnqxe5dpn5xf6nrugqytomyjz3pllugquhbltno2w37lzpq.html"
+      }
+    ],
+    "streaming": []
+  }
+}

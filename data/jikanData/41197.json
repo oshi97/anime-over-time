@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 41197,
+    "url": "https://myanimelist.net/anime/41197/Magical_Love_Potion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/111092.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/111092t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/111092l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1387/111092.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/111092t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/111092l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Magical Love Potion!"
+      },
+      {
+        "type": "Japanese",
+        "title": "マジカル LOVE ポーション！"
+      },
+      {
+        "type": "English",
+        "title": "Magical LOVE Potion!"
+      }
+    ],
+    "title": "Magical Love Potion!",
+    "title_english": "Magical LOVE Potion!",
+    "title_japanese": "マジカル LOVE ポーション！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 24, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.84,
+    "scored_by": 162,
+    "rank": null,
+    "popularity": 18864,
+    "members": 342,
+    "favorites": 0,
+    "synopsis": "A music video for the theme song of the mobile game \"I★Chu: Étoile Stage\", performed by I★Chu Leaders.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39725,
+            "type": "anime",
+            "name": "I★Chu: Halfway Through the Idol",
+            "url": "https://myanimelist.net/anime/39725/I★Chu__Halfway_Through_the_Idol"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.ichu-es.jp/"
+      }
+    ],
+    "streaming": []
+  }
+}

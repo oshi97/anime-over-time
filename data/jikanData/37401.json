@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 37401,
+    "url": "https://myanimelist.net/anime/37401/Irotoridori",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1691/90808.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/90808t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/90808l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1691/90808.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/90808t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/90808l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Irotoridori"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irotorodori"
+      },
+      {
+        "type": "Japanese",
+        "title": "イロトリドリ"
+      },
+      {
+        "type": "English",
+        "title": "Irotoridori"
+      }
+    ],
+    "title": "Irotoridori",
+    "title_english": "Irotoridori",
+    "title_japanese": "イロトリドリ",
+    "title_synonyms": [
+      "Irotorodori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-02-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 5, 2013"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.18,
+    "scored_by": 162,
+    "rank": null,
+    "popularity": 19380,
+    "members": 310,
+    "favorites": 0,
+    "synopsis": "A music video for Yuzu's song \"Irotoridori.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1390,
+        "type": "anime",
+        "name": "Toy's Factory",
+        "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

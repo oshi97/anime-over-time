@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 52433,
+    "url": "https://myanimelist.net/anime/52433/Ai_no_Sato",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/125523.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/125523t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/125523l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/125523.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/125523t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/125523l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ai no Sato"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ainosato"
+      },
+      {
+        "type": "Japanese",
+        "title": "あいの里"
+      }
+    ],
+    "title": "Ai no Sato",
+    "title_english": null,
+    "title_japanese": "あいの里",
+    "title_synonyms": [
+      "Ainosato"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-30T00:00:00+00:00",
+      "to": "2022-05-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 28,
+          "month": 5,
+          "year": 2022
+        }
+      },
+      "string": "Mar 30, 2020 to May 28, 2022"
+    },
+    "duration": "15 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20948,
+    "members": 221,
+    "favorites": 0,
+    "synopsis": "Animated commercials by Zero-G for Ainosato Co., Ltd., a company that specializes in long-term care based in Fukushima Prefecture.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1379,
+        "type": "anime",
+        "name": "Zero-G",
+        "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCM5R8JifY38J9HtiRXWIp3A"
+      }
+    ],
+    "streaming": []
+  }
+}

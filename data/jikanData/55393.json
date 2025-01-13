@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 55393,
+    "url": "https://myanimelist.net/anime/55393/The_IDOLMSTER_Cinderella_Girls__Starlight_Stage_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1556/136034.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1556/136034t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1556/136034l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1556/136034.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1556/136034t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1556/136034l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドルマスター シンデレラガールズ スターライトステージ CMs"
+      }
+    ],
+    "title": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs",
+    "title_english": null,
+    "title_japanese": "アイドルマスター シンデレラガールズ スターライトステージ CMs",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-03T00:00:00+00:00",
+      "to": "2021-09-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": 6,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Sep 3, 2020 to Sep 6, 2021"
+    },
+    "duration": "15 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.03,
+    "scored_by": 110,
+    "rank": null,
+    "popularity": 19025,
+    "members": 332,
+    "favorites": 0,
+    "synopsis": "Assorted commercials for The IDOLM@STER Cinderella Girls: Starlight Stage mobile game.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1587,
+        "type": "anime",
+        "name": "Cygames",
+        "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      },
+      {
+        "mal_id": 1997,
+        "type": "anime",
+        "name": "Studio Kai",
+        "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 23587,
+            "type": "anime",
+            "name": "The iDOLM@STER Cinderella Girls",
+            "url": "https://myanimelist.net/anime/23587/The_iDOLMSTER_Cinderella_Girls"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://cinderella.idolmaster.jp/sl-stage/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

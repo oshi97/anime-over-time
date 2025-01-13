@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 40140,
+    "url": "https://myanimelist.net/anime/40140/Issei_Kiyuukyoku__Divertimento",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1036/102129.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1036/102129t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1036/102129l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1036/102129.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1036/102129t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1036/102129l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Issei Kiyuukyoku: Divertimento"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "一世嬉遊曲‐ディヴェルティメント‐"
+      }
+    ],
+    "title": "Issei Kiyuukyoku: Divertimento",
+    "title_english": null,
+    "title_japanese": "一世嬉遊曲‐ディヴェルティメント‐",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 26, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.37,
+    "scored_by": 488,
+    "rank": null,
+    "popularity": 14739,
+    "members": 853,
+    "favorites": 1,
+    "synopsis": "Official music video for the song Issei Kiyuukyoku: Divertimento by the fictional band Irodorimidori. It is the 41st song in the franchise and focuses on Nachi Tsukisuzu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39793,
+            "type": "anime",
+            "name": "Ever Green Never End",
+            "url": "https://myanimelist.net/anime/39793/Ever_Green_Never_End"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 40222,
+            "type": "anime",
+            "name": "Agitation!",
+            "url": "https://myanimelist.net/anime/40222/Agitation"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song041/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

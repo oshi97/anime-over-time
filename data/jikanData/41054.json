@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 41054,
+    "url": "https://myanimelist.net/anime/41054/High___Low__G-Sword_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/105390.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/105390t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/105390l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1450/105390.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/105390t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/105390l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "High & Low: G-Sword (Special)"
+      },
+      {
+        "type": "Synonym",
+        "title": "HiGH&LOW THE LAND"
+      },
+      {
+        "type": "Japanese",
+        "title": "HiGH&LOW g-sword"
+      }
+    ],
+    "title": "High & Low: G-Sword (Special)",
+    "title_english": null,
+    "title_japanese": "HiGH&LOW g-sword",
+    "title_synonyms": [
+      "HiGH&LOW THE LAND"
+    ],
+    "type": "Special",
+    "source": "Other",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-31T00:00:00+00:00",
+      "to": "2017-08-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 4,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Jul 31, 2017 to Aug 4, 2017"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21032,
+    "popularity": 19799,
+    "members": 285,
+    "favorites": 0,
+    "synopsis": "HiGH&amp;LOW THE LAND was a limited time theme park section at Yomiuri Land. The event space recreated scenery from High &amp; Low: G-Sword where guests could buy goods, ride coasters, and watch live performers reenact scenes. Starting in July, five brand-new shorts were to be shown at the theme park each day of the week. They ran all the way till the section closed on September 10, 2017.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35156,
+            "type": "anime",
+            "name": "High & Low: G-Sword",
+            "url": "https://myanimelist.net/anime/35156/High___Low__G-Sword"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 36592,
+            "type": "anime",
+            "name": "High & Low: G-Sword OVA",
+            "url": "https://myanimelist.net/anime/36592/High___Low__G-Sword_OVA"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://high-low.jp/theland/index.php"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12989"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/High_%26_Low:_The_Movie"
+      }
+    ],
+    "streaming": []
+  }
+}

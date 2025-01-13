@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 54594,
+    "url": "https://myanimelist.net/anime/54594/Stand_By_Me_Doraemon_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1585/133675.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1585/133675t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1585/133675l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1585/133675.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1585/133675t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1585/133675l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Stand By Me Doraemon Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "STAND BY ME ドラえもん"
+      }
+    ],
+    "title": "Stand By Me Doraemon Specials",
+    "title_english": null,
+    "title_japanese": "STAND BY ME ドラえもん",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-02-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 2,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 18, 2015"
+    },
+    "duration": "40 sec per ep",
+    "rating": "PG - Children",
+    "score": 6.73,
+    "scored_by": 135,
+    "rank": 5701,
+    "popularity": 18105,
+    "members": 400,
+    "favorites": 1,
+    "synopsis": "Previously unreleased scenes included as a bonus with Stand By Me Doraemon Blu-ray.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 21469,
+            "type": "anime",
+            "name": "Stand By Me Doraemon",
+            "url": "https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10253"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15716"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stand_by_Me_Doraemon"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/3878"
+      },
+      {
+        "name": "Anison",
+        "url": "http://anison.info/data/program/17398.html"
+      },
+      {
+        "name": "Allcinema",
+        "url": "https://www.allcinema.net/cinema/348264"
+      }
+    ],
+    "streaming": []
+  }
+}

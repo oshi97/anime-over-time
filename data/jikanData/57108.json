@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 57108,
+    "url": "https://myanimelist.net/anime/57108/Standing_By_You",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/139566.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/139566t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/139566l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/139566.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/139566t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/139566l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Standing By You"
+      },
+      {
+        "type": "Synonym",
+        "title": "Azur Lane 3rd Anniversary: Laffey's Band Performance"
+      },
+      {
+        "type": "Japanese",
+        "title": "Standing By You"
+      }
+    ],
+    "title": "Standing By You",
+    "title_english": null,
+    "title_japanese": "Standing By You",
+    "title_synonyms": [
+      "Azur Lane 3rd Anniversary: Laffey's Band Performance"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-08-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 8,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 11, 2021"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.17,
+    "scored_by": 118,
+    "rank": null,
+    "popularity": 20524,
+    "members": 245,
+    "favorites": 0,
+    "synopsis": "Music video for the song Standing By You by Laffey's Band and Takuya Ohata.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55351,
+            "type": "anime",
+            "name": "Azur Lane CMs",
+            "url": "https://myanimelist.net/anime/55351/Azur_Lane_CMs"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UIuZB9HTJkI"
+      }
+    ],
+    "streaming": []
+  }
+}

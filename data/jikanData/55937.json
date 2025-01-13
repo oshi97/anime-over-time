@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 55937,
+    "url": "https://myanimelist.net/anime/55937/Gangu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1618/137077.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/137077t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/137077l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1618/137077.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/137077t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/137077l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gangu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Omocha"
+      },
+      {
+        "type": "Japanese",
+        "title": "玩具"
+      },
+      {
+        "type": "English",
+        "title": "Toy"
+      }
+    ],
+    "title": "Gangu",
+    "title_english": "Toy",
+    "title_japanese": "玩具",
+    "title_synonyms": [
+      "Omocha"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 12, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "scored_by": 108,
+    "rank": null,
+    "popularity": 21097,
+    "members": 212,
+    "favorites": 1,
+    "synopsis": "Music video for the song Gangu by V.W.P.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2309,
+        "type": "anime",
+        "name": "Kamitsubaki Studio",
+        "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Q97m911CsIM"
+      }
+    ],
+    "streaming": []
+  }
+}

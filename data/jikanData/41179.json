@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 41179,
+    "url": "https://myanimelist.net/anime/41179/Kumo_to_Yuurei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/105707.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/105707t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/105707l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/105707.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/105707t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/105707l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kumo to Yuurei"
+      },
+      {
+        "type": "Japanese",
+        "title": "雲と幽霊"
+      },
+      {
+        "type": "English",
+        "title": "The Clouds and the Ghost"
+      }
+    ],
+    "title": "Kumo to Yuurei",
+    "title_english": "The Clouds and the Ghost",
+    "title_japanese": "雲と幽霊",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 13, 2018"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.36,
+    "scored_by": 400,
+    "rank": null,
+    "popularity": 15228,
+    "members": 735,
+    "favorites": 2,
+    "synopsis": "A music video for the song Kumo to Yuurei by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2525,
+        "type": "anime",
+        "name": "Hurray!",
+        "url": "https://myanimelist.net/anime/producer/2525/Hurray"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://yorushika.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

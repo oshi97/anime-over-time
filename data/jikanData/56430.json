@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 56430,
+    "url": "https://myanimelist.net/anime/56430/Spicy_Boy",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/138026.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/138026t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/138026l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1340/138026.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1340/138026t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1340/138026l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spicy Boy"
+      },
+      {
+        "type": "Japanese",
+        "title": "スパイシーボーイ"
+      }
+    ],
+    "title": "Spicy Boy",
+    "title_english": null,
+    "title_japanese": "スパイシーボーイ",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 42,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": "2019-07-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": 13,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "2012 to Jul 13, 2019"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 14414,
+    "popularity": 27303,
+    "members": 64,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1947,
+        "type": "anime",
+        "name": "Kate Arrow",
+        "url": "https://myanimelist.net/anime/producer/1947/Kate_Arrow"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56431,
+            "type": "anime",
+            "name": "Spicy Boy Mini",
+            "url": "https://myanimelist.net/anime/56431/Spicy_Boy_Mini"
+          },
+          {
+            "mal_id": 56432,
+            "type": "anime",
+            "name": "Spicy Boy Z",
+            "url": "https://myanimelist.net/anime/56432/Spicy_Boy_Z"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 56424,
+            "type": "anime",
+            "name": "Oh! My Friends",
+            "url": "https://myanimelist.net/anime/56424/Oh_My_Friends"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://spicyboy.net/animation/spb.html"
+      }
+    ],
+    "streaming": []
+  }
+}

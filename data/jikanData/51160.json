@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 51160,
+    "url": "https://myanimelist.net/anime/51160/Minna_no_Douyou__Warera_wa_Umi_no_Ko_-_Minna_de_Utau_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1472/121215.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1472/121215t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1472/121215l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1472/121215.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1472/121215t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1472/121215l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Minna no Douyou: Warera wa Umi no Ko - Minna de Utau Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "みんなのどうよう われは海の子 〜みんなでうたううた〜"
+      }
+    ],
+    "title": "Minna no Douyou: Warera wa Umi no Ko - Minna de Utau Uta",
+    "title_english": null,
+    "title_japanese": "みんなのどうよう われは海の子 〜みんなでうたううた〜",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 22, 2015"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23581,
+    "members": 114,
+    "favorites": 0,
+    "synopsis": "A compilation of 15 popular songs for children to sing together with their parents. Third volume.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 247,
+        "type": "anime",
+        "name": "Shin-Ei Animation",
+        "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51158,
+            "type": "anime",
+            "name": "Minna no Douyou: Shabondama - Oyako de Utau Uta",
+            "url": "https://myanimelist.net/anime/51158/Minna_no_Douyou__Shabondama_-_Oyako_de_Utau_Uta"
+          },
+          {
+            "mal_id": 51159,
+            "type": "anime",
+            "name": "Minna no Douyou: Yuuyake Koyake - Utaitsugitai Uta",
+            "url": "https://myanimelist.net/anime/51159/Minna_no_Douyou__Yuuyake_Koyake_-_Utaitsugitai_Uta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://columbia.jp/douyoudvd/"
+      }
+    ],
+    "streaming": []
+  }
+}

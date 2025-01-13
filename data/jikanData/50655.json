@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 50655,
+    "url": "https://myanimelist.net/anime/50655/Aisai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1118/120224.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1118/120224t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1118/120224l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1118/120224.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1118/120224t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1118/120224l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Aisai"
+      },
+      {
+        "type": "Japanese",
+        "title": "藍才"
+      }
+    ],
+    "title": "Aisai",
+    "title_english": null,
+    "title_japanese": "藍才",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 24, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.92,
+    "scored_by": 670,
+    "rank": null,
+    "popularity": 13707,
+    "members": 1128,
+    "favorites": 2,
+    "synopsis": "Music video for the song Aisai by Eve.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/lw51UR6Qoy8"
+      }
+    ],
+    "streaming": []
+  }
+}

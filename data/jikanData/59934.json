@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 59934,
+    "url": "https://myanimelist.net/anime/59934/FNS_27-Jikan_TV__Nihon_no_Rekishi_Anime",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/145726.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/145726t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/145726l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/145726.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/145726t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/145726l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "FNS 27-Jikan TV: Nihon no Rekishi Anime"
+      },
+      {
+        "type": "Japanese",
+        "title": "FNS27時間テレビ にほんのれきし アニメ"
+      }
+    ],
+    "title": "FNS 27-Jikan TV: Nihon no Rekishi Anime",
+    "title_english": null,
+    "title_japanese": "FNS27時間テレビ にほんのれきし アニメ",
+    "title_synonyms": [],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-09T00:00:00+00:00",
+      "to": "2017-09-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": 10,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      "string": "Sep 9, 2017 to Sep 10, 2017"
+    },
+    "duration": "26 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20473,
+    "popularity": 24431,
+    "members": 98,
+    "favorites": 0,
+    "synopsis": "Special animated corners part of FNS 27-Jikan TV: Nihon no Rekishi that aired on Fuji TV. The corners feature characters from Chibi Maruko-chan, Dragon Ball Super, Kochira Katsushikaku Kameari Kouenmae Hashutsujo, and One Piece as they explore the history of Japan's from the Paleolithic to Heisei period.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 56,
+        "type": "anime",
+        "name": "Educational",
+        "url": "https://myanimelist.net/anime/genre/56/Educational"
+      },
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 951,
+            "type": "anime",
+            "name": "Chibi Maruko-chan",
+            "url": "https://myanimelist.net/anime/951/Chibi_Maruko-chan"
+          },
+          {
+            "mal_id": 3545,
+            "type": "anime",
+            "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+            "url": "https://myanimelist.net/anime/3545/Kochira_Katsushikaku_Kameari_Kouenmae_Hashutsujo"
+          },
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          },
+          {
+            "mal_id": 30694,
+            "type": "anime",
+            "name": "Dragon Ball Super",
+            "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.fujitv.co.jp/27h/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/FNS27%E6%99%82%E9%96%93%E3%83%86%E3%83%AC%E3%83%93_(2017%E5%B9%B4)#%E4%BC%81%E7%94%BB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

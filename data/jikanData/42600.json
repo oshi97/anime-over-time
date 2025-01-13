@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 42600,
+    "url": "https://myanimelist.net/anime/42600/Never_Giving_Up",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1251/109311.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1251/109311t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1251/109311l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1251/109311.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1251/109311t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1251/109311l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Never Giving Up!"
+      },
+      {
+        "type": "Japanese",
+        "title": "Never giving up!"
+      }
+    ],
+    "title": "Never Giving Up!",
+    "title_english": null,
+    "title_japanese": "Never giving up!",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 1, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.45,
+    "scored_by": 1144,
+    "rank": null,
+    "popularity": 11285,
+    "members": 2356,
+    "favorites": 5,
+    "synopsis": "Music video released on the Love Live! official YouTube channel for the song Never giving up! that was featured on Chika Takami's first solo album \"One More Sunshine Story\". The video was animated by MONO-Devoid.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 104,
+        "type": "anime",
+        "name": "Lantis",
+        "url": "https://myanimelist.net/anime/producer/104/Lantis"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.lovelive-anime.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Aqours_First_Solo_Concert_Album#Takami_Chika"
+      }
+    ],
+    "streaming": []
+  }
+}

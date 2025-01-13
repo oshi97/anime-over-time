@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 35324,
+    "url": "https://myanimelist.net/anime/35324/Tadaima",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85058.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85058t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85058l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85058.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85058t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85058l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tadaima."
+      },
+      {
+        "type": "Japanese",
+        "title": "ただいま。"
+      },
+      {
+        "type": "English",
+        "title": "I'm home."
+      }
+    ],
+    "title": "Tadaima.",
+    "title_english": "I'm home.",
+    "title_japanese": "ただいま。",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 28, 2017"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.71,
+    "scored_by": 165,
+    "rank": null,
+    "popularity": 19115,
+    "members": 327,
+    "favorites": 0,
+    "synopsis": "Music video by Oshima Tomoko.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tomoko-oshima.com/tagged/mv"
+      }
+    ],
+    "streaming": []
+  }
+}

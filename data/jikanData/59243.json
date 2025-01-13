@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 59243,
+    "url": "https://myanimelist.net/anime/59243/Mayi_Chuanqi__Shenmu_Qi_Yuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1465/144097.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/144097t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/144097l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1465/144097.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/144097t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/144097l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mayi Chuanqi: Shenmu Qi Yuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "蚂蚁传奇之神木奇缘"
+      },
+      {
+        "type": "English",
+        "title": "Ant Legend"
+      }
+    ],
+    "title": "Mayi Chuanqi: Shenmu Qi Yuan",
+    "title_english": "Ant Legend",
+    "title_japanese": "蚂蚁传奇之神木奇缘",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 16, 2023"
+    },
+    "duration": "1 hr 30 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17399,
+    "popularity": 27533,
+    "members": 60,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59244,
+            "type": "anime",
+            "name": "Mayi Chuanqi: Liehuo Chongsheng",
+            "url": "https://myanimelist.net/anime/59244/Mayi_Chuanqi__Liehuo_Chongsheng"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 57458,
+            "type": "anime",
+            "name": "Mayi Chuanqi: Zhongji Yi Zhan",
+            "url": "https://myanimelist.net/anime/57458/Mayi_Chuanqi__Zhongji_Yi_Zhan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36678427/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 48945,
+    "url": "https://myanimelist.net/anime/48945/Haru_Dorobou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1049/114893.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/114893t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/114893l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1049/114893.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/114893t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/114893l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haru Dorobou"
+      },
+      {
+        "type": "Japanese",
+        "title": "春泥棒"
+      },
+      {
+        "type": "English",
+        "title": "Spring Thief"
+      }
+    ],
+    "title": "Haru Dorobou",
+    "title_english": "Spring Thief",
+    "title_japanese": "春泥棒",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 9, 2021"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.97,
+    "scored_by": 590,
+    "rank": null,
+    "popularity": 14069,
+    "members": 1027,
+    "favorites": 1,
+    "synopsis": "Music video directed by Kohta Morie for the song Haru Dorobou by Yorushika.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2054,
+        "type": "anime",
+        "name": "MORIE Inc.",
+        "url": "https://myanimelist.net/anime/producer/2054/MORIE_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yorushika.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yorushika"
+      }
+    ],
+    "streaming": []
+  }
+}

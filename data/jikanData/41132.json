@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 41132,
+    "url": "https://myanimelist.net/anime/41132/Tokyo_Autumn_Session",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1685/105598.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/105598t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/105598l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1685/105598.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/105598t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/105598l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tokyo Autumn Session"
+      },
+      {
+        "type": "Japanese",
+        "title": "東京オータムセッション"
+      },
+      {
+        "type": "English",
+        "title": "Tokyo Autumn Session"
+      }
+    ],
+    "title": "Tokyo Autumn Session",
+    "title_english": "Tokyo Autumn Session",
+    "title_japanese": "東京オータムセッション",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 24, 2020"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 7.5,
+    "scored_by": 3574,
+    "rank": null,
+    "popularity": 7320,
+    "members": 8146,
+    "favorites": 15,
+    "synopsis": "What does it mean to become an adult? While it may seem like it brings freedom, the transition into adulthood can also create a gap between loved ones. For the teenagers who once laughed together, work, distance, and responsibilities widen the rift between them. Reminiscence reminds them of the joy-filled times when they were more carefree, and even now, through thick and thin, their love perseveres.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 306,
+        "type": "anime",
+        "name": "Magic Capsule",
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31245,
+            "type": "anime",
+            "name": "Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai",
+            "url": "https://myanimelist.net/anime/31245/Zutto_Mae_kara_Suki_deshita_Kokuhaku_Jikkou_Iinkai"
+          },
+          {
+            "mal_id": 36220,
+            "type": "anime",
+            "name": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+            "url": "https://myanimelist.net/anime/36220/Itsudatte_Bokura_no_Koi_wa_10_cm_Datta"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=asZ0SVwCec4"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25437"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 47351,
+    "url": "https://myanimelist.net/anime/47351/Kaibutsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1959/128937.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/128937t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/128937l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1959/128937.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/128937t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/128937l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaibutsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "怪物"
+      },
+      {
+        "type": "English",
+        "title": "Monster (Music)"
+      }
+    ],
+    "title": "Kaibutsu",
+    "title_english": "Monster (Music)",
+    "title_japanese": "怪物",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 13, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.63,
+    "scored_by": 1166,
+    "rank": null,
+    "popularity": 12051,
+    "members": 1873,
+    "favorites": 7,
+    "synopsis": "Beastars-themed animated music video for the song Kaibutsu by YOASOBI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40935,
+            "type": "anime",
+            "name": "Beastars 2nd Season",
+            "url": "https://myanimelist.net/anime/40935/Beastars_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/dy90tA3TT1c"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kaibutsu#Music_video"
+      }
+    ],
+    "streaming": []
+  }
+}

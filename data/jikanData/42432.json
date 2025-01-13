@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 42432,
+    "url": "https://myanimelist.net/anime/42432/Kyou_kara_Omoide",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1075/108448.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1075/108448t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1075/108448l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1075/108448.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1075/108448t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1075/108448l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyou kara Omoide"
+      },
+      {
+        "type": "Japanese",
+        "title": "今日から思い出"
+      }
+    ],
+    "title": "Kyou kara Omoide",
+    "title_english": null,
+    "title_japanese": "今日から思い出",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-03-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 3,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 20, 2013"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.33,
+    "scored_by": 311,
+    "rank": null,
+    "popularity": 15824,
+    "members": 632,
+    "favorites": 1,
+    "synopsis": "Music video by Aimer for the song Kyou Kara Omoide that was on her 5th single Re:I Am. The video was directed by Gaku Kinoshita.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1918,
+        "type": "anime",
+        "name": "SME Records",
+        "url": "https://myanimelist.net/anime/producer/1918/SME_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42439,
+            "type": "anime",
+            "name": "Mine",
+            "url": "https://myanimelist.net/anime/42439/Mine"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 42380,
+            "type": "anime",
+            "name": "Re:I Am",
+            "url": "https://myanimelist.net/anime/42380/Re_I_Am"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.aimer-web.jp/movie/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/RE:I_AM_EP"
+      }
+    ],
+    "streaming": []
+  }
+}

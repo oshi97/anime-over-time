@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 57446,
+    "url": "https://myanimelist.net/anime/57446/Momomo_Mozzarella_Alien_Again",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1357/140184.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/140184t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/140184l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1357/140184.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/140184t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/140184l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Momomo Mozzarella Alien Again"
+      },
+      {
+        "type": "Japanese",
+        "title": "モモモ・モッツァレラ星人アゲイン"
+      }
+    ],
+    "title": "Momomo Mozzarella Alien Again",
+    "title_english": null,
+    "title_japanese": "モモモ・モッツァレラ星人アゲイン",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 27, 2017"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21945,
+    "members": 168,
+    "favorites": 0,
+    "synopsis": "The second Mozzarella Alien commercial.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35003,
+            "type": "anime",
+            "name": "Tanoshii Saki Uta Animation",
+            "url": "https://myanimelist.net/anime/35003/Tanoshii_Saki_Uta_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57447,
+            "type": "anime",
+            "name": "Shakafuri Song",
+            "url": "https://myanimelist.net/anime/57447/Shakafuri_Song"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Pb7Bpm04DWQ"
+      }
+    ],
+    "streaming": []
+  }
+}

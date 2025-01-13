@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 41568,
+    "url": "https://myanimelist.net/anime/41568/ARP_Backstage_Pass__Paradise",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/107861t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/107861l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1108/107861.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/107861t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/107861l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "ARP Backstage Pass: Paradise"
+      },
+      {
+        "type": "Synonym",
+        "title": "ARP Backstage Pass Episode 11"
+      },
+      {
+        "type": "Japanese",
+        "title": "ARP Backstage Pass Paradise"
+      }
+    ],
+    "title": "ARP Backstage Pass: Paradise",
+    "title_english": null,
+    "title_japanese": "ARP Backstage Pass Paradise",
+    "title_synonyms": [
+      "ARP Backstage Pass Episode 11"
+    ],
+    "type": "Special",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 13, 2020"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.79,
+    "scored_by": 362,
+    "rank": 10936,
+    "popularity": 13033,
+    "members": 1358,
+    "favorites": 4,
+    "synopsis": "Unaired episode included with volume 4 of the Bluray/DVD.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1263,
+        "type": "anime",
+        "name": "Dynamo Pictures",
+        "url": "https://myanimelist.net/anime/producer/1263/Dynamo_Pictures"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40137,
+            "type": "anime",
+            "name": "ARP Backstage Pass",
+            "url": "https://myanimelist.net/anime/40137/ARP_Backstage_Pass"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://arp-anime.com/bddvd"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14292"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22347"
+      }
+    ],
+    "streaming": []
+  }
+}

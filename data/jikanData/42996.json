@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 42996,
+    "url": "https://myanimelist.net/anime/42996/Its_So_Good_Now",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/109568.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/109568t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/109568l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/109568.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/109568t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/109568l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "It's So Good Now"
+      },
+      {
+        "type": "Synonym",
+        "title": "I So Gu Na"
+      },
+      {
+        "type": "Japanese",
+        "title": "い・そ・ぐ・な"
+      }
+    ],
+    "title": "It's So Good Now",
+    "title_english": null,
+    "title_japanese": "い・そ・ぐ・な",
+    "title_synonyms": [
+      "I So Gu Na"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2005"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.63,
+    "scored_by": 134,
+    "rank": null,
+    "popularity": 20137,
+    "members": 267,
+    "favorites": 1,
+    "synopsis": "Music video by AC-bu for the song It's So Good Now by Japanese hip-hop group Zamagi that was included on their second album.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%9E%E3%82%AE#%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

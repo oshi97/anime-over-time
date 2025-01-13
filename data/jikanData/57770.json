@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 57770,
+    "url": "https://myanimelist.net/anime/57770/Guuzou_Nightmare",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/140796.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/140796t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/140796l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1946/140796.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/140796t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/140796l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Guuzou Nightmare"
+      },
+      {
+        "type": "Japanese",
+        "title": "偶像ナイトメア"
+      }
+    ],
+    "title": "Guuzou Nightmare",
+    "title_english": null,
+    "title_japanese": "偶像ナイトメア",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 31, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22920,
+    "members": 131,
+    "favorites": 0,
+    "synopsis": "Music video for the song Guuzou Nightmare by VALIS.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2309,
+        "type": "anime",
+        "name": "Kamitsubaki Studio",
+        "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://valis.kamitsubaki.jp"
+      }
+    ],
+    "streaming": []
+  }
+}

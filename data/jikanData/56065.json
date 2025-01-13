@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56065,
+    "url": "https://myanimelist.net/anime/56065/Shiny_Smily_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1245/137333.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/137333t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/137333l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1245/137333.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/137333t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/137333l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shiny Smily Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "Shiny Smily Story"
+      },
+      {
+        "type": "English",
+        "title": "Shiny Smily Story"
+      }
+    ],
+    "title": "Shiny Smily Story",
+    "title_english": "Shiny Smily Story",
+    "title_japanese": "Shiny Smily Story",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 15, 2019"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.53,
+    "scored_by": 281,
+    "rank": null,
+    "popularity": 16888,
+    "members": 501,
+    "favorites": 2,
+    "synopsis": "A teaser music video to the first official song of the hololive IDOL PROJECT, Shiny Smily Story, performed by the VTuber talents of Hololive Production.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RrsGNMMghKM"
+      }
+    ],
+    "streaming": []
+  }
+}

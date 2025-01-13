@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 35734,
+    "url": "https://myanimelist.net/anime/35734/Zoojazoo_Watashi_no_Onaka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86259.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86259t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86259l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/86259.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/86259t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/86259l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zoojazoo \"Watashi no Onaka\""
+      },
+      {
+        "type": "Japanese",
+        "title": "ズージャズー「わたしのおなか」"
+      },
+      {
+        "type": "English",
+        "title": "Zoojazoo “My Stomach”"
+      }
+    ],
+    "title": "Zoojazoo \"Watashi no Onaka\"",
+    "title_english": "Zoojazoo “My Stomach”",
+    "title_japanese": "ズージャズー「わたしのおなか」",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-12-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 8, 2015"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 4.97,
+    "scored_by": 243,
+    "rank": null,
+    "popularity": 17324,
+    "members": 459,
+    "favorites": 0,
+    "synopsis": "(360° VR) Animation Video by Asami Ike.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 40785,
+            "type": "anime",
+            "name": "Koala no Goodbye Song",
+            "url": "https://myanimelist.net/anime/40785/Koala_no_Goodbye_Song"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=T9DRgYuS1K0"
+      }
+    ],
+    "streaming": []
+  }
+}

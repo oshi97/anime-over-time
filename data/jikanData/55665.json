@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 55665,
+    "url": "https://myanimelist.net/anime/55665/Mitsubachi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1999/136483.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/136483t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/136483l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1999/136483.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/136483t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/136483l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mitsubachi"
+      },
+      {
+        "type": "Japanese",
+        "title": "蜜蜂"
+      },
+      {
+        "type": "English",
+        "title": "Honey Bee"
+      }
+    ],
+    "title": "Mitsubachi",
+    "title_english": "Honey Bee",
+    "title_japanese": "蜜蜂",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 11, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23205,
+    "members": 122,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mitsubachi by DUSTCELL.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CURwRQpY0tc"
+      }
+    ],
+    "streaming": []
+  }
+}

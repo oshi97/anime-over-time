@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 40459,
+    "url": "https://myanimelist.net/anime/40459/Ensemble_Stars_Picture_Drama",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/103322.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/103322t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/103322l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/103322.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/103322t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/103322l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ensemble Stars! Picture Drama"
+      },
+      {
+        "type": "Japanese",
+        "title": "あんさんぶるスターズ！ピクチャードラマ"
+      }
+    ],
+    "title": "Ensemble Stars! Picture Drama",
+    "title_english": null,
+    "title_japanese": "あんさんぶるスターズ！ピクチャードラマ",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-26T00:00:00+00:00",
+      "to": "2020-04-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": 24,
+          "month": 4,
+          "year": 2020
+        }
+      },
+      "string": "Sep 26, 2019 to Apr 24, 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.32,
+    "scored_by": 182,
+    "rank": 8129,
+    "popularity": 12359,
+    "members": 1677,
+    "favorites": 5,
+    "synopsis": "The DVD/BD release of Ensemble Stars! will contain chibi picture dramas.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1793,
+        "type": "anime",
+        "name": "Happy Elements",
+        "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 95757,
+            "type": "manga",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/manga/95757/Ensemble_Stars"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32212,
+            "type": "anime",
+            "name": "Ensemble Stars!",
+            "url": "https://myanimelist.net/anime/32212/Ensemble_Stars"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ensemblestars-anime.com/bd"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11810"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22259"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ensemble_Stars!#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

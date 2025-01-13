@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 60024,
+    "url": "https://myanimelist.net/anime/60024/Monotone",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/145884.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/145884t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/145884l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/145884.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/145884t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/145884l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Monotone"
+      },
+      {
+        "type": "Japanese",
+        "title": "モノトーン"
+      }
+    ],
+    "title": "Monotone",
+    "title_english": null,
+    "title_japanese": "モノトーン",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 1, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.43,
+    "scored_by": 110,
+    "rank": null,
+    "popularity": 20816,
+    "members": 229,
+    "favorites": 1,
+    "synopsis": "Music video for the song Monotone by YOASOBI. The song is based on the short story Fureru. no, Zenya by Mari Okada and was featured as the ending for Fureru.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2891,
+        "type": "anime",
+        "name": "A4A Inc.",
+        "url": "https://myanimelist.net/anime/producer/2891/A4A_Inc"
+      },
+      {
+        "mal_id": 3010,
+        "type": "anime",
+        "name": ".MP",
+        "url": "https://myanimelist.net/anime/producer/3010/MP"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      },
+      {
+        "mal_id": 2570,
+        "type": "anime",
+        "name": "Ijigen Tokyo",
+        "url": "https://myanimelist.net/anime/producer/2570/Ijigen_Tokyo"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57448,
+            "type": "anime",
+            "name": "Fureru.",
+            "url": "https://myanimelist.net/anime/57448/Fureru"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://fureru-movie.com/special/novel/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=sJ-2X3rHtXw"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monotone_(song)#Music_video"
+      }
+    ],
+    "streaming": []
+  }
+}

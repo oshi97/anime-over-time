@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 46203,
+    "url": "https://myanimelist.net/anime/46203/Shi_Er_Shengxiao_2009",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/129136.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/129136t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/129136l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1676/129136.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1676/129136t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1676/129136l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shi Er Shengxiao (2009)"
+      },
+      {
+        "type": "Synonym",
+        "title": "十二生肖升仙记"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shi Er Shengxiao: Sheng Xian Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "十二生肖"
+      }
+    ],
+    "title": "Shi Er Shengxiao (2009)",
+    "title_english": null,
+    "title_japanese": "十二生肖",
+    "title_synonyms": [
+      "十二生肖升仙记",
+      "Shi Er Shengxiao: Sheng Xian Ji"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14016,
+    "popularity": 26160,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 46329,
+            "type": "anime",
+            "name": "Shi Er Shengxiao: Wufu Waizhuan",
+            "url": "https://myanimelist.net/anime/46329/Shi_Er_Shengxiao__Wufu_Waizhuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV19W411h7eJ/?spm_id_from=333.788.recommend_more_video.1"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/26599082/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 36725,
+    "url": "https://myanimelist.net/anime/36725/Naisho_no_Hanashi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88799.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88799t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88799l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88799.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88799t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88799l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Naisho no Hanashi"
+      },
+      {
+        "type": "Japanese",
+        "title": "ナイショの話"
+      }
+    ],
+    "title": "Naisho no Hanashi",
+    "title_english": null,
+    "title_japanese": "ナイショの話",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 1, 2012"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.13,
+    "scored_by": 2456,
+    "rank": null,
+    "popularity": 8198,
+    "members": 6102,
+    "favorites": 0,
+    "synopsis": "Naisho no Hanashi is a pop song by the Japanese duo and idol unit ClariS, written by Ryo. It was released as the unit's fourth single on February 1, 2012, by SME Records. The song was used as the ending theme to the 2012 anime series Nisemonogatari. A music video was produced for the song, directed by Kazuaki Nakamura.\n\n(Source: Wikipedia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 11597,
+            "type": "anime",
+            "name": "Nisemonogatari",
+            "url": "https://myanimelist.net/anime/11597/Nisemonogatari"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naisho_no_Hanashi"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 58835,
+    "url": "https://myanimelist.net/anime/58835/Pokemon_Home_Introduction_Video",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/142938.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/142938t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/142938l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1476/142938.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1476/142938t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1476/142938l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Home Introduction Video"
+      },
+      {
+        "type": "Japanese",
+        "title": "『Pokémon HOME』 紹介動画"
+      }
+    ],
+    "title": "Pokemon Home Introduction Video",
+    "title_english": null,
+    "title_japanese": "『Pokémon HOME』 紹介動画",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Game",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 10, 2024"
+    },
+    "duration": "45 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21052,
+    "members": 215,
+    "favorites": 0,
+    "synopsis": "For those of you who play the \"Pokémon\" series but don't use \"Pokémon HOME\", I'd like to introduce you to the charm of \"Pokémon HOME\"!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m.youtube.com/@PokemonCoJp/videos"
+      }
+    ],
+    "streaming": []
+  }
+}

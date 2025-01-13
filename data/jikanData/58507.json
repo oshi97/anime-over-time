@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 58507,
+    "url": "https://myanimelist.net/anime/58507/Pokemon_Card_wo_Yattemita",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1117/142216.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/142216t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/142216l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1117/142216.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/142216t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/142216l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Card wo Yattemita"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンカードをやってみたい"
+      }
+    ],
+    "title": "Pokemon Card wo Yattemita",
+    "title_english": null,
+    "title_japanese": "ポケモンカードをやってみたい",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 21, 2024"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 5.72,
+    "scored_by": 123,
+    "rank": null,
+    "popularity": 20007,
+    "members": 275,
+    "favorites": 0,
+    "synopsis": "Animated commercial for the Pokemon Battle Academy starter kit.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon-card.com/ex/svi"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+      }
+    ],
+    "streaming": []
+  }
+}

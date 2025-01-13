@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 54164,
+    "url": "https://myanimelist.net/anime/54164/Muja",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1153/132600.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/132600t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/132600l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1153/132600.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/132600t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/132600l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Muja"
+      },
+      {
+        "type": "Japanese",
+        "title": "MUJA"
+      }
+    ],
+    "title": "Muja",
+    "title_english": null,
+    "title_japanese": "MUJA",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 8, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22118,
+    "members": 161,
+    "favorites": 0,
+    "synopsis": "Animated music video for mino's single Muja.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=0f6M9CPeEVc&list=TLPQMTAwMTIwMjM1BN_2XuFeIQ"
+      }
+    ],
+    "streaming": []
+  }
+}

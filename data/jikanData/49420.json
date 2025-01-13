@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 49420,
+    "url": "https://myanimelist.net/anime/49420/Sangenshoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1265/117922.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1265/117922t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1265/117922l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1265/117922.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1265/117922t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1265/117922l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sangenshoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Three Primary Colors"
+      },
+      {
+        "type": "Japanese",
+        "title": "三原色"
+      },
+      {
+        "type": "English",
+        "title": "RGB"
+      }
+    ],
+    "title": "Sangenshoku",
+    "title_english": "RGB",
+    "title_japanese": "三原色",
+    "title_synonyms": [
+      "Three Primary Colors"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 3, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.09,
+    "scored_by": 622,
+    "rank": null,
+    "popularity": 13818,
+    "members": 1094,
+    "favorites": 2,
+    "synopsis": "Music video of the song Sangenshoku by Yoasobi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/nhOhFOoURnE"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sangenshoku"
+      }
+    ],
+    "streaming": []
+  }
+}

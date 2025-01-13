@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 55820,
+    "url": "https://myanimelist.net/anime/55820/RYuk",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1401/136786.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1401/136786t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1401/136786l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1401/136786.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1401/136786t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1401/136786l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "R.Yuk"
+      },
+      {
+        "type": "Japanese",
+        "title": "リ・ユーク"
+      }
+    ],
+    "title": "R.Yuk",
+    "title_english": null,
+    "title_japanese": "リ・ユーク",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 22, 2020"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22950,
+    "members": 130,
+    "favorites": 0,
+    "synopsis": "Music video for the song R.Yuk by Kankan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55423,
+            "type": "anime",
+            "name": "Dorothy",
+            "url": "https://myanimelist.net/anime/55423/Dorothy"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

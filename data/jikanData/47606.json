@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 47606,
+    "url": "https://myanimelist.net/anime/47606/Chao_Mini_Zhanshi_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1157/130177.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/130177t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/130177l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1157/130177.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/130177t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/130177l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chao Mini Zhanshi 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "超迷你战士 第二季"
+      }
+    ],
+    "title": "Chao Mini Zhanshi 2nd Season",
+    "title_english": null,
+    "title_japanese": "超迷你战士 第二季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019 to ?"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19669,
+    "popularity": 26307,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47604,
+            "type": "anime",
+            "name": "Chao Mini Zhanshi",
+            "url": "https://myanimelist.net/anime/47604/Chao_Mini_Zhanshi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47607,
+            "type": "anime",
+            "name": "Chao Mini Zhanshi 3rd Season",
+            "url": "https://myanimelist.net/anime/47607/Chao_Mini_Zhanshi_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

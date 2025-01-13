@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 57306,
+    "url": "https://myanimelist.net/anime/57306/Qingwa_Wangguo__Jixian_Yundong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1845/139922.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1845/139922t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1845/139922l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1845/139922.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1845/139922t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1845/139922l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qingwa Wangguo: Jixian Yundong"
+      },
+      {
+        "type": "Japanese",
+        "title": "青蛙王国之极限运动"
+      }
+    ],
+    "title": "Qingwa Wangguo: Jixian Yundong",
+    "title_english": null,
+    "title_japanese": "青蛙王国之极限运动",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 10, 2022"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18597,
+    "popularity": 25255,
+    "members": 86,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35913,
+            "type": "anime",
+            "name": "Qingwa Wangguo: Bingdong Da Maoxian",
+            "url": "https://myanimelist.net/anime/35913/Qingwa_Wangguo__Bingdong_Da_Maoxian"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57307,
+            "type": "anime",
+            "name": "Qingwa Wangguo: Qihuan Nuwang Lixian",
+            "url": "https://myanimelist.net/anime/57307/Qingwa_Wangguo__Qihuan_Nuwang_Lixian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/青蛙王国之极限运动/53572075"
+      }
+    ],
+    "streaming": []
+  }
+}

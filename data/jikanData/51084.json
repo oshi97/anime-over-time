@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 51084,
+    "url": "https://myanimelist.net/anime/51084/I_Wanna",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1239/121042.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/121042t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/121042l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1239/121042.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/121042t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/121042l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "I Wanna"
+      },
+      {
+        "type": "Japanese",
+        "title": "あいわな"
+      },
+      {
+        "type": "English",
+        "title": "I Wanna"
+      }
+    ],
+    "title": "I Wanna",
+    "title_english": "I Wanna",
+    "title_japanese": "あいわな",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 18, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.87,
+    "scored_by": 850,
+    "rank": null,
+    "popularity": 12342,
+    "members": 1685,
+    "favorites": 3,
+    "synopsis": "Official music video for the song I Wanna by Minato Aqua.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/swX1O_a_vAk"
+      }
+    ],
+    "streaming": []
+  }
+}

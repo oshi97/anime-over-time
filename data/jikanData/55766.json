@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 55766,
+    "url": "https://myanimelist.net/anime/55766/Replica",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/136676.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/136676t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/136676l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/136676.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/136676t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/136676l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Replica"
+      },
+      {
+        "type": "Japanese",
+        "title": "レプリカ"
+      }
+    ],
+    "title": "Replica",
+    "title_english": null,
+    "title_japanese": "レプリカ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 10, 2019"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22132,
+    "members": 161,
+    "favorites": 0,
+    "synopsis": "Music video for the song Replica by sasakure.UK.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sasakure.uk.com/movie"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Sasakure.UK#%E5%90%8C%E4%BA%BA"
+      }
+    ],
+    "streaming": []
+  }
+}

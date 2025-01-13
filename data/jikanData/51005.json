@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 51005,
+    "url": "https://myanimelist.net/anime/51005/Imaginary_Express",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1638/120906.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1638/120906t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1638/120906l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1638/120906.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1638/120906t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1638/120906l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Imaginary Express"
+      },
+      {
+        "type": "Japanese",
+        "title": "Imaginary Express"
+      }
+    ],
+    "title": "Imaginary Express",
+    "title_english": null,
+    "title_japanese": "Imaginary Express",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 23, 2020"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.52,
+    "scored_by": 191,
+    "rank": null,
+    "popularity": 18593,
+    "members": 363,
+    "favorites": 1,
+    "synopsis": "Music video for the song Imaginary Express by Snail's House from the album \"Imaginarium\".",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51376,
+            "type": "anime",
+            "name": "Christmas of a Wandering Ghost",
+            "url": "https://myanimelist.net/anime/51376/Christmas_of_a_Wandering_Ghost"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/RLrh1IstMHM"
+      }
+    ],
+    "streaming": []
+  }
+}

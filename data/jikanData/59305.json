@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 59305,
+    "url": "https://myanimelist.net/anime/59305/Oh_Pilseung_Korea",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1280/144270.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/144270t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/144270l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1280/144270.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/144270t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/144270l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oh Pilseung Korea"
+      },
+      {
+        "type": "Japanese",
+        "title": "Oh Pilseung Korea"
+      }
+    ],
+    "title": "Oh Pilseung Korea",
+    "title_english": null,
+    "title_japanese": "Oh Pilseung Korea",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2007"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 25200,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": "Music video for the song Oh Pilseung Korea by B-DASH.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 52162,
+            "type": "anime",
+            "name": "5-Okunen Button",
+            "url": "https://myanimelist.net/anime/52162/5-Okunen_Button"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/B-DASH"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 51449,
+    "url": "https://myanimelist.net/anime/51449/A_Lot_of_Life",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1393/121976.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/121976t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/121976l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1393/121976.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/121976t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/121976l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "A Lot of Life"
+      },
+      {
+        "type": "Japanese",
+        "title": "A lot of life"
+      },
+      {
+        "type": "English",
+        "title": "A Lot of Life"
+      }
+    ],
+    "title": "A Lot of Life",
+    "title_english": "A Lot of Life",
+    "title_japanese": "A lot of life",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 20, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.34,
+    "scored_by": 406,
+    "rank": null,
+    "popularity": 15079,
+    "members": 768,
+    "favorites": 1,
+    "synopsis": "Animated music video for Photon Maiden's song A Lot of Life.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 39681,
+            "type": "anime",
+            "name": "D4DJ First Mix",
+            "url": "https://myanimelist.net/anime/39681/D4DJ_First_Mix"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/dbm-wKcSus4"
+      }
+    ],
+    "streaming": []
+  }
+}

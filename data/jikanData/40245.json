@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 40245,
+    "url": "https://myanimelist.net/anime/40245/Mitaiken_Horizon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1345/102565.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/102565t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/102565l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1345/102565.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/102565t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/102565l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "TJ20hjGgVag",
+      "url": "https://www.youtube.com/watch?v=TJ20hjGgVag",
+      "embed_url": "https://www.youtube.com/embed/TJ20hjGgVag?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/TJ20hjGgVag/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/TJ20hjGgVag/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/TJ20hjGgVag/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/TJ20hjGgVag/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/TJ20hjGgVag/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mitaiken Horizon"
+      },
+      {
+        "type": "Japanese",
+        "title": "未体験 HORIZON"
+      }
+    ],
+    "title": "Mitaiken Horizon",
+    "title_english": null,
+    "title_japanese": "未体験 HORIZON",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 25, 2019"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": 7.17,
+    "scored_by": 1919,
+    "rank": null,
+    "popularity": 9396,
+    "members": 4213,
+    "favorites": 8,
+    "synopsis": "Music video included with the fourth single for the Love Live! Sunshine!! anime idol group Aqours.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 104,
+        "type": "anime",
+        "name": "Lantis",
+        "url": "https://myanimelist.net/anime/producer/104/Lantis"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32526,
+            "type": "anime",
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=r78ZX-_fDds"
+      }
+    ],
+    "streaming": []
+  }
+}

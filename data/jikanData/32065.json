@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 32065,
+    "url": "https://myanimelist.net/anime/32065/Kimi_no_Sumu_Machi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/77092.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/77092t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/77092l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/77092.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/77092t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/77092l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "0zdolT-7HQM",
+      "url": "https://www.youtube.com/watch?v=0zdolT-7HQM",
+      "embed_url": "https://www.youtube.com/embed/0zdolT-7HQM?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/0zdolT-7HQM/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/0zdolT-7HQM/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/0zdolT-7HQM/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/0zdolT-7HQM/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/0zdolT-7HQM/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kimi no Sumu Machi"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Town You Live In"
+      },
+      {
+        "type": "Japanese",
+        "title": "君が棲む街"
+      }
+    ],
+    "title": "Kimi no Sumu Machi",
+    "title_english": null,
+    "title_japanese": "君が棲む街",
+    "title_synonyms": [
+      "The Town You Live In"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-11-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 11,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 21, 2015"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.08,
+    "scored_by": 555,
+    "rank": 9511,
+    "popularity": 12811,
+    "members": 1452,
+    "favorites": 1,
+    "synopsis": "Original short animation that aired as part of promotion for the event \"Bunkyo+Waseda Bungo Week\". The video aims to convey the appeal of Bunkyo and Waseda area in Tokyo.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.b-kushoren.com/bungoweek/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11775"
+      }
+    ],
+    "streaming": []
+  }
+}

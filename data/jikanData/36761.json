@@ -1,0 +1,179 @@
+{
+  "data": {
+    "mal_id": 36761,
+    "url": "https://myanimelist.net/anime/36761/Osomatsu-san_Short_Film_Series_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/88890.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88890t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88890l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/88890.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88890t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88890l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Osomatsu-san Short Film Series 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mr. Osomatsu Short Film Series 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "おそ松さん ショートフィルムシリーズ 第2期"
+      }
+    ],
+    "title": "Osomatsu-san Short Film Series 2nd Season",
+    "title_english": null,
+    "title_japanese": "おそ松さん ショートフィルムシリーズ 第2期",
+    "title_synonyms": [
+      "Mr. Osomatsu Short Film Series 2nd Season"
+    ],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-26T00:00:00+00:00",
+      "to": "2018-07-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": 27,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      "string": "Jan 26, 2018 to Jul 27, 2018"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.94,
+    "scored_by": 371,
+    "rank": 10225,
+    "popularity": 11219,
+    "members": 2408,
+    "favorites": 4,
+    "synopsis": "Shorts included in the Osomatsu-san 2nd Season BD &amp; DVD releases.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1284,
+        "type": "anime",
+        "name": "Avex Pictures",
+        "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      },
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32383,
+            "type": "anime",
+            "name": "Osomatsu-san Short Film Series",
+            "url": "https://myanimelist.net/anime/32383/Osomatsu-san_Short_Film_Series"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 35067,
+            "type": "anime",
+            "name": "Osomatsu-san 2nd Season",
+            "url": "https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35018,
+            "type": "anime",
+            "name": "Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2",
+            "url": "https://myanimelist.net/anime/35018/Osomatsu-san__Haru_no_Zenkoku_Dai_Senbatsu_Jouei-sai_-_Sentou_Quiz_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://osomatsusan.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12944"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Osomatsu-san"
+      }
+    ],
+    "streaming": []
+  }
+}

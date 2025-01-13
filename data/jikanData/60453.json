@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 60453,
+    "url": "https://myanimelist.net/anime/60453/Xiong_Chumo__Chongqi_Weilai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/146817.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/146817t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/146817l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/146817.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/146817t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/146817l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiong Chumo: Chongqi Weilai"
+      },
+      {
+        "type": "Japanese",
+        "title": "熊出没·重启未来"
+      },
+      {
+        "type": "English",
+        "title": "Boonie Bears: Future Reborn"
+      }
+    ],
+    "title": "Xiong Chumo: Chongqi Weilai",
+    "title_english": "Boonie Bears: Future Reborn",
+    "title_japanese": "熊出没·重启未来",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2025"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 26821,
+    "members": 69,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32807,
+            "type": "anime",
+            "name": "Xiong Chumo",
+            "url": "https://myanimelist.net/anime/32807/Xiong_Chumo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/熊出没·重启未来/64666911"
+      }
+    ],
+    "streaming": []
+  }
+}

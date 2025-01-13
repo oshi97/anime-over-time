@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 38477,
+    "url": "https://myanimelist.net/anime/38477/Start_no_Aizu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/95346.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/95346t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/95346l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/95346.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/95346t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/95346l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Start no Aizu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hibiki Ao"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ao Hibiki"
+      },
+      {
+        "type": "Japanese",
+        "title": "スタートの合図"
+      },
+      {
+        "type": "English",
+        "title": "Start Signal"
+      }
+    ],
+    "title": "Start no Aizu",
+    "title_english": "Start Signal",
+    "title_japanese": "スタートの合図",
+    "title_synonyms": [
+      "Hibiki Ao",
+      "Ao Hibiki"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 7, 2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.32,
+    "scored_by": 159,
+    "rank": null,
+    "popularity": 18632,
+    "members": 359,
+    "favorites": 0,
+    "synopsis": "Ao Hibiki is a virtual youtuber. Her character was signed on by the Avex Inc. as a musician for a radio program on August 23, 2018. This is the official music video created under the company's label. Avex stated on their official YouTube channel that if Ao doesn't get 1 million views, they will drop her from the radio program.\n\n(Source: Avex's Official YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 52,
+        "type": "anime",
+        "name": "Avex Entertainment",
+        "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hibiki-ao.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 37384,
+    "url": "https://myanimelist.net/anime/37384/Fire_Bird",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1648/99126.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/99126t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/99126l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1648/99126.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/99126t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/99126l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fire Bird"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fire Bird (hinotori full version)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hi no Tori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fire Bird"
+      },
+      {
+        "type": "English",
+        "title": "Fire Bird"
+      }
+    ],
+    "title": "Fire Bird",
+    "title_english": "Fire Bird",
+    "title_japanese": "Fire Bird",
+    "title_synonyms": [
+      "Fire Bird (hinotori full version)",
+      "Hi no Tori"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 31, 2016"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 349,
+    "rank": null,
+    "popularity": 15649,
+    "members": 658,
+    "favorites": 0,
+    "synopsis": "A music video produced by Tezuka Productions for the title track \"Fire Bird\" performed by Miyavi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 200,
+        "type": "anime",
+        "name": "Tezuka Productions",
+        "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1972,
+        "type": "anime",
+        "name": "HOTZIPANG",
+        "url": "https://myanimelist.net/anime/producer/1972/HOTZIPANG"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 1371,
+            "type": "anime",
+            "name": "Hi no Tori",
+            "url": "https://myanimelist.net/anime/1371/Hi_no_Tori"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

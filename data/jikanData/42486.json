@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 42486,
+    "url": "https://myanimelist.net/anime/42486/Shadowverse_Recaps",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1711/108554.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1711/108554t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1711/108554l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1711/108554.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1711/108554t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1711/108554l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shadowverse Recaps"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shadowverse Tokubetsu-hen"
+      },
+      {
+        "type": "Japanese",
+        "title": "シャドウバース特別編"
+      }
+    ],
+    "title": "Shadowverse Recaps",
+    "title_english": null,
+    "title_japanese": "シャドウバース特別編",
+    "title_synonyms": [
+      "Shadowverse Tokubetsu-hen"
+    ],
+    "type": "TV Special",
+    "source": "Card game",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-30T00:00:00+00:00",
+      "to": "2021-03-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": 30,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Jun 30, 2020 to Mar 30, 2021"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.52,
+    "scored_by": 349,
+    "rank": 12025,
+    "popularity": 14124,
+    "members": 1010,
+    "favorites": 0,
+    "synopsis": "Recap episodes of Shadowverse.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 16,
+        "type": "anime",
+        "name": "TV Tokyo",
+        "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+      },
+      {
+        "mal_id": 1858,
+        "type": "anime",
+        "name": "Sonilude",
+        "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 218,
+        "type": "anime",
+        "name": "Zexcs",
+        "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 40506,
+            "type": "anime",
+            "name": "Shadowverse",
+            "url": "https://myanimelist.net/anime/40506/Shadowverse"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://anime.shadowverse.jp/news/410/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15134"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22550"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shadowverse#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

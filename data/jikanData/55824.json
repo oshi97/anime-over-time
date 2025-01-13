@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 55824,
+    "url": "https://myanimelist.net/anime/55824/Writhe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1017/136817.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1017/136817t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1017/136817l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1017/136817.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1017/136817t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1017/136817l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Writhe"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fire Emblem Heroes - Writhe"
+      },
+      {
+        "type": "Japanese",
+        "title": "Writhe"
+      },
+      {
+        "type": "English",
+        "title": "Writhe"
+      }
+    ],
+    "title": "Writhe",
+    "title_english": "Writhe",
+    "title_japanese": "Writhe",
+    "title_synonyms": [
+      "Fire Emblem Heroes - Writhe"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 15, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Líf approaches, with an arcane weapon in hand and determination in his eyes...\n\n(Source: Official Twitter)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 43565,
+            "type": "anime",
+            "name": "Fire Emblem Heroes Book III Movie：Cohort of the Dead",
+            "url": "https://myanimelist.net/anime/43565/Fire_Emblem_Heroes_Book_III_Movie：Cohort_of_the_Dead"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53274,
+            "type": "anime",
+            "name": "Fire Emblem Heroes: Fjorm ga Utau - \"Koori no Hana\"",
+            "url": "https://myanimelist.net/anime/53274/Fire_Emblem_Heroes__Fjorm_ga_Utau_-_Koori_no_Hana"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

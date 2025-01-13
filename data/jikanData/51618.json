@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51618,
+    "url": "https://myanimelist.net/anime/51618/Boku_no_Sensou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1454/122669.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1454/122669t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1454/122669l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1454/122669.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1454/122669t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1454/122669l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boku no Sensou"
+      },
+      {
+        "type": "Japanese",
+        "title": "僕の戦争"
+      },
+      {
+        "type": "English",
+        "title": "My War"
+      }
+    ],
+    "title": "Boku no Sensou",
+    "title_english": "My War",
+    "title_japanese": "僕の戦争",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 3, 2022"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.37,
+    "scored_by": 1197,
+    "rank": null,
+    "popularity": 11530,
+    "members": 2195,
+    "favorites": 1,
+    "synopsis": "Music video for the Shinsei Kammattechan's song Boku no Sensou.\n\nThe song served as an opening theme for Shingeki no Kyojin: The Final Season.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1362,
+        "type": "anime",
+        "name": "Rabbit Machine",
+        "url": "https://myanimelist.net/anime/producer/1362/Rabbit_Machine"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40028,
+            "type": "anime",
+            "name": "Shingeki no Kyojin: The Final Season",
+            "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/goXKlOozyx8"
+      }
+    ],
+    "streaming": []
+  }
+}

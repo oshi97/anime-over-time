@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 36836,
+    "url": "https://myanimelist.net/anime/36836/Toho_Cinemas_x_Pokemon_Go",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/89069.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/89069t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/89069l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/89069.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/89069t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/89069l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Toho Cinemas x Pokemon Go"
+      },
+      {
+        "type": "Japanese",
+        "title": "ＴＯＨＯシネマズ × 『Pokémon GO』"
+      }
+    ],
+    "title": "Toho Cinemas x Pokemon Go",
+    "title_english": null,
+    "title_japanese": "ＴＯＨＯシネマズ × 『Pokémon GO』",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-03T00:00:00+00:00",
+      "to": "2017-06-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 30,
+          "month": 6,
+          "year": 2017
+        }
+      },
+      "string": "Mar 3, 2017 to Jun 30, 2017"
+    },
+    "duration": "21 sec per ep",
+    "rating": "G - All Ages",
+    "score": 5.54,
+    "scored_by": 1312,
+    "rank": null,
+    "popularity": 10247,
+    "members": 3201,
+    "favorites": 0,
+    "synopsis": "Collaboration shorts between Pokemon Go and Toho Cinemas, featuring Pikachu, shown in Toho theaters before films.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 245,
+        "type": "anime",
+        "name": "TOHO",
+        "url": "https://myanimelist.net/anime/producer/245/TOHO"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 34034,
+            "type": "anime",
+            "name": "Pokemon Sun & Moon",
+            "url": "https://myanimelist.net/anime/34034/Pokemon_Sun___Moon"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36835,
+            "type": "anime",
+            "name": "Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou",
+            "url": "https://myanimelist.net/anime/36835/Rudolf_to_Ippaiattena_x_Godzilla_x_Toho_Cinemas_Moving_Logo_Eizou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

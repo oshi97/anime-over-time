@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 36062,
+    "url": "https://myanimelist.net/anime/36062/Soccer",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87179.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87179t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87179l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/87179.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/87179t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/87179l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Soccer"
+      },
+      {
+        "type": "Japanese",
+        "title": "SOCCER"
+      },
+      {
+        "type": "English",
+        "title": "Soccer"
+      }
+    ],
+    "title": "Soccer",
+    "title_english": "Soccer",
+    "title_japanese": "SOCCER",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 5, 2017"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 4.47,
+    "scored_by": 349,
+    "rank": null,
+    "popularity": 15848,
+    "members": 627,
+    "favorites": 0,
+    "synopsis": "A music video for the song \"Soccer\" by the band Ninjas.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1715,
+        "type": "anime",
+        "name": "P-Vine Records",
+        "url": "https://myanimelist.net/anime/producer/1715/P-Vine_Records"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

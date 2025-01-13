@@ -1,0 +1,183 @@
+{
+  "data": {
+    "mal_id": 48456,
+    "url": "https://myanimelist.net/anime/48456/SK∞__Crazy_Rock_Jam",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1682/113409.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/113409t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/113409l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1682/113409.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/113409t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/113409l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "SK∞: Crazy Rock Jam"
+      },
+      {
+        "type": "Synonym",
+        "title": "SK8 the Infinity Episode 9.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "SK8 the Infinity Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "SK∞ エスケーエイト #9.5 PART『クレイジーロックJAM』"
+      }
+    ],
+    "title": "SK∞: Crazy Rock Jam",
+    "title_english": null,
+    "title_japanese": "SK∞ エスケーエイト #9.5 PART『クレイジーロックJAM』",
+    "title_synonyms": [
+      "SK8 the Infinity Episode 9.5",
+      "SK8 the Infinity Recap"
+    ],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 14, 2021"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.77,
+    "scored_by": 15675,
+    "rank": 5454,
+    "popularity": 3997,
+    "members": 34534,
+    "favorites": 271,
+    "synopsis": "Recap of the first 9 episodes of SK∞.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Aniplex",
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+      },
+      {
+        "mal_id": 166,
+        "type": "anime",
+        "name": "Movic",
+        "url": "https://myanimelist.net/anime/producer/166/Movic"
+      },
+      {
+        "mal_id": 1500,
+        "type": "anime",
+        "name": "ABC Animation",
+        "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Bones",
+        "url": "https://myanimelist.net/anime/producer/4/Bones"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 42923,
+            "type": "anime",
+            "name": "SK∞",
+            "url": "https://myanimelist.net/anime/42923/SK∞"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Paradise\" by Rude-α"
+      ],
+      "endings": [
+        "\"Infinity (インフィニティ)\" by Yuuri (優里)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://sk8-project.com/story/?id=9.5"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15736"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23777"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SK8_the_Infinity"
+      }
+    ],
+    "streaming": []
+  }
+}

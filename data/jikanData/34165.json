@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 34165,
+    "url": "https://myanimelist.net/anime/34165/Oishi-sa_Hajikeru_One_Piece",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/82171.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/82171t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/82171l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/82171.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/82171t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/82171l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oishi-sa Hajikeru! One Piece"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fanta"
+      },
+      {
+        "type": "Japanese",
+        "title": "おいしさハジケる！ワンピースコラボ"
+      },
+      {
+        "type": "English",
+        "title": "Deliciousness Explodes! One Piece"
+      }
+    ],
+    "title": "Oishi-sa Hajikeru! One Piece",
+    "title_english": "Deliciousness Explodes! One Piece",
+    "title_japanese": "おいしさハジケる！ワンピースコラボ",
+    "title_synonyms": [
+      "Fanta"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 11, 2016"
+    },
+    "duration": "15 sec",
+    "rating": "G - All Ages",
+    "score": 6.26,
+    "scored_by": 2838,
+    "rank": null,
+    "popularity": 7752,
+    "members": 6984,
+    "favorites": 6,
+    "synopsis": "A collaboration between Fanta and One Piece. The first episode features Luffy and Chopper rapping with Fanta Grape and Fanta Orange respectively in hand.",
+    "background": "Fanta will sell 8 limited edition bottles with One Piece characters on them.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.fanta.jp/onepiece/"
+      }
+    ],
+    "streaming": []
+  }
+}

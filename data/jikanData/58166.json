@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 58166,
+    "url": "https://myanimelist.net/anime/58166/Akkenai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1334/141484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1334/141484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1334/141484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1334/141484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1334/141484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1334/141484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akkenai"
+      },
+      {
+        "type": "Japanese",
+        "title": "あっけない"
+      },
+      {
+        "type": "English",
+        "title": "Abrupt"
+      }
+    ],
+    "title": "Akkenai",
+    "title_english": "Abrupt",
+    "title_japanese": "あっけない",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 19, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22660,
+    "members": 139,
+    "favorites": 0,
+    "synopsis": "Music video for the song Akkenai, performed by Meychan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yu_8dpZfZZ4"
+      }
+    ],
+    "streaming": []
+  }
+}

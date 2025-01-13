@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 50815,
+    "url": "https://myanimelist.net/anime/50815/Itll_Be_Fine",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/120920.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/120920t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/120920l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/120920.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/120920t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/120920l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "It'll Be Fine!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Project Piplup"
+      },
+      {
+        "type": "Synonym",
+        "title": "Project Pochama"
+      },
+      {
+        "type": "Japanese",
+        "title": "It'll be fine!"
+      }
+    ],
+    "title": "It'll Be Fine!",
+    "title_english": null,
+    "title_japanese": "It'll be fine!",
+    "title_synonyms": [
+      "Project Piplup",
+      "Project Pochama"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 14, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.63,
+    "scored_by": 635,
+    "rank": null,
+    "popularity": 13407,
+    "members": 1227,
+    "favorites": 0,
+    "synopsis": "A special animation MV It'll be fine! featuring Piplup has been released! It's a special medley that connects the ending theme of the anime Pokemon Diamond &amp; Pearl.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1231,
+        "type": "anime",
+        "name": "OLM Digital",
+        "url": "https://myanimelist.net/anime/producer/1231/OLM_Digital"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 1565,
+            "type": "anime",
+            "name": "Pokemon Diamond & Pearl",
+            "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl"
+          },
+          {
+            "mal_id": 51018,
+            "type": "anime",
+            "name": "Pochama Sweets",
+            "url": "https://myanimelist.net/anime/51018/Pochama_Sweets"
+          },
+          {
+            "mal_id": 51015,
+            "type": "anime",
+            "name": "Piplup Step",
+            "url": "https://myanimelist.net/anime/51015/Piplup_Step"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pokemon.jp/special/project_pochama/pochamaDPMV/"
+      }
+    ],
+    "streaming": []
+  }
+}

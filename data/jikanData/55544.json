@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 55544,
+    "url": "https://myanimelist.net/anime/55544/The_End",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/136239.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/136239t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/136239l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/136239.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/136239t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/136239l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "UUxxYVbDxw0",
+      "url": "https://www.youtube.com/watch?v=UUxxYVbDxw0",
+      "embed_url": "https://www.youtube.com/embed/UUxxYVbDxw0?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/UUxxYVbDxw0/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/UUxxYVbDxw0/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/UUxxYVbDxw0/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/UUxxYVbDxw0/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/UUxxYVbDxw0/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The End"
+      },
+      {
+        "type": "Synonym",
+        "title": "ATAK020 THE END"
+      },
+      {
+        "type": "Japanese",
+        "title": "THE END"
+      }
+    ],
+    "title": "The End",
+    "title_english": null,
+    "title_japanese": "THE END",
+    "title_synonyms": [
+      "ATAK020 THE END"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-12-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 12,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 1, 2012"
+    },
+    "duration": "1 hr 16 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.89,
+    "scored_by": 131,
+    "rank": null,
+    "popularity": 16429,
+    "members": 552,
+    "favorites": 11,
+    "synopsis": "THE END is an opera birthed out of the collaboration between Keiichirou Shibuya, director and script writer Toshiki Okada, and illustrator YKBX. This production does not feature any humans, and replacing all familiar elements of the non-existent singers and orchestras are aria and recitative by Hatsune Miku and Vocaloid, with a story told by computer-made music and visuals.\n\nThis production tests taking the traditional tragic structure of an opera asking \"What is death?\" and \"What is an end?\" and puts Hatsune Miku as the mediator to reread it in a modern way.\n\n(Source: Official Site)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40442,
+            "type": "anime",
+            "name": "Initiation feat. Hatsune Miku",
+            "url": "https://myanimelist.net/anime/40442/Initiation_feat_Hatsune_Miku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://web.archive.org/web/20140215002112/http://theend-official.com"
+      }
+    ],
+    "streaming": []
+  }
+}

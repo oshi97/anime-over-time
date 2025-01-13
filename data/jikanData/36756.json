@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 36756,
+    "url": "https://myanimelist.net/anime/36756/91_Daze",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88885.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88885t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88885l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/88885.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88885t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88885l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "91 Daze"
+      },
+      {
+        "type": "Japanese",
+        "title": "91 Daze"
+      }
+    ],
+    "title": "91 Daze",
+    "title_english": null,
+    "title_japanese": "91 Daze",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-11-30T00:00:00+00:00",
+      "to": "2017-07-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 11,
+          "year": 2016
+        },
+        "to": {
+          "day": 5,
+          "month": 7,
+          "year": 2017
+        }
+      },
+      "string": "Nov 30, 2016 to Jul 5, 2017"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.7,
+    "scored_by": 2397,
+    "rank": 11329,
+    "popularity": 8403,
+    "members": 5775,
+    "favorites": 6,
+    "synopsis": "91 Daze is a series of shorts included in various disk packages. They focus around Angelo, Nero, and sometimes Corteo in various comedic situations.\n\n(Source: 91-days.wikia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1119,
+        "type": "anime",
+        "name": "Shuka",
+        "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 68,
+        "type": "anime",
+        "name": "Organized Crime",
+        "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32998,
+            "type": "anime",
+            "name": "91 Days",
+            "url": "https://myanimelist.net/anime/32998/91_Days"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://91days.family/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12014"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18169"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/91_Days"
+      }
+    ],
+    "streaming": []
+  }
+}

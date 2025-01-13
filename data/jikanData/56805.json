@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 56805,
+    "url": "https://myanimelist.net/anime/56805/Yuusha",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/138863.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/138863t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/138863l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/138863.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/138863t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/138863l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuusha"
+      },
+      {
+        "type": "Japanese",
+        "title": "勇者"
+      },
+      {
+        "type": "English",
+        "title": "The Brave"
+      }
+    ],
+    "title": "Yuusha",
+    "title_english": "The Brave",
+    "title_japanese": "勇者",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 29, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.88,
+    "scored_by": 5063,
+    "rank": null,
+    "popularity": 7001,
+    "members": 9063,
+    "favorites": 40,
+    "synopsis": "Music video for the song Yuusha by YOASOBI.",
+    "background": "Adapted from parts of a special novel written by Jirou Kiso, supervised by Kanehito Yamada.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52991,
+            "type": "anime",
+            "name": "Sousou no Frieren",
+            "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=OIBODIPC_8Y"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Y%C5%ABsha_(song)"
+      }
+    ],
+    "streaming": []
+  }
+}

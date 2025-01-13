@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 35785,
+    "url": "https://myanimelist.net/anime/35785/Cell_no_Koi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/86388.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86388t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86388l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/86388.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86388t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86388l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cell no Koi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "セルの恋"
+      }
+    ],
+    "title": "Cell no Koi",
+    "title_english": null,
+    "title_japanese": "セルの恋",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-08-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 8,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 4, 2005"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 5.5,
+    "scored_by": 166,
+    "rank": null,
+    "popularity": 18145,
+    "members": 397,
+    "favorites": 0,
+    "synopsis": "A starfish boy \"Cell\" falls in love with the beautiful mermaid princess.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN200508_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%81%AE%E6%81%8B"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 37842,
+    "url": "https://myanimelist.net/anime/37842/Poputepipikku_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1444/92651.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/92651t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/92651l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1444/92651.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/92651t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/92651l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Poputepipikku Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pop Team Epic Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Poputepipikku Eizou Tokuten"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポプテピピック 【映像特典】"
+      }
+    ],
+    "title": "Poputepipikku Specials",
+    "title_english": null,
+    "title_japanese": "ポプテピピック 【映像特典】",
+    "title_synonyms": [
+      "Pop Team Epic Specials",
+      "Poputepipikku Eizou Tokuten"
+    ],
+    "type": "Special",
+    "source": "4-koma manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-28T00:00:00+00:00",
+      "to": "2018-03-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": 28,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Feb 28, 2018 to Mar 28, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.97,
+    "scored_by": 790,
+    "rank": 10056,
+    "popularity": 10839,
+    "members": 2689,
+    "favorites": 0,
+    "synopsis": "Specials included in the Blu-ray and DVD releases of Poputepipikku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 35330,
+            "type": "anime",
+            "name": "Poputepipikku",
+            "url": "https://myanimelist.net/anime/35330/Poputepipikku"
+          },
+          {
+            "mal_id": 38291,
+            "type": "anime",
+            "name": "Bobunemimimmi Specials",
+            "url": "https://myanimelist.net/anime/38291/Bobunemimimmi_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://hoshiiro.jp/release/bddvd.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13067"
+      }
+    ],
+    "streaming": []
+  }
+}

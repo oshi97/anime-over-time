@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 40188,
+    "url": "https://myanimelist.net/anime/40188/Malta_no_Utaou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/102326.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/102326t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/102326l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/102326.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/102326t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/102326l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Malta no Utaou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Malta no Bouken Utaou"
+      },
+      {
+        "type": "Japanese",
+        "title": "マルタとうたおう"
+      }
+    ],
+    "title": "Malta no Utaou",
+    "title_english": null,
+    "title_japanese": "マルタとうたおう",
+    "title_synonyms": [
+      "Malta no Bouken Utaou"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-06-13T00:00:00+00:00",
+      "to": "2019-12-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 6,
+          "year": 2019
+        },
+        "to": {
+          "day": 15,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      "string": "Jun 13, 2019 to Dec 15, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21544,
+    "members": 189,
+    "favorites": 0,
+    "synopsis": "A musical rendition of the Malta no Bouken franchise. Each episode is a music video facilitating healthy habits (eg. episode 1 is an enka song about brushing teeth).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 38166,
+            "type": "anime",
+            "name": "Malta no Bouken Season 3",
+            "url": "https://myanimelist.net/anime/38166/Malta_no_Bouken_Season_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://malta-go.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

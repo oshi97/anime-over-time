@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 56900,
+    "url": "https://myanimelist.net/anime/56900/Project_Voltage",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1081/139076.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1081/139076t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/139076l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1081/139076.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1081/139076t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/139076l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Project Voltage"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon feat. Hatsune Miku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Project VOLTAGE - Pokemon feat. Hatsune Miku"
+      },
+      {
+        "type": "Synonym",
+        "title": "PokeMiku"
+      },
+      {
+        "type": "Japanese",
+        "title": "Project VOLTAGE"
+      }
+    ],
+    "title": "Project Voltage",
+    "title_english": null,
+    "title_japanese": "Project VOLTAGE",
+    "title_synonyms": [
+      "Pokemon feat. Hatsune Miku",
+      "Project VOLTAGE - Pokemon feat. Hatsune Miku",
+      "PokeMiku"
+    ],
+    "type": "Music",
+    "source": "Mixed media",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-29T00:00:00+00:00",
+      "to": "2024-05-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": 10,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      "string": "Sep 29, 2023 to May 10, 2024"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21115,
+    "members": 211,
+    "favorites": 0,
+    "synopsis": "A music and art collaboration project between Pokemon and Hatsune Miku. The art part of the collaboration tasked six artists to answer a simple question: What if Hatsune Miku was a XX-type Pokemon Trainer?",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.project-voltage.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Project_Voltage"
+      }
+    ],
+    "streaming": []
+  }
+}

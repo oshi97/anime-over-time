@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 34091,
+    "url": "https://myanimelist.net/anime/34091/Norasco_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/82047.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/82047t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/82047l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/82047.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/82047t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/82047l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Norasco Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nora Suko Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "野良スコ"
+      }
+    ],
+    "title": "Norasco Specials",
+    "title_english": null,
+    "title_japanese": "野良スコ",
+    "title_synonyms": [
+      "Nora Suko Specials"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-12-10T00:00:00+00:00",
+      "to": "2015-08-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2014
+        },
+        "to": {
+          "day": 12,
+          "month": 8,
+          "year": 2015
+        }
+      },
+      "string": "Dec 10, 2014 to Aug 12, 2015"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18052,
+    "popularity": 20440,
+    "members": 250,
+    "favorites": 0,
+    "synopsis": "Norasco episodes released only on 3 of the 4 Norasco DVDs.\n\nDVD 1: \nTanjoubi-hen. A special included meant to promote the 7th Down Town Taito International Comedy Film Festival. This was the 16th and final episode in the disc.\n\nDVD 3: \nNaiken. Where Kotarou helps get his friend get an apartment. This was the 3rd episode on the DVD.\nTaxi. Kotarou hangs out with a taxi driver when an old woman gets in. This was the 12th episode on the DVD.\n\nDVD 4: \nNushi. The boys go fishing. This was the 3rd episode on the DVD.\nHiyashi Chuuka. Kotarou visits a noodle shop. This was the 10th episode on the DVD.\nKendama. The boys play with a kendama. This was the 13th episode on the DVD.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 432,
+        "type": "anime",
+        "name": "Kachidoki Studio",
+        "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 34092,
+            "type": "anime",
+            "name": "Norasco (Movie)",
+            "url": "https://myanimelist.net/anime/34092/Norasco_Movie"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 24773,
+            "type": "anime",
+            "name": "Norasco",
+            "url": "https://myanimelist.net/anime/24773/Norasco"
+          },
+          {
+            "mal_id": 31019,
+            "type": "anime",
+            "name": "Norasco (TV)",
+            "url": "https://myanimelist.net/anime/31019/Norasco_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://norasco.jp/dvd.html"
+      }
+    ],
+    "streaming": []
+  }
+}

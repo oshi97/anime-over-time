@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 42908,
+    "url": "https://myanimelist.net/anime/42908/Natsu_wo_Ikiru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1086/115140.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1086/115140t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1086/115140l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1086/115140.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1086/115140t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1086/115140l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Natsu wo Ikiru"
+      },
+      {
+        "type": "Japanese",
+        "title": "夏を生きる"
+      }
+    ],
+    "title": "Natsu wo Ikiru",
+    "title_english": null,
+    "title_japanese": "夏を生きる",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 7, 2020"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.18,
+    "scored_by": 185,
+    "rank": null,
+    "popularity": 18892,
+    "members": 340,
+    "favorites": 0,
+    "synopsis": "Animated music video for the song Natsu wo Ikiru by Ryokuoushoku Shakai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      },
+      {
+        "mal_id": 80,
+        "type": "anime",
+        "name": "Visual Arts",
+        "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/I6VkVm4J3bM"
+      }
+    ],
+    "streaming": []
+  }
+}

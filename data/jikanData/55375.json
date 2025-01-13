@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 55375,
+    "url": "https://myanimelist.net/anime/55375/39_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1921/136016.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/136016t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/136016l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1921/136016.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/136016t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/136016l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "39 Music!"
+      },
+      {
+        "type": "Japanese",
+        "title": "39みゅーじっく！"
+      }
+    ],
+    "title": "39 Music!",
+    "title_english": null,
+    "title_japanese": "39みゅーじっく！",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 29, 2016"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.39,
+    "scored_by": 266,
+    "rank": null,
+    "popularity": 17464,
+    "members": 447,
+    "favorites": 2,
+    "synopsis": "Official music video for the event Magical Mirai 2016, with art by Mago and music by Mikito-P, performed by Miku Hatsune.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=OuLZlZ18APQ"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 51109,
+    "url": "https://myanimelist.net/anime/51109/After_Hours",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1895/121085.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1895/121085t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1895/121085l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1895/121085.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1895/121085t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1895/121085l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "After Hours"
+      },
+      {
+        "type": "Synonym",
+        "title": "AfterHours"
+      },
+      {
+        "type": "Japanese",
+        "title": "After Hours"
+      }
+    ],
+    "title": "After Hours",
+    "title_english": null,
+    "title_japanese": "After Hours",
+    "title_synonyms": [
+      "AfterHours"
+    ],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020"
+    },
+    "duration": "51 sec",
+    "rating": "G - All Ages",
+    "score": 5.31,
+    "scored_by": 146,
+    "rank": null,
+    "popularity": 19618,
+    "members": 295,
+    "favorites": 0,
+    "synopsis": "A station ID by Densuke28 for MTV Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2087,
+        "type": "anime",
+        "name": "CEKAI",
+        "url": "https://myanimelist.net/anime/producer/2087/CEKAI"
+      },
+      {
+        "mal_id": 2659,
+        "type": "anime",
+        "name": "MTV Japan",
+        "url": "https://myanimelist.net/anime/producer/2659/MTV_Japan"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://densuke28.com/post/626635733284864000/mtv-afterhours-2020-director-densuke28-music"
+      }
+    ],
+    "streaming": []
+  }
+}

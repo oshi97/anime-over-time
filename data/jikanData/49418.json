@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 49418,
+    "url": "https://myanimelist.net/anime/49418/Caesura_of_Despair",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1048/118372.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1048/118372t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1048/118372l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1048/118372.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1048/118372t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1048/118372l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Caesura of Despair"
+      },
+      {
+        "type": "Japanese",
+        "title": "Caesura of Despair"
+      }
+    ],
+    "title": "Caesura of Despair",
+    "title_english": null,
+    "title_japanese": "Caesura of Despair",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 11, 2021"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.73,
+    "scored_by": 721,
+    "rank": null,
+    "popularity": 13027,
+    "members": 1359,
+    "favorites": 2,
+    "synopsis": "Animated music video for Caesura of Despair by IRyS.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/rDyZ3VgjcCE"
+      }
+    ],
+    "streaming": []
+  }
+}

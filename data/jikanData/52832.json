@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 52832,
+    "url": "https://myanimelist.net/anime/52832/Shin_Jidai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1183/129386.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/129386t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/129386l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1183/129386.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/129386t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/129386l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shin Jidai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shinjidai"
+      },
+      {
+        "type": "Japanese",
+        "title": "新時代"
+      },
+      {
+        "type": "English",
+        "title": "New Genesis"
+      }
+    ],
+    "title": "Shin Jidai",
+    "title_english": "New Genesis",
+    "title_japanese": "新時代",
+    "title_synonyms": [
+      "Shinjidai"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 15, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.84,
+    "scored_by": 2011,
+    "rank": null,
+    "popularity": 10153,
+    "members": 3305,
+    "favorites": 11,
+    "synopsis": "Music video for the song Shin Jidai by Ado.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52847,
+            "type": "anime",
+            "name": "Gyakkou",
+            "url": "https://myanimelist.net/anime/52847/Gyakkou"
+          },
+          {
+            "mal_id": 50410,
+            "type": "anime",
+            "name": "One Piece Film: Red",
+            "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red"
+          },
+          {
+            "mal_id": 52846,
+            "type": "anime",
+            "name": "Tot Musica",
+            "url": "https://myanimelist.net/anime/52846/Tot_Musica"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/1FliVTcX8bQ"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 50349,
+    "url": "https://myanimelist.net/anime/50349/Tamaya_CM__Takusareta_Omoi-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/121234.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/121234t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/121234l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/121234.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1993/121234t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1993/121234l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tamaya CM: Takusareta Omoi-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Entrusted Thoughts"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tamaya Pawnshop"
+      },
+      {
+        "type": "Japanese",
+        "title": "TAMAYA アニメCM 「託された想い篇」"
+      }
+    ],
+    "title": "Tamaya CM: Takusareta Omoi-hen",
+    "title_english": null,
+    "title_japanese": "TAMAYA アニメCM 「託された想い篇」",
+    "title_synonyms": [
+      "Entrusted Thoughts",
+      "Tamaya Pawnshop"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 24, 2020"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.42,
+    "scored_by": 229,
+    "rank": null,
+    "popularity": 16922,
+    "members": 499,
+    "favorites": 0,
+    "synopsis": "An animated commercial for Tamaya Pawn Shop Co., Ltd.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2411,
+        "type": "anime",
+        "name": "Studio Massket",
+        "url": "https://myanimelist.net/anime/producer/2411/Studio_Massket"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1837,
+        "type": "anime",
+        "name": "G-angle",
+        "url": "https://myanimelist.net/anime/producer/1837/G-angle"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 34785,
+            "type": "anime",
+            "name": "Tamashichi!",
+            "url": "https://myanimelist.net/anime/34785/Tamashichi"
+          },
+          {
+            "mal_id": 44063,
+            "type": "anime",
+            "name": "Tamaya Shichiten Tanjoubi-hen CM",
+            "url": "https://myanimelist.net/anime/44063/Tamaya_Shichiten_Tanjoubi-hen_CM"
+          },
+          {
+            "mal_id": 52834,
+            "type": "anime",
+            "name": "Tamaya CM: Sono Saki e-hen",
+            "url": "https://myanimelist.net/anime/52834/Tamaya_CM__Sono_Saki_e-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/HsyZEkIpTPU"
+      }
+    ],
+    "streaming": []
+  }
+}

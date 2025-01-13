@@ -1,0 +1,193 @@
+{
+  "data": {
+    "mal_id": 36539,
+    "url": "https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88307.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88307t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88307l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/88307.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88307t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88307l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsuki ga Kirei Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tsukigakirei Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Moon is Beautiful Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "As the Moon"
+      },
+      {
+        "type": "Synonym",
+        "title": "So Beautiful Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "月がきれい"
+      }
+    ],
+    "title": "Tsuki ga Kirei Special",
+    "title_english": null,
+    "title_japanese": "月がきれい",
+    "title_synonyms": [
+      "Tsukigakirei Special",
+      "The Moon is Beautiful Special",
+      "As the Moon",
+      "So Beautiful Special"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 27, 2017"
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.25,
+    "scored_by": 17658,
+    "rank": 3087,
+    "popularity": 3928,
+    "members": 35612,
+    "favorites": 29,
+    "synopsis": "A series of unaired comedic shorts released with Blu-ray and DVD boxes of Tsuki ga Kirei.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 64,
+        "type": "anime",
+        "name": "Sotsu",
+        "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+      },
+      {
+        "mal_id": 464,
+        "type": "anime",
+        "name": "flying DOG",
+        "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 91,
+        "type": "anime",
+        "name": "feel.",
+        "url": "https://myanimelist.net/anime/producer/91/feel"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 34822,
+            "type": "anime",
+            "name": "Tsuki ga Kirei",
+            "url": "https://myanimelist.net/anime/34822/Tsuki_ga_Kirei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tsukigakirei.jp"
+      },
+      {
+        "name": "@tsukigakirei_tv",
+        "url": "https://twitter.com/tsukigakirei_tv"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12761"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19019"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsuki_ga_Kirei"
+      }
+    ],
+    "streaming": []
+  }
+}

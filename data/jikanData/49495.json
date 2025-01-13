@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 49495,
+    "url": "https://myanimelist.net/anime/49495/Etotama__Nyankyaku_Banrai_-_Etotama_Pretty_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/116756.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/116756t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/116756l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/116756.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/116756t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/116756l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou"
+      },
+      {
+        "type": "Japanese",
+        "title": "えとたま～猫客万来～ ショートアニメ「えとたま プリティ劇場」"
+      }
+    ],
+    "title": "Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou",
+    "title_english": null,
+    "title_japanese": "えとたま～猫客万来～ ショートアニメ「えとたま プリティ劇場」",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 28, 2021"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.02,
+    "scored_by": 189,
+    "rank": 9808,
+    "popularity": 13996,
+    "members": 1048,
+    "favorites": 0,
+    "synopsis": "Short anime included in Blu-ray release of Etotama: Nyankyaku Banrai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37346,
+            "type": "anime",
+            "name": "Etotama: Nyankyaku Banrai",
+            "url": "https://myanimelist.net/anime/37346/Etotama__Nyankyaku_Banrai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://etotama.com/nyankyakubanrai/media/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12241"
+      }
+    ],
+    "streaming": []
+  }
+}

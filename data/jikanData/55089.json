@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 55089,
+    "url": "https://myanimelist.net/anime/55089/Mellow_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1743/135485.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1743/135485t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1743/135485l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1743/135485.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1743/135485t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1743/135485l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mellow (Music)"
+      },
+      {
+        "type": "Japanese",
+        "title": "メロウ"
+      },
+      {
+        "type": "English",
+        "title": "Mellow"
+      }
+    ],
+    "title": "Mellow (Music)",
+    "title_english": "Mellow",
+    "title_japanese": "メロウ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 11, 2023"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.9,
+    "scored_by": 753,
+    "rank": null,
+    "popularity": 13171,
+    "members": 1311,
+    "favorites": 0,
+    "synopsis": "Music video for the song Mellow by Keina Suda. The song was featured as the opening for Skip to Loafer anime.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50416,
+            "type": "anime",
+            "name": "Skip to Loafer",
+            "url": "https://myanimelist.net/anime/50416/Skip_to_Loafer"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=hfnZBzuVKX0"
+      }
+    ],
+    "streaming": []
+  }
+}

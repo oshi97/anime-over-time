@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 56095,
+    "url": "https://myanimelist.net/anime/56095/Kyuuseishu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1166/137385.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1166/137385t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1166/137385l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1166/137385.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1166/137385t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1166/137385l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kyuuseishu"
+      },
+      {
+        "type": "Japanese",
+        "title": "救世主"
+      }
+    ],
+    "title": "Kyuuseishu",
+    "title_english": null,
+    "title_japanese": "救世主",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 13, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.59,
+    "scored_by": 152,
+    "rank": null,
+    "popularity": 19475,
+    "members": 303,
+    "favorites": 0,
+    "synopsis": "Music video Kyuuseishu by Tsukuyomi. The song was featured as the opening for Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53438,
+            "type": "anime",
+            "name": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+            "url": "https://myanimelist.net/anime/53438/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Uf6fi9TAq3o"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 57650,
+    "url": "https://myanimelist.net/anime/57650/Koshaberi_Biyori",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/140631.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/140631t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/140631l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1084/140631.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/140631t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/140631l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Koshaberi Biyori"
+      },
+      {
+        "type": "Japanese",
+        "title": "小喋日和"
+      }
+    ],
+    "title": "Koshaberi Biyori",
+    "title_english": null,
+    "title_japanese": "小喋日和",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 7, 2023"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.35,
+    "scored_by": 251,
+    "rank": null,
+    "popularity": 16819,
+    "members": 507,
+    "favorites": 0,
+    "synopsis": "Music video for the song Koshaberi Biyori by FantasticYouth. The song featured in this music video was used as the ending theme for the second season of Komi-san wa, Komyushou desu..",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50631,
+            "type": "anime",
+            "name": "Komi-san wa, Comyushou desu. 2nd Season",
+            "url": "https://myanimelist.net/anime/50631/Komi-san_wa_Comyushou_desu_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cnRI54A0dyk"
+      }
+    ],
+    "streaming": []
+  }
+}

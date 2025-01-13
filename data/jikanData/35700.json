@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 35700,
+    "url": "https://myanimelist.net/anime/35700/Korogashi-ya_no_Pun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/86116.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/86116t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/86116l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/86116.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/86116t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/86116l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Korogashi-ya no Pun"
+      },
+      {
+        "type": "Japanese",
+        "title": "ころがし屋のプン"
+      }
+    ],
+    "title": "Korogashi-ya no Pun",
+    "title_english": null,
+    "title_japanese": "ころがし屋のプン",
+    "title_synonyms": [],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-24T00:00:00+00:00",
+      "to": "2018-12-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": 31,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Mar 24, 2016 to Dec 31, 2018"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16875,
+    "popularity": 20483,
+    "members": 248,
+    "favorites": 0,
+    "synopsis": "A dung beetle becomes too overzealous at rolling anything remotely round.",
+    "background": "This short was a memorial project by film director Takashi Miike for NHK's Petit Petit Animation program's 20th anniversary.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nhk.or.jp/anime/petit/program.html?prg=pun"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13863"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%82%8D%E3%81%8C%E3%81%97%E5%B1%8B%E3%81%AE%E3%83%97%E3%83%B3"
+      }
+    ],
+    "streaming": []
+  }
+}

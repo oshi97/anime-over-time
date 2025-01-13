@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 52921,
+    "url": "https://myanimelist.net/anime/52921/One_Piece__Densetsu_no_Log_Akagami_no_Shanks",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/127442.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/127442t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/127442l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1517/127442.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/127442t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/127442l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "One Piece: Densetsu no Log! Akagami no Shanks!"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Recap"
+      },
+      {
+        "type": "Japanese",
+        "title": "伝説の記録！赤髪のシャンクス！"
+      },
+      {
+        "type": "English",
+        "title": "One Piece: The Captain's Log of the Legend! Red-Haired Shanks!"
+      }
+    ],
+    "title": "One Piece: Densetsu no Log! Akagami no Shanks!",
+    "title_english": "One Piece: The Captain's Log of the Legend! Red-Haired Shanks!",
+    "title_japanese": "伝説の記録！赤髪のシャンクス！",
+    "title_synonyms": [
+      "One Piece Recap"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 28, 2022"
+    },
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "scored_by": 3169,
+    "rank": 5285,
+    "popularity": 7301,
+    "members": 8183,
+    "favorites": 1,
+    "synopsis": "As the world anticipates the legendary diva Uta’s show in Elegia, the Red-Hair Pirates are making some disturbing moves. Koby remembers how Shanks ended the Paramount War at Marineford. \n\n(Source: Crunchyroll)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 50410,
+            "type": "anime",
+            "name": "One Piece Film: Red",
+            "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.toei-anim.co.jp/tv/onep/episode/list/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Piece_(season_20)"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 40799,
+    "url": "https://myanimelist.net/anime/40799/Attakai_tte_Gohoubi_da",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1538/104586.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/104586t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/104586l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1538/104586.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/104586t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/104586l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Attakai tte, Gohoubi da."
+      },
+      {
+        "type": "Synonym",
+        "title": "Atatai tte"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gohoubi da."
+      },
+      {
+        "type": "Synonym",
+        "title": "Gracoro Burger"
+      },
+      {
+        "type": "Synonym",
+        "title": "McDonald's"
+      },
+      {
+        "type": "Japanese",
+        "title": "あったかいって、ごほうびだ。"
+      }
+    ],
+    "title": "Attakai tte, Gohoubi da.",
+    "title_english": null,
+    "title_japanese": "あったかいって、ごほうびだ。",
+    "title_synonyms": [
+      "Atatai tte",
+      "Gohoubi da.",
+      "Gracoro Burger",
+      "McDonald's"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 4, 2019"
+    },
+    "duration": "31 sec",
+    "rating": "G - All Ages",
+    "score": 5.62,
+    "scored_by": 504,
+    "rank": null,
+    "popularity": 13969,
+    "members": 1054,
+    "favorites": 0,
+    "synopsis": "A televised Japanese McDonald's commercial for their upgraded Gracoro Burgers. Gracoro is short for [potato] gratin and croquette/korokke. The patty is a gratin croquette filled with macaroni and seafood. This year the Gracoro Burgers are now thicker (with more filling) and a beef demi-glace cheese topped version is also available for this winter only.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1837,
+        "type": "anime",
+        "name": "G-angle",
+        "url": "https://myanimelist.net/anime/producer/1837/G-angle"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32959,
+            "type": "anime",
+            "name": "Mirai no Watashi",
+            "url": "https://myanimelist.net/anime/32959/Mirai_no_Watashi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.mcdonalds.co.jp/campaign/gracoro/"
+      }
+    ],
+    "streaming": []
+  }
+}

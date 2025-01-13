@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 37370,
+    "url": "https://myanimelist.net/anime/37370/The_Perfect_World",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/90731.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/90731t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/90731l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1336/90731.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/90731t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/90731l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The Perfect World"
+      },
+      {
+        "type": "Synonym",
+        "title": "B: The Beginning THE IMAGE ALBUM"
+      },
+      {
+        "type": "Japanese",
+        "title": "The Perfect World"
+      },
+      {
+        "type": "English",
+        "title": "The Perfect World"
+      }
+    ],
+    "title": "The Perfect World",
+    "title_english": "The Perfect World",
+    "title_japanese": "The Perfect World",
+    "title_synonyms": [
+      "B: The Beginning THE IMAGE ALBUM"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 22, 2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 7.46,
+    "scored_by": 5116,
+    "rank": null,
+    "popularity": 6534,
+    "members": 10659,
+    "favorites": 35,
+    "synopsis": "The official music video for B: The Beginning's ending theme song The Perfect World, performed by Marty Friedman and featuring Jean-Ken Johnny and KenKen. The music video was released on the music producer Avex's official YouTube channel, and it promotes the anime's image album soundtrack which went on sale on March 7, 2018—five days after the anime was released.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Production I.G",
+        "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 32827,
+            "type": "anime",
+            "name": "B: The Beginning",
+            "url": "https://myanimelist.net/anime/32827/B__The_Beginning"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=HwSZBbYiQ-o"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11950"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19987"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/B_the_Beginning"
+      }
+    ],
+    "streaming": []
+  }
+}

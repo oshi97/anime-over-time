@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 36577,
+    "url": "https://myanimelist.net/anime/36577/Dungeon_Meshi_PVs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88396.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88396t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88396l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88396.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88396t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88396l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dungeon Meshi PVs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Delicious in Dungeon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dungeon Food"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dungeon Meshi: Senshi's Easy Cooking!"
+      },
+      {
+        "type": "Japanese",
+        "title": "ダンジョン飯"
+      }
+    ],
+    "title": "Dungeon Meshi PVs",
+    "title_english": null,
+    "title_japanese": "ダンジョン飯",
+    "title_synonyms": [
+      "Delicious in Dungeon",
+      "Dungeon Food",
+      "Dungeon Meshi: Senshi's Easy Cooking!"
+    ],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-31T00:00:00+00:00",
+      "to": "2019-09-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 4,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Jul 31, 2017 to Sep 4, 2019"
+    },
+    "duration": "58 sec per ep",
+    "rating": "G - All Ages",
+    "score": 6,
+    "scored_by": 1809,
+    "rank": null,
+    "popularity": 9026,
+    "members": 4743,
+    "favorites": 4,
+    "synopsis": "Promotional videos with original animation for Dungeon Meshi.\n\nThe first episode is a stop-motion short in honor of the 5th tankoubon going on sale. It features Senshi's hands trying to prepare a walking mushroom. It is the same walking mushroom as shown in the manga's 1st volume in the \"Monster Tidbits\" bonus chapter.\n\nThe second episode is a traditional animated short in honor of the 8th tankoubon going on sale.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1696,
+        "type": "anime",
+        "name": "Kadokawa",
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 803,
+        "type": "anime",
+        "name": "Trigger",
+        "url": "https://myanimelist.net/anime/producer/803/Trigger"
+      },
+      {
+        "mal_id": 1133,
+        "type": "anime",
+        "name": "dwarf",
+        "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 85781,
+            "type": "manga",
+            "name": "Dungeon Meshi",
+            "url": "https://myanimelist.net/manga/85781/Dungeon_Meshi"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52701,
+            "type": "anime",
+            "name": "Dungeon Meshi",
+            "url": "https://myanimelist.net/anime/52701/Dungeon_Meshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kadokawa.co.jp/product/321702000030/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Delicious_in_Dungeon"
+      }
+    ],
+    "streaming": []
+  }
+}

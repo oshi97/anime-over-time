@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mal_id": 53935,
+    "url": "https://myanimelist.net/anime/53935/Shirayuki",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1273/143710.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1273/143710t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/143710l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1273/143710.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1273/143710t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/143710l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shirayuki"
+      },
+      {
+        "type": "Japanese",
+        "title": "白雪"
+      },
+      {
+        "type": "English",
+        "title": "White Snow"
+      }
+    ],
+    "title": "Shirayuki",
+    "title_english": "White Snow",
+    "title_japanese": "白雪",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 23, 2022"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.44,
+    "scored_by": 888,
+    "rank": null,
+    "popularity": 12205,
+    "members": 1769,
+    "favorites": 15,
+    "synopsis": "Music video for Eve's song Shirayuki.",
+    "background": "Shirayuki is the theme song for the live-action movie Black Night Parade.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1835,
+        "type": "anime",
+        "name": "CloverWorks",
+        "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://eveofficial-shirayuki.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Kvceyq9o0rY"
+      }
+    ],
+    "streaming": []
+  }
+}

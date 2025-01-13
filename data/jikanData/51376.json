@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 51376,
+    "url": "https://myanimelist.net/anime/51376/Christmas_of_a_Wandering_Ghost",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1851/121774.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1851/121774t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1851/121774l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1851/121774.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1851/121774t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1851/121774l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Christmas of a Wandering Ghost"
+      },
+      {
+        "type": "Japanese",
+        "title": "Christmas of a Wandering Ghost"
+      },
+      {
+        "type": "English",
+        "title": "Christmas of a Wandering Ghost"
+      }
+    ],
+    "title": "Christmas of a Wandering Ghost",
+    "title_english": "Christmas of a Wandering Ghost",
+    "title_japanese": "Christmas of a Wandering Ghost",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 24, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.56,
+    "scored_by": 143,
+    "rank": null,
+    "popularity": 20075,
+    "members": 271,
+    "favorites": 0,
+    "synopsis": "Snailchan helps a ghost get his treat!\n\nMusic video for the song Christmas of a Wandering Ghost by Snail's House.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51005,
+            "type": "anime",
+            "name": "Imaginary Express",
+            "url": "https://myanimelist.net/anime/51005/Imaginary_Express"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/UAm3RPqwmq4"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 51200,
+    "url": "https://myanimelist.net/anime/51200/Ami_no_Monomane_150_Renpatsu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/121310.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/121310t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/121310l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/121310.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1620/121310t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1620/121310l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ami no Monomane 150 Renpatsu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ami's impersonation 150 barrage"
+      },
+      {
+        "type": "Japanese",
+        "title": "亜美のモノマネ 150連発"
+      },
+      {
+        "type": "English",
+        "title": "Ami's Impersonation: 150 Consecutive Attempts"
+      }
+    ],
+    "title": "Ami no Monomane 150 Renpatsu",
+    "title_english": "Ami's Impersonation: 150 Consecutive Attempts",
+    "title_japanese": "亜美のモノマネ 150連発",
+    "title_synonyms": [
+      "Ami's impersonation 150 barrage"
+    ],
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-04-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 4,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 30, 2009"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.44,
+    "scored_by": 529,
+    "rank": 12256,
+    "popularity": 13006,
+    "members": 1369,
+    "favorites": 0,
+    "synopsis": "A scene left out of episode 6. Included as a bonus content on the BD/DVD of Toradora PSP premium box.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 4224,
+            "type": "anime",
+            "name": "Toradora!",
+            "url": "https://myanimelist.net/anime/4224/Toradora"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

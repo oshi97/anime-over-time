@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 58424,
+    "url": "https://myanimelist.net/anime/58424/Idol_Hatsune_Miku_Cover",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/141991.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/141991t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/141991l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/141991.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/141991t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/141991l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Idol (Hatsune Miku Cover)"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドル (Hatsune Miku Cover)"
+      }
+    ],
+    "title": "Idol (Hatsune Miku Cover)",
+    "title_english": null,
+    "title_japanese": "アイドル (Hatsune Miku Cover)",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 8, 2024"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Idol covered by Hatsune Miku.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 55016,
+            "type": "anime",
+            "name": "Idol",
+            "url": "https://myanimelist.net/anime/55016/Idol"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

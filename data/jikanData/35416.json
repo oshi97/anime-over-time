@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 35416,
+    "url": "https://myanimelist.net/anime/35416/Kabuki-bu__Oogiri_Chiyocolate-gassen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/85493.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/85493t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/85493l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/85493.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/9/85493t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/9/85493l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kabuki-bu!: Oogiri \"Chiyocolate-gassen\""
+      },
+      {
+        "type": "Synonym",
+        "title": "Kabuki-bu!: Oogiri Chiyokoreito Kassen"
+      },
+      {
+        "type": "Japanese",
+        "title": "カブキブ！ 大喜利「ちよこれいと合戦」"
+      }
+    ],
+    "title": "Kabuki-bu!: Oogiri \"Chiyocolate-gassen\"",
+    "title_english": null,
+    "title_japanese": "カブキブ！ 大喜利「ちよこれいと合戦」",
+    "title_synonyms": [
+      "Kabuki-bu!: Oogiri Chiyokoreito Kassen"
+    ],
+    "type": "Special",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 27, 2017"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.19,
+    "scored_by": 334,
+    "rank": 8854,
+    "popularity": 11779,
+    "members": 2031,
+    "favorites": 1,
+    "synopsis": "A special episode bundled with the BD release of the television series.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 113,
+        "type": "anime",
+        "name": "Kadokawa Shoten",
+        "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+      },
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 33840,
+            "type": "anime",
+            "name": "Kabuki-bu!",
+            "url": "https://myanimelist.net/anime/33840/Kabuki-bu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.tbs.co.jp/anime/kabukibu/disc/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12329"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18691"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kabukibu!"
+      }
+    ],
+    "streaming": []
+  }
+}

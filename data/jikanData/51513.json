@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 51513,
+    "url": "https://myanimelist.net/anime/51513/Kruel_Kreator",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1319/122239.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/122239t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/122239l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1319/122239.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/122239t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/122239l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kruel Kreator"
+      },
+      {
+        "type": "Japanese",
+        "title": "Kruel Kreator"
+      }
+    ],
+    "title": "Kruel Kreator",
+    "title_english": null,
+    "title_japanese": "Kruel Kreator",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 4, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.23,
+    "scored_by": 207,
+    "rank": null,
+    "popularity": 18298,
+    "members": 386,
+    "favorites": 0,
+    "synopsis": "Music video for the song Kruel Kreator by TOPHAMHAT-KYO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49528,
+            "type": "anime",
+            "name": "Mister Jewel Box",
+            "url": "https://myanimelist.net/anime/49528/Mister_Jewel_Box"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/QrOTc4s3ifU"
+      }
+    ],
+    "streaming": []
+  }
+}

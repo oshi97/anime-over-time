@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 50696,
+    "url": "https://myanimelist.net/anime/50696/One_Piece__Barto_no_Himitsu_no_Heya",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/120283.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/120283t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/120283l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1385/120283.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1385/120283t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1385/120283l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "One Piece: Barto no Himitsu no Heya!"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Episode 1004.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Episode 1015.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Episode 1073.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Episode 1078.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Piece Special Episodes: Barto's Secret Room"
+      },
+      {
+        "type": "Japanese",
+        "title": "バルトの秘密の部屋!"
+      },
+      {
+        "type": "English",
+        "title": "One Piece: Barto's Secret Room"
+      }
+    ],
+    "title": "One Piece: Barto no Himitsu no Heya!",
+    "title_english": "One Piece: Barto's Secret Room",
+    "title_japanese": "バルトの秘密の部屋!",
+    "title_synonyms": [
+      "One Piece Episode 1004.5",
+      "One Piece Episode 1015.5",
+      "One Piece Episode 1073.5",
+      "One Piece Episode 1078.5",
+      "One Piece Special Episodes: Barto's Secret Room"
+    ],
+    "type": "TV Special",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-26T00:00:00+00:00",
+      "to": "2023-10-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": 8,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      "string": "Dec 26, 2021 to Oct 8, 2023"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.23,
+    "scored_by": 6787,
+    "rank": 8686,
+    "popularity": 5828,
+    "members": 14226,
+    "favorites": 24,
+    "synopsis": "Bartolomeo and a few mysterious guests recap the adventures of the Straw Hat Crew in the Land of Wano. From Monkey D. Luffy's first encounter with Otama to even the worst generation pirates' final confrontation with Big Mom and Kaido on the roof of Onigashima. The retelling of this exciting tale is just as riveting as the first.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=69"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Piece"
+      }
+    ],
+    "streaming": []
+  }
+}

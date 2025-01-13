@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 56640,
+    "url": "https://myanimelist.net/anime/56640/Junk_World",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1185/138450.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/138450t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/138450l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1185/138450.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/138450t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/138450l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Junk World"
+      },
+      {
+        "type": "Japanese",
+        "title": "JUNK WORLD"
+      }
+    ],
+    "title": "Junk World",
+    "title_english": null,
+    "title_japanese": "JUNK WORLD",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20156,
+    "members": 265,
+    "favorites": 0,
+    "synopsis": "A sequel film to Junk Head.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2564,
+        "type": "anime",
+        "name": "Yamiken",
+        "url": "https://myanimelist.net/anime/producer/2564/Yamiken"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39833,
+            "type": "anime",
+            "name": "Junk Head",
+            "url": "https://myanimelist.net/anime/39833/Junk_Head"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://junkworld-movie.com"
+      }
+    ],
+    "streaming": []
+  }
+}

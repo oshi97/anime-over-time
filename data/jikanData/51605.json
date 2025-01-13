@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 51605,
+    "url": "https://myanimelist.net/anime/51605/Mado_wo_Akete",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1730/122648.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/122648t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/122648l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1730/122648.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/122648t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/122648l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mado wo Akete"
+      },
+      {
+        "type": "Japanese",
+        "title": "窓を開けて"
+      }
+    ],
+    "title": "Mado wo Akete",
+    "title_english": null,
+    "title_japanese": "窓を開けて",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 28, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.91,
+    "scored_by": 413,
+    "rank": null,
+    "popularity": 14518,
+    "members": 907,
+    "favorites": 3,
+    "synopsis": "Official music video for CIEL's song Mado wo Akete, the song was used as the ED to the Eiga Daisuki Pompo-san movie. The song is the debut work for CIEL.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1876,
+        "type": "anime",
+        "name": "CLAP",
+        "url": "https://myanimelist.net/anime/producer/1876/CLAP"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 41361,
+            "type": "anime",
+            "name": "Eiga Daisuki Pompo-san",
+            "url": "https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/KD14CW-j2sA"
+      }
+    ],
+    "streaming": []
+  }
+}

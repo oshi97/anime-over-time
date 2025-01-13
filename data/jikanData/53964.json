@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 53964,
+    "url": "https://myanimelist.net/anime/53964/Muumindani_no_Aurora_2018",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/132048.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/132048t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/132048l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/132048.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/132048t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/132048l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Muumindani no Aurora (2018)"
+      },
+      {
+        "type": "Japanese",
+        "title": "ムーミン谷のオーロラ"
+      },
+      {
+        "type": "English",
+        "title": "Aurora in Moominvalley"
+      }
+    ],
+    "title": "Muumindani no Aurora (2018)",
+    "title_english": "Aurora in Moominvalley",
+    "title_japanese": "ムーミン谷のオーロラ",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "25 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17816,
+    "popularity": 20944,
+    "members": 221,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 96,
+        "type": "anime",
+        "name": "Yumeta Company",
+        "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+      },
+      {
+        "mal_id": 2673,
+        "type": "anime",
+        "name": "Goto Inc.",
+        "url": "https://myanimelist.net/anime/producer/2673/Goto_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 53963,
+            "type": "anime",
+            "name": "Muumindani no Aurora",
+            "url": "https://myanimelist.net/anime/53963/Muumindani_no_Aurora"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 5712,
+            "type": "anime",
+            "name": "Tanoshii Muumin Ikka Bouken Nikki",
+            "url": "https://myanimelist.net/anime/5712/Tanoshii_Muumin_Ikka_Bouken_Nikki"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.goto.co.jp/planetarium/program/moomin_aurora/"
+      }
+    ],
+    "streaming": []
+  }
+}

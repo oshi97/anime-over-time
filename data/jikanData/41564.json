@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 41564,
+    "url": "https://myanimelist.net/anime/41564/Hentatsu_TV_Recap",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1554/107933.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1554/107933t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1554/107933l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1554/107933.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1554/107933t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1554/107933l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hentatsu (TV) Recap"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hentatsu (TV) Episode 12.5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hentatsu (TV) Special"
+      },
+      {
+        "type": "Synonym",
+        "title": "Oni to Neko to o-Cha to ka."
+      },
+      {
+        "type": "Japanese",
+        "title": "へんたつ"
+      }
+    ],
+    "title": "Hentatsu (TV) Recap",
+    "title_english": null,
+    "title_japanese": "へんたつ",
+    "title_synonyms": [
+      "Hentatsu (TV) Episode 12.5",
+      "Hentatsu (TV) Special",
+      "Oni to Neko to o-Cha to ka."
+    ],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 28, 2020"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.14,
+    "scored_by": 445,
+    "rank": 12981,
+    "popularity": 14360,
+    "members": 946,
+    "favorites": 0,
+    "synopsis": "Short narrated recap of Hentatsu (TV).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1560,
+        "type": "anime",
+        "name": "Yaoyorozu",
+        "url": "https://myanimelist.net/anime/producer/1560/Yaoyorozu"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 40995,
+            "type": "anime",
+            "name": "Hentatsu (TV)",
+            "url": "https://myanimelist.net/anime/40995/Hentatsu_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://hentatsu.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15348"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%82%93%E3%81%9F%E3%81%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

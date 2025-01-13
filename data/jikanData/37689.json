@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 37689,
+    "url": "https://myanimelist.net/anime/37689/Nikukyuu_no_Uta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/91748.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/91748t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/91748l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1169/91748.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/91748t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/91748l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nikukyuu no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "29Q no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Paw Song"
+      },
+      {
+        "type": "Japanese",
+        "title": "２９Ｑ（にくきゅう）のうた"
+      }
+    ],
+    "title": "Nikukyuu no Uta",
+    "title_english": null,
+    "title_japanese": "２９Ｑ（にくきゅう）のうた",
+    "title_synonyms": [
+      "29Q no Uta",
+      "Minna no Uta",
+      "Paw Song"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 1, 2014"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21092,
+    "members": 212,
+    "favorites": 0,
+    "synopsis": "A song about a man who loves paws too much.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2986,
+        "type": "anime",
+        "name": "Sugata Creative & Design",
+        "url": "https://myanimelist.net/anime/producer/2986/Sugata_Creative___Design"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.nhk.or.jp/minna/songs/MIN201404_01/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/29Q%E3%81%AE%E3%81%86%E3%81%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

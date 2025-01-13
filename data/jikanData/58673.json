@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 58673,
+    "url": "https://myanimelist.net/anime/58673/Sikeurin_jyujyu_byeorui_yeosin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1172/142619.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/142619t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/142619l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1172/142619.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/142619t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/142619l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sikeurin jyujyu byeorui yeosin"
+      },
+      {
+        "type": "Synonym",
+        "title": "New Secret Jouju"
+      },
+      {
+        "type": "Japanese",
+        "title": "시크릿 쥬쥬 별의 여신"
+      },
+      {
+        "type": "English",
+        "title": "Secret Jouju: Guardians of Stars"
+      }
+    ],
+    "title": "Sikeurin jyujyu byeorui yeosin",
+    "title_english": "Secret Jouju: Guardians of Stars",
+    "title_japanese": "시크릿 쥬쥬 별의 여신",
+    "title_synonyms": [
+      "New Secret Jouju"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 78,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": "2019-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "2018 to 2019"
+    },
+    "duration": "14 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      },
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48334,
+            "type": "anime",
+            "name": "Chilingchiling Sikeulis Jyujyu",
+            "url": "https://myanimelist.net/anime/48334/Chilingchiling_Sikeulis_Jyujyu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

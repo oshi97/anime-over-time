@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 52760,
+    "url": "https://myanimelist.net/anime/52760/Unmei_no_Saikoro",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1498/127032.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/127032t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/127032l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1498/127032.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/127032t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/127032l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Unmei no Saikoro"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dice of Fate"
+      },
+      {
+        "type": "Japanese",
+        "title": "運命のサイコロ"
+      }
+    ],
+    "title": "Unmei no Saikoro",
+    "title_english": null,
+    "title_japanese": "運命のサイコロ",
+    "title_synonyms": [
+      "Dice of Fate"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-06-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 6,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 22, 2017"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.25,
+    "scored_by": 164,
+    "rank": null,
+    "popularity": 17843,
+    "members": 419,
+    "favorites": 0,
+    "synopsis": "Music video for the song Unmei no Saikoro by Takuya Saotome.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1562,
+        "type": "anime",
+        "name": "Team YokkyuFuman",
+        "url": "https://myanimelist.net/anime/producer/1562/Team_YokkyuFuman"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30531,
+            "type": "anime",
+            "name": "Gakuen Handsome The Animation",
+            "url": "https://myanimelist.net/anime/30531/Gakuen_Handsome_The_Animation"
+          },
+          {
+            "mal_id": 33911,
+            "type": "anime",
+            "name": "Gakuen Handsome: Legend of Sexy",
+            "url": "https://myanimelist.net/anime/33911/Gakuen_Handsome__Legend_of_Sexy"
+          },
+          {
+            "mal_id": 33912,
+            "type": "anime",
+            "name": "Gakuen Handsome: Haitoku no Lesson",
+            "url": "https://myanimelist.net/anime/33912/Gakuen_Handsome__Haitoku_no_Lesson"
+          },
+          {
+            "mal_id": 33392,
+            "type": "anime",
+            "name": "Gakuen Handsome",
+            "url": "https://myanimelist.net/anime/33392/Gakuen_Handsome"
+          },
+          {
+            "mal_id": 52759,
+            "type": "anime",
+            "name": "Lovesky Sagashite...",
+            "url": "https://myanimelist.net/anime/52759/Lovesky_Sagashite"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.liverp.co.jp/ani_pu/gakuen-handsome"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%83%8F%E3%83%B3%E3%82%B5%E3%83%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

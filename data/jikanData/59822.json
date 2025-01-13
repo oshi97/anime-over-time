@@ -1,0 +1,132 @@
+{
+  "data": {
+    "mal_id": 59822,
+    "url": "https://myanimelist.net/anime/59822/Star_Wars_x_One_Piece",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/145460.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/145460t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/145460l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1546/145460.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1546/145460t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1546/145460l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Star Wars x One Piece"
+      },
+      {
+        "type": "Japanese",
+        "title": "スター・ウォーズ x One Piece"
+      }
+    ],
+    "title": "Star Wars x One Piece",
+    "title_english": null,
+    "title_japanese": "スター・ウォーズ x One Piece",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-12-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 12,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 19, 2015"
+    },
+    "duration": "30 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 18216,
+    "members": 392,
+    "favorites": 0,
+    "synopsis": "A special video shown before the Japanese screenings of Star Wars: The Force Awakens at select TOHO Cinemas and T-Joy theaters to promote the then upcoming One Piece: Gold. It features the Straw Hat Crew cosplaying Star Wars characters as they prepare to watch the film.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

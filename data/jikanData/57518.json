@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 57518,
+    "url": "https://myanimelist.net/anime/57518/Igniter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/140342.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/140342t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/140342l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/140342.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/140342t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/140342l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Igniter"
+      },
+      {
+        "type": "Japanese",
+        "title": "Igniter"
+      }
+    ],
+    "title": "Igniter",
+    "title_english": null,
+    "title_japanese": "Igniter",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 13, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.48,
+    "scored_by": 192,
+    "rank": null,
+    "popularity": 18823,
+    "members": 344,
+    "favorites": 0,
+    "synopsis": "Music video for the song Igniter by Midnight Grand Orchestra.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2167,
+        "type": "anime",
+        "name": "Hololive Production",
+        "url": "https://myanimelist.net/anime/producer/2167/Hololive_Production"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3031,
+        "type": "anime",
+        "name": "Kassen",
+        "url": "https://myanimelist.net/anime/producer/3031/Kassen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=p_jdrqhPSV4"
+      }
+    ],
+    "streaming": []
+  }
+}

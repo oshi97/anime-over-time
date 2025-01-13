@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 54298,
+    "url": "https://myanimelist.net/anime/54298/Pacalien_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1592/132886.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/132886t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/132886l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1592/132886.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/132886t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/132886l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pacalien (Special)"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Pacalien"
+      },
+      {
+        "type": "Synonym",
+        "title": "Alpaca Alien: PACALIEN"
+      },
+      {
+        "type": "Japanese",
+        "title": "PACALIEN"
+      }
+    ],
+    "title": "Pacalien (Special)",
+    "title_english": null,
+    "title_japanese": "PACALIEN",
+    "title_synonyms": [
+      "The Pacalien",
+      "Alpaca Alien: PACALIEN"
+    ],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-05-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 5,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 19, 2018"
+    },
+    "duration": "38 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18251,
+    "popularity": 22715,
+    "members": 137,
+    "favorites": 0,
+    "synopsis": "A series of original Pacalien shorts which aired during commercial breaks on Toonami. It was subsequently released on U-NEXT.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2593,
+        "type": "anime",
+        "name": "Angle",
+        "url": "https://myanimelist.net/anime/producer/2593/Angle"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 53121,
+            "type": "anime",
+            "name": "Pacalien",
+            "url": "https://myanimelist.net/anime/53121/Pacalien"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://angle-llc.co.jp/all/pacalien-asid.html"
+      }
+    ],
+    "streaming": []
+  }
+}

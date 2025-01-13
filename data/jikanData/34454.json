@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 34454,
+    "url": "https://myanimelist.net/anime/34454/Granblue_Fantasy_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83025.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83025t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83025l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83025.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83025t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83025l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Granblue Fantasy CMs"
+      },
+      {
+        "type": "Japanese",
+        "title": "グランブルーファンタジー CMs"
+      }
+    ],
+    "title": "Granblue Fantasy CMs",
+    "title_english": null,
+    "title_japanese": "グランブルーファンタジー CMs",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Game",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2013-11-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 11,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 8, 2013 to ?"
+    },
+    "duration": "28 sec",
+    "rating": "G - All Ages",
+    "score": 6.41,
+    "scored_by": 774,
+    "rank": null,
+    "popularity": 7591,
+    "members": 7361,
+    "favorites": 9,
+    "synopsis": "Animated promotional videos and commercials for Granblue Fantasy, a mobile RPG.",
+    "background": "The first 3 episodes have similar animation to the planned 2017 anime. From episode 4 and later they switched to a more watercolor art-style to reflect the artwork in the actual game more. The episodes Sora no Tsuioku-hen and Hoshi no Kosenjou-hen both have 5 versions with different narrations, but consist of the same animation.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31629,
+            "type": "anime",
+            "name": "Granblue Fantasy The Animation",
+            "url": "https://myanimelist.net/anime/31629/Granblue_Fantasy_The_Animation"
+          },
+          {
+            "mal_id": 36587,
+            "type": "anime",
+            "name": "Granblue Fantasy The Animation Season 2",
+            "url": "https://myanimelist.net/anime/36587/Granblue_Fantasy_The_Animation_Season_2"
+          },
+          {
+            "mal_id": 53254,
+            "type": "anime",
+            "name": "Robomi",
+            "url": "https://myanimelist.net/anime/53254/Robomi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://granbluefantasy.jp/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Granblue_Fantasy"
+      }
+    ],
+    "streaming": []
+  }
+}

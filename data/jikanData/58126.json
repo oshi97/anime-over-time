@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 58126,
+    "url": "https://myanimelist.net/anime/58126/Fuumi_Zekka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/141404.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/141404t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/141404l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/141404.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/141404t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/141404l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fuumi Zekka"
+      },
+      {
+        "type": "Japanese",
+        "title": "風味絶佳"
+      }
+    ],
+    "title": "Fuumi Zekka",
+    "title_english": null,
+    "title_japanese": "風味絶佳",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-08-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 4, 2023"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Fuumi Zekka by YuNi.\n\nThe song was featured as the ending for Okashi na Tensei.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52611,
+            "type": "anime",
+            "name": "Okashi na Tensei",
+            "url": "https://myanimelist.net/anime/52611/Okashi_na_Tensei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

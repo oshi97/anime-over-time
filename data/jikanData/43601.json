@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 43601,
+    "url": "https://myanimelist.net/anime/43601/DiSCOVER_THE_FUTURE",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1267/110495.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1267/110495t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1267/110495l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1267/110495.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1267/110495t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1267/110495l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "DiSCOVER THE FUTURE"
+      },
+      {
+        "type": "Japanese",
+        "title": "DiSCOVER THE FUTURE"
+      }
+    ],
+    "title": "DiSCOVER THE FUTURE",
+    "title_english": null,
+    "title_japanese": "DiSCOVER THE FUTURE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2020"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.37,
+    "scored_by": 396,
+    "rank": null,
+    "popularity": 14395,
+    "members": 935,
+    "favorites": 2,
+    "synopsis": "Official music video for IDOLiSH7’s song DiSCOVER THE FUTURE.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 437,
+        "type": "anime",
+        "name": "Kamikaze Douga",
+        "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37962,
+            "type": "anime",
+            "name": "IDOLiSH7 Second Beat!",
+            "url": "https://myanimelist.net/anime/37962/IDOLiSH7_Second_Beat"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/R4VAMahxFp4"
+      }
+    ],
+    "streaming": []
+  }
+}

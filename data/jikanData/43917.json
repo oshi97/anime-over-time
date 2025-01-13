@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 43917,
+    "url": "https://myanimelist.net/anime/43917/Viola_wa_Utau",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1438/110173.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1438/110173t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1438/110173l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1438/110173.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1438/110173t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1438/110173l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Viola wa Utau"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ビオラは歌う"
+      }
+    ],
+    "title": "Viola wa Utau",
+    "title_english": null,
+    "title_japanese": "ビオラは歌う",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 1, 2010"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21783,
+    "members": 176,
+    "favorites": 0,
+    "synopsis": "Music video for the song Viola wa Utau by Noriyuki Makihara that was featured on NHK's Minna no Uta program. The video was animated by Kouichirou Uchida with assistance from Super Brain.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 111,
+        "type": "anime",
+        "name": "NHK",
+        "url": "https://myanimelist.net/anime/producer/111/NHK"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2164,
+        "type": "anime",
+        "name": "Super Brain",
+        "url": "https://myanimelist.net/anime/producer/2164/Super_Brain"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN201006_02/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%89%E3%81%AE%E4%B8%AD%E3%81%AB%E6%89%8B%E3%82%92%E7%AA%81%E3%81%A3%E8%BE%BC%E3%82%93%E3%81%A7"
+      }
+    ],
+    "streaming": []
+  }
+}

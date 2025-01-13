@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 55617,
+    "url": "https://myanimelist.net/anime/55617/Day_Night_DiSCO",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1723/136404.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1723/136404t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1723/136404l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1723/136404.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1723/136404t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1723/136404l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Day/Night DiSCO"
+      },
+      {
+        "type": "Japanese",
+        "title": "Day/Night DiSCO"
+      }
+    ],
+    "title": "Day/Night DiSCO",
+    "title_english": null,
+    "title_japanese": "Day/Night DiSCO",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 10, 2023"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.05,
+    "scored_by": 150,
+    "rank": null,
+    "popularity": 19617,
+    "members": 295,
+    "favorites": 0,
+    "synopsis": "MV for the group anniversary song Day/Night DiSCO for IDOLiSH7 from the franchise of the same name.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 33899,
+            "type": "anime",
+            "name": "IDOLiSH7",
+            "url": "https://myanimelist.net/anime/33899/IDOLiSH7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://idolish7.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

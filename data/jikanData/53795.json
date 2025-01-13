@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 53795,
+    "url": "https://myanimelist.net/anime/53795/Te_wo_Tsunaide_Arukou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/131703.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/131703t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/131703l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1331/131703.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1331/131703t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1331/131703l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Te wo Tsunaide Arukou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "手をつないで歩こう"
+      }
+    ],
+    "title": "Te wo Tsunaide Arukou",
+    "title_english": null,
+    "title_japanese": "手をつないで歩こう",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2, 2022"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23029,
+    "members": 127,
+    "favorites": 0,
+    "synopsis": "Music video for the song Te wo Tsunaide Arukou by Strawberry Prince that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2907,
+        "type": "anime",
+        "name": "Studio Placebo",
+        "url": "https://myanimelist.net/anime/producer/2907/Studio_Placebo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.nhk.or.jp/minna/songs/MIN202210_04/"
+      }
+    ],
+    "streaming": []
+  }
+}

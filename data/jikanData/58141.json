@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 58141,
+    "url": "https://myanimelist.net/anime/58141/Ima_wa_Shourai_ni_Hairimasu_ka",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1380/141504.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/141504t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/141504l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1380/141504.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/141504t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/141504l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "d8m2wuG87_M",
+      "url": "https://www.youtube.com/watch?v=d8m2wuG87_M",
+      "embed_url": "https://www.youtube.com/embed/d8m2wuG87_M?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/d8m2wuG87_M/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/d8m2wuG87_M/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/d8m2wuG87_M/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/d8m2wuG87_M/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/d8m2wuG87_M/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ima wa Shourai ni Hairimasu ka."
+      },
+      {
+        "type": "Synonym",
+        "title": "Kyocera CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "今は将来に入りますか。"
+      }
+    ],
+    "title": "Ima wa Shourai ni Hairimasu ka.",
+    "title_english": null,
+    "title_japanese": "今は将来に入りますか。",
+    "title_synonyms": [
+      "Kyocera CM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 20, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.39,
+    "scored_by": 286,
+    "rank": null,
+    "popularity": 14966,
+    "members": 801,
+    "favorites": 3,
+    "synopsis": "In his second year at university, a young boy, Hayato, thinks about his future.\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2898,
+        "type": "anime",
+        "name": "Manaa Animation",
+        "url": "https://myanimelist.net/anime/producer/2898/Manaa_Animation"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 58250,
+            "type": "anime",
+            "name": "Hoshi Meguru Uta",
+            "url": "https://myanimelist.net/anime/58250/Hoshi_Meguru_Uta"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50762,
+            "type": "anime",
+            "name": "\"Anata wo Hitokoto de Arawashite Kudasai\" no Shitsumon ga Nigate da.",
+            "url": "https://myanimelist.net/anime/50762/Anata_wo_Hitokoto_de_Arawashite_Kudasai_no_Shitsumon_ga_Nigate_da"
+          },
+          {
+            "mal_id": 54278,
+            "type": "anime",
+            "name": "Watashi no Hashtag ga Baenakute.",
+            "url": "https://myanimelist.net/anime/54278/Watashi_no_Hashtag_ga_Baenakute"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Hoshi Meguru Uta\" by suis"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.kyocera.co.jp/animation/imashou"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kBebzg6F7IQ"
+      }
+    ],
+    "streaming": []
+  }
+}

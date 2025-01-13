@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 38777,
+    "url": "https://myanimelist.net/anime/38777/Jujutsu_Kaisen_Official_PVs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/96959.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/96959t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/96959l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/96959.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/96959t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/96959l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jujutsu Kaisen Official PVs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sorcery Fight Official PVs"
+      },
+      {
+        "type": "Japanese",
+        "title": "呪術廻戦 公式PV"
+      },
+      {
+        "type": "English",
+        "title": "Jujutsu Kaisen Official PVs"
+      }
+    ],
+    "title": "Jujutsu Kaisen Official PVs",
+    "title_english": "Jujutsu Kaisen Official PVs",
+    "title_japanese": "呪術廻戦 公式PV",
+    "title_synonyms": [
+      "Sorcery Fight Official PVs"
+    ],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-03T00:00:00+00:00",
+      "to": "2018-12-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": 8,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Dec 3, 2018 to Dec 8, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.6,
+    "scored_by": 14799,
+    "rank": null,
+    "popularity": 3215,
+    "members": 51895,
+    "favorites": 1964,
+    "synopsis": "Just where do Curses, the fiendish spirits invisible to normal humans, come from? What is Sukuna Ryoumen, whose very existence grips the Jujutsu world in fear? And who exactly is Yuuji Itadori, the boy who recently became the center of attention in Jujutsu society?\n\nNo need to fear, for Satoru Gojou, the strongest Jujutsu sorcerer, has the answers! From the new sorcerers in training to the enemies they face, Gojou provides all you need to know about Jujutsu and the inner workings of the institution who protect us from Curses: the Tokyo Prefectural Jujutsu High School.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1687,
+        "type": "anime",
+        "name": "Yokohama Animation Laboratory",
+        "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Laboratory"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 113138,
+            "type": "manga",
+            "name": "Jujutsu Kaisen",
+            "url": "https://myanimelist.net/manga/113138/Jujutsu_Kaisen"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40748,
+            "type": "anime",
+            "name": "Jujutsu Kaisen",
+            "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XIPVw5p6ex4"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ]
+  }
+}

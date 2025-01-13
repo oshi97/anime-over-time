@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 55046,
+    "url": "https://myanimelist.net/anime/55046/Offside_Music",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/135376.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/135376t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/135376l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/135376.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/135376t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/135376l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Offside (Music)"
+      },
+      {
+        "type": "Japanese",
+        "title": "OFFSIDE"
+      }
+    ],
+    "title": "Offside (Music)",
+    "title_english": null,
+    "title_japanese": "OFFSIDE",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 22, 2023"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22176,
+    "members": 159,
+    "favorites": 0,
+    "synopsis": "Music video for the song Offside by Dannie May.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 54540,
+            "type": "anime",
+            "name": "Kamikaze",
+            "url": "https://myanimelist.net/anime/54540/Kamikaze"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://danniemay.com/disco/offside"
+      }
+    ],
+    "streaming": []
+  }
+}

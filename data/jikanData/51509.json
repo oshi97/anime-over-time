@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 51509,
+    "url": "https://myanimelist.net/anime/51509/Seikan_Sekai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1691/122231.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/122231t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/122231l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1691/122231.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/122231t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/122231l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Seikan Sekai"
+      },
+      {
+        "type": "Synonym",
+        "title": "The IDOLM@STER Cinderella Girls: Starlight Stage - Seikan Sekai Anime PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "アイドルマスター シンデレラガールズ スターライトステージ「星環世界」アニメPV"
+      },
+      {
+        "type": "Japanese",
+        "title": "星環世界"
+      }
+    ],
+    "title": "Seikan Sekai",
+    "title_english": null,
+    "title_japanese": "星環世界",
+    "title_synonyms": [
+      "The IDOLM@STER Cinderella Girls: Starlight Stage - Seikan Sekai Anime PV",
+      "アイドルマスター シンデレラガールズ スターライトステージ「星環世界」アニメPV"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.34,
+    "scored_by": 183,
+    "rank": null,
+    "popularity": 17540,
+    "members": 441,
+    "favorites": 0,
+    "synopsis": "Music video for the song Seikan Sekai celebrating the 6th anniversary of The IDOLM@STER Cinderella Girls: Starlight Stage mobile game.\n\n(Source: Anilist)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1997,
+        "type": "anime",
+        "name": "Studio Kai",
+        "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 23587,
+            "type": "anime",
+            "name": "The iDOLM@STER Cinderella Girls",
+            "url": "https://myanimelist.net/anime/23587/The_iDOLMSTER_Cinderella_Girls"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 35003,
+    "url": "https://myanimelist.net/anime/35003/Tanoshii_Saki_Uta_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/140209.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/140209t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/140209l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1516/140209.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1516/140209t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1516/140209l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tanoshii Saki Uta Animation"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meiji CM"
+      },
+      {
+        "type": "Japanese",
+        "title": "楽しいさき歌アニメーション"
+      },
+      {
+        "type": "English",
+        "title": "We Are the Mozzaraliens!"
+      }
+    ],
+    "title": "Tanoshii Saki Uta Animation",
+    "title_english": "We Are the Mozzaraliens!",
+    "title_japanese": "楽しいさき歌アニメーション",
+    "title_synonyms": [
+      "Meiji CM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 15, 2016"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.64,
+    "scored_by": 182,
+    "rank": null,
+    "popularity": 17892,
+    "members": 415,
+    "favorites": 0,
+    "synopsis": "A Meiji commissioned commercial promoting their new mozzarella string cheese done as a sing-a-long song.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57446,
+            "type": "anime",
+            "name": "Momomo Mozzarella Alien Again",
+            "url": "https://myanimelist.net/anime/57446/Momomo_Mozzarella_Alien_Again"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57447,
+            "type": "anime",
+            "name": "Shakafuri Song",
+            "url": "https://myanimelist.net/anime/57447/Shakafuri_Song"
+          },
+          {
+            "mal_id": 35002,
+            "type": "anime",
+            "name": "Aware! Meisaku-kun: Meiji Saite Oishii Mozzarella",
+            "url": "https://myanimelist.net/anime/35002/Aware_Meisaku-kun__Meiji_Saite_Oishii_Mozzarella"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.meiji.co.jp/dairies/cheese/saite-oishii/"
+      }
+    ],
+    "streaming": []
+  }
+}

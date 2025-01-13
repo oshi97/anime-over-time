@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 43745,
+    "url": "https://myanimelist.net/anime/43745/Attack_Zero_x_Evangelion",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/110189t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/110189l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1662/110189.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/110189t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/110189l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Attack Zero x Evangelion"
+      },
+      {
+        "type": "Synonym",
+        "title": "Evangelion x Attack Zero"
+      },
+      {
+        "type": "Japanese",
+        "title": "花王 アタックZERO エヴァンゲリオン"
+      }
+    ],
+    "title": "Attack Zero x Evangelion",
+    "title_english": null,
+    "title_japanese": "花王 アタックZERO エヴァンゲリオン",
+    "title_synonyms": [
+      "Evangelion x Attack Zero"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 2, 2020"
+    },
+    "duration": "33 sec",
+    "rating": "G - All Ages",
+    "score": 5.33,
+    "scored_by": 1836,
+    "rank": null,
+    "popularity": 9262,
+    "members": 4397,
+    "favorites": 2,
+    "synopsis": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      },
+      {
+        "mal_id": 2196,
+        "type": "anime",
+        "name": "Studio DURIAN",
+        "url": "https://myanimelist.net/anime/producer/2196/Studio_DURIAN"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Shinseiki Evangelion",
+            "url": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.kao.co.jp/attack/products/zero/collab_design/"
+      }
+    ],
+    "streaming": []
+  }
+}

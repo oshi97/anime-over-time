@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 59679,
+    "url": "https://myanimelist.net/anime/59679/Momoume_x_Kaunet_Collab",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/145115.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/145115t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/145115l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/145115.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/145115t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/145115l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Momoume x Kaunet Collab"
+      },
+      {
+        "type": "Japanese",
+        "title": "モモウメ×カウネットコラボ"
+      }
+    ],
+    "title": "Momoume x Kaunet Collab",
+    "title_english": null,
+    "title_japanese": "モモウメ×カウネットコラボ",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-11-05T00:00:00+00:00",
+      "to": "2020-07-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 11,
+          "year": 2019
+        },
+        "to": {
+          "day": 28,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      "string": "Nov 5, 2019 to Jul 28, 2020"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 26074,
+    "members": 75,
+    "favorites": 0,
+    "synopsis": "A collaboration between Momoume and the mail order shop Kaunet.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 3002,
+        "type": "anime",
+        "name": "CUEBiC Inc.",
+        "url": "https://myanimelist.net/anime/producer/3002/CUEBiC_Inc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59678,
+            "type": "anime",
+            "name": "Momoume",
+            "url": "https://myanimelist.net/anime/59678/Momoume"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://momo-and-ume.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2%E3%82%A6%E3%83%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

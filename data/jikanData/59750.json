@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 59750,
+    "url": "https://myanimelist.net/anime/59750/Go-Getters",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1329/145326.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/145326t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/145326l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1329/145326.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/145326t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/145326l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Go-Getters"
+      }
+    ],
+    "title": "Go-Getters",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-09-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 9,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 6, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.94,
+    "scored_by": 1612,
+    "rank": null,
+    "popularity": 10310,
+    "members": 3135,
+    "favorites": 14,
+    "synopsis": "Music video for the song Go-Getters by Mori Calliope.\n\nThe song was used as the ending theme of the anime Isekai Suicide Squad.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55848,
+            "type": "anime",
+            "name": "Isekai Suicide Squad",
+            "url": "https://myanimelist.net/anime/55848/Isekai_Suicide_Squad"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=j7RbmhKeaZs"
+      }
+    ],
+    "streaming": []
+  }
+}

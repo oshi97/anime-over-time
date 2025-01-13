@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 55218,
+    "url": "https://myanimelist.net/anime/55218/The_Little_Name",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1126/139838.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/139838t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/139838l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1126/139838.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/139838t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/139838l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "The Little Name"
+      },
+      {
+        "type": "Japanese",
+        "title": "어린이름"
+      },
+      {
+        "type": "English",
+        "title": "The Little Name"
+      }
+    ],
+    "title": "The Little Name",
+    "title_english": "The Little Name",
+    "title_japanese": "어린이름",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 7, 2022"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 24780,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": "Music video for ADORA's song The Little Name.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ppTx4VVzAlU"
+      }
+    ],
+    "streaming": []
+  }
+}

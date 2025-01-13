@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 60550,
+    "url": "https://myanimelist.net/anime/60550/Vortex",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1060/147018.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/147018t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/147018l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1060/147018.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/147018t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/147018l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Vortex"
+      },
+      {
+        "type": "Japanese",
+        "title": "VORTEX"
+      },
+      {
+        "type": "English",
+        "title": "VORTEX"
+      }
+    ],
+    "title": "Vortex",
+    "title_english": "VORTEX",
+    "title_japanese": "VORTEX",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-10-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 4, 2024"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22112,
+    "members": 161,
+    "favorites": 0,
+    "synopsis": "Music video for the song Vortex by Setsuko (Kuhaku Gokko). The song was used as the opening theme of the anime Mecha-ude.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1843,
+        "type": "anime",
+        "name": "TriF Studio",
+        "url": "https://myanimelist.net/anime/producer/1843/TriF_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 53033,
+            "type": "anime",
+            "name": "Mecha-ude (TV)",
+            "url": "https://myanimelist.net/anime/53033/Mecha-ude_TV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xPir0U7s_f4"
+      }
+    ],
+    "streaming": []
+  }
+}

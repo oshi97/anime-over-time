@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 36081,
+    "url": "https://myanimelist.net/anime/36081/Tengoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87203.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87203t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87203l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/87203.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/87203t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/87203l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tengoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lai Lai Lai Team"
+      },
+      {
+        "type": "Japanese",
+        "title": "天国"
+      },
+      {
+        "type": "English",
+        "title": "Heaven"
+      }
+    ],
+    "title": "Tengoku",
+    "title_english": "Heaven",
+    "title_japanese": "天国",
+    "title_synonyms": [
+      "Lai Lai Lai Team"
+    ],
+    "type": "Music",
+    "source": "Music",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-04-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 4,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 16, 2012"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.44,
+    "scored_by": 158,
+    "rank": null,
+    "popularity": 19189,
+    "members": 321,
+    "favorites": 0,
+    "synopsis": "Official music video for Lai Lai Lai Team's song Tengoku which was included on the album of the same name.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1717,
+        "type": "anime",
+        "name": "Onionskin",
+        "url": "https://myanimelist.net/anime/producer/1717/Onionskin"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://vimeo.com/40443433"
+      }
+    ],
+    "streaming": []
+  }
+}

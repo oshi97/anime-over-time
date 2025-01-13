@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 50324,
+    "url": "https://myanimelist.net/anime/50324/Oz",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1388/119267.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/119267t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/119267l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1388/119267.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/119267t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/119267l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Oz."
+      },
+      {
+        "type": "Japanese",
+        "title": "Oz."
+      }
+    ],
+    "title": "Oz.",
+    "title_english": null,
+    "title_japanese": "Oz.",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 22, 2021"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.37,
+    "scored_by": 2085,
+    "rank": null,
+    "popularity": 9809,
+    "members": 3692,
+    "favorites": 6,
+    "synopsis": "A music video for the song Oz. by yama that serves as first ending song for Ousama Ranking series.\n\nThe video shows Bojji and Kage forming their bond.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 858,
+        "type": "anime",
+        "name": "Wit Studio",
+        "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40834,
+            "type": "anime",
+            "name": "Ousama Ranking",
+            "url": "https://myanimelist.net/anime/40834/Ousama_Ranking"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://osama-ranking.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Odv-zbpy-Y8"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Csama_Ranking#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

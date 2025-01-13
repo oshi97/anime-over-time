@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 55546,
+    "url": "https://myanimelist.net/anime/55546/Random_Chatting-ui_Geunyeo_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/140128.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/140128t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/140128l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/140128.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/140128t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/140128l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Random Chatting-ui Geunyeo PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "랜덤채팅의 그녀!"
+      },
+      {
+        "type": "English",
+        "title": "Random Chat PV"
+      }
+    ],
+    "title": "Random Chatting-ui Geunyeo PV",
+    "title_english": "Random Chat PV",
+    "title_japanese": "랜덤채팅의 그녀!",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 24, 2018"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23307,
+    "members": 120,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Random Chat.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2130,
+        "type": "anime",
+        "name": "Studio Shelter",
+        "url": "https://myanimelist.net/anime/producer/2130/Studio_Shelter"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 146774,
+            "type": "manga",
+            "name": "Random Chat",
+            "url": "https://myanimelist.net/manga/146774/Random_Chat"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=YmCRdVGAOPk"
+      }
+    ],
+    "streaming": []
+  }
+}

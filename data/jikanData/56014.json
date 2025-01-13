@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 56014,
+    "url": "https://myanimelist.net/anime/56014/Uri_Dasi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1142/137210.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1142/137210t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/137210l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1142/137210.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1142/137210t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/137210l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Uri, Dasi"
+      },
+      {
+        "type": "Japanese",
+        "title": "우리, 다시"
+      },
+      {
+        "type": "English",
+        "title": "Once Again"
+      }
+    ],
+    "title": "Uri, Dasi",
+    "title_english": "Once Again",
+    "title_japanese": "우리, 다시",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 25, 2022"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.3,
+    "scored_by": 118,
+    "rank": null,
+    "popularity": 20981,
+    "members": 219,
+    "favorites": 0,
+    "synopsis": "Music video for the song Once Again by Kang Seong-woo. Serves as a promo for See You in My 19th Life manhwa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      },
+      {
+        "mal_id": 72,
+        "type": "anime",
+        "name": "Reincarnation",
+        "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147062,
+            "type": "manga",
+            "name": "See You in My 19th Life",
+            "url": "https://myanimelist.net/manga/147062/See_You_in_My_19th_Life"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=PkxkhveaDw8"
+      }
+    ],
+    "streaming": []
+  }
+}

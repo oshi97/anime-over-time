@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 55924,
+    "url": "https://myanimelist.net/anime/55924/Dynamite",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1389/141607.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1389/141607t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1389/141607l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1389/141607.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1389/141607t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1389/141607l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dynamite"
+      },
+      {
+        "type": "Japanese",
+        "title": "[TinyTAN | CLIP] - Dynamite"
+      }
+    ],
+    "title": "Dynamite",
+    "title_english": null,
+    "title_japanese": "[TinyTAN | CLIP] - Dynamite",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 13, 2021"
+    },
+    "duration": "43 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22255,
+    "members": 155,
+    "favorites": 0,
+    "synopsis": "Are you ready to style up like #Dynamite?\n\nTinyTAN inspired by BTS\n\n(Source: BANGTANTV Official YouTube Channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 61,
+        "type": "anime",
+        "name": "Idols (Male)",
+        "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55860,
+            "type": "anime",
+            "name": "Magic Door",
+            "url": "https://myanimelist.net/anime/55860/Magic_Door"
+          },
+          {
+            "mal_id": 55859,
+            "type": "anime",
+            "name": "Dream On",
+            "url": "https://myanimelist.net/anime/55859/Dream_On"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_K2v-MmAj7E"
+      }
+    ],
+    "streaming": []
+  }
+}

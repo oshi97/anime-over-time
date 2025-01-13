@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 44271,
+    "url": "https://myanimelist.net/anime/44271/Say_Fanfare",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/125229.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/125229t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/125229l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1316/125229.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1316/125229t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1316/125229l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Say! Fanfare!"
+      },
+      {
+        "type": "Japanese",
+        "title": "Say!ファンファーレ!"
+      }
+    ],
+    "title": "Say! Fanfare!",
+    "title_english": null,
+    "title_japanese": "Say!ファンファーレ!",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 23, 2020"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.13,
+    "scored_by": 271,
+    "rank": null,
+    "popularity": 17131,
+    "members": 477,
+    "favorites": 5,
+    "synopsis": "Official music video for Fubuki Shirakami's original song.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 44042,
+            "type": "anime",
+            "name": "Holo no Graffiti",
+            "url": "https://myanimelist.net/anime/44042/Holo_no_Graffiti"
+          },
+          {
+            "mal_id": 42797,
+            "type": "anime",
+            "name": "Rebirth: Virtual to no Souguu",
+            "url": "https://myanimelist.net/anime/42797/Rebirth__Virtual_to_no_Souguu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/pFgUluV_00s"
+      }
+    ],
+    "streaming": []
+  }
+}

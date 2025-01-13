@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 58415,
+    "url": "https://myanimelist.net/anime/58415/Tsubame__E_Tele_Anime_Version",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1343/141973.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1343/141973t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1343/141973l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1343/141973.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1343/141973t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1343/141973l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tsubame: E Tele Anime Version"
+      },
+      {
+        "type": "Synonym",
+        "title": "Minna no Uta"
+      },
+      {
+        "type": "Japanese",
+        "title": "ツバメ～Eテレアニメバージョン"
+      }
+    ],
+    "title": "Tsubame: E Tele Anime Version",
+    "title_english": null,
+    "title_japanese": "ツバメ～Eテレアニメバージョン",
+    "title_synonyms": [
+      "Minna no Uta"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-11-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 11,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 5, 2023"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Music video for the song Tsubame: E Tele Anime Version by YOASOBI and Midories that was featured on NHK's Minna no Uta program.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50513,
+            "type": "anime",
+            "name": "Tsubame",
+            "url": "https://myanimelist.net/anime/50513/Tsubame"
+          },
+          {
+            "mal_id": 56721,
+            "type": "anime",
+            "name": "Tsubame: SDGs Anime Version",
+            "url": "https://myanimelist.net/anime/56721/Tsubame__SDGs_Anime_Version"
+          },
+          {
+            "mal_id": 58306,
+            "type": "anime",
+            "name": "Tsubame: Rainbow Version",
+            "url": "https://myanimelist.net/anime/58306/Tsubame__Rainbow_Version"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 37723,
+    "url": "https://myanimelist.net/anime/37723/Rokudou_Juku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1349/91849.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1349/91849t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1349/91849l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1349/91849.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1349/91849t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1349/91849l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rokudou Juku"
+      },
+      {
+        "type": "Japanese",
+        "title": "六道塾"
+      }
+    ],
+    "title": "Rokudou Juku",
+    "title_english": null,
+    "title_japanese": "六道塾",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 10, 2018"
+    },
+    "duration": "30 sec",
+    "rating": "G - All Ages",
+    "score": 4.87,
+    "scored_by": 202,
+    "rank": null,
+    "popularity": 17353,
+    "members": 457,
+    "favorites": 0,
+    "synopsis": "A televised commercial for Rokudou Juku, a cram school in the Nerima Ward of Tokyo.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.rikudojuku.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

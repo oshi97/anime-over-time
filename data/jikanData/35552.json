@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 35552,
+    "url": "https://myanimelist.net/anime/35552/Pokemon_Daisuki_Club",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85685.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85685t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85685l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/85685.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85685t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85685l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Daisuki Club"
+      },
+      {
+        "type": "Synonym",
+        "title": "I Love Koiking"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bokura no Hitodeman"
+      },
+      {
+        "type": "Synonym",
+        "title": "Donai yanen Yadon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Goriky Hikkoshisha"
+      },
+      {
+        "type": "Synonym",
+        "title": "Alala Alola"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモンだいすきクラブ"
+      }
+    ],
+    "title": "Pokemon Daisuki Club",
+    "title_english": null,
+    "title_japanese": "ポケモンだいすきクラブ",
+    "title_synonyms": [
+      "I Love Koiking",
+      "Bokura no Hitodeman",
+      "Donai yanen Yadon",
+      "Goriky Hikkoshisha",
+      "Alala Alola"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-08-21T00:00:00+00:00",
+      "to": "2021-02-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 8,
+          "year": 2014
+        },
+        "to": {
+          "day": 27,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      "string": "Aug 21, 2014 to Feb 27, 2021"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.7,
+    "scored_by": 663,
+    "rank": null,
+    "popularity": 11682,
+    "members": 2098,
+    "favorites": 3,
+    "synopsis": "Series of musical videos featuring Pokemon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 503,
+        "type": "anime",
+        "name": "Nintendo",
+        "url": "https://myanimelist.net/anime/producer/503/Nintendo"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31592,
+            "type": "anime",
+            "name": "Pokemon XY&Z",
+            "url": "https://myanimelist.net/anime/31592/Pokemon_XY_Z"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13124"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)"
+      }
+    ],
+    "streaming": []
+  }
+}

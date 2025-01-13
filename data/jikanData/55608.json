@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 55608,
+    "url": "https://myanimelist.net/anime/55608/Maehwa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1330/136383.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/136383t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/136383l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1330/136383.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/136383t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/136383l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maehwa"
+      },
+      {
+        "type": "Japanese",
+        "title": "매화"
+      }
+    ],
+    "title": "Maehwa",
+    "title_english": null,
+    "title_japanese": "매화",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 8, 2023"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21639,
+    "members": 184,
+    "favorites": 0,
+    "synopsis": "Music video for the song \"Maehwa\" by Kim Yuna. PV for Return of the Blossoming Blade manhwa.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 146878,
+            "type": "manga",
+            "name": "Return of the Blossoming Blade",
+            "url": "https://myanimelist.net/manga/146878/Return_of_the_Blossoming_Blade"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52878,
+            "type": "anime",
+            "name": "Hwasan Gwihwan PV",
+            "url": "https://myanimelist.net/anime/52878/Hwasan_Gwihwan_PV"
+          },
+          {
+            "mal_id": 52887,
+            "type": "anime",
+            "name": "Majimag Kalchum",
+            "url": "https://myanimelist.net/anime/52887/Majimag_Kalchum"
+          },
+          {
+            "mal_id": 57926,
+            "type": "anime",
+            "name": "Mangaehwa",
+            "url": "https://myanimelist.net/anime/57926/Mangaehwa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZGFpCFUlFho"
+      }
+    ],
+    "streaming": []
+  }
+}

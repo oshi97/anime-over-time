@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 50239,
+    "url": "https://myanimelist.net/anime/50239/Moon_Effect",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1953/119020.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1953/119020t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1953/119020l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1953/119020.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1953/119020t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1953/119020l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Moon Effect"
+      },
+      {
+        "type": "Synonym",
+        "title": "\"Moon Effect\" Original Animation MV"
+      },
+      {
+        "type": "Japanese",
+        "title": "「Moon Effect」オリジナルアニメーションMV"
+      }
+    ],
+    "title": "Moon Effect",
+    "title_english": null,
+    "title_japanese": "「Moon Effect」オリジナルアニメーションMV",
+    "title_synonyms": [
+      "\"Moon Effect\" Original Animation MV"
+    ],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 26, 2021"
+    },
+    "duration": "6 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.23,
+    "scored_by": 368,
+    "rank": null,
+    "popularity": 14811,
+    "members": 831,
+    "favorites": 2,
+    "synopsis": "Music video that was available for a limited time on YouTube and then included in the limited Blu-ray/DVD edition.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Studio Deen",
+        "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 40429,
+            "type": "anime",
+            "name": "Bishoujo Senshi Sailor Moon Eternal Movie 2",
+            "url": "https://myanimelist.net/anime/40429/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://news-sailormoon.jp/archives/459"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12754"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/美少女戦士セーラームーンCrystal#劇場版"
+      }
+    ],
+    "streaming": []
+  }
+}

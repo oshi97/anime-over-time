@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48264,
+    "url": "https://myanimelist.net/anime/48264/Sinbi_Apartment_444ho",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1459/130298.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1459/130298t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1459/130298l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1459/130298.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1459/130298t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1459/130298l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbi Apartment 444ho"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sinbi Apartment Pilot"
+      },
+      {
+        "type": "Japanese",
+        "title": "신비아파트 444호"
+      }
+    ],
+    "title": "Sinbi Apartment 444ho",
+    "title_english": null,
+    "title_japanese": "신비아파트 444호",
+    "title_synonyms": [
+      "Sinbi Apartment Pilot"
+    ],
+    "type": "TV Special",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-12-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 12,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 31, 2014"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14264,
+    "popularity": 21099,
+    "members": 212,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38923,
+            "type": "anime",
+            "name": "Sinbi Apartment: Ghost Ball Bimil",
+            "url": "https://myanimelist.net/anime/38923/Sinbi_Apartment__Ghost_Ball_Bimil"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@Shinbihouse"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EB%B9%84%EC%95%84%ED%8C%8C%ED%8A%B8%20444%ED%98%B8"
+      }
+    ],
+    "streaming": []
+  }
+}

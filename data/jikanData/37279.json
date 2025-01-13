@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 37279,
+    "url": "https://myanimelist.net/anime/37279/Eyedrops_Special_Episode",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/90471.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/90471t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/90471l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1727/90471.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/90471t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/90471l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Eyedrops Special Episode"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sante MediGuard EX"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイドロップス Special Episode"
+      },
+      {
+        "type": "English",
+        "title": "Eyedrops Special Episode"
+      }
+    ],
+    "title": "Eyedrops Special Episode",
+    "title_english": "Eyedrops Special Episode",
+    "title_japanese": "アイドロップス Special Episode",
+    "title_synonyms": [
+      "Sante MediGuard EX"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-08T00:00:00+00:00",
+      "to": "2018-03-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": 5,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "string": "Feb 8, 2018 to Mar 5, 2018"
+    },
+    "duration": "8 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.19,
+    "scored_by": 189,
+    "rank": null,
+    "popularity": 17073,
+    "members": 482,
+    "favorites": 0,
+    "synopsis": "New episodes of Eyedrops that continue the story. Meant to promote the Sante MediGuard EX eyedrops. Two episodes are scheduled to be released.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34140,
+            "type": "anime",
+            "name": "Eyedrops",
+            "url": "https://myanimelist.net/anime/34140/Eyedrops"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://eyedrops.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12432"
+      }
+    ],
+    "streaming": []
+  }
+}

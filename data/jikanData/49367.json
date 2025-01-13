@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 49367,
+    "url": "https://myanimelist.net/anime/49367/Otona_ni_Natta_Alice",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1724/116350.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/116350t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/116350l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1724/116350.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/116350t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/116350l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Otona ni Natta Alice"
+      },
+      {
+        "type": "Synonym",
+        "title": "Grown-Up Alice"
+      },
+      {
+        "type": "Japanese",
+        "title": "大人になったアリス"
+      }
+    ],
+    "title": "Otona ni Natta Alice",
+    "title_english": null,
+    "title_japanese": "大人になったアリス",
+    "title_synonyms": [
+      "Grown-Up Alice"
+    ],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 28, 2016"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 5.34,
+    "scored_by": 129,
+    "rank": null,
+    "popularity": 19957,
+    "members": 277,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 31941,
+            "type": "anime",
+            "name": "Alice in Dreamland",
+            "url": "https://myanimelist.net/anime/31941/Alice_in_Dreamland"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/BrMFl3zQ74Q"
+      }
+    ],
+    "streaming": []
+  }
+}

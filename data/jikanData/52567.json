@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 52567,
+    "url": "https://myanimelist.net/anime/52567/Pizza",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1180/126358.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1180/126358t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1180/126358l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1180/126358.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1180/126358t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1180/126358l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "oOG5GENzkMI",
+      "url": "https://www.youtube.com/watch?v=oOG5GENzkMI",
+      "embed_url": "https://www.youtube.com/embed/oOG5GENzkMI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/oOG5GENzkMI/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/oOG5GENzkMI/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/oOG5GENzkMI/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/oOG5GENzkMI/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/oOG5GENzkMI/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pizza"
+      },
+      {
+        "type": "Japanese",
+        "title": "PIZZA"
+      }
+    ],
+    "title": "Pizza",
+    "title_english": null,
+    "title_japanese": "PIZZA",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 15, 2017"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21768,
+    "members": 176,
+    "favorites": 1,
+    "synopsis": "Music video for the song Pizza by OOHYO.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2534,
+        "type": "anime",
+        "name": "studio YOG",
+        "url": "https://myanimelist.net/anime/producer/2534/studio_YOG"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yog.co.kr/oohyo-pizza"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tvUMCOWrTgA"
+      }
+    ],
+    "streaming": []
+  }
+}

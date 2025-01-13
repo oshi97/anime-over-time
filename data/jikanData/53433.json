@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 53433,
+    "url": "https://myanimelist.net/anime/53433/Aiue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/129854.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/129854t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/129854l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1214/129854.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/129854t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/129854l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Aiue"
+      },
+      {
+        "type": "Japanese",
+        "title": "アイウエ"
+      }
+    ],
+    "title": "Aiue",
+    "title_english": null,
+    "title_japanese": "アイウエ",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 27, 2022"
+    },
+    "duration": "3 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.58,
+    "scored_by": 483,
+    "rank": null,
+    "popularity": 14890,
+    "members": 814,
+    "favorites": 2,
+    "synopsis": "Music video for the full opening song of Urusei Yatsura (2022).",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2162,
+        "type": "anime",
+        "name": "Maxilla",
+        "url": "https://myanimelist.net/anime/producer/2162/Maxilla"
+      },
+      {
+        "mal_id": 2669,
+        "type": "anime",
+        "name": "THINGS.",
+        "url": "https://myanimelist.net/anime/producer/2669/THINGS"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 50710,
+            "type": "anime",
+            "name": "Urusei Yatsura (2022)",
+            "url": "https://myanimelist.net/anime/50710/Urusei_Yatsura_2022"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=fwzRR6Bsro4"
+      }
+    ],
+    "streaming": []
+  }
+}

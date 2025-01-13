@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 39211,
+    "url": "https://myanimelist.net/anime/39211/Fire_Me_Up",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1758/98901.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1758/98901t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1758/98901l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1758/98901.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1758/98901t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1758/98901l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fire Me Up"
+      },
+      {
+        "type": "Synonym",
+        "title": "Irodorimidori"
+      },
+      {
+        "type": "Japanese",
+        "title": "Fire me up"
+      },
+      {
+        "type": "English",
+        "title": "Fire me up"
+      }
+    ],
+    "title": "Fire Me Up",
+    "title_english": "Fire me up",
+    "title_japanese": "Fire me up",
+    "title_synonyms": [
+      "Irodorimidori"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 6, 2019"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 5.62,
+    "scored_by": 556,
+    "rank": null,
+    "popularity": 14179,
+    "members": 997,
+    "favorites": 0,
+    "synopsis": "Official music video for the song Fire Me Up by the fictional band Irodorimidori. It is the 36th song in the franchise and focuses on Nazuna Tennozu and Aliciana Ogata.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39001,
+            "type": "anime",
+            "name": "Light Speed Days",
+            "url": "https://myanimelist.net/anime/39001/Light_Speed_Days"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39684,
+            "type": "anime",
+            "name": "Sayonara Freeway",
+            "url": "https://myanimelist.net/anime/39684/Sayonara_Freeway"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://chunithm.sega.jp/irodorimidori/release/song036/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%89%E3%83%AA%E3%83%9F%E3%83%89%E3%83%AA"
+      }
+    ],
+    "streaming": []
+  }
+}

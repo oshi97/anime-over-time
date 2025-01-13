@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 36719,
+    "url": "https://myanimelist.net/anime/36719/Pastel_Kazoku",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88781.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88781t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88781l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/88781.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88781t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88781l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pastel Kazoku"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Pastel Family"
+      },
+      {
+        "type": "Japanese",
+        "title": "パステル家族"
+      }
+    ],
+    "title": "Pastel Kazoku",
+    "title_english": null,
+    "title_japanese": "パステル家族",
+    "title_synonyms": [
+      "The Pastel Family"
+    ],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 16, 2016"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 5.25,
+    "scored_by": 144,
+    "rank": null,
+    "popularity": 18914,
+    "members": 339,
+    "favorites": 0,
+    "synopsis": "An animated promotional video for the web manga of the same name.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1481,
+        "type": "anime",
+        "name": "comico",
+        "url": "https://myanimelist.net/anime/producer/1481/comico"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 93588,
+            "type": "manga",
+            "name": "Pastel Kazoku",
+            "url": "https://myanimelist.net/manga/93588/Pastel_Kazoku"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

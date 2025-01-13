@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 37352,
+    "url": "https://myanimelist.net/anime/37352/Quote",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1042/90665.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1042/90665t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1042/90665l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1042/90665.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1042/90665t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1042/90665l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Quote"
+      },
+      {
+        "type": "Synonym",
+        "title": "Red"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cambell"
+      },
+      {
+        "type": "Synonym",
+        "title": "Amador"
+      },
+      {
+        "type": "Japanese",
+        "title": "Quote"
+      },
+      {
+        "type": "English",
+        "title": "Quote"
+      }
+    ],
+    "title": "Quote",
+    "title_english": "Quote",
+    "title_japanese": "Quote",
+    "title_synonyms": [
+      "Red",
+      "Cambell",
+      "Amador"
+    ],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-18T00:00:00+00:00",
+      "to": "2018-01-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": 29,
+          "month": 1,
+          "year": 2018
+        }
+      },
+      "string": "Dec 18, 2017 to Jan 29, 2018"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.01,
+    "scored_by": 445,
+    "rank": null,
+    "popularity": 14614,
+    "members": 885,
+    "favorites": 0,
+    "synopsis": "Three official music videos for Red, Cambell, and Amador on Suda Keina's \"Quote\" album that was released on January 31, 2018. Avogado6 animated them and they were released on Suda Keina's official YouTube channel as well as airing on Space Shower TV under U&amp;R Records' label.",
+    "background": "Amador was also used as the theme song for Road to You: Kimi e to Tsuzuku Michi.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 36492,
+            "type": "anime",
+            "name": "Road to You",
+            "url": "https://myanimelist.net/anime/36492/Road_to_You"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://d-ue.jp/sudakeina/"
+      }
+    ],
+    "streaming": []
+  }
+}

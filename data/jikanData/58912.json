@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 58912,
+    "url": "https://myanimelist.net/anime/58912/Lucky",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/143267.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/143267t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/143267l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1617/143267.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1617/143267t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1617/143267l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lucky"
+      },
+      {
+        "type": "Japanese",
+        "title": "Lucky"
+      },
+      {
+        "type": "English",
+        "title": "Lucky"
+      }
+    ],
+    "title": "Lucky",
+    "title_english": "Lucky",
+    "title_japanese": "Lucky",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 24, 2024"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 6.55,
+    "scored_by": 220,
+    "rank": null,
+    "popularity": 17965,
+    "members": 410,
+    "favorites": 1,
+    "synopsis": "The official music video for Lucky by Nulbarich, Sunny, and UMI, presented by the Pokemon Music Collective.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 569,
+        "type": "anime",
+        "name": "MAPPA",
+        "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+      },
+      {
+        "mal_id": 2754,
+        "type": "anime",
+        "name": "Contrail",
+        "url": "https://myanimelist.net/anime/producer/2754/Contrail"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=1w1GUN80KrI"
+      }
+    ],
+    "streaming": []
+  }
+}

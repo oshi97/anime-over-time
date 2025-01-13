@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 41534,
+    "url": "https://myanimelist.net/anime/41534/Sonna_Yoru",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1231/106752.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/106752t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/106752l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1231/106752.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/106752t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/106752l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sonna Yoru"
+      },
+      {
+        "type": "Japanese",
+        "title": "そんな夜"
+      }
+    ],
+    "title": "Sonna Yoru",
+    "title_english": null,
+    "title_japanese": "そんな夜",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 28, 2017"
+    },
+    "duration": "3 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21079,
+    "members": 213,
+    "favorites": 0,
+    "synopsis": "Music video directed by video production unit WHOPPERS (Naoya Sanuki and ZUCK) for the single Sonna Yoru by ENJOY MUSIC CLUB.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2025,
+        "type": "anime",
+        "name": "Lute",
+        "url": "https://myanimelist.net/anime/producer/2025/Lute"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2032,
+        "type": "anime",
+        "name": "WHOPPERS",
+        "url": "https://myanimelist.net/anime/producer/2032/WHOPPERS"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://enjoymusicclub.com/video/"
+      }
+    ],
+    "streaming": []
+  }
+}

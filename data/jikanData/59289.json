@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 59289,
+    "url": "https://myanimelist.net/anime/59289/Miss_Monochrome_No_Idol_No_Tamago",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Miss Monochrome No Idol No Tamago"
+      },
+      {
+        "type": "Japanese",
+        "title": "ミスモノクロームのアイドルのたまご"
+      },
+      {
+        "type": "English",
+        "title": "Miss Monochrome's Idol Egg"
+      }
+    ],
+    "title": "Miss Monochrome No Idol No Tamago",
+    "title_english": "Miss Monochrome's Idol Egg",
+    "title_japanese": "ミスモノクロームのアイドルのたまご",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Other",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2014"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "Miss Monochrome once again tries to aim for being a top idol, this time in audio form! She encounters colorful characters both new and old in whacky adventures across time and space! Will she finally achieve her goal of standing out more or will her ideas keep going off the rails?",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 60,
+        "type": "anime",
+        "name": "Idols (Female)",
+        "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31560,
+            "type": "anime",
+            "name": "Miss Monochrome The Animation 3",
+            "url": "https://myanimelist.net/anime/31560/Miss_Monochrome_The_Animation_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 45927,
+    "url": "https://myanimelist.net/anime/45927/Bu_Yiyang_de_Tuzi_Shizi_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/129985.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/129985t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/129985l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1402/129985.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/129985t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/129985l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bu Yiyang de Tuzi Shizi Pian"
+      },
+      {
+        "type": "Japanese",
+        "title": "不一样的兔子识字篇"
+      }
+    ],
+    "title": "Bu Yiyang de Tuzi Shizi Pian",
+    "title_english": null,
+    "title_japanese": "不一样的兔子识字篇",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2009 to ?"
+    },
+    "duration": "27 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19535,
+    "popularity": 26331,
+    "members": 72,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 45926,
+            "type": "anime",
+            "name": "Bu Yiyang de Tuzi Yinyue Pian",
+            "url": "https://myanimelist.net/anime/45926/Bu_Yiyang_de_Tuzi_Yinyue_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1sJ411S7bd/?from=search&seid=9787574921539472290"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E5%85%94%E5%AD%90%E8%AF%86%E5%AD%97%E7%AF%87"
+      }
+    ],
+    "streaming": []
+  }
+}

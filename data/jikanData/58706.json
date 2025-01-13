@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 58706,
+    "url": "https://myanimelist.net/anime/58706/Meitantei_Conan_×_McDonalds",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/142664.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/142664t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/142664l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1133/142664.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/142664t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/142664l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": false,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Conan × McDonald's"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵コナン×マック"
+      }
+    ],
+    "title": "Meitantei Conan × McDonald's",
+    "title_english": null,
+    "title_japanese": "名探偵コナン×マック",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-04-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 4,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 11, 2024"
+    },
+    "duration": "20 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 0,
+    "popularity": 0,
+    "members": 0,
+    "favorites": 0,
+    "synopsis": "An advert in collaboration with McDonald's Japan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 235,
+            "type": "anime",
+            "name": "Meitantei Conan",
+            "url": "https://myanimelist.net/anime/235/Meitantei_Conan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": null,
+    "streaming": null
+  }
+}

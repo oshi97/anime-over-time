@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 49103,
+    "url": "https://myanimelist.net/anime/49103/Encore",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/115463.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/115463t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/115463l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/115463.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/115463t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/115463l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Encore"
+      },
+      {
+        "type": "Japanese",
+        "title": "アンコール"
+      }
+    ],
+    "title": "Encore",
+    "title_english": null,
+    "title_japanese": "アンコール",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2021"
+    },
+    "duration": "4 min",
+    "rating": "G - All Ages",
+    "score": 6.83,
+    "scored_by": 635,
+    "rank": null,
+    "popularity": 13855,
+    "members": 1082,
+    "favorites": 1,
+    "synopsis": "Music video for the song Encore by YOASOBI.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vcGbefQBvJ4"
+      }
+    ],
+    "streaming": []
+  }
+}
