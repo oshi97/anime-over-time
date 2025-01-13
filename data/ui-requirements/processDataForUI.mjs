@@ -8,6 +8,7 @@ import forMalRatings from "./is-anime-getting-better/forMalRatings.mjs"
 import forTopAnimePerSeason from "./is-anime-getting-better/forTopAnimePerSeason.mjs"
 import forTop20ByMembers from "./is-anime-more-serious/forTop20ByMembers.mjs"
 import forTop30ByMembers from "./is-anime-more-serious/forTop30ByMembers.mjs"
+import forRatingStdDeviations from "./is-anime-getting-better/forRatingStdDeviations.mjs"
 
 export default function processDataForUI() {
   forAnimePerSeason()
@@ -20,6 +21,7 @@ export default function processDataForUI() {
 
   forMalRatings()
   forTopAnimePerSeason()
+  forRatingStdDeviations()
 
   forTop20ByMembers()
   forTop30ByMembers()

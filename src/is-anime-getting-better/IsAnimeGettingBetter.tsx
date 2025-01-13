@@ -8,6 +8,9 @@ const IsAnimeGettingBetter = () => (
     <NavButton to='/is-anime-getting-better/average-mal-ratings' end={true}>
       Average MAL Ratings of the top 9 Anime Per Year
     </NavButton>
+    <NavButton to='/is-anime-getting-better/rating-std-deviations' end={true}>
+      Standard Deviations of MAL Ratings
+    </NavButton>
     <NavButton to='/is-anime-getting-better/top-anime-per-season' end={true}>
       Top Anime Per Season
     </NavButton>

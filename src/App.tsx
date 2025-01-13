@@ -23,6 +23,7 @@ import GenresByBoth from './is-anime-more-serious/GenreByBoth'
 import ByManamiTags30 from './is-anime-more-serious/ByManamiTags30'
 import ByManamiTags30Weighted from './is-anime-more-serious/ByManamiTags30Weighted'
 import ByManamiTags30WeightedAdjusted from './is-anime-more-serious/ByManamiTags30WeightedAdjusted'
+import RatingStdDeviations from './is-anime-getting-better/RatingStdDeviations'
 
 const Links = () => (
   <div>
@@ -60,6 +61,7 @@ const App = () => (
         <Route index element={<MalRatings />} />
         <Route path='average-mal-ratings' element={<AverageMalRatings />} />
         <Route path='top-anime-per-season' element={<TopAnimePerSeason />} />
+        <Route path='rating-std-deviations' element={<RatingStdDeviations />}/>
       </Route>
       <Route path='is-anime-more-serious'>
         <Route index element={<ByMalGenre />} />
