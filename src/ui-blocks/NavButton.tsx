@@ -13,7 +13,7 @@ const NavButton = (
     replace?: boolean
   }>
 ) => (
-  <NavLink end={props.end} to={props.to} relative={props.relative} replace={props.replace}>
+  <NavLink end={props.end} to={process.env.PUBLIC_URL + props.to} relative={props.relative} replace={props.replace}>
     {({ isActive }) => {
       return (
         <button
