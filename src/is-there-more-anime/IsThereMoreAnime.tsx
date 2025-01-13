@@ -1,6 +1,5 @@
 import NavButton from '../ui-blocks/NavButton'
 import residentsleeper from '../icons/residentsleeper.png'
-import { useResolvedPath } from 'react-router'
 
 const IsThereMoreAnime = () => (
   <div className='mt-1'>
