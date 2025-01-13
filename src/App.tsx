@@ -26,10 +26,10 @@ import ByManamiTags30WeightedAdjusted from './is-anime-more-serious/ByManamiTags
 
 const Links = () => (
   <div>
-    <NavButton to='/is-there-more-anime'>Is There More Anime?</NavButton>
-    <NavButton to='/is-anime-more-popular'>Is Anime More Popular?</NavButton>
-    <NavButton to='/is-anime-getting-better'>Is Anime Getting Better?</NavButton>
-    <NavButton to='/is-anime-more-serious'>Is Anime Getting More Serious?</NavButton>
+    <NavButton to='./is-there-more-anime'>Is There More Anime?</NavButton>
+    <NavButton to='./is-anime-more-popular'>Is Anime More Popular?</NavButton>
+    <NavButton to='./is-anime-getting-better'>Is Anime Getting Better?</NavButton>
+    <NavButton to='./is-anime-more-serious'>Is Anime Getting More Serious?</NavButton>
   </div>
 )
 

@@ -1,12 +1,13 @@
 import NavButton from '../ui-blocks/NavButton'
 import residentsleeper from '../icons/residentsleeper.png'
+import { useResolvedPath } from 'react-router'
 
 const IsThereMoreAnime = () => (
   <div className='mt-1'>
-    <NavButton to='/is-there-more-anime' end={true}>
+    <NavButton to={useResolvedPath('../is-there-more-anime')} end={true}>
       Anime Per Season
     </NavButton>
-    <NavButton to='/is-there-more-anime/episodes-per-season'>
+    <NavButton to={useResolvedPath('../is-there-more-anime/episodes-per-season')}>
       Episodes Per Season
     </NavButton>
     <NavButton to='/is-there-more-anime/resident-sleepers-per-season'>
