@@ -18,8 +18,11 @@ import TopAnimePerSeason from './is-anime-getting-better/TopAnimePerSeason'
 import ByMalGenre from './is-anime-more-serious/ByMalGenre'
 import IsAnimeMoreSerious from './is-anime-more-serious/IsAnimeMoreSerious'
 import ByManamiTags from './is-anime-more-serious/ByManamiTags'
-import Top20List from './is-anime-more-serious/Top20List'
+import Top30List from './is-anime-more-serious/Top30List'
 import GenresByBoth from './is-anime-more-serious/GenreByBoth'
+import ByManamiTags30 from './is-anime-more-serious/ByManamiTags30'
+import ByManamiTags30Weighted from './is-anime-more-serious/ByManamiTags30Weighted'
+import ByManamiTags30WeightedAdjusted from './is-anime-more-serious/ByManamiTags30WeightedAdjusted'
 
 const Links = () => (
   <div>
@@ -61,8 +64,11 @@ const App = () => (
       <Route path='is-anime-more-serious'>
         <Route index element={<ByMalGenre />} />
         <Route path='manami' element={<ByManamiTags />} />
-        <Route path='top-20' element={<Top20List />} />
+        <Route path='top-30' element={<Top30List />} />
         <Route path='genre-both' element={<GenresByBoth/>} />
+        <Route path='manami-30' element={<ByManamiTags30/>} />
+        <Route path='manami-30-weighted' element={<ByManamiTags30Weighted/>} />
+        <Route path='manami-30-weighted-adjusted' element={<ByManamiTags30WeightedAdjusted/>} />
       </Route>
     </Routes>
   </BrowserRouter>

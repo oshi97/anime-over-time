@@ -1,9 +1,8 @@
 import { AnimeData } from '../types'
 import AnimeList, { SeasonData } from '../ui-blocks/AnimeList'
 import ImageWithPlaceholder from '../ui-blocks/ImageWithPlaceholder'
-import top20 from '../data/top20ByMembers.json'
+import top30 from '../data/top30ByMembers.json'
 import { useState, PropsWithChildren, useMemo, useCallback, ReactNode } from 'react';
-import classNames from 'classnames';
 
 const numberFormat = new Intl.NumberFormat('en-EN')
 const checkboxClassnames =
@@ -24,7 +23,7 @@ const GenreCheckbox = (props: PropsWithChildren<{
   )
 }
 
-export default function Top20List() {
+export default function Top30List() {
   const [manamiComedy, setManamiComedy] = useState(false);
   const [manamiHarem, setManamiHarem] = useState(false);
   const [manamiRomance, setManamiRomance] = useState(false);
@@ -61,9 +60,6 @@ export default function Top20List() {
         Romance: malRomance,
         Harem: malHarem
       }).filter(([k, v]) => v).map(([k]) => k)
-      if (a.title.includes('Hako')) {
-        console.log(a.malGenres, a.malThemes, malFilters)
-      }
       if (useOr && malFilters.length === 0) {
         return true
       }
@@ -143,7 +139,7 @@ export default function Top20List() {
           <GenreCheckbox checked={hideDisabled} setChecked={setHideDisabled} text={<span className='text-xs font-light'>Hide Unmatched</span>} id='hide-unmatched'/>
           <GenreCheckbox checked={useOr} setChecked={setUseOr} text={<span className='text-xs font-light'>Use OR Filter</span>} id='use-or'/>
         </div>
-        <AnimeList seasonData={top20 as SeasonData[]} renderShow={renderShow} />
+        <AnimeList seasonData={top30 as SeasonData[]} renderShow={renderShow} />
       </div>
   )
 }
