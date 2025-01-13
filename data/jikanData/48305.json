@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 48305,
+    "url": "https://myanimelist.net/anime/48305/Red_Shoes",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/112558.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/112558t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/112558l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1403/112558.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/112558t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/112558l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Red Shoes"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ledeu Syujeu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ledeusyujeu"
+      },
+      {
+        "type": "Japanese",
+        "title": "레드슈즈"
+      },
+      {
+        "type": "English",
+        "title": "Red Shoes and the Seven Dwarfs"
+      }
+    ],
+    "title": "Red Shoes",
+    "title_english": "Red Shoes and the Seven Dwarfs",
+    "title_japanese": "레드슈즈",
+    "title_synonyms": [
+      "Ledeu Syujeu",
+      "Ledeusyujeu"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 25, 2019"
+    },
+    "duration": "1 hr 32 min",
+    "rating": "G - All Ages",
+    "score": 7.18,
+    "scored_by": 607,
+    "rank": 3461,
+    "popularity": 13128,
+    "members": 1323,
+    "favorites": 6,
+    "synopsis": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy. A parody with a twist.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2641,
+        "type": "anime",
+        "name": "Locus Corporation",
+        "url": "https://myanimelist.net/anime/producer/2641/Locus_Corporation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Start of Something Right\" by Jordyn Kane"
+      ]
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15564"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Red_Shoes_and_the_Seven_Dwarfs"
+      }
+    ],
+    "streaming": []
+  }
+}

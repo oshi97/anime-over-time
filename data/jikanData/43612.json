@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 43612,
+    "url": "https://myanimelist.net/anime/43612/Hulu_Xiongdi_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1684/118455.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/118455t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/118455l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1684/118455.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/118455t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/118455l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hulu Xiongdi (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "葫芦兄弟"
+      },
+      {
+        "type": "English",
+        "title": "Calabash Brothers"
+      }
+    ],
+    "title": "Hulu Xiongdi (Movie)",
+    "title_english": "Calabash Brothers",
+    "title_japanese": "葫芦兄弟",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-05-27T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 5,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 27, 2008"
+    },
+    "duration": "1 hr 23 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 21232,
+    "popularity": 22359,
+    "members": 151,
+    "favorites": 0,
+    "synopsis": "Summary movie of the original Hulu Xiongdi with remastered visuals and sound.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 9950,
+            "type": "anime",
+            "name": "Hulu Xiongdi",
+            "url": "https://myanimelist.net/anime/9950/Hulu_Xiongdi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/3062897/"
+      }
+    ],
+    "streaming": []
+  }
+}

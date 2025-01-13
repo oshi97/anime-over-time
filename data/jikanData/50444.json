@@ -1,0 +1,168 @@
+{
+  "data": {
+    "mal_id": 50444,
+    "url": "https://myanimelist.net/anime/50444/Yong_Sheng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/119635.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/119635t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/119635l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1799/119635.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/119635t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/119635l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yong Sheng"
+      },
+      {
+        "type": "Japanese",
+        "title": "永生"
+      },
+      {
+        "type": "English",
+        "title": "Immortality"
+      }
+    ],
+    "title": "Yong Sheng",
+    "title_english": "Immortality",
+    "title_japanese": "永生",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-29T00:00:00+00:00",
+      "to": "2022-04-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 9,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "string": "Jan 29, 2022 to Apr 9, 2022"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.5,
+    "scored_by": 1202,
+    "rank": 1964,
+    "popularity": 10430,
+    "members": 3035,
+    "favorites": 24,
+    "synopsis": "Fang Han, a humble family slave, held the belief since childhood that \"I would rather be a beggar than a slave\", and traversed the world by himself. With an unyielding stubbornness, he broke through the mystery of supernatural powers and forged his body into an immortal body. Work hard to step into the fairyland step by step, and eventually become the peak king.\n\n(Source: bilibili)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2478,
+        "type": "anime",
+        "name": "Oriental Creative Color",
+        "url": "https://myanimelist.net/anime/producer/2478/Oriental_Creative_Color"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55684,
+            "type": "anime",
+            "name": "Yong Sheng: Shi Nian Zhi Yue",
+            "url": "https://myanimelist.net/anime/55684/Yong_Sheng__Shi_Nian_Zhi_Yue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230735"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/永生/54852771"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35346290/"
+      }
+    ],
+    "streaming": []
+  }
+}

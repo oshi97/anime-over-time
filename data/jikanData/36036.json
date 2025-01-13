@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 36036,
+    "url": "https://myanimelist.net/anime/36036/Running_Man",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1325/98783.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1325/98783t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1325/98783l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1325/98783.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1325/98783t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1325/98783l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Running Man"
+      },
+      {
+        "type": "Synonym",
+        "title": "Runningman The Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "런닝맨"
+      }
+    ],
+    "title": "Running Man",
+    "title_english": null,
+    "title_japanese": "런닝맨",
+    "title_synonyms": [
+      "Runningman The Animation"
+    ],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 48,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-29T00:00:00+00:00",
+      "to": "2018-10-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 12,
+          "month": 10,
+          "year": 2018
+        }
+      },
+      "string": "Jul 29, 2017 to Oct 12, 2018"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18766,
+    "popularity": 19808,
+    "members": 285,
+    "favorites": 6,
+    "synopsis": "The Soul Tree, the great source of our race.\n\nBut for its ultimate power and by those whose minds were blinded by it, it also became the catastrophic cause that had brought never-ending wars between the tribes. Tortured by the agonies of the wars, the leaders of the tribes finally came to a peace agreement that they would instead open a competition. Players, equipped with special watches and shields, compete against each other as winner’s tribe would be awarded with Materion, the sacred fruit of the Soul Tree.\n\nThese brave players, who throw themselves in this fierce fight, we call them the Runningman.\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": "summer",
+    "year": 2017,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "11:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 11:30 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 48183,
+            "type": "anime",
+            "name": "Running Man: Pullulluui Yeogseub",
+            "url": "https://myanimelist.net/anime/48183/Running_Man__Pullulluui_Yeogseub"
+          },
+          {
+            "mal_id": 56261,
+            "type": "anime",
+            "name": "Running Man: Revengers",
+            "url": "https://myanimelist.net/anime/56261/Running_Man__Revengers"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"It's running time!\" by EXO-CBX (eps 1-48)"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.runningman-ani.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Running_Man_(TV_series)#Animation"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 51196,
+    "url": "https://myanimelist.net/anime/51196/Xing_Hai_Qishi__Xia_Ban_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1039/126194.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/126194t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/126194l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1039/126194.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/126194t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/126194l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xing Hai Qishi: Xia Ban Ji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xing Hai Qishi Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "星骸骑士 下半季"
+      },
+      {
+        "type": "English",
+        "title": "Knights on Debris Part 2"
+      }
+    ],
+    "title": "Xing Hai Qishi: Xia Ban Ji",
+    "title_english": "Knights on Debris Part 2",
+    "title_japanese": "星骸骑士 下半季",
+    "title_synonyms": [
+      "Xing Hai Qishi Part 2"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-19T00:00:00+00:00",
+      "to": "2021-06-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 30,
+          "month": 6,
+          "year": 2021
+        }
+      },
+      "string": "May 19, 2021 to Jun 30, 2021"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.79,
+    "scored_by": 206,
+    "rank": 5378,
+    "popularity": 15920,
+    "members": 614,
+    "favorites": 0,
+    "synopsis": "The second part of the first season of Xing Hai Qishi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      },
+      {
+        "mal_id": 2586,
+        "type": "anime",
+        "name": "D.ROCK-ART",
+        "url": "https://myanimelist.net/anime/producer/2586/DROCK-ART_"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44410,
+            "type": "anime",
+            "name": "Xing Hai Qishi",
+            "url": "https://myanimelist.net/anime/44410/Xing_Hai_Qishi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51198,
+            "type": "anime",
+            "name": "Xing Hai Qishi: Xinghuo Chongran",
+            "url": "https://myanimelist.net/anime/51198/Xing_Hai_Qishi__Xinghuo_Chongran"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/u/umpnsyqfu7f60se.html"
+      }
+    ],
+    "streaming": []
+  }
+}

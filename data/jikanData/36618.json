@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 36618,
+    "url": "https://myanimelist.net/anime/36618/Flowering_Heart_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88483.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88483t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88483l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/88483.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88483t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88483l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Flowering Heart 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "플라워링 하트 2"
+      },
+      {
+        "type": "English",
+        "title": "Flowering Heart 2"
+      }
+    ],
+    "title": "Flowering Heart 2",
+    "title_english": "Flowering Heart 2",
+    "title_japanese": "플라워링 하트 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-05-29T00:00:00+00:00",
+      "to": "2017-11-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 5,
+          "year": 2017
+        },
+        "to": {
+          "day": 21,
+          "month": 11,
+          "year": 2017
+        }
+      },
+      "string": "May 29, 2017 to Nov 21, 2017"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.04,
+    "scored_by": 509,
+    "rank": 9724,
+    "popularity": 11774,
+    "members": 2034,
+    "favorites": 10,
+    "synopsis": "The second season of Flowering Heart.",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Mondays",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 08:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 1427,
+        "type": "anime",
+        "name": "EBS",
+        "url": "https://myanimelist.net/anime/producer/1427/EBS"
+      },
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32691,
+            "type": "anime",
+            "name": "Flowering Heart",
+            "url": "https://myanimelist.net/anime/32691/Flowering_Heart"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/floweringheart/main"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9D%BC%EC%9B%8C%EB%A7%81_%ED%95%98%ED%8A%B8"
+      }
+    ],
+    "streaming": []
+  }
+}

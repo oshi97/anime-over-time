@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 44473,
+    "url": "https://myanimelist.net/anime/44473/UP_Miao_Zhiwu_Kepu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/122308.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/122308t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/122308l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1701/122308.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1701/122308t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1701/122308l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "UP Miao Zhiwu Kepu"
+      },
+      {
+        "type": "Japanese",
+        "title": "UP喵植物科普 (阿普喵植物科普)"
+      }
+    ],
+    "title": "UP Miao Zhiwu Kepu",
+    "title_english": null,
+    "title_japanese": "UP喵植物科普 (阿普喵植物科普)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2014 to ?"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14995,
+    "popularity": 25912,
+    "members": 76,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44474,
+            "type": "anime",
+            "name": "UP Miao Zhiwu Kepu 2nd Season",
+            "url": "https://myanimelist.net/anime/44474/UP_Miao_Zhiwu_Kepu_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 44472,
+            "type": "anime",
+            "name": "Mu Qi Ling 3: Qi Ling Zhi Xin",
+            "url": "https://myanimelist.net/anime/44472/Mu_Qi_Ling_3__Qi_Ling_Zhi_Xin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/UP%E5%96%B5%E6%A4%8D%E7%89%A9%E7%A7%91%E6%99%AE/50402130"
+      }
+    ],
+    "streaming": []
+  }
+}

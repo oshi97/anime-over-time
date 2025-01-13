@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 48333,
+    "url": "https://myanimelist.net/anime/48333/Steel_Fire_Brigade_Fire_Robo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/114496.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/114496t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/114496l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1018/114496.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/114496t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/114496l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steel Fire Brigade Fire Robo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Huoxian Zhan Jing"
+      },
+      {
+        "type": "Synonym",
+        "title": "火线战警"
+      },
+      {
+        "type": "Japanese",
+        "title": "강철소방대 파이어로보"
+      },
+      {
+        "type": "English",
+        "title": "Steel Fire Brigade Fire Robo"
+      }
+    ],
+    "title": "Steel Fire Brigade Fire Robo",
+    "title_english": "Steel Fire Brigade Fire Robo",
+    "title_japanese": "강철소방대 파이어로보",
+    "title_synonyms": [
+      "Huoxian Zhan Jing",
+      "火线战警"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-29T00:00:00+00:00",
+      "to": "2017-02-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": 20,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      "string": "Aug 29, 2016 to Feb 20, 2017"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14436,
+    "popularity": 21985,
+    "members": 167,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2954,
+        "type": "anime",
+        "name": "Studio Button",
+        "url": "https://myanimelist.net/anime/producer/2954/Studio_Button"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/firerobo/main"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EC%86%8C%EB%B0%A9%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A1%9C%EB%B3%B4"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 52753,
+    "url": "https://myanimelist.net/anime/52753/Faqiu_Xian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1965/127007.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/127007t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/127007l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1965/127007.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/127007t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/127007l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Faqiu Xian"
+      },
+      {
+        "type": "Japanese",
+        "title": "罚球线"
+      },
+      {
+        "type": "English",
+        "title": "Free Throw Line"
+      }
+    ],
+    "title": "Faqiu Xian",
+    "title_english": "Free Throw Line",
+    "title_japanese": "罚球线",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-10-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 25, 2015"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20394,
+    "popularity": 22591,
+    "members": 141,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Ds4112741?spm_id_from=333.999.0.0"
+      }
+    ],
+    "streaming": []
+  }
+}

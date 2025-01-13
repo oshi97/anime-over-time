@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 58556,
+    "url": "https://myanimelist.net/anime/58556/Yuanqi_Qi_Shi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1557/142343.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1557/142343t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1557/142343l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1557/142343.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1557/142343t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1557/142343l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuanqi Qi Shi"
+      },
+      {
+        "type": "Japanese",
+        "title": "元气奇事"
+      },
+      {
+        "type": "English",
+        "title": "Soul Knight Strange Tales"
+      }
+    ],
+    "title": "Yuanqi Qi Shi",
+    "title_english": "Soul Knight Strange Tales",
+    "title_japanese": "元气奇事",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-11T00:00:00+00:00",
+      "to": "2022-08-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Jul 11, 2022 to Aug 1, 2022"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15964,
+    "popularity": 25228,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58559,
+            "type": "anime",
+            "name": "Yuanqi Qi Shi 2",
+            "url": "https://myanimelist.net/anime/58559/Yuanqi_Qi_Shi_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md28338747"
+      }
+    ],
+    "streaming": []
+  }
+}

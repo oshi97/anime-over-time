@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 42737,
+    "url": "https://myanimelist.net/anime/42737/Gigi_Goegoe_Sunghyungsoo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/108989.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/108989t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/108989l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1930/108989.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/108989t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/108989l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "pODs-rO-xZc",
+      "url": "https://www.youtube.com/watch?v=pODs-rO-xZc",
+      "embed_url": "https://www.youtube.com/embed/pODs-rO-xZc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/pODs-rO-xZc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/pODs-rO-xZc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/pODs-rO-xZc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/pODs-rO-xZc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/pODs-rO-xZc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gigi Goegoe Sunghyungsoo"
+      },
+      {
+        "type": "Japanese",
+        "title": "기기괴괴-성형수"
+      },
+      {
+        "type": "English",
+        "title": "Beauty Water"
+      }
+    ],
+    "title": "Gigi Goegoe Sunghyungsoo",
+    "title_english": "Beauty Water",
+    "title_japanese": "기기괴괴-성형수",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 9, 2020"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 6.18,
+    "scored_by": 816,
+    "rank": 8915,
+    "popularity": 11448,
+    "members": 2241,
+    "favorites": 3,
+    "synopsis": "Beauty Water looks like a common skin cosmetic. But unlike other cosmetics, people can sculpt their skin with it like molding clay and change their appearance. An ordinary girl, Yaeji, comes across the 'Beauty Water' by chance, and her endless desire to be the most beautiful woman brings her unimaginable disaster.\n\n(Source: Anilist)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 999,
+        "type": "anime",
+        "name": "Studio Animal",
+        "url": "https://myanimelist.net/anime/producer/999/Studio_Animal"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 119066,
+            "type": "manga",
+            "name": "Tales of the Unusual",
+            "url": "https://myanimelist.net/manga/119066/Tales_of_the_Unusual"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 52941,
+            "type": "anime",
+            "name": "Gigi Goegoe",
+            "url": "https://myanimelist.net/anime/52941/Gigi_Goegoe"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://seikeisui.jp/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16516"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B8%B0%EA%B4%B4%EA%B4%B4_%EC%84%B1%ED%98%95%EC%88%98"
+      }
+    ],
+    "streaming": []
+  }
+}

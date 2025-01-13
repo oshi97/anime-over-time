@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 57836,
+    "url": "https://myanimelist.net/anime/57836/Yun_Zhongju_San_Zi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/140906.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/140906t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/140906l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/140906.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/140906t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/140906l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yun Zhongju San Zi"
+      },
+      {
+        "type": "Japanese",
+        "title": "云中居三子"
+      },
+      {
+        "type": "English",
+        "title": "The Mirage House in the Clouds"
+      }
+    ],
+    "title": "Yun Zhongju San Zi",
+    "title_english": "The Mirage House in the Clouds",
+    "title_japanese": "云中居三子",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-01-17T00:00:00+00:00",
+      "to": "2024-05-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 1,
+          "year": 2024
+        },
+        "to": {
+          "day": 29,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      "string": "Jan 17, 2024 to May 29, 2024"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16000,
+    "popularity": 20301,
+    "members": 256,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1806,
+        "type": "anime",
+        "name": "iQIYI",
+        "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2635,
+        "type": "anime",
+        "name": "Escape Velocity Animation",
+        "url": "https://myanimelist.net/anime/producer/2635/Escape_Velocity_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 57837,
+            "type": "anime",
+            "name": "Yun Zhongju San Zi: Ni Nu Po",
+            "url": "https://myanimelist.net/anime/57837/Yun_Zhongju_San_Zi__Ni_Nu_Po"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/v_19rydr8ez4.html"
+      }
+    ],
+    "streaming": []
+  }
+}

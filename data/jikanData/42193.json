@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 42193,
+    "url": "https://myanimelist.net/anime/42193/Munyeodo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1729/107956.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1729/107956t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1729/107956l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1729/107956.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1729/107956t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1729/107956l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Munyeodo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mu-nyeo-do"
+      },
+      {
+        "type": "Japanese",
+        "title": "무녀도"
+      },
+      {
+        "type": "English",
+        "title": "The Shaman Sorceress"
+      }
+    ],
+    "title": "Munyeodo",
+    "title_english": "The Shaman Sorceress",
+    "title_japanese": "무녀도",
+    "title_synonyms": [
+      "Mu-nyeo-do"
+    ],
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 6, 2018"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17804,
+    "popularity": 19973,
+    "members": 276,
+    "favorites": 0,
+    "synopsis": "Mohwa, who lives with her deaf daughter Nang-Yi, has been practicing Shamanism her entire life. One day, her son Wook-Yi returns home but as a converted Christian. This sparks conflict between mother and son which ends in a terrible tragedy that leads Nang-Yi to create a mysterious painting.\n\n(Source: Annecy)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1426,
+        "type": "anime",
+        "name": "Studio Meditation With a Pencil",
+        "url": "https://myanimelist.net/anime/producer/1426/Studio_Meditation_With_a_Pencil"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13867"
+      }
+    ],
+    "streaming": []
+  }
+}

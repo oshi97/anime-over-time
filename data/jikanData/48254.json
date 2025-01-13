@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 48254,
+    "url": "https://myanimelist.net/anime/48254/Shadow_Fighter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1153/115552.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/115552t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/115552l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1153/115552.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/115552t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/115552l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shadow Fighter"
+      },
+      {
+        "type": "Synonym",
+        "title": "Syaedou Paiteo"
+      },
+      {
+        "type": "Japanese",
+        "title": "섀도우 파이터"
+      }
+    ],
+    "title": "Shadow Fighter",
+    "title_english": null,
+    "title_japanese": "섀도우 파이터",
+    "title_synonyms": [
+      "Syaedou Paiteo"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-07-07T00:00:00+00:00",
+      "to": "2006-01-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2005
+        },
+        "to": {
+          "day": 12,
+          "month": 1,
+          "year": 2006
+        }
+      },
+      "string": "Jul 7, 2005 to Jan 12, 2006"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 13849,
+    "popularity": 22267,
+    "members": 155,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2005,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.imbc.com/broad/tv/ent/shadowfighter/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shadow_Fighter"
+      }
+    ],
+    "streaming": []
+  }
+}

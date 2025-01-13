@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 50245,
+    "url": "https://myanimelist.net/anime/50245/Beolineun_Seom",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1948/119027.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/119027t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/119027l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1948/119027.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/119027t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/119027l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Beolineun Seom"
+      },
+      {
+        "type": "Japanese",
+        "title": "버리는 섬"
+      },
+      {
+        "type": "English",
+        "title": "Small Island"
+      }
+    ],
+    "title": "Beolineun Seom",
+    "title_english": "Small Island",
+    "title_japanese": "버리는 섬",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2014"
+    },
+    "duration": "10 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19403,
+    "popularity": 23009,
+    "members": 128,
+    "favorites": 0,
+    "synopsis": "A dog has been abandoned in an island and waits to see his owner. But the owner comes and goes back again and again.\n\n(Source: vcrworks.kr)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2398,
+        "type": "anime",
+        "name": "VCRWORKS",
+        "url": "https://myanimelist.net/anime/producer/2398/VCRWORKS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://vcrworks.kr/Small-Island"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 47815,
+    "url": "https://myanimelist.net/anime/47815/Ashuai_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/121178.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/121178t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/121178l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1549/121178.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/121178t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/121178l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ashuai 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿衰 第二季"
+      }
+    ],
+    "title": "Ashuai 2nd Season",
+    "title_english": null,
+    "title_japanese": "阿衰 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 34,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-09-13T00:00:00+00:00",
+      "to": "2020-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 9,
+          "year": 2019
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        }
+      },
+      "string": "Sep 13, 2019 to 2020"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19140,
+    "popularity": 22782,
+    "members": 135,
+    "favorites": 0,
+    "synopsis": "Second season of Ashuai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47814,
+            "type": "anime",
+            "name": "Ashuai",
+            "url": "https://myanimelist.net/anime/47814/Ashuai"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47816,
+            "type": "anime",
+            "name": "Ashuai 3rd Season",
+            "url": "https://myanimelist.net/anime/47816/Ashuai_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/lib/m_221925214.html?src=search"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%98%BF%E8%A1%B0/58275942"
+      }
+    ],
+    "streaming": []
+  }
+}

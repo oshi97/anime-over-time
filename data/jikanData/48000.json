@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48000,
+    "url": "https://myanimelist.net/anime/48000/Xian_Yu_Ge",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1785/116014.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1785/116014t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1785/116014l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1785/116014.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1785/116014t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1785/116014l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "sCrASnL4Hqk",
+      "url": "https://www.youtube.com/watch?v=sCrASnL4Hqk",
+      "embed_url": "https://www.youtube.com/embed/sCrASnL4Hqk?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/sCrASnL4Hqk/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/sCrASnL4Hqk/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/sCrASnL4Hqk/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/sCrASnL4Hqk/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/sCrASnL4Hqk/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xian Yu Ge"
+      },
+      {
+        "type": "Japanese",
+        "title": "咸鱼哥"
+      },
+      {
+        "type": "English",
+        "title": "Salted Fish"
+      }
+    ],
+    "title": "Xian Yu Ge",
+    "title_english": "Salted Fish",
+    "title_japanese": "咸鱼哥",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-29T00:00:00+00:00",
+      "to": "2021-11-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 4,
+          "month": 11,
+          "year": 2021
+        }
+      },
+      "string": "Jul 29, 2021 to Nov 4, 2021"
+    },
+    "duration": "18 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.25,
+    "scored_by": 201,
+    "rank": 3091,
+    "popularity": 15135,
+    "members": 755,
+    "favorites": 5,
+    "synopsis": "Xian Yu Ge is a salted fish who boarded at his aunt's house and hangs around idly all day long. However, due to his unique style of doing things, he often encounters survival crisis, and is always working around the island. During this process, Xian Yu Ge gradually becomes acquainted with the strange residents of the island, and he slowly gains family affection and friendship with them. With the arrival of the annual Fish God Festival, the hilarious daily story of Xian Yu Ge unfolds.\n\n(Source: bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2970,
+        "type": "anime",
+        "name": "717 Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/2970/717_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53573,
+            "type": "anime",
+            "name": "Xian Yu Ge Specials",
+            "url": "https://myanimelist.net/anime/53573/Xian_Yu_Ge_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230748"
+      }
+    ],
+    "streaming": []
+  }
+}

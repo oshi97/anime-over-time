@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48221,
+    "url": "https://myanimelist.net/anime/48221/Bubble_Bubble_Cook",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1241/115325.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1241/115325t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1241/115325l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1241/115325.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1241/115325t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1241/115325l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bubble Bubble Cook"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bogeulbogeul Kug"
+      },
+      {
+        "type": "Japanese",
+        "title": "보글보글 쿡"
+      },
+      {
+        "type": "English",
+        "title": "Bubble Bubble Cook"
+      }
+    ],
+    "title": "Bubble Bubble Cook",
+    "title_english": "Bubble Bubble Cook",
+    "title_japanese": "보글보글 쿡",
+    "title_synonyms": [
+      "Bogeulbogeul Kug"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-03-01T00:00:00+00:00",
+      "to": "2011-05-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2010
+        },
+        "to": {
+          "day": 1,
+          "month": 5,
+          "year": 2011
+        }
+      },
+      "string": "Mar 2010 to May 2011"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19538,
+    "popularity": 21921,
+    "members": 169,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2010,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2746,
+        "type": "anime",
+        "name": "Studio Vandal",
+        "url": "https://myanimelist.net/anime/producer/2746/Studio_Vandal"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55078,
+            "type": "anime",
+            "name": "Bubble Bubble Cook 2nd Season",
+            "url": "https://myanimelist.net/anime/55078/Bubble_Bubble_Cook_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EA%B8%80%EB%B3%B4%EA%B8%80_%EC%BF%A1"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 49208,
+    "url": "https://myanimelist.net/anime/49208/Heibai_Wushuang_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/115814.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/115814t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/115814l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/115814.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/115814t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/115814l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Heibai Wushuang 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Heibai Wushang Di San Ji"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Unparalleled Black & White 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "黑白无双 第三季"
+      },
+      {
+        "type": "English",
+        "title": "Black and White Warriors 3"
+      }
+    ],
+    "title": "Heibai Wushuang 3rd Season",
+    "title_english": "Black and White Warriors 3",
+    "title_japanese": "黑白无双 第三季",
+    "title_synonyms": [
+      "Heibai Wushang Di San Ji",
+      "The Unparalleled Black & White 3"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-19T00:00:00+00:00",
+      "to": "2021-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jul 19, 2021 to Sep 27, 2021"
+    },
+    "duration": "18 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.24,
+    "scored_by": 272,
+    "rank": 8602,
+    "popularity": 11216,
+    "members": 2407,
+    "favorites": 11,
+    "synopsis": "Third season of Heibai Wushuang.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1772,
+        "type": "anime",
+        "name": "Wawayu Animation",
+        "url": "https://myanimelist.net/anime/producer/1772/Wawayu_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36544,
+            "type": "anime",
+            "name": "Heibai Wushang 2nd Season",
+            "url": "https://myanimelist.net/anime/36544/Heibai_Wushang_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 47695,
+            "type": "manga",
+            "name": "Heibai Wushang",
+            "url": "https://myanimelist.net/manga/47695/Heibai_Wushang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230719"
+      }
+    ],
+    "streaming": []
+  }
+}

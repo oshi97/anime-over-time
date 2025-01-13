@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 50422,
+    "url": "https://myanimelist.net/anime/50422/Light_Catcher",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/119581.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/119581t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/119581l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1914/119581.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/119581t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/119581l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Light Catcher"
+      },
+      {
+        "type": "Japanese",
+        "title": "寻光"
+      },
+      {
+        "type": "English",
+        "title": "Light Catcher"
+      }
+    ],
+    "title": "Light Catcher",
+    "title_english": "Light Catcher",
+    "title_japanese": "寻光",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 21, 2021"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": 6.44,
+    "scored_by": 150,
+    "rank": null,
+    "popularity": 19502,
+    "members": 302,
+    "favorites": 0,
+    "synopsis": "A music video that pays tribute to modern Chinese animation.\n\nYoung animated boy springs to life to explore the universe with his jetpack.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1771,
+        "type": "anime",
+        "name": "Pb Animation Co. Ltd.",
+        "url": "https://myanimelist.net/anime/producer/1771/Pb_Animation_Co_Ltd"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1mg411P7W2"
+      }
+    ],
+    "streaming": []
+  }
+}

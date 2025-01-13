@@ -1,0 +1,174 @@
+{
+  "data": {
+    "mal_id": 39431,
+    "url": "https://myanimelist.net/anime/39431/Larva_Island_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1362/99515.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/99515t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/99515l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1362/99515.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/99515t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/99515l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Larva Island Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Larva 5th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "라바 아일랜드 시즌2"
+      },
+      {
+        "type": "English",
+        "title": "Larva Island Season 2"
+      },
+      {
+        "type": "German",
+        "title": "Larva Island: Staffel 2"
+      },
+      {
+        "type": "Spanish",
+        "title": "Larva: Aventuras en la Isla Temporada 2"
+      },
+      {
+        "type": "French",
+        "title": "Larva Island: Saison 2"
+      }
+    ],
+    "title": "Larva Island Season 2",
+    "title_english": "Larva Island Season 2",
+    "title_japanese": "라바 아일랜드 시즌2",
+    "title_synonyms": [
+      "Larva 5th Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 1, 2019"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.11,
+    "scored_by": 289,
+    "rank": 9333,
+    "popularity": 15718,
+    "members": 647,
+    "favorites": 1,
+    "synopsis": "The 2nd season of Larva Island. Chuck's life on the island turns for the worse when the volcano becomes active, a hurricane visits, and of course all the critters getting in his way with their antics.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1292,
+        "type": "anime",
+        "name": "TUBA",
+        "url": "https://myanimelist.net/anime/producer/1292/TUBA"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38446,
+            "type": "anime",
+            "name": "Larva Island",
+            "url": "https://myanimelist.net/anime/38446/Larva_Island"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51602,
+            "type": "anime",
+            "name": "Larva Island Movie",
+            "url": "https://myanimelist.net/anime/51602/Larva_Island_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tubaani.com"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Larva_(TV_series)"
+      }
+    ],
+    "streaming": []
+  }
+}

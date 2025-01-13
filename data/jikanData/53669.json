@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 53669,
+    "url": "https://myanimelist.net/anime/53669/Xiao_Mao_Tang_Mi_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1443/131428.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/131428t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/131428l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1443/131428.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/131428t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/131428l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiao Mao Tang Mi 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "小猫汤米第二季"
+      }
+    ],
+    "title": "Xiao Mao Tang Mi 2nd Season",
+    "title_english": null,
+    "title_japanese": "小猫汤米第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15409,
+    "popularity": 26549,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": "The second season of Xiao Mao Tang Mi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47857,
+            "type": "anime",
+            "name": "Xiao Mao Tang Mi",
+            "url": "https://myanimelist.net/anime/47857/Xiao_Mao_Tang_Mi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1wE411a7aJ"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%B0%8F%E7%8C%AB%E6%B1%A4%E7%B1%B3%E7%AC%AC%E4%BA%8C%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

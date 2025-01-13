@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 49982,
+    "url": "https://myanimelist.net/anime/49982/Geu_Yeoreum",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/118423.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/118423t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/118423l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1431/118423.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/118423t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/118423l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "0D8UK0z42ig",
+      "url": "https://www.youtube.com/watch?v=0D8UK0z42ig",
+      "embed_url": "https://www.youtube.com/embed/0D8UK0z42ig?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/0D8UK0z42ig/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/0D8UK0z42ig/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/0D8UK0z42ig/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/0D8UK0z42ig/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/0D8UK0z42ig/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Geu Yeoreum"
+      },
+      {
+        "type": "Synonym",
+        "title": "That Summer"
+      },
+      {
+        "type": "Japanese",
+        "title": "그 여름"
+      },
+      {
+        "type": "English",
+        "title": "The Summer"
+      }
+    ],
+    "title": "Geu Yeoreum",
+    "title_english": "The Summer",
+    "title_japanese": "그 여름",
+    "title_synonyms": [
+      "That Summer"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-04T00:00:00+00:00",
+      "to": "2021-10-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": 16,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "string": "Sep 4, 2021 to Oct 16, 2021"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "scored_by": 353,
+    "rank": 5265,
+    "popularity": 9259,
+    "members": 4400,
+    "favorites": 32,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2726,
+        "type": "anime",
+        "name": "Laftel",
+        "url": "https://myanimelist.net/anime/producer/2726/Laftel"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2126,
+        "type": "anime",
+        "name": "Red Dog Culture House",
+        "url": "https://myanimelist.net/anime/producer/2126/Red_Dog_Culture_House"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 26,
+        "type": "anime",
+        "name": "Girls Love",
+        "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 56601,
+            "type": "anime",
+            "name": "Geu Yeoreum Movie",
+            "url": "https://myanimelist.net/anime/56601/Geu_Yeoreum_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"The Summer (그 여름)\" by JUNGWOO (정우) (eps 1-7)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://laftel.net/item/40366/%EA%B7%B8-%EC%97%AC%EB%A6%84"
+      }
+    ],
+    "streaming": []
+  }
+}

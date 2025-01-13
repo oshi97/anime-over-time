@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 47394,
+    "url": "https://myanimelist.net/anime/47394/Wangzhe_Bie_Nao_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/129436.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/129436t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/129436l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/129436.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/129436t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/129436l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wangzhe? Bie Nao! 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "王者？别闹！第二季"
+      }
+    ],
+    "title": "Wangzhe? Bie Nao! 2nd Season",
+    "title_english": null,
+    "title_japanese": "王者？别闹！第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 33,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-05-02T00:00:00+00:00",
+      "to": "2022-09-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 5,
+          "year": 2019
+        },
+        "to": {
+          "day": 27,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "May 2, 2019 to Sep 27, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15074,
+    "popularity": 23957,
+    "members": 107,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47392,
+            "type": "anime",
+            "name": "Wangzhe? Bie Nao!",
+            "url": "https://myanimelist.net/anime/47392/Wangzhe_Bie_Nao"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 53593,
+            "type": "anime",
+            "name": "Wangzhe? Bie Nao! 2nd Season Fanwai",
+            "url": "https://myanimelist.net/anime/53593/Wangzhe_Bie_Nao_2nd_Season_Fanwai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 47511,
+    "url": "https://myanimelist.net/anime/47511/Huangjin_Wu_Fanwai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1832/129632.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/129632t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/129632l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1832/129632.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/129632t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/129632l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huangjin Wu Fanwai"
+      },
+      {
+        "type": "Synonym",
+        "title": "Huangjin Wu Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "黄金屋 番外"
+      }
+    ],
+    "title": "Huangjin Wu Fanwai",
+    "title_english": null,
+    "title_japanese": "黄金屋 番外",
+    "title_synonyms": [
+      "Huangjin Wu Specials"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-09-20T00:00:00+00:00",
+      "to": "2018-07-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 9,
+          "year": 2016
+        },
+        "to": {
+          "day": 25,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      "string": "Sep 20, 2016 to Jul 25, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 21195,
+    "popularity": 26354,
+    "members": 72,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 47510,
+            "type": "anime",
+            "name": "Huangjin Wu",
+            "url": "https://myanimelist.net/anime/47510/Huangjin_Wu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md9632"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/227650"
+      }
+    ],
+    "streaming": []
+  }
+}

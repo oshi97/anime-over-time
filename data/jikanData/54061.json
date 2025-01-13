@@ -1,0 +1,173 @@
+{
+  "data": {
+    "mal_id": 54061,
+    "url": "https://myanimelist.net/anime/54061/Fei_Ren_Zai_2nd_Season_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1817/132240.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1817/132240t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1817/132240l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1817/132240.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1817/132240t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1817/132240l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fei Ren Zai 2nd Season Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "非人哉 第二季"
+      }
+    ],
+    "title": "Fei Ren Zai 2nd Season Part 2",
+    "title_english": null,
+    "title_japanese": "非人哉 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-18T00:00:00+00:00",
+      "to": "2023-03-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": 22,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Jan 18, 2023 to Mar 22, 2023"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20405,
+    "popularity": 17151,
+    "members": 476,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2076,
+        "type": "anime",
+        "name": "Fenz",
+        "url": "https://myanimelist.net/anime/producer/2076/Fenz"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 52523,
+            "type": "anime",
+            "name": "Fei Ren Zai 2nd Season",
+            "url": "https://myanimelist.net/anime/52523/Fei_Ren_Zai_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58048,
+            "type": "anime",
+            "name": "Fei Ren Zai Spring Festival Special",
+            "url": "https://myanimelist.net/anime/58048/Fei_Ren_Zai_Spring_Festival_Special"
+          },
+          {
+            "mal_id": 60032,
+            "type": "anime",
+            "name": "Fei Ren Zai 2nd Season Part 3",
+            "url": "https://myanimelist.net/anime/60032/Fei_Ren_Zai_2nd_Season_Part_3"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 123277,
+            "type": "manga",
+            "name": "Fei Ren Zai",
+            "url": "https://myanimelist.net/manga/123277/Fei_Ren_Zai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

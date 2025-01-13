@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 33706,
+    "url": "https://myanimelist.net/anime/33706/Gui_Bao__Baoxiao_Chuang_Yuzhou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1780/90322.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/90322t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/90322l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1780/90322.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/90322t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/90322l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gui Bao: Baoxiao Chuang Yuzhou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gui bao zhi bao xiao chuang yu zhou"
+      },
+      {
+        "type": "Japanese",
+        "title": "桂宝之爆笑闯宇宙"
+      },
+      {
+        "type": "English",
+        "title": "Kwai Boo"
+      }
+    ],
+    "title": "Gui Bao: Baoxiao Chuang Yuzhou",
+    "title_english": "Kwai Boo",
+    "title_japanese": "桂宝之爆笑闯宇宙",
+    "title_synonyms": [
+      "Gui bao zhi bao xiao chuang yu zhou"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-08-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 8,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 6, 2015"
+    },
+    "duration": "1 hr 34 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20761,
+    "popularity": 22010,
+    "members": 164,
+    "favorites": 0,
+    "synopsis": "Gui Bao is a genius who dreams of becoming an inventor who creates a technology that changes the course of humanity. However, his latest invention turns out to be a disaster.\n\n(Sourc: IMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 44890,
+            "type": "anime",
+            "name": "Fengle! Gui Bao",
+            "url": "https://myanimelist.net/anime/44890/Fengle_Gui_Bao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kwai_Boo"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 47862,
+    "url": "https://myanimelist.net/anime/47862/D5_Xiaodui_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1911/130387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/130387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/130387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1911/130387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/130387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/130387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "D5 Xiaodui 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "D5小队 第二季"
+      }
+    ],
+    "title": "D5 Xiaodui 2nd Season",
+    "title_english": null,
+    "title_japanese": "D5小队 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 1, 2021 to ?"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19929,
+    "popularity": 24532,
+    "members": 96,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47861,
+            "type": "anime",
+            "name": "D5 Xiaodui",
+            "url": "https://myanimelist.net/anime/47861/D5_Xiaodui"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28233223"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/D5%E5%B0%8F%E9%98%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

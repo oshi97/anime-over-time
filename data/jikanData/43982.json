@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 43982,
+    "url": "https://myanimelist.net/anime/43982/Xi_Yangyang_Yu_Hui_Tailang__Yangyang_Yundonghui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1261/115268.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1261/115268t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1261/115268l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1261/115268.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1261/115268t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1261/115268l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tailang: Yangyang Yundonghui"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pleasant Goat and Big Big Wolf 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊與灰太狼之羊羊運動會"
+      },
+      {
+        "type": "English",
+        "title": "Pleasant Goat Sports Game"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tailang: Yangyang Yundonghui",
+    "title_english": "Pleasant Goat Sports Game",
+    "title_japanese": "喜羊羊與灰太狼之羊羊運動會",
+    "title_synonyms": [
+      "Pleasant Goat and Big Big Wolf 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-10-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 10,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 23, 2008 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15293,
+    "popularity": 20637,
+    "members": 239,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31150,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang",
+            "url": "https://myanimelist.net/anime/31150/Xi_Yangyang_Yu_Hui_Tailang"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43983,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian",
+            "url": "https://myanimelist.net/anime/43983/Xi_Yangyang_Yu_Hui_Tailang__Yangyang_Kuaile_De_Yi_Nian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.22dm.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pleasant_Goat_and_Big_Big_Wolf#Animated_series"
+      }
+    ],
+    "streaming": []
+  }
+}

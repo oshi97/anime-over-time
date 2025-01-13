@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 55052,
+    "url": "https://myanimelist.net/anime/55052/A_Qi_Aoyou_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1718/135526.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1718/135526t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1718/135526l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1718/135526.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1718/135526t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1718/135526l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "A Qi Aoyou Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿七遨游记"
+      }
+    ],
+    "title": "A Qi Aoyou Ji",
+    "title_english": null,
+    "title_japanese": "阿七遨游记",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-23T00:00:00+00:00",
+      "to": "2021-09-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 26,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jul 23, 2021 to Sep 26, 2021"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.33,
+    "scored_by": 127,
+    "rank": 8050,
+    "popularity": 16200,
+    "members": 579,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38409,
+            "type": "anime",
+            "name": "Cike Wu Liuqi",
+            "url": "https://myanimelist.net/anime/38409/Cike_Wu_Liuqi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLqOQJfa8LBTHVSNCkds_1TVC0BR7RWAML"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%98%BF%E4%B8%83%E9%81%A8%E6%B8%B8%E8%AE%B0/58088642"
+      }
+    ],
+    "streaming": []
+  }
+}

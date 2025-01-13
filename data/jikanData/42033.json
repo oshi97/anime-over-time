@@ -1,0 +1,173 @@
+{
+  "data": {
+    "mal_id": 42033,
+    "url": "https://myanimelist.net/anime/42033/Jingju_Mao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/107616.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/107616t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/107616l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/107616.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/107616t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/107616l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jingju Mao"
+      },
+      {
+        "type": "Synonym",
+        "title": "Beijing Opera Cats"
+      },
+      {
+        "type": "Japanese",
+        "title": "京剧猫"
+      },
+      {
+        "type": "English",
+        "title": "Jing-Ju Cats"
+      }
+    ],
+    "title": "Jingju Mao",
+    "title_english": "Jing-Ju Cats",
+    "title_japanese": "京剧猫",
+    "title_synonyms": [
+      "Beijing Opera Cats"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-12-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 28, 2015 to ?"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16368,
+    "popularity": 20266,
+    "members": 258,
+    "favorites": 0,
+    "synopsis": "Jing-Ju Cats is a series filled with comedy, magic and Kung-Fu, set in the fictional cat kingdom of Purpetua. Once known as a cat's paradise, it is now a chaotic monster-infested land where evil reigns supreme. The Dark Lord An, with his mutant monster cats, has taken over. Join the mythical Jing-Ju Cats, led by Lil' Pai, as they set out to defeat the Dark Lord and reclaim their homeland.\n\n(Source: Amazon)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2046,
+        "type": "anime",
+        "name": "Dazzling Star",
+        "url": "https://myanimelist.net/anime/producer/2046/Dazzling_Star"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42144,
+            "type": "anime",
+            "name": "Jingju Mao Zhi Xinnian de Maoxian",
+            "url": "https://myanimelist.net/anime/42144/Jingju_Mao_Zhi_Xinnian_de_Maoxian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.dazzlingstar.cn/en/col.jsp?id=101"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15567"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E5%89%A7%E7%8C%AB"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 42464,
+    "url": "https://myanimelist.net/anime/42464/Gu_Xiong__Huo_Qi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/108484.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/108484t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/108484l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/108484.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/108484t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/108484l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gu Xiong: Huo Qi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gu Xiong Pilot Episode"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gu Xiong Episode 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "孤雄 祸起"
+      },
+      {
+        "type": "English",
+        "title": "Lonely Hero"
+      }
+    ],
+    "title": "Gu Xiong: Huo Qi",
+    "title_english": "Lonely Hero",
+    "title_japanese": "孤雄 祸起",
+    "title_synonyms": [
+      "Gu Xiong Pilot Episode",
+      "Gu Xiong Episode 0"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 31, 2020"
+    },
+    "duration": "27 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20727,
+    "popularity": 20242,
+    "members": 260,
+    "favorites": 0,
+    "synopsis": "Episode 0 of Gu Xiong.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2068,
+        "type": "anime",
+        "name": "Ai Si Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/2068/Ai_Si_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 41912,
+            "type": "anime",
+            "name": "Gu Xiong",
+            "url": "https://myanimelist.net/anime/41912/Gu_Xiong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Sp4y1Q79i?from=search&seid=11746072906532838014"
+      }
+    ],
+    "streaming": []
+  }
+}

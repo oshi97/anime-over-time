@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 52878,
+    "url": "https://myanimelist.net/anime/52878/Hwasan_Gwihwan_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/127299.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/127299t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/127299l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/127299.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/127299t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/127299l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hwasan Gwihwan PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "화산귀환"
+      },
+      {
+        "type": "English",
+        "title": "Return of the Blossoming Blade PV"
+      }
+    ],
+    "title": "Hwasan Gwihwan PV",
+    "title_english": "Return of the Blossoming Blade PV",
+    "title_japanese": "화산귀환",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 2, 2021"
+    },
+    "duration": "1 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 5.81,
+    "scored_by": 191,
+    "rank": null,
+    "popularity": 17351,
+    "members": 457,
+    "favorites": 1,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Return of the Blossoming Blade.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      },
+      {
+        "mal_id": 72,
+        "type": "anime",
+        "name": "Reincarnation",
+        "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 146878,
+            "type": "manga",
+            "name": "Return of the Blossoming Blade",
+            "url": "https://myanimelist.net/manga/146878/Return_of_the_Blossoming_Blade"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52887,
+            "type": "anime",
+            "name": "Majimag Kalchum",
+            "url": "https://myanimelist.net/anime/52887/Majimag_Kalchum"
+          },
+          {
+            "mal_id": 57926,
+            "type": "anime",
+            "name": "Mangaehwa",
+            "url": "https://myanimelist.net/anime/57926/Mangaehwa"
+          },
+          {
+            "mal_id": 55608,
+            "type": "anime",
+            "name": "Maehwa",
+            "url": "https://myanimelist.net/anime/55608/Maehwa"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

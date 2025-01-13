@@ -1,0 +1,213 @@
+{
+  "data": {
+    "mal_id": 56157,
+    "url": "https://myanimelist.net/anime/56157/Xi_Xing_Ji__Nian_Fan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1609/139399.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1609/139399t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1609/139399l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1609/139399.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1609/139399t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1609/139399l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Xing Ji: Nian Fan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xi Xing Ji 5th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Journey to the West"
+      },
+      {
+        "type": "Synonym",
+        "title": "Westbound"
+      },
+      {
+        "type": "Synonym",
+        "title": "Westbound Discipline"
+      },
+      {
+        "type": "Synonym",
+        "title": "西行纪 第五季"
+      },
+      {
+        "type": "Japanese",
+        "title": "西行纪 年番"
+      },
+      {
+        "type": "English",
+        "title": "The Westward 5th Season"
+      }
+    ],
+    "title": "Xi Xing Ji: Nian Fan",
+    "title_english": "The Westward 5th Season",
+    "title_japanese": "西行纪 年番",
+    "title_synonyms": [
+      "Xi Xing Ji 5th Season",
+      "Journey to the West",
+      "Westbound",
+      "Westbound Discipline",
+      "西行纪 第五季"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 64,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2023-08-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 8,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2, 2023 to ?"
+    },
+    "duration": "21 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15262,
+    "popularity": 16263,
+    "members": 568,
+    "favorites": 0,
+    "synopsis": "The fifth season of Xi Xing Ji.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2055,
+        "type": "anime",
+        "name": "BYMENT",
+        "url": "https://myanimelist.net/anime/producer/2055/BYMENT"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51791,
+            "type": "anime",
+            "name": "Xi Xing Ji: Chongsheng Pian",
+            "url": "https://myanimelist.net/anime/51791/Xi_Xing_Ji__Chongsheng_Pian"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 58001,
+            "type": "anime",
+            "name": "Xi Xing Ji: Kuang Wang",
+            "url": "https://myanimelist.net/anime/58001/Xi_Xing_Ji__Kuang_Wang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"An Yong (暗涌)\" by 王茗"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m.v.qq.com/x/m/play?cid=mzc00200ekm0uc8"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/subject/395284"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E8%A5%BF%E8%A1%8C%E7%BA%AA%E5%B9%B4%E6%92%AD%E5%89%A7%E9%9B%86/61834917"
+      }
+    ],
+    "streaming": []
+  }
+}

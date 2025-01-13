@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 43979,
+    "url": "https://myanimelist.net/anime/43979/Kaixin_Chaoren_2__Qi_Yuan_Xing_Zhi_Zhan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1285/122860.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/122860t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/122860l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1285/122860.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/122860t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/122860l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaixin Chaoren 2: Qi Yuan Xing Zhi Zhan"
+      },
+      {
+        "type": "Japanese",
+        "title": "开心超人2：启源星之战"
+      },
+      {
+        "type": "English",
+        "title": "Happy Heroes 2: Qiyuan Planet Wars"
+      }
+    ],
+    "title": "Kaixin Chaoren 2: Qi Yuan Xing Zhi Zhan",
+    "title_english": "Happy Heroes 2: Qiyuan Planet Wars",
+    "title_japanese": "开心超人2：启源星之战",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-07-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 7,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 18, 2014"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16546,
+    "popularity": 24221,
+    "members": 101,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43977,
+            "type": "anime",
+            "name": "Kaixin Chaoren",
+            "url": "https://myanimelist.net/anime/43977/Kaixin_Chaoren"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57384,
+            "type": "anime",
+            "name": "Kaixin Chaoren: Yingxiong de Xin",
+            "url": "https://myanimelist.net/anime/57384/Kaixin_Chaoren__Yingxiong_de_Xin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/25858762/"
+      }
+    ],
+    "streaming": []
+  }
+}

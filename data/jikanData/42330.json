@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 42330,
+    "url": "https://myanimelist.net/anime/42330/Sansan_de_Ezuoju_Chufang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1842/108270t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1842/108270l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1842/108270.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1842/108270t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1842/108270l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sansan de Ezuoju Chufang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sansan's Prank Kitchen"
+      },
+      {
+        "type": "Japanese",
+        "title": "三三的恶作剧厨房"
+      }
+    ],
+    "title": "Sansan de Ezuoju Chufang",
+    "title_english": null,
+    "title_japanese": "三三的恶作剧厨房",
+    "title_synonyms": [
+      "Sansan's Prank Kitchen"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-30T00:00:00+00:00",
+      "to": "2020-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2020
+        }
+      },
+      "string": "Jul 30, 2020 to Oct 1, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18911,
+    "popularity": 20546,
+    "members": 245,
+    "favorites": 0,
+    "synopsis": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55133,
+            "type": "anime",
+            "name": "Sansan de Shenghuo Guoran You Wenti",
+            "url": "https://myanimelist.net/anime/55133/Sansan_de_Shenghuo_Guoran_You_Wenti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229278/"
+      }
+    ],
+    "streaming": []
+  }
+}

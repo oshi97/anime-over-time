@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 49379,
+    "url": "https://myanimelist.net/anime/49379/Meiying_Da_Leyuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/116378.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/116378t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/116378l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1647/116378.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/116378t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/116378l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meiying Da Leyuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "美影大乐园"
+      },
+      {
+        "type": "English",
+        "title": "Mein Family Daily"
+      }
+    ],
+    "title": "Meiying Da Leyuan",
+    "title_english": "Mein Family Daily",
+    "title_japanese": "美影大乐园",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 31,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-01T00:00:00+00:00",
+      "to": "2021-10-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 14,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "string": "Jul 1, 2021 to Oct 14, 2021"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17461,
+    "popularity": 21832,
+    "members": 172,
+    "favorites": 0,
+    "synopsis": "On the sea far from the world, there is a beautiful and strange island. On this island, there is no division between righteousness and evil, and no thrilling battles. Inhabits on the island is a group of local people who sometimes help each other and sometimes make trouble, but everyone here has a legendary past. This is the peach blossom source of the second dimension world, where the Meiying family lives.\n\n(Source: bilibili)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28234603/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16658"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "mal_id": 51038,
+    "url": "https://myanimelist.net/anime/51038/Doupo_Cangqiong__Yuanqi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1788/124803.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1788/124803t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1788/124803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1788/124803.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1788/124803t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1788/124803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Doupo Cangqiong: Yuanqi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Battle Through The Heavens: Origin"
+      },
+      {
+        "type": "Japanese",
+        "title": "斗破苍穹 缘起"
+      },
+      {
+        "type": "English",
+        "title": "Fights Break Sphere: Origin"
+      }
+    ],
+    "title": "Doupo Cangqiong: Yuanqi",
+    "title_english": "Fights Break Sphere: Origin",
+    "title_japanese": "斗破苍穹 缘起",
+    "title_synonyms": [
+      "Battle Through The Heavens: Origin"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-17T00:00:00+00:00",
+      "to": "2022-07-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 24,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Jul 17, 2022 to Jul 24, 2022"
+    },
+    "duration": "29 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.66,
+    "scored_by": 1452,
+    "rank": 1397,
+    "popularity": 9798,
+    "members": 3706,
+    "favorites": 37,
+    "synopsis": "Remake of the first season of Doupo Cangqiong.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      },
+      {
+        "mal_id": 1728,
+        "type": "anime",
+        "name": "China Literature Limited",
+        "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+      },
+      {
+        "mal_id": 2466,
+        "type": "anime",
+        "name": "Wanda Media",
+        "url": "https://myanimelist.net/anime/producer/2466/Wanda_Media"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1827,
+        "type": "anime",
+        "name": "Motion Magic",
+        "url": "https://myanimelist.net/anime/producer/1827/Motion_Magic"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 79193,
+            "type": "manga",
+            "name": "Doupo Cangqiong",
+            "url": "https://myanimelist.net/manga/79193/Doupo_Cangqiong"
+          },
+          {
+            "mal_id": 119167,
+            "type": "manga",
+            "name": "Doupo Cangqiong",
+            "url": "https://myanimelist.net/manga/119167/Doupo_Cangqiong"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 36491,
+            "type": "anime",
+            "name": "Doupo Cangqiong",
+            "url": "https://myanimelist.net/anime/36491/Doupo_Cangqiong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/t/mzc002005apkyut.html"
+      }
+    ],
+    "streaming": []
+  }
+}

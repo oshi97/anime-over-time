@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 43959,
+    "url": "https://myanimelist.net/anime/43959/Haier_Xiongdi_Yuzhou_Da_Maoxian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1809/122844.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1809/122844t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1809/122844l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1809/122844.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1809/122844t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1809/122844l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haier Xiongdi Yuzhou Da Maoxian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Haier Brothers Cosmic Adventure"
+      },
+      {
+        "type": "Japanese",
+        "title": "海尔兄弟宇宙大冒险"
+      }
+    ],
+    "title": "Haier Xiongdi Yuzhou Da Maoxian",
+    "title_english": null,
+    "title_japanese": "海尔兄弟宇宙大冒险",
+    "title_synonyms": [
+      "Haier Brothers Cosmic Adventure"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 54,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-09-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 9,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 17, 2018 to ?"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20843,
+    "popularity": 26149,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 43958,
+            "type": "anime",
+            "name": "Haier Xiongdi",
+            "url": "https://myanimelist.net/anime/43958/Haier_Xiongdi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/30304987/"
+      }
+    ],
+    "streaming": []
+  }
+}

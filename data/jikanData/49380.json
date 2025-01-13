@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 49380,
+    "url": "https://myanimelist.net/anime/49380/Mao_Zhi_Ming",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1305/116379.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/116379t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/116379l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1305/116379.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/116379t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/116379l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mao Zhi Ming"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫之茗"
+      },
+      {
+        "type": "English",
+        "title": "Cat's Tea"
+      }
+    ],
+    "title": "Mao Zhi Ming",
+    "title_english": "Cat's Tea",
+    "title_japanese": "猫之茗",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-26T00:00:00+00:00",
+      "to": "2022-01-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 11,
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "string": "Oct 26, 2021 to Jan 11, 2022"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.73,
+    "scored_by": 415,
+    "rank": 5685,
+    "popularity": 12424,
+    "members": 1653,
+    "favorites": 10,
+    "synopsis": "After a severe scolding from her mother, 15-year-old high school student Jasmine rushes to class in hopes of making it on time. But when a strange storm suddenly hits, lightning strikes down on Jasmine and renders her unconscious. Instead of waking up in the hospital, the girl opens her eyes to a cute, dog-eared boy named Longjing. What's more, Jasmine realizes she now possesses a pair of fluffy cat ears!\n\nFiguring she simply has a case of amnesia, Longjing offers to help guide Jasmine around the Tea Continent. Little does he know, she is more than excited to explore this RPG-styled world and fulfill her apparent destiny as the main character.\n\n[Written by MAL Rewrite]",
+    "background": "Mao Zhi Ming is an adaptation of the manhua of the same title, created by Chun Liang Hou Zi (淳良猴子) under TR Cartoon.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54949,
+            "type": "anime",
+            "name": "Mao Zhi Ming 2nd Season",
+            "url": "https://myanimelist.net/anime/54949/Mao_Zhi_Ming_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 50810,
+            "type": "anime",
+            "name": "Mao Zhi Ming Episode 5.5",
+            "url": "https://myanimelist.net/anime/50810/Mao_Zhi_Ming_Episode_55"
+          },
+          {
+            "mal_id": 51000,
+            "type": "anime",
+            "name": "Mao Zhi Ming Specials",
+            "url": "https://myanimelist.net/anime/51000/Mao_Zhi_Ming_Specials"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28223054/"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%8C%AB%E4%B9%8B%E8%8C%97/24126917"
+      }
+    ],
+    "streaming": []
+  }
+}

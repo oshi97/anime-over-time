@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 53043,
+    "url": "https://myanimelist.net/anime/53043/Bo___Tos_Family_Part_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1432/127992.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1432/127992t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/127992l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1432/127992.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1432/127992t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/127992l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bo & To's Family Part 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Botos Family Part 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "보토스 패밀리"
+      },
+      {
+        "type": "English",
+        "title": "Bo & To's Family Part 2"
+      }
+    ],
+    "title": "Bo & To's Family Part 2",
+    "title_english": "Bo & To's Family Part 2",
+    "title_japanese": "보토스 패밀리",
+    "title_synonyms": [
+      "Botos Family Part 2"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-18T00:00:00+00:00",
+      "to": "2019-06-20T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 20,
+          "month": 6,
+          "year": 2019
+        }
+      },
+      "string": "Apr 18, 2019 to Jun 20, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19471,
+    "popularity": 22520,
+    "members": 144,
+    "favorites": 0,
+    "synopsis": "Second part of the first season of Bo &amp; To's Family.",
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2596,
+        "type": "anime",
+        "name": "Comma Studio",
+        "url": "https://myanimelist.net/anime/producer/2596/Comma_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53042,
+            "type": "anime",
+            "name": "Bo & To's Family",
+            "url": "https://myanimelist.net/anime/53042/Bo___Tos_Family"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53044,
+            "type": "anime",
+            "name": "Bo & To's Family 2nd Season",
+            "url": "https://myanimelist.net/anime/53044/Bo___Tos_Family_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://commastudio.co.kr/default/emenu02/menu02_cont03.php?sub=23"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%86%A0%EC%8A%A4_%ED%8C%A8%EB%B0%80%EB%A6%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

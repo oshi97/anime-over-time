@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 51183,
+    "url": "https://myanimelist.net/anime/51183/Yin_Yang_Shi__Ping_An_Wu_Yu_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/121279.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/121279t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/121279l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/121279.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1831/121279t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1831/121279l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yin Yang Shi: Ping An Wu Yu 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Onmyouji: Heian Monogatari 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "阴阳师·平安物语 第3季"
+      }
+    ],
+    "title": "Yin Yang Shi: Ping An Wu Yu 3rd Season",
+    "title_english": null,
+    "title_japanese": "阴阳师·平安物语 第3季",
+    "title_synonyms": [
+      "Onmyouji: Heian Monogatari 3rd Season"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-25T00:00:00+00:00",
+      "to": "2022-04-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": 19,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "string": "Jan 25, 2022 to Apr 19, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.12,
+    "scored_by": 136,
+    "rank": 9291,
+    "popularity": 15791,
+    "members": 637,
+    "favorites": 2,
+    "synopsis": "The third season of Onmyouji: Heian Monogatari.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40568,
+            "type": "anime",
+            "name": "Yin Yang Shi: Ping An Wu Yu 2nd Season",
+            "url": "https://myanimelist.net/anime/40568/Yin_Yang_Shi__Ping_An_Wu_Yu_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 39678,
+            "type": "anime",
+            "name": "Mei Chuxi de Yinyangshi Yijia",
+            "url": "https://myanimelist.net/anime/39678/Mei_Chuxi_de_Yinyangshi_Yijia"
+          },
+          {
+            "mal_id": 42319,
+            "type": "anime",
+            "name": "Mei Chuxi de Yinyangshi Yijia 2",
+            "url": "https://myanimelist.net/anime/42319/Mei_Chuxi_de_Yinyangshi_Yijia_2"
+          },
+          {
+            "mal_id": 50841,
+            "type": "anime",
+            "name": "Mei Chuxi De Yinyangshi Yijia 3",
+            "url": "https://myanimelist.net/anime/50841/Mei_Chuxi_De_Yinyangshi_Yijia_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28236188"
+      }
+    ],
+    "streaming": []
+  }
+}

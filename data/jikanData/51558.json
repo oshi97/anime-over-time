@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 51558,
+    "url": "https://myanimelist.net/anime/51558/Shan_Hai_Juelun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1272/124773.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/124773t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/124773l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1272/124773.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/124773t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/124773l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "z8vIJhK0m84",
+      "url": "https://www.youtube.com/watch?v=z8vIJhK0m84",
+      "embed_url": "https://www.youtube.com/embed/z8vIJhK0m84?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/z8vIJhK0m84/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/z8vIJhK0m84/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/z8vIJhK0m84/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/z8vIJhK0m84/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/z8vIJhK0m84/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shan Hai Juelun"
+      },
+      {
+        "type": "Japanese",
+        "title": "山海绝伦"
+      },
+      {
+        "type": "English",
+        "title": "Fairy Mountain"
+      }
+    ],
+    "title": "Shan Hai Juelun",
+    "title_english": "Fairy Mountain",
+    "title_japanese": "山海绝伦",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-23T00:00:00+00:00",
+      "to": "2022-12-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": 6,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Aug 23, 2022 to Dec 6, 2022"
+    },
+    "duration": "18 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 13855,
+    "popularity": 16555,
+    "members": 534,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230747/"
+      }
+    ],
+    "streaming": []
+  }
+}

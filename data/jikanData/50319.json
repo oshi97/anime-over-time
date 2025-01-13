@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 50319,
+    "url": "https://myanimelist.net/anime/50319/Bonta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/119259.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/119259t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/119259l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1093/119259.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1093/119259t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1093/119259l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bonta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kunta"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kun Ta: Hezi Zongdongyuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "昆塔：盒子总动员"
+      },
+      {
+        "type": "English",
+        "title": "Axel: The Biggest Little Hero"
+      }
+    ],
+    "title": "Bonta",
+    "title_english": "Axel: The Biggest Little Hero",
+    "title_japanese": "昆塔：盒子总动员",
+    "title_synonyms": [
+      "Kunta",
+      "Kun Ta: Hezi Zongdongyuan"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-08-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 8,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 2, 2013"
+    },
+    "duration": "1 hr 22 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19500,
+    "popularity": 23767,
+    "members": 110,
+    "favorites": 0,
+    "synopsis": "A young boy becomes an unlikely hero when he sets out on an adventure-filled quest to find the legendary Bonta oasis.\n\n(Source: IMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50320,
+            "type": "anime",
+            "name": "Kunta: Fan Zhuan Xingqiu",
+            "url": "https://myanimelist.net/anime/50320/Kunta__Fan_Zhuan_Xingqiu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Axel:_The_Biggest_Little_Hero"
+      }
+    ],
+    "streaming": []
+  }
+}

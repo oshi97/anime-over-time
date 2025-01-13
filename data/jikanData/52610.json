@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 52610,
+    "url": "https://myanimelist.net/anime/52610/Asi_Yu_Xiao_Liangdang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1386/126571.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1386/126571t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1386/126571l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1386/126571.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1386/126571t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1386/126571l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Asi Yu Xiao Liangdang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Little Bell and Ami's Love Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿巳与小铃铛"
+      }
+    ],
+    "title": "Asi Yu Xiao Liangdang",
+    "title_english": null,
+    "title_japanese": "阿巳与小铃铛",
+    "title_synonyms": [
+      "Little Bell and Ami's Love Story"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2020-07-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 22, 2020 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19148,
+    "popularity": 20721,
+    "members": 233,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 45677,
+            "type": "anime",
+            "name": "Yichan Xiao Heshang",
+            "url": "https://myanimelist.net/anime/45677/Yichan_Xiao_Heshang"
+          },
+          {
+            "mal_id": 52597,
+            "type": "anime",
+            "name": "Si Wuxie",
+            "url": "https://myanimelist.net/anime/52597/Si_Wuxie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/t/mzc00200bznlvdt.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 45276,
+    "url": "https://myanimelist.net/anime/45276/Taoqi_Xing_Mao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1810/131246.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1810/131246t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1810/131246l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1810/131246.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1810/131246t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1810/131246l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Taoqi Xing Mao"
+      },
+      {
+        "type": "Japanese",
+        "title": "淘气星猫"
+      }
+    ],
+    "title": "Taoqi Xing Mao",
+    "title_english": null,
+    "title_japanese": "淘气星猫",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2007
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 2007 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14606,
+    "popularity": 26017,
+    "members": 75,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45285,
+            "type": "anime",
+            "name": "Taoqi Xing Mao 2nd Season",
+            "url": "https://myanimelist.net/anime/45285/Taoqi_Xing_Mao_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 45246,
+            "type": "anime",
+            "name": "Kuaile Xing Mao",
+            "url": "https://myanimelist.net/anime/45246/Kuaile_Xing_Mao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%B7%98%E6%B0%94%E6%98%9F%E7%8C%AB?"
+      }
+    ],
+    "streaming": []
+  }
+}

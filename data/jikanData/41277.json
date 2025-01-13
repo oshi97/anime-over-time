@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 41277,
+    "url": "https://myanimelist.net/anime/41277/Rainbow_Ruby",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/105963.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/105963t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/105963l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1050/105963.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/105963t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/105963l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rainbow Ruby"
+      },
+      {
+        "type": "Synonym",
+        "title": "Caihong Baobao"
+      },
+      {
+        "type": "Synonym",
+        "title": "彩虹宝宝"
+      },
+      {
+        "type": "Japanese",
+        "title": "레인보우 루비"
+      },
+      {
+        "type": "English",
+        "title": "Rainbow Ruby"
+      }
+    ],
+    "title": "Rainbow Ruby",
+    "title_english": "Rainbow Ruby",
+    "title_japanese": "레인보우 루비",
+    "title_synonyms": [
+      "Caihong Baobao",
+      "彩虹宝宝"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-02T00:00:00+00:00",
+      "to": "2017-08-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 25,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Mar 2, 2017 to Aug 25, 2017"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18630,
+    "popularity": 20320,
+    "members": 257,
+    "favorites": 0,
+    "synopsis": "At Ruby's house, a small event related to the main plot of each episode occurs, before a red jewellery on the chest of Choco, Ruby's Teddy bear, flashes with a melody. Ruby then takes Choco to her room, and the two 'transport' themselves to the Rainbow Village. There, Ruby hears an explanation from Ling Ling, the mayor of Rainbow Village, and transforms herself using her Rainbow Roller into an appropriate clothing to solve problems. Each episode concludes, back home, with another small event.\n\n(Source: AniDB)",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2779,
+        "type": "anime",
+        "name": "Studio BAZOOKA",
+        "url": "https://myanimelist.net/anime/producer/2779/Studio_BAZOOKA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55087,
+            "type": "anime",
+            "name": "Rainbow Ruby 2nd Season",
+            "url": "https://myanimelist.net/anime/55087/Rainbow_Ruby_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/RRuby/main"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14705"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rainbow_Ruby"
+      }
+    ],
+    "streaming": []
+  }
+}

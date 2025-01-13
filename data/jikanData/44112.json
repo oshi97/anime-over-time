@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 44112,
+    "url": "https://myanimelist.net/anime/44112/Kaixin_Baobei__Qihuan_Zhi_Lu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1787/122965.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1787/122965t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1787/122965l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1787/122965.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1787/122965t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1787/122965l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kaixin Baobei: Qihuan Zhi Lu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Friends Season 8"
+      },
+      {
+        "type": "Japanese",
+        "title": "开心宝贝之奇幻之旅"
+      }
+    ],
+    "title": "Kaixin Baobei: Qihuan Zhi Lu",
+    "title_english": null,
+    "title_japanese": "开心宝贝之奇幻之旅",
+    "title_synonyms": [
+      "Happy Friends Season 8"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-05-30T00:00:00+00:00",
+      "to": "2015-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 5,
+          "year": 2014
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        }
+      },
+      "string": "May 30, 2014 to 2015"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16545,
+    "popularity": 25114,
+    "members": 88,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44111,
+            "type": "anime",
+            "name": "Kaixin Baobei: Kaixin Lianmeng Zhengba Zhan",
+            "url": "https://myanimelist.net/anime/44111/Kaixin_Baobei__Kaixin_Lianmeng_Zhengba_Zhan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44114,
+            "type": "anime",
+            "name": "Kaixin Chaoren Lianmeng: Chao Shikong Baowei Zhan",
+            "url": "https://myanimelist.net/anime/44114/Kaixin_Chaoren_Lianmeng__Chao_Shikong_Baowei_Zhan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%BC%80%E5%BF%83%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85"
+      }
+    ],
+    "streaming": []
+  }
+}

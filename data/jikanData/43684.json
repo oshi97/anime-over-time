@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 43684,
+    "url": "https://myanimelist.net/anime/43684/Semi_wa_Magic_Cube",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1643/109948.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/109948t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/109948l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1643/109948.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/109948t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/109948l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Semi wa Magic Cube"
+      },
+      {
+        "type": "Synonym",
+        "title": "Semi and the Magic Cube"
+      },
+      {
+        "type": "Japanese",
+        "title": "세미와 매직큐브"
+      }
+    ],
+    "title": "Semi wa Magic Cube",
+    "title_english": null,
+    "title_japanese": "세미와 매직큐브",
+    "title_synonyms": [
+      "Semi and the Magic Cube"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-08-01T00:00:00+00:00",
+      "to": "2019-02-07T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 8,
+          "year": 2018
+        },
+        "to": {
+          "day": 7,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      "string": "Aug 1, 2018 to Feb 7, 2019"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 13819,
+    "popularity": 12783,
+    "members": 1463,
+    "favorites": 3,
+    "synopsis": "The story tells the tale of Semi, a bright girl who goes in a magical time journey with the genius teacher Wai, in order to prevent the evil X from utilizing the powers of the magic cube for evil. Along the way, Semi and her math school friends run into history and math problems that they must solve with logic and wit.\n\n(Source: hobbykr)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2158,
+        "type": "anime",
+        "name": "Durufix",
+        "url": "https://myanimelist.net/anime/producer/2158/Durufix"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43729,
+            "type": "anime",
+            "name": "Semi wa Magic Cube 2nd Season",
+            "url": "https://myanimelist.net/anime/43729/Semi_wa_Magic_Cube_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Wandering Star (헤매는 별)\" by Kim Gwan-ho 김관호"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/magiccube/main"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14244"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EB%AF%B8%EC%99%80_%EB%A7%A4%EC%A7%81%ED%81%90%EB%B8%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

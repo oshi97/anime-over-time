@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 48193,
+    "url": "https://myanimelist.net/anime/48193/Mabeobsonyeo_Dee_Dee",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1373/125164.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1373/125164t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1373/125164l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1373/125164.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1373/125164t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1373/125164l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mabeobsonyeo Dee Dee"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mabeobsonyeo Deedee"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mabeobsonyeo Didi"
+      },
+      {
+        "type": "Japanese",
+        "title": "마법소녀 디디"
+      }
+    ],
+    "title": "Mabeobsonyeo Dee Dee",
+    "title_english": null,
+    "title_japanese": "마법소녀 디디",
+    "title_synonyms": [
+      "Mabeobsonyeo Deedee",
+      "Mabeobsonyeo Didi"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-30T00:00:00+00:00",
+      "to": "2020-11-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 26,
+          "month": 11,
+          "year": 2020
+        }
+      },
+      "string": "Jul 30, 2020 to Nov 26, 2020"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17251,
+    "popularity": 22244,
+    "members": 156,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58016,
+            "type": "anime",
+            "name": "Mabeobsonyeo Dee Dee 2",
+            "url": "https://myanimelist.net/anime/58016/Mabeobsonyeo_Dee_Dee_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.kbs.co.kr/1tv/enter/deedee/pc/index.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80_%EB%94%94%EB%94%94"
+      }
+    ],
+    "streaming": []
+  }
+}

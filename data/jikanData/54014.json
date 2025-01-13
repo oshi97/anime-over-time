@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 54014,
+    "url": "https://myanimelist.net/anime/54014/Li_Linke_de_Xiao_Guaner_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/132125.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/132125t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/132125l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/132125.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/132125t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/132125l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Li Linke de Xiao Guaner 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "李林克的小馆儿  第二季"
+      },
+      {
+        "type": "English",
+        "title": "The Dining of Link Lee 2nd Season"
+      }
+    ],
+    "title": "Li Linke de Xiao Guaner 2nd Season",
+    "title_english": "The Dining of Link Lee 2nd Season",
+    "title_japanese": "李林克的小馆儿  第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-30T00:00:00+00:00",
+      "to": "2023-03-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": 27,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Jan 30, 2023 to Mar 27, 2023"
+    },
+    "duration": "18 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.42,
+    "scored_by": 229,
+    "rank": 2250,
+    "popularity": 15586,
+    "members": 668,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2247,
+        "type": "anime",
+        "name": "Delight Animation",
+        "url": "https://myanimelist.net/anime/producer/2247/Delight_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48845,
+            "type": "anime",
+            "name": "Li Linke de Xiao Guaner",
+            "url": "https://myanimelist.net/anime/48845/Li_Linke_de_Xiao_Guaner"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28235415"
+      }
+    ],
+    "streaming": []
+  }
+}

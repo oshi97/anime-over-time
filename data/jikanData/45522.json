@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 45522,
+    "url": "https://myanimelist.net/anime/45522/Xiao_Zhuren__Zhengyi_Lianmeng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1793/115230.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1793/115230t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1793/115230l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1793/115230.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1793/115230t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1793/115230l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiao Zhuren: Zhengyi Lianmeng"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xiao Zhuren Zhi Zhengyi Lianmeng"
+      },
+      {
+        "type": "Japanese",
+        "title": "小主人之正义联盟"
+      }
+    ],
+    "title": "Xiao Zhuren: Zhengyi Lianmeng",
+    "title_english": null,
+    "title_japanese": "小主人之正义联盟",
+    "title_synonyms": [
+      "Xiao Zhuren Zhi Zhengyi Lianmeng"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15509,
+    "popularity": 23723,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45521,
+            "type": "anime",
+            "name": "Kuaile Tuo Mo Ta: Chengyu Da Cidian",
+            "url": "https://myanimelist.net/anime/45521/Kuaile_Tuo_Mo_Ta__Chengyu_Da_Cidian"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49069,
+            "type": "anime",
+            "name": "Xiao Zhuren: Zhengyi Lianmeng 2nd Season",
+            "url": "https://myanimelist.net/anime/49069/Xiao_Zhuren__Zhengyi_Lianmeng_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1WJ411t7xP?from=search&seid=9885769656213619558"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%B0%8F%E4%B8%BB%E4%BA%BA%E4%B9%8B%E6%AD%A3%E4%B9%89%E8%81%94%E7%9B%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 42760,
+    "url": "https://myanimelist.net/anime/42760/Baolie_Feiche_II__Xing_Neng_Juexing",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1103/109418.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/109418t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/109418l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1103/109418.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/109418t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/109418l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baolie Feiche II: Xing Neng Juexing"
+      },
+      {
+        "type": "Synonym",
+        "title": "Burst Speed 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Opti-Morphs"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ji Jia Shou Shen Zhi Baolie Feiche 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "爆裂飞车Ⅱ 星能觉醒"
+      }
+    ],
+    "title": "Baolie Feiche II: Xing Neng Juexing",
+    "title_english": null,
+    "title_japanese": "爆裂飞车Ⅱ 星能觉醒",
+    "title_synonyms": [
+      "Burst Speed 2",
+      "Opti-Morphs",
+      "Ji Jia Shou Shen Zhi Baolie Feiche 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 3, 2017 to ?"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19350,
+    "popularity": 20804,
+    "members": 230,
+    "favorites": 1,
+    "synopsis": "Second season of Baolie Feiche.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1939,
+        "type": "anime",
+        "name": "Alpha Animation",
+        "url": "https://myanimelist.net/anime/producer/1939/Alpha_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42740,
+            "type": "anime",
+            "name": "Ji Jia Shou Shen: Baolie Feiche",
+            "url": "https://myanimelist.net/anime/42740/Ji_Jia_Shou_Shen__Baolie_Feiche"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42761,
+            "type": "anime",
+            "name": "Baolie Feiche 3: Shou Shen Heti",
+            "url": "https://myanimelist.net/anime/42761/Baolie_Feiche_3__Shou_Shen_Heti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Xingzuo Zhanshi (星座战士)\" by Dongshan (东山)"
+      ],
+      "endings": [
+        "\"Tong Xin Xiang Qian (同心向前)\" by Zhiheng Luo (罗智恒)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrh9984p.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%88%86%E8%A3%82%E9%A3%9E%E8%BD%A62"
+      }
+    ],
+    "streaming": []
+  }
+}

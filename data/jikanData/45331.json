@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 45331,
+    "url": "https://myanimelist.net/anime/45331/Xiong_Hai_Zi_Dizi_Gui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1548/129481.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1548/129481t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1548/129481l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1548/129481.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1548/129481t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1548/129481l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiong Hai Zi Dizi Gui"
+      },
+      {
+        "type": "Japanese",
+        "title": "熊孩子弟子规"
+      }
+    ],
+    "title": "Xiong Hai Zi Dizi Gui",
+    "title_english": null,
+    "title_japanese": "熊孩子弟子规",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 37,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018 to ?"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15714,
+    "popularity": 27483,
+    "members": 62,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 45330,
+            "type": "anime",
+            "name": "Xiong Hai Zi Anquan Xiao Jiangtang",
+            "url": "https://myanimelist.net/anime/45330/Xiong_Hai_Zi_Anquan_Xiao_Jiangtang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://waptv.sogou.com/cartoon/mnqxe5dpn5xf6nrwha3tinyj2dolviwx2p62dno427j3tzx5ui.html"
+      }
+    ],
+    "streaming": []
+  }
+}

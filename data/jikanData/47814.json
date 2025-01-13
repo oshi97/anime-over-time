@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 47814,
+    "url": "https://myanimelist.net/anime/47814/Ashuai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/121177.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/121177t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/121177l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/121177.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/121177t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/121177l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ashuai"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿衰"
+      }
+    ],
+    "title": "Ashuai",
+    "title_english": null,
+    "title_japanese": "阿衰",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 34,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 5, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19139,
+    "popularity": 22366,
+    "members": 150,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47815,
+            "type": "anime",
+            "name": "Ashuai 2nd Season",
+            "url": "https://myanimelist.net/anime/47815/Ashuai_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ss27796/?from=search&seid=15409158669571820070"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%98%BF%E8%A1%B0/58275942"
+      }
+    ],
+    "streaming": []
+  }
+}

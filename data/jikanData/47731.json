@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 47731,
+    "url": "https://myanimelist.net/anime/47731/Dongbei_Meng_Shou_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1815/123450.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1815/123450t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1815/123450l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1815/123450.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1815/123450t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1815/123450l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dongbei Meng Shou 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "东北萌兽 第2季"
+      }
+    ],
+    "title": "Dongbei Meng Shou 2nd Season",
+    "title_english": null,
+    "title_japanese": "东北萌兽 第2季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-06-20T00:00:00+00:00",
+      "to": "2018-12-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 6,
+          "year": 2018
+        },
+        "to": {
+          "day": 3,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Jun 20, 2018 to Dec 3, 2018"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20170,
+    "popularity": 24342,
+    "members": 99,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47730,
+            "type": "anime",
+            "name": "Dongbei Meng Shou",
+            "url": "https://myanimelist.net/anime/47730/Dongbei_Meng_Shou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrh6tcs1.html"
+      }
+    ],
+    "streaming": []
+  }
+}

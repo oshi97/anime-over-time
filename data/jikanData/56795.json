@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 56795,
+    "url": "https://myanimelist.net/anime/56795/Wo_Shi_Na_Zha_2__Yingxiong_Guilai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1948/138855.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/138855t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/138855l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1948/138855.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/138855t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/138855l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo Shi Na Zha 2: Yingxiong Guilai"
+      },
+      {
+        "type": "Japanese",
+        "title": "我是哪吒2之英雄归来"
+      },
+      {
+        "type": "English",
+        "title": "I Am Nezha 2"
+      }
+    ],
+    "title": "Wo Shi Na Zha 2: Yingxiong Guilai",
+    "title_english": "I Am Nezha 2",
+    "title_japanese": "我是哪吒2之英雄归来",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-09-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 29, 2023"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15175,
+    "popularity": 21301,
+    "members": 202,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37661,
+            "type": "anime",
+            "name": "Wo Shi Na Zha",
+            "url": "https://myanimelist.net/anime/37661/Wo_Shi_Na_Zha"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/我是哪吒2之英雄归来/63029355"
+      }
+    ],
+    "streaming": []
+  }
+}

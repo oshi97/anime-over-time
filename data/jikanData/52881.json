@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 52881,
+    "url": "https://myanimelist.net/anime/52881/Jibi_Eopseo_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/127302.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/127302t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/127302l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/127302.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/127302t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/127302l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "fj-fho49sfE",
+      "url": "https://www.youtube.com/watch?v=fj-fho49sfE",
+      "embed_url": "https://www.youtube.com/embed/fj-fho49sfE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/fj-fho49sfE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/fj-fho49sfE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/fj-fho49sfE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/fj-fho49sfE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/fj-fho49sfE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jibi Eopseo PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "집이 없어"
+      },
+      {
+        "type": "English",
+        "title": "No Home PV"
+      }
+    ],
+    "title": "Jibi Eopseo PV",
+    "title_english": "No Home PV",
+    "title_japanese": "집이 없어",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 7, 2022"
+    },
+    "duration": "2 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.38,
+    "scored_by": 248,
+    "rank": null,
+    "popularity": 15231,
+    "members": 734,
+    "favorites": 2,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa No Home.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147769,
+            "type": "manga",
+            "name": "No Home",
+            "url": "https://myanimelist.net/manga/147769/No_Home"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 59868,
+            "type": "anime",
+            "name": "Jibi Eopseo",
+            "url": "https://myanimelist.net/anime/59868/Jibi_Eopseo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

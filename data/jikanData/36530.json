@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 36530,
+    "url": "https://myanimelist.net/anime/36530/Porong_Porong_Pororo_6",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88262.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88262t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88262l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/88262.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88262t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88262l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Porong Porong Pororo 6"
+      },
+      {
+        "type": "Japanese",
+        "title": "뽀롱뽀롱 뽀로로 6"
+      },
+      {
+        "type": "English",
+        "title": "Pororo the Little Penguin 6"
+      },
+      {
+        "type": "Spanish",
+        "title": "Pororo, el Pequeño Pingüino Serie 6"
+      }
+    ],
+    "title": "Porong Porong Pororo 6",
+    "title_english": "Pororo the Little Penguin 6",
+    "title_japanese": "뽀롱뽀롱 뽀로로 6",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-02T00:00:00+00:00",
+      "to": "2016-05-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": 26,
+          "month": 5,
+          "year": 2016
+        }
+      },
+      "string": "Mar 2, 2016 to May 26, 2016"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.8,
+    "scored_by": 138,
+    "rank": 10897,
+    "popularity": 17984,
+    "members": 409,
+    "favorites": 0,
+    "synopsis": "The sixth season of Pororo, many episodes take place in the Summer Islands.",
+    "background": "",
+    "season": "spring",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 27459,
+            "type": "anime",
+            "name": "Porong Porong Pororo 5",
+            "url": "https://myanimelist.net/anime/27459/Porong_Porong_Pororo_5"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48245,
+            "type": "anime",
+            "name": "Porong Porong Pororo 7",
+            "url": "https://myanimelist.net/anime/48245/Porong_Porong_Pororo_7"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 48241,
+            "type": "anime",
+            "name": "Pororo Movie: Gonglyongseom Daemoheom",
+            "url": "https://myanimelist.net/anime/48241/Pororo_Movie__Gonglyongseom_Daemoheom"
+          },
+          {
+            "mal_id": 48242,
+            "type": "anime",
+            "name": "Pororo Movie: Bomulseom Daemoheom",
+            "url": "https://myanimelist.net/anime/48242/Pororo_Movie__Bomulseom_Daemoheom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/pororo/replay/37/list?courseId=BA0AA000000000020&stepId=10024361"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%BD%80%EB%A1%B1%EB%BD%80%EB%A1%B1_%EB%BD%80%EB%A1%9C%EB%A1%9C"
+      }
+    ],
+    "streaming": []
+  }
+}

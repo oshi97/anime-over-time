@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 47640,
+    "url": "https://myanimelist.net/anime/47640/Yuzhou_Huwei_Dui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1908/123389.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/123389t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/123389l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1908/123389.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/123389t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/123389l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuzhou Huwei Dui"
+      },
+      {
+        "type": "Japanese",
+        "title": "宇宙护卫队"
+      },
+      {
+        "type": "English",
+        "title": "Cosmicrew"
+      }
+    ],
+    "title": "Yuzhou Huwei Dui",
+    "title_english": "Cosmicrew",
+    "title_japanese": "宇宙护卫队",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-08T00:00:00+00:00",
+      "to": "2019-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Oct 8, 2018 to 2019"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16025,
+    "popularity": 24886,
+    "members": 91,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47642,
+            "type": "anime",
+            "name": "Yuzhou Huwei Dui 2",
+            "url": "https://myanimelist.net/anime/47642/Yuzhou_Huwei_Dui_2"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 57459,
+            "type": "anime",
+            "name": "Yuzhou Huwei Dui: Fengbao Liliang",
+            "url": "https://myanimelist.net/anime/57459/Yuzhou_Huwei_Dui__Fengbao_Liliang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%AE%87%E5%AE%99%E6%8A%A4%E5%8D%AB%E9%98%9F"
+      }
+    ],
+    "streaming": []
+  }
+}

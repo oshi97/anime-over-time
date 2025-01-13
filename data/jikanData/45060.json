@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 45060,
+    "url": "https://myanimelist.net/anime/45060/Alibaba_Sangen_Jinfa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/127940.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/127940t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/127940l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1435/127940.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1435/127940t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1435/127940l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Alibaba Sangen Jinfa"
+      },
+      {
+        "type": "Synonym",
+        "title": "Alibaba Three Blondes"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ali Baba Sangen Jinfa"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿里巴巴三根金发"
+      },
+      {
+        "type": "English",
+        "title": "Alibaba and the Three Golden Hair"
+      }
+    ],
+    "title": "Alibaba Sangen Jinfa",
+    "title_english": "Alibaba and the Three Golden Hair",
+    "title_japanese": "阿里巴巴三根金发",
+    "title_synonyms": [
+      "Alibaba Three Blondes",
+      "Ali Baba Sangen Jinfa"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 30, 2018"
+    },
+    "duration": "1 hr 21 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19045,
+    "popularity": 23931,
+    "members": 107,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44943,
+            "type": "anime",
+            "name": "Alibaba 2: Solomon Fengyin",
+            "url": "https://myanimelist.net/anime/44943/Alibaba_2__Solomon_Fengyin"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45114,
+            "type": "anime",
+            "name": "Alibaba Yu Shen Deng",
+            "url": "https://myanimelist.net/anime/45114/Alibaba_Yu_Shen_Deng"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alibaba_and_the_Three_Golden_Hair"
+      }
+    ],
+    "streaming": []
+  }
+}

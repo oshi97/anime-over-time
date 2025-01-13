@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 47187,
+    "url": "https://myanimelist.net/anime/47187/Xiao_Tu_Bandy__Haidao_Tanxian_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1837/129792.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1837/129792t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1837/129792l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1837/129792.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1837/129792t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1837/129792l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiao Tu Bandy: Haidao Tanxian Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "小兔班弟之海岛探险记"
+      }
+    ],
+    "title": "Xiao Tu Bandy: Haidao Tanxian Ji",
+    "title_english": null,
+    "title_japanese": "小兔班弟之海岛探险记",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15450,
+    "popularity": 26957,
+    "members": 68,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47186,
+            "type": "anime",
+            "name": "Xiao Tu Bandy: Xingji Qi Lu",
+            "url": "https://myanimelist.net/anime/47186/Xiao_Tu_Bandy__Xingji_Qi_Lu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47188,
+            "type": "anime",
+            "name": "Xiao Tu Bandy: Fanhang Zongdongyuan",
+            "url": "https://myanimelist.net/anime/47188/Xiao_Tu_Bandy__Fanhang_Zongdongyuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_1581knqqnmd.html"
+      }
+    ],
+    "streaming": []
+  }
+}

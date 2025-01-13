@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 39012,
+    "url": "https://myanimelist.net/anime/39012/Capsule_Boy_2__Ujuleul_Jikyeola",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/98275.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/98275t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/98275l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1364/98275.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1364/98275t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1364/98275l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Capsule Boy 2: Ujuleul Jikyeola"
+      },
+      {
+        "type": "Synonym",
+        "title": "Capsule Boy 2: Save the Universe"
+      },
+      {
+        "type": "Japanese",
+        "title": "캡슐보이2 우주를 지켜라"
+      }
+    ],
+    "title": "Capsule Boy 2: Ujuleul Jikyeola",
+    "title_english": null,
+    "title_japanese": "캡슐보이2 우주를 지켜라",
+    "title_synonyms": [
+      "Capsule Boy 2: Save the Universe"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-12T00:00:00+00:00",
+      "to": "2019-07-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 6,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "Jan 12, 2019 to Jul 6, 2019"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19621,
+    "popularity": 20428,
+    "members": 249,
+    "favorites": 0,
+    "synopsis": "The second season of Capsule Boy. SBS took over broadcasting the show. The art style has been changed for a more modern anime-esque appearance and some voice actors did not reprise their character's roles.",
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34664,
+            "type": "anime",
+            "name": "Capsule Boy",
+            "url": "https://myanimelist.net/anime/34664/Capsule_Boy"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://programs.sbs.co.kr/culture/capsuleboy2"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%BA%A1%EC%8A%90%EB%B3%B4%EC%9D%B4"
+      }
+    ],
+    "streaming": []
+  }
+}

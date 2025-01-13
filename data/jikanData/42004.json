@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 42004,
+    "url": "https://myanimelist.net/anime/42004/Super_Secret",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1550/107929t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1550/107929l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1550/107929.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1550/107929t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1550/107929l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Super Secret"
+      },
+      {
+        "type": "Synonym",
+        "title": "Syupeo Sikeulis"
+      },
+      {
+        "type": "Japanese",
+        "title": "슈퍼 시크릿"
+      },
+      {
+        "type": "English",
+        "title": "Super Secret"
+      }
+    ],
+    "title": "Super Secret",
+    "title_english": "Super Secret",
+    "title_japanese": "슈퍼 시크릿",
+    "title_synonyms": [
+      "Syupeo Sikeulis"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-30T00:00:00+00:00",
+      "to": "2021-02-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": 21,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      "string": "May 30, 2020 to Feb 21, 2021"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.72,
+    "scored_by": 269,
+    "rank": 5784,
+    "popularity": 13491,
+    "members": 1203,
+    "favorites": 2,
+    "synopsis": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2726,
+        "type": "anime",
+        "name": "Laftel",
+        "url": "https://myanimelist.net/anime/producer/2726/Laftel"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2130,
+        "type": "anime",
+        "name": "Studio Shelter",
+        "url": "https://myanimelist.net/anime/producer/2130/Studio_Shelter"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 112483,
+            "type": "manga",
+            "name": "Super Secret",
+            "url": "https://myanimelist.net/manga/112483/Super_Secret"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Super Secret\" by Stella Jang"
+      ],
+      "endings": [
+        "\"Super Secret\" by Stella Jang"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://laftel.net/item/39404"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 43894,
+    "url": "https://myanimelist.net/anime/43894/Ma_Lan_Hua",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/122544.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/122544t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/122544l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/122544.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/122544t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/122544l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ma Lan Hua"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ma Lanhua (2006)"
+      },
+      {
+        "type": "Japanese",
+        "title": "马兰花"
+      },
+      {
+        "type": "English",
+        "title": "Malan Flower"
+      }
+    ],
+    "title": "Ma Lan Hua",
+    "title_english": "Malan Flower",
+    "title_japanese": "马兰花",
+    "title_synonyms": [
+      "Ma Lanhua (2006)"
+    ],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2006-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2006
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 1, 2006"
+    },
+    "duration": "48 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17238,
+    "popularity": 23452,
+    "members": 117,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 43895,
+            "type": "anime",
+            "name": "Ma Lan Hua (2009)",
+            "url": "https://myanimelist.net/anime/43895/Ma_Lan_Hua_2009"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1Vs4112728?from=search&seid=11116129145003537140"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%A9%AC%E5%85%B0%E8%8A%B1/7010544"
+      }
+    ],
+    "streaming": []
+  }
+}

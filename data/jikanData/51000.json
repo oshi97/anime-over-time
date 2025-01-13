@@ -1,0 +1,139 @@
+{
+  "data": {
+    "mal_id": 51000,
+    "url": "https://myanimelist.net/anime/51000/Mao_Zhi_Ming_Specials",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/120899.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/120899t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/120899l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1969/120899.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/120899t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/120899l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mao Zhi Ming Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cat's Tea Specials"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cat's Tea SP"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mao Zhi Ming Bangai"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫之茗番外"
+      }
+    ],
+    "title": "Mao Zhi Ming Specials",
+    "title_english": null,
+    "title_japanese": "猫之茗番外",
+    "title_synonyms": [
+      "Cat's Tea Specials",
+      "Cat's Tea SP",
+      "Mao Zhi Ming Bangai"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-02-10T00:00:00+00:00",
+      "to": "2022-03-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 2,
+          "year": 2022
+        },
+        "to": {
+          "day": 10,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      "string": "Feb 10, 2022 to Mar 10, 2022"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.31,
+    "scored_by": 171,
+    "rank": 8176,
+    "popularity": 16076,
+    "members": 595,
+    "favorites": 1,
+    "synopsis": "Special episodes of Mao Zhi Ming.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 49380,
+            "type": "anime",
+            "name": "Mao Zhi Ming",
+            "url": "https://myanimelist.net/anime/49380/Mao_Zhi_Ming"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.tv/en/play/1031356/11169154?bstar_from=bstar-web.pgc-video-detail.episode.0"
+      }
+    ],
+    "streaming": []
+  }
+}

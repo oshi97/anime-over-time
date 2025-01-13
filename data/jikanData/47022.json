@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 47022,
+    "url": "https://myanimelist.net/anime/47022/Mayi_Gongzhu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1492/114513.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/114513t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/114513l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1492/114513.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/114513t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/114513l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mayi Gongzhu"
+      },
+      {
+        "type": "Japanese",
+        "title": "蚂蚁公主"
+      }
+    ],
+    "title": "Mayi Gongzhu",
+    "title_english": null,
+    "title_japanese": "蚂蚁公主",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17401,
+    "popularity": 24408,
+    "members": 98,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/av13890231/"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/25853694/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 41918,
+    "url": "https://myanimelist.net/anime/41918/Juan_Siliang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/116295.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/116295t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/116295l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/116295.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/116295t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/116295l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "P7ybTzRiLZA",
+      "url": "https://www.youtube.com/watch?v=P7ybTzRiLZA",
+      "embed_url": "https://www.youtube.com/embed/P7ybTzRiLZA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/P7ybTzRiLZA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/P7ybTzRiLZA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/P7ybTzRiLZA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/P7ybTzRiLZA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/P7ybTzRiLZA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Juan Siliang"
+      },
+      {
+        "type": "Japanese",
+        "title": "眷思量"
+      },
+      {
+        "type": "English",
+        "title": "The Island of Siliang"
+      }
+    ],
+    "title": "Juan Siliang",
+    "title_english": "The Island of Siliang",
+    "title_japanese": "眷思量",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-14T00:00:00+00:00",
+      "to": "2021-09-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": 13,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jun 14, 2021 to Sep 13, 2021"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "scored_by": 956,
+    "rank": 1758,
+    "popularity": 10793,
+    "members": 2728,
+    "favorites": 57,
+    "synopsis": "A stubborn girl on a mysterious island, her dreams of becoming a martial artist, and her complicated love story.\n\n(Source: Livechart)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2060,
+        "type": "anime",
+        "name": "Wulifang",
+        "url": "https://myanimelist.net/anime/producer/2060/Wulifang"
+      },
+      {
+        "mal_id": 2555,
+        "type": "anime",
+        "name": "Year Young Culture",
+        "url": "https://myanimelist.net/anime/producer/2555/Year_Young_Culture"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56216,
+            "type": "anime",
+            "name": "Juan Siliang 2nd Season",
+            "url": "https://myanimelist.net/anime/56216/Juan_Siliang_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Boundless Thoughts (思无量)\" by Morlin Liu (刘美麟)"
+      ],
+      "endings": [
+        "\"first meeting (初见)\" by Morlin Liu (刘美麟)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.wlf-studio.com/juansiliang/"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/286339"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/眷思量/23318422"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/33717831/"
+      }
+    ],
+    "streaming": []
+  }
+}

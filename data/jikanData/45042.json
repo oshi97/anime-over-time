@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 45042,
+    "url": "https://myanimelist.net/anime/45042/Lengxue_Kuang_Yan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1639/113687.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1639/113687t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1639/113687l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1639/113687.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1639/113687t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1639/113687l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lengxue Kuang Yan"
+      },
+      {
+        "type": "Synonym",
+        "title": "L.O.R.D: Legend of Ravaging Dynasties 2 - Coldblood Feast"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jue Ji 2: Lengxue Kuang Yan"
+      },
+      {
+        "type": "Japanese",
+        "title": "冷血狂宴"
+      }
+    ],
+    "title": "Lengxue Kuang Yan",
+    "title_english": null,
+    "title_japanese": "冷血狂宴",
+    "title_synonyms": [
+      "L.O.R.D: Legend of Ravaging Dynasties 2 - Coldblood Feast",
+      "Jue Ji 2: Lengxue Kuang Yan"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 4, 2020"
+    },
+    "duration": "2 hr 9 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.91,
+    "scored_by": 122,
+    "rank": 4746,
+    "popularity": 17729,
+    "members": 424,
+    "favorites": 1,
+    "synopsis": "Sequel film of Jue Ji, released online.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39116,
+            "type": "anime",
+            "name": "Jue Ji",
+            "url": "https://myanimelist.net/anime/39116/Jue_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/a/al3f2hrttje4835.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/L.O.R.D:_Legend_of_Ravaging_Dynasties_2"
+      }
+    ],
+    "streaming": []
+  }
+}

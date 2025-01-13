@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 51754,
+    "url": "https://myanimelist.net/anime/51754/Titipo_Titipo_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1279/123606.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1279/123606t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1279/123606l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1279/123606.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1279/123606t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1279/123606l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Titipo Titipo 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "띠띠뽀 띠띠뽀 2"
+      },
+      {
+        "type": "English",
+        "title": "Titipo Titipo Season 2"
+      }
+    ],
+    "title": "Titipo Titipo 2",
+    "title_english": "Titipo Titipo Season 2",
+    "title_japanese": "띠띠뽀 띠띠뽀 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-26T00:00:00+00:00",
+      "to": "2020-06-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": 26,
+          "month": 6,
+          "year": 2020
+        }
+      },
+      "string": "Aug 26, 2019 to Jun 26, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14756,
+    "popularity": 21641,
+    "members": 183,
+    "favorites": 1,
+    "synopsis": "The second season of Titipo Titipo.",
+    "background": "",
+    "season": "summer",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 1427,
+        "type": "anime",
+        "name": "EBS",
+        "url": "https://myanimelist.net/anime/producer/1427/EBS"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      },
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38075,
+            "type": "anime",
+            "name": "Titipo Titipo",
+            "url": "https://myanimelist.net/anime/38075/Titipo_Titipo"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51755,
+            "type": "anime",
+            "name": "Titipo Titipo 3",
+            "url": "https://myanimelist.net/anime/51755/Titipo_Titipo_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

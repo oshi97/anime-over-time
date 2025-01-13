@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 53044,
+    "url": "https://myanimelist.net/anime/53044/Bo___Tos_Family_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1361/127993.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1361/127993t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1361/127993l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1361/127993.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1361/127993t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1361/127993l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bo & To's Family 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Botos Family 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "보토스 패밀리 2"
+      },
+      {
+        "type": "English",
+        "title": "Bo & To's Family 2nd Season"
+      }
+    ],
+    "title": "Bo & To's Family 2nd Season",
+    "title_english": "Bo & To's Family 2nd Season",
+    "title_japanese": "보토스 패밀리 2",
+    "title_synonyms": [
+      "Botos Family 2nd Season"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-30T00:00:00+00:00",
+      "to": "2022-10-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 10,
+          "year": 2022
+        }
+      },
+      "string": "Jul 30, 2022 to Oct 1, 2022"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19470,
+    "popularity": 21249,
+    "members": 204,
+    "favorites": 0,
+    "synopsis": "Second season of Bo &amp; To's Family.",
+    "background": "",
+    "season": "summer",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2596,
+        "type": "anime",
+        "name": "Comma Studio",
+        "url": "https://myanimelist.net/anime/producer/2596/Comma_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53043,
+            "type": "anime",
+            "name": "Bo & To's Family Part 2",
+            "url": "https://myanimelist.net/anime/53043/Bo___Tos_Family_Part_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%86%A0%EC%8A%A4_%ED%8C%A8%EB%B0%80%EB%A6%AC#%EC%8B%9C%EC%A6%8C2"
+      }
+    ],
+    "streaming": []
+  }
+}

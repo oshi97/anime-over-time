@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 33739,
+    "url": "https://myanimelist.net/anime/33739/Tian_Xin_Ge_Ge",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/81128.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/81128t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/81128l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/81128.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/12/81128t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/12/81128l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tian Xin Ge Ge"
+      },
+      {
+        "type": "Japanese",
+        "title": "甜心格格"
+      },
+      {
+        "type": "English",
+        "title": "Ori-Princess"
+      }
+    ],
+    "title": "Tian Xin Ge Ge",
+    "title_english": "Ori-Princess",
+    "title_japanese": "甜心格格",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-10-04T00:00:00+00:00",
+      "to": "2011-11-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 10,
+          "year": 2011
+        },
+        "to": {
+          "day": 24,
+          "month": 11,
+          "year": 2011
+        }
+      },
+      "string": "Oct 4, 2011 to Nov 24, 2011"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": 6.42,
+    "scored_by": 157,
+    "rank": 7596,
+    "popularity": 16430,
+    "members": 551,
+    "favorites": 5,
+    "synopsis": "A Chinese prince meets a regular civilian during his travels and quickly falls in love. They marry and have a daughter, but the prince is soon separated from them during a rebellion. Many years later, the prince has become emperor and locates his lost daughter. She comes to live with him, but unfortunately has picked up several unrefined habits during her times as a civilian.",
+    "background": "",
+    "season": "fall",
+    "year": 2011,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 343,
+        "type": "anime",
+        "name": "Puzzle Animation Studio Limited",
+        "url": "https://myanimelist.net/anime/producer/343/Puzzle_Animation_Studio_Limited"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 33753,
+            "type": "anime",
+            "name": "Tian Xin Ge Ge 2nd Season",
+            "url": "https://myanimelist.net/anime/33753/Tian_Xin_Ge_Ge_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 44462,
+            "type": "anime",
+            "name": "Tian Xin Ge Ge: Huanbao Xilie",
+            "url": "https://myanimelist.net/anime/44462/Tian_Xin_Ge_Ge__Huanbao_Xilie"
+          },
+          {
+            "mal_id": 44463,
+            "type": "anime",
+            "name": "Tian Xin Ge Ge: Henian Duanpian",
+            "url": "https://myanimelist.net/anime/44463/Tian_Xin_Ge_Ge__Henian_Duanpian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Happy Girl (快樂女孩)\" by Liu Xijun"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.oriprincess.com/en/qq.asp"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13523"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%94%9C%E5%BF%83%E6%A0%BC%E6%A0%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

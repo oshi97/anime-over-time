@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 43989,
+    "url": "https://myanimelist.net/anime/43989/Xi_Yangyang_Yu_Hui_Tailang__Lan_Yangyang_Dang_Dachu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1530/115275.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1530/115275t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1530/115275l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1530/115275.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1530/115275t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1530/115275l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tailang: Lan Yangyang Dang Dachu"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊與灰太狼之懶羊羊當大廚"
+      },
+      {
+        "type": "English",
+        "title": "Pleasant Goat and Big Big Wolf: Paddi the Amazing Chef"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tailang: Lan Yangyang Dang Dachu",
+    "title_english": "Pleasant Goat and Big Big Wolf: Paddi the Amazing Chef",
+    "title_japanese": "喜羊羊與灰太狼之懶羊羊當大廚",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 20, 2013 to ?"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15277,
+    "popularity": 21785,
+    "members": 176,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43988,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Kaixin Fangshenshi",
+            "url": "https://myanimelist.net/anime/43988/Xi_Yangyang_Yu_Hui_Tailang__Kaixin_Fangshenshi"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43990,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Yangyang Xiao Xinyuan",
+            "url": "https://myanimelist.net/anime/43990/Xi_Yangyang_Yu_Hui_Tailang__Yangyang_Xiao_Xinyuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.22dm.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pleasant_Goat_and_Big_Big_Wolf#Animated_series"
+      }
+    ],
+    "streaming": []
+  }
+}

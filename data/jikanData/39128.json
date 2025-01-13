@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 39128,
+    "url": "https://myanimelist.net/anime/39128/Hong_Mao_Lan_Tu__Xiao_Youmo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/98700.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1470/98700t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1470/98700l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/98700.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1470/98700t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1470/98700l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Mao Lan Tu: Xiao Youmo"
+      },
+      {
+        "type": "Japanese",
+        "title": "虹猫蓝兔小幽默"
+      }
+    ],
+    "title": "Hong Mao Lan Tu: Xiao Youmo",
+    "title_english": null,
+    "title_japanese": "虹猫蓝兔小幽默",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 84,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2005 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21106,
+    "popularity": 22292,
+    "members": 154,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39127,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Shuimo Donghua",
+            "url": "https://myanimelist.net/anime/39127/Hong_Mao_Lan_Tu__Shuimo_Donghua"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39129,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Qi Xia Chuan",
+            "url": "https://myanimelist.net/anime/39129/Hong_Mao_Lan_Tu__Qi_Xia_Chuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14140"
+      }
+    ],
+    "streaming": []
+  }
+}

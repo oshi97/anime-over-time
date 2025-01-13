@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 43020,
+    "url": "https://myanimelist.net/anime/43020/Yi_Guan_Xing_Shen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/109635.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/109635t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/109635l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1156/109635.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/109635t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/109635l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yi Guan Xing Shen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nescafé Hong Kong TVCM"
+      },
+      {
+        "type": "Japanese",
+        "title": "一罐醒神"
+      }
+    ],
+    "title": "Yi Guan Xing Shen",
+    "title_english": null,
+    "title_japanese": "一罐醒神",
+    "title_synonyms": [
+      "Nescafé Hong Kong TVCM"
+    ],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 5, 2020"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": 6.34,
+    "scored_by": 333,
+    "rank": null,
+    "popularity": 15365,
+    "members": 705,
+    "favorites": 1,
+    "synopsis": "An animated commercial for Nescafé coffee.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1872,
+        "type": "anime",
+        "name": "P.I.C.S.",
+        "url": "https://myanimelist.net/anime/producer/1872/PICS"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2033,
+        "type": "anime",
+        "name": "FILMONY",
+        "url": "https://myanimelist.net/anime/producer/2033/FILMONY"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.pics.tokyo/works/tvcm_nescafe-hong-kong/"
+      }
+    ],
+    "streaming": []
+  }
+}

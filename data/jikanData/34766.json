@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 34766,
+    "url": "https://myanimelist.net/anime/34766/Elsword__Ain-ui_Gieog_Animation",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/83834.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/83834t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/83834l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/83834.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/83834t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/83834l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Elsword: Ain-ui Gieog Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "[엘소드] 아인의 기억 애니메이션"
+      }
+    ],
+    "title": "Elsword: Ain-ui Gieog Animation",
+    "title_english": null,
+    "title_japanese": "[엘소드] 아인의 기억 애니메이션",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 12, 2016"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.06,
+    "scored_by": 955,
+    "rank": 9593,
+    "popularity": 10281,
+    "members": 3169,
+    "favorites": 2,
+    "synopsis": "This was the Secret Video that was shown in Anime premiere event. It tells the story of, Ain, a secretive timekeeper during the events of Elsword: El-ui Yeoin's first episode.\n\n(Source: 2nafish)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1575,
+        "type": "anime",
+        "name": "DR Movie",
+        "url": "https://myanimelist.net/anime/producer/1575/DR_Movie"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 32613,
+            "type": "anime",
+            "name": "Elsword: El-ui Yeoin",
+            "url": "https://myanimelist.net/anime/32613/Elsword__El-ui_Yeoin"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://elsword.nexon.com"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12663"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elsword#Anime"
+      }
+    ],
+    "streaming": []
+  }
+}

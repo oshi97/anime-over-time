@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 48023,
+    "url": "https://myanimelist.net/anime/48023/Fengyu_Lang_Qiao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/118295.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/118295t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/118295l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/118295.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/118295t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/118295l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fengyu Lang Qiao"
+      },
+      {
+        "type": "Japanese",
+        "title": "风雨廊桥"
+      },
+      {
+        "type": "English",
+        "title": "Covered Bridge"
+      }
+    ],
+    "title": "Fengyu Lang Qiao",
+    "title_english": "Covered Bridge",
+    "title_japanese": "风雨廊桥",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 15, 2020"
+    },
+    "duration": "22 min",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": null,
+    "scored_by": null,
+    "rank": 20455,
+    "popularity": 21243,
+    "members": 205,
+    "favorites": 0,
+    "synopsis": "In the troubled times at the end of the Tang Dynasty, the cannibalism spreads. The knight-errant who used to wield his sword has become an old man suffering from old illnesses, living cautiously in order to feed his hunger. Until he meets a little girl, and his dormant fighting spirit and humanity are re-awakened.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1804,
+        "type": "anime",
+        "name": "Nice Boat Animation",
+        "url": "https://myanimelist.net/anime/producer/1804/Nice_Boat_Animation"
+      },
+      {
+        "mal_id": 2304,
+        "type": "anime",
+        "name": "TrioPen Studio",
+        "url": "https://myanimelist.net/anime/producer/2304/TrioPen_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59367,
+            "type": "anime",
+            "name": "Fengyu Lang Qiao: Kunlun Mo Lei",
+            "url": "https://myanimelist.net/anime/59367/Fengyu_Lang_Qiao__Kunlun_Mo_Lei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ss33814"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/subject/307995"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 56590,
+    "url": "https://myanimelist.net/anime/56590/Hong_Weiba",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1812/138342.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/138342t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/138342l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1812/138342.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/138342t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/138342l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Weiba"
+      },
+      {
+        "type": "Japanese",
+        "title": "紅尾巴"
+      },
+      {
+        "type": "English",
+        "title": "Red Tail"
+      }
+    ],
+    "title": "Hong Weiba",
+    "title_english": "Red Tail",
+    "title_japanese": "紅尾巴",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 2022"
+    },
+    "duration": "20 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 21114,
+    "popularity": 23874,
+    "members": 108,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36099125/"
+      }
+    ],
+    "streaming": []
+  }
+}

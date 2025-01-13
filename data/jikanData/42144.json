@@ -1,0 +1,189 @@
+{
+  "data": {
+    "mal_id": 42144,
+    "url": "https://myanimelist.net/anime/42144/Jingju_Mao_Zhi_Xinnian_de_Maoxian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1675/107855.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1675/107855t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1675/107855l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1675/107855.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1675/107855t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1675/107855l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jingju Mao Zhi Xinnian de Maoxian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jingju Mao 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Beijing Opera Cats"
+      },
+      {
+        "type": "Japanese",
+        "title": "京剧猫之信念的冒险"
+      },
+      {
+        "type": "English",
+        "title": "Jing-Ju Cats 2"
+      }
+    ],
+    "title": "Jingju Mao Zhi Xinnian de Maoxian",
+    "title_english": "Jing-Ju Cats 2",
+    "title_japanese": "京剧猫之信念的冒险",
+    "title_synonyms": [
+      "Jingju Mao 2nd Season",
+      "Beijing Opera Cats"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-10T00:00:00+00:00",
+      "to": "2017-08-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": 14,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Jul 10, 2017 to Aug 14, 2017"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16371,
+    "popularity": 20345,
+    "members": 253,
+    "favorites": 0,
+    "synopsis": "Second season of Jingju Mao.",
+    "background": "",
+    "season": "summer",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2046,
+        "type": "anime",
+        "name": "Dazzling Star",
+        "url": "https://myanimelist.net/anime/producer/2046/Dazzling_Star"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42033,
+            "type": "anime",
+            "name": "Jingju Mao",
+            "url": "https://myanimelist.net/anime/42033/Jingju_Mao"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42146,
+            "type": "anime",
+            "name": "Jingju Mao Zhi Cheng Feng Polang",
+            "url": "https://myanimelist.net/anime/42146/Jingju_Mao_Zhi_Cheng_Feng_Polang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.dazzlingstar.cn/en/col.jsp?id=101"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15760"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E5%89%A7%E7%8C%AB%E4%B9%8B%E4%BF%A1%E5%BF%B5%E7%9A%84%E5%86%92%E9%99%A9"
+      }
+    ],
+    "streaming": []
+  }
+}

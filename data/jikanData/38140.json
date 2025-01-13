@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 38140,
+    "url": "https://myanimelist.net/anime/38140/Zhu_Zhu_Xia__Fan_Wai_-_Zhi_Huanqiu_Riji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/93366.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/93366t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/93366l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1474/93366.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/93366t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/93366l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond: Global Diary"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠番外 环球日记"
+      },
+      {
+        "type": "English",
+        "title": "GG Bond: Adventure to the World"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji",
+    "title_english": "GG Bond: Adventure to the World",
+    "title_japanese": "猪猪侠番外 环球日记",
+    "title_synonyms": [
+      "GG Bond: Global Diary"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-30T00:00:00+00:00",
+      "to": "2018-05-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": 4,
+          "month": 5,
+          "year": 2018
+        }
+      },
+      "string": "Mar 30, 2018 to May 4, 2018"
+    },
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16178,
+    "popularity": 20103,
+    "members": 269,
+    "favorites": 0,
+    "synopsis": "Teaming up as an agent squad, GG Bond and his pals travel around the world to help people solve their problems. Although their journeys are full of danger and unknown, these brave agents are highly committed to their missions and never step back. On their way of the global adventure, they can also learn about local cultures and customs, which are accompanied with funny stuff and interesting stories. You never know what they will run into in their next mission...\n\n(Source: Official YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38135,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui",
+            "url": "https://myanimelist.net/anime/38135/Zhu_Zhu_Xia__Fan_Wai_-_Pin_Zhuang_Tegong_Dui"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38131,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Chao Xing Meng Chong",
+            "url": "https://myanimelist.net/anime/38131/Zhu_Zhu_Xia__Chao_Xing_Meng_Chong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

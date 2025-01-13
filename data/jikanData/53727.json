@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 53727,
+    "url": "https://myanimelist.net/anime/53727/Ashuai_8th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/131568.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/131568t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/131568l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1982/131568.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1982/131568t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1982/131568l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ashuai 8th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿衰 第八季"
+      }
+    ],
+    "title": "Ashuai 8th Season",
+    "title_english": null,
+    "title_japanese": "阿衰 第八季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 34,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-03T00:00:00+00:00",
+      "to": "2022-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "string": "Jun 3, 2022 to 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19146,
+    "popularity": 23055,
+    "members": 126,
+    "favorites": 0,
+    "synopsis": "Eighth season of Ashuai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53726,
+            "type": "anime",
+            "name": "Ashuai 7th Season",
+            "url": "https://myanimelist.net/anime/53726/Ashuai_7th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53728,
+            "type": "anime",
+            "name": "Ashuai 9th Season",
+            "url": "https://myanimelist.net/anime/53728/Ashuai_9th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28338219"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%98%BF%E8%A1%B0/58275942"
+      }
+    ],
+    "streaming": []
+  }
+}

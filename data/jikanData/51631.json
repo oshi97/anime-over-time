@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51631,
+    "url": "https://myanimelist.net/anime/51631/Qian_Ting_Zong_Dong_Yuan_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1826/122760.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/122760t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/122760l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1826/122760.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/122760t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/122760l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qian Ting Zong Dong Yuan 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Little Submarine 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "潜艇总动员2"
+      }
+    ],
+    "title": "Qian Ting Zong Dong Yuan 2",
+    "title_english": null,
+    "title_japanese": "潜艇总动员2",
+    "title_synonyms": [
+      "Happy Little Submarine 2"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-06-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 1, 2012"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18527,
+    "popularity": 23923,
+    "members": 107,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51303,
+            "type": "anime",
+            "name": "Qian Ting Zong Dong Yuan",
+            "url": "https://myanimelist.net/anime/51303/Qian_Ting_Zong_Dong_Yuan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51686,
+            "type": "anime",
+            "name": "Qian Ting Zong Dong Yuan 3: Caihong Baozang",
+            "url": "https://myanimelist.net/anime/51686/Qian_Ting_Zong_Dong_Yuan_3__Caihong_Baozang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%BD%9C%E8%89%87%E6%80%BB%E5%8A%A8%E5%91%982/10257815"
+      }
+    ],
+    "streaming": []
+  }
+}

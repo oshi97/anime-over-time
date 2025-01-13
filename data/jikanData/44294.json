@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 44294,
+    "url": "https://myanimelist.net/anime/44294/Gangtie_Feilong_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1708/123073.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1708/123073t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1708/123073l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1708/123073.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1708/123073t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1708/123073l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gangtie Feilong (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "钢铁飞龙(電影)"
+      }
+    ],
+    "title": "Gangtie Feilong (Movie)",
+    "title_english": null,
+    "title_japanese": "钢铁飞龙(電影)",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-11-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 11,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 9, 2013"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20590,
+    "popularity": 23681,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2977,
+        "type": "anime",
+        "name": "BlueArc Animation Studios",
+        "url": "https://myanimelist.net/anime/producer/2977/BlueArc_Animation_Studios"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 44293,
+            "type": "anime",
+            "name": "Gangtie Feilong",
+            "url": "https://myanimelist.net/anime/44293/Gangtie_Feilong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%92%A2%E9%93%81%E9%A3%9E%E9%BE%99/16826043"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 50462,
+    "url": "https://myanimelist.net/anime/50462/Jiyi_Guanli_Ju",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/119667.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/119667t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/119667l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/119667.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/119667t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/119667l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jiyi Guanli Ju"
+      },
+      {
+        "type": "Japanese",
+        "title": "记忆管理局"
+      },
+      {
+        "type": "English",
+        "title": "False Memory"
+      }
+    ],
+    "title": "Jiyi Guanli Ju",
+    "title_english": "False Memory",
+    "title_japanese": "记忆管理局",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 30, 2020"
+    },
+    "duration": "18 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.32,
+    "scored_by": 639,
+    "rank": 2715,
+    "popularity": 11092,
+    "members": 2499,
+    "favorites": 16,
+    "synopsis": "In order to go back to the past, Guan Chao tries hard to find the \"burning stone\" that activates the time gun, but accidentally falls into the Memory Management Bureau. Only by conquering the BUG people in the memory layer can he return to reality. With the help of administrators such as Fangtang and Baizhong, can Guan Chao successfully complete the task? What kind of challenges are awaiting Guan Chao in each memory layer...\n\n(Source: Bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2372,
+        "type": "anime",
+        "name": "Flint Sugar",
+        "url": "https://myanimelist.net/anime/producer/2372/Flint_Sugar"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      },
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 60568,
+            "type": "anime",
+            "name": "Jiyi Guanli Ju (2025)",
+            "url": "https://myanimelist.net/anime/60568/Jiyi_Guanli_Ju_2025"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 52869,
+            "type": "anime",
+            "name": "Tian Qi Ri",
+            "url": "https://myanimelist.net/anime/52869/Tian_Qi_Ri"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1iK4y187Th"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16760"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35206440/"
+      }
+    ],
+    "streaming": []
+  }
+}

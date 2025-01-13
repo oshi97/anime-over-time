@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 51746,
+    "url": "https://myanimelist.net/anime/51746/Shijian_Qiutu_Zhi_Miwu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1593/125283.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/125283t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/125283l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1593/125283.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/125283t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/125283l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shijian Qiutu Zhi Miwu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shijian Qiutu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "时间囚徒之迷雾"
+      },
+      {
+        "type": "English",
+        "title": "Time Prisoner 2"
+      }
+    ],
+    "title": "Shijian Qiutu Zhi Miwu",
+    "title_english": "Time Prisoner 2",
+    "title_japanese": "时间囚徒之迷雾",
+    "title_synonyms": [
+      "Shijian Qiutu 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-27T00:00:00+00:00",
+      "to": "2022-07-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 27,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 13,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Apr 27, 2022 to Jul 13, 2022"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.31,
+    "scored_by": 124,
+    "rank": 8192,
+    "popularity": 17421,
+    "members": 449,
+    "favorites": 0,
+    "synopsis": "Second season of Shijian Qiutu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50644,
+            "type": "anime",
+            "name": "Shijian Qiutu",
+            "url": "https://myanimelist.net/anime/50644/Shijian_Qiutu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://list.youku.com/show/id_zcddbdbb8134345be9216.html"
+      }
+    ],
+    "streaming": []
+  }
+}

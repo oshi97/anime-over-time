@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 50998,
+    "url": "https://myanimelist.net/anime/50998/Ma-eum-uisoli_Season_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1655/120892.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1655/120892t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1655/120892l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1655/120892.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1655/120892t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1655/120892l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ma-eum-uisoli Season 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "마음의 소리 시즌 3"
+      },
+      {
+        "type": "English",
+        "title": "The Sound of Your Heart: Season 3"
+      }
+    ],
+    "title": "Ma-eum-uisoli Season 3",
+    "title_english": "The Sound of Your Heart: Season 3",
+    "title_japanese": "마음의 소리 시즌 3",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-05T00:00:00+00:00",
+      "to": "2021-09-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 29,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "May 5, 2021 to Sep 29, 2021"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17240,
+    "popularity": 20633,
+    "members": 239,
+    "favorites": 2,
+    "synopsis": "Third Season of Ma-eum-uisoli.",
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Wednesdays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50997,
+            "type": "anime",
+            "name": "Ma-eum-uisoli Season 2",
+            "url": "https://myanimelist.net/anime/50997/Ma-eum-uisoli_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 135215,
+            "type": "manga",
+            "name": "The Sound of Your Heart",
+            "url": "https://myanimelist.net/manga/135215/The_Sound_of_Your_Heart"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%8C%EC%9D%98%EC%86%8C%EB%A6%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

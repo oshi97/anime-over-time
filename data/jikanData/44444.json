@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 44444,
+    "url": "https://myanimelist.net/anime/44444/Dou_Long_Zhanshi_3__Long_Yin_Zhi_Zhan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1484/122896.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1484/122896t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1484/122896l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1484/122896.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1484/122896t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1484/122896l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dou Long Zhanshi 3: Long Yin Zhi Zhan"
+      },
+      {
+        "type": "Japanese",
+        "title": "斗龙战士3龙印之战"
+      }
+    ],
+    "title": "Dou Long Zhanshi 3: Long Yin Zhi Zhan",
+    "title_english": null,
+    "title_japanese": "斗龙战士3龙印之战",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-09-01T00:00:00+00:00",
+      "to": "2015-10-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2015
+        },
+        "to": {
+          "day": 31,
+          "month": 10,
+          "year": 2015
+        }
+      },
+      "string": "Sep 1, 2015 to Oct 31, 2015"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20242,
+    "popularity": 22789,
+    "members": 135,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2015,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44441,
+            "type": "anime",
+            "name": "Dou Long Zhanshi 2: Xing Long Sheng Yu",
+            "url": "https://myanimelist.net/anime/44441/Dou_Long_Zhanshi_2__Xing_Long_Sheng_Yu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44445,
+            "type": "anime",
+            "name": "Dou Long Zhanshi 4: Shuanglong He",
+            "url": "https://myanimelist.net/anime/44445/Dou_Long_Zhanshi_4__Shuanglong_He"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%96%97%E9%BE%99%E6%88%98%E5%A3%AB3%E9%BE%99%E5%8D%B0%E4%B9%8B%E6%88%98/17988783"
+      }
+    ],
+    "streaming": []
+  }
+}

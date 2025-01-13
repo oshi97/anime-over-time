@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 54055,
+    "url": "https://myanimelist.net/anime/54055/Spookiz_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1232/132223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1232/132223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1232/132223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1232/132223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1232/132223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1232/132223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Spookiz 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "스푸키즈 시즌2"
+      }
+    ],
+    "title": "Spookiz 2nd Season",
+    "title_english": null,
+    "title_japanese": "스푸키즈 시즌2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 23,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-02-10T00:00:00+00:00",
+      "to": "2016-08-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 2,
+          "year": 2016
+        },
+        "to": {
+          "day": 17,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      "string": "Feb 10, 2016 to Aug 17, 2016"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14424,
+    "popularity": 23643,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": "The second season of Spookiz.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2667,
+        "type": "anime",
+        "name": "Keyring",
+        "url": "https://myanimelist.net/anime/producer/2667/Keyring"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47373,
+            "type": "anime",
+            "name": "Spookiz",
+            "url": "https://myanimelist.net/anime/47373/Spookiz"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54058,
+            "type": "anime",
+            "name": "Spookiz 3rd Season",
+            "url": "https://myanimelist.net/anime/54058/Spookiz_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://blog.naver.com/spookiz"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%91%B8%ED%82%A4%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

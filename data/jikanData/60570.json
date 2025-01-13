@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 60570,
+    "url": "https://myanimelist.net/anime/60570/Ling_Long_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1309/147049.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1309/147049t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1309/147049l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1309/147049.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1309/147049t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1309/147049l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "pdXlnJmrx-4",
+      "url": "https://www.youtube.com/watch?v=pdXlnJmrx-4",
+      "embed_url": "https://www.youtube.com/embed/pdXlnJmrx-4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/pdXlnJmrx-4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/pdXlnJmrx-4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/pdXlnJmrx-4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/pdXlnJmrx-4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/pdXlnJmrx-4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ling Long 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "灵笼 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Ling Cage Season 2"
+      }
+    ],
+    "title": "Ling Long 2nd Season",
+    "title_english": "Ling Cage Season 2",
+    "title_japanese": "灵笼 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20707,
+    "members": 235,
+    "favorites": 1,
+    "synopsis": "Second season of Ling Long.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48890,
+            "type": "anime",
+            "name": "Ling Long: Incarnation Special",
+            "url": "https://myanimelist.net/anime/48890/Ling_Long__Incarnation_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md21123554"
+      }
+    ],
+    "streaming": []
+  }
+}

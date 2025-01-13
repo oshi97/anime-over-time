@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 47122,
+    "url": "https://myanimelist.net/anime/47122/GG_Dou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/115533.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/115533t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/115533l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/115533.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1940/115533t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1940/115533l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "GG Dou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ji Ji Dou"
+      },
+      {
+        "type": "Japanese",
+        "title": "咭咭豆 第一季"
+      },
+      {
+        "type": "English",
+        "title": "GG Bean"
+      }
+    ],
+    "title": "GG Dou",
+    "title_english": "GG Bean",
+    "title_japanese": "咭咭豆 第一季",
+    "title_synonyms": [
+      "Ji Ji Dou"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20652,
+    "popularity": 25055,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49116,
+            "type": "anime",
+            "name": "GG Dou 2nd Season",
+            "url": "https://myanimelist.net/anime/49116/GG_Dou_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1wx41177aD?from=search&seid=6662375840201800376"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%92%AD%E5%92%AD%E8%B1%86"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 54949,
+    "url": "https://myanimelist.net/anime/54949/Mao_Zhi_Ming_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1663/135277.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1663/135277t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1663/135277l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1663/135277.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1663/135277t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1663/135277l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mao Zhi Ming 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "猫之茗 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Cat's Tea 2nd Season"
+      }
+    ],
+    "title": "Mao Zhi Ming 2nd Season",
+    "title_english": "Cat's Tea 2nd Season",
+    "title_japanese": "猫之茗 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-04-08T00:00:00+00:00",
+      "to": "2023-06-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 4,
+          "year": 2023
+        },
+        "to": {
+          "day": 17,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "string": "Apr 8, 2023 to Jun 17, 2023"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17359,
+    "popularity": 17144,
+    "members": 477,
+    "favorites": 1,
+    "synopsis": "Second season of Mao Zhi Ming.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 49380,
+            "type": "anime",
+            "name": "Mao Zhi Ming",
+            "url": "https://myanimelist.net/anime/49380/Mao_Zhi_Ming"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 56772,
+            "type": "anime",
+            "name": "Quan Zhi Ming",
+            "url": "https://myanimelist.net/anime/56772/Quan_Zhi_Ming"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28223054"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/390895"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36200591/"
+      },
+      {
+        "name": "Weibo",
+        "url": "https://weibo.com/u/5512627687"
+      }
+    ],
+    "streaming": []
+  }
+}

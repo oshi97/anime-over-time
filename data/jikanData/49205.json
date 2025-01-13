@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 49205,
+    "url": "https://myanimelist.net/anime/49205/Hong_Huang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1512/115811.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/115811t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/115811l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1512/115811.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/115811t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/115811l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Huang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Aurora"
+      },
+      {
+        "type": "Synonym",
+        "title": "R.E.D."
+      },
+      {
+        "type": "Synonym",
+        "title": "Rescue Eternal Desert"
+      },
+      {
+        "type": "Japanese",
+        "title": "红荒"
+      }
+    ],
+    "title": "Hong Huang",
+    "title_english": null,
+    "title_japanese": "红荒",
+    "title_synonyms": [
+      "Aurora",
+      "R.E.D.",
+      "Rescue Eternal Desert"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-13T00:00:00+00:00",
+      "to": "2021-11-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 9,
+          "month": 11,
+          "year": 2021
+        }
+      },
+      "string": "Jul 13, 2021 to Nov 9, 2021"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 21082,
+    "popularity": 19234,
+    "members": 318,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28223044/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16452"
+      }
+    ],
+    "streaming": []
+  }
+}

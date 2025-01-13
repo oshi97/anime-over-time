@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 42151,
+    "url": "https://myanimelist.net/anime/42151/Qiang_Shen_Ji__Xuezu_Mishi_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1898/108205.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/108205t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/108205l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1898/108205.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/108205t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/108205l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qiang Shen Ji: Xuezu Mishi Pian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Age of Gunslingers 3"
+      },
+      {
+        "type": "Synonym",
+        "title": "Qiang Shen Ji 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "枪神记 血族秘史篇"
+      }
+    ],
+    "title": "Qiang Shen Ji: Xuezu Mishi Pian",
+    "title_english": null,
+    "title_japanese": "枪神记 血族秘史篇",
+    "title_synonyms": [
+      "Age of Gunslingers 3",
+      "Qiang Shen Ji 3rd Season"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-12-15T00:00:00+00:00",
+      "to": "2020-02-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 12,
+          "year": 2019
+        },
+        "to": {
+          "day": 23,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      "string": "Dec 15, 2019 to Feb 23, 2020"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.54,
+    "scored_by": 128,
+    "rank": 6844,
+    "popularity": 16423,
+    "members": 552,
+    "favorites": 1,
+    "synopsis": "Third season of Qiang Shen Ji.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2064,
+        "type": "anime",
+        "name": "Mokai Technology",
+        "url": "https://myanimelist.net/anime/producer/2064/Mokai_Technology"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42149,
+            "type": "anime",
+            "name": "Qiang Shen Ji: Tegong Shijie Pian",
+            "url": "https://myanimelist.net/anime/42149/Qiang_Shen_Ji__Tegong_Shijie_Pian"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42293,
+            "type": "anime",
+            "name": "Qiang Shen Ji: Shenhai Xianluo Pian",
+            "url": "https://myanimelist.net/anime/42293/Qiang_Shen_Ji__Shenhai_Xianluo_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/k/kjketdv4sqxxuky.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9E%AA%E7%A5%9E%E8%AE%B0/22193700"
+      }
+    ],
+    "streaming": []
+  }
+}

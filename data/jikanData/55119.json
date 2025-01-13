@@ -1,0 +1,125 @@
+{
+  "data": {
+    "mal_id": 55119,
+    "url": "https://myanimelist.net/anime/55119/Gon_de_Hanta_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1338/135524.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1338/135524t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1338/135524l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1338/135524.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1338/135524t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1338/135524l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gon de Hanta 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "Gon的旱獭 第三季"
+      }
+    ],
+    "title": "Gon de Hanta 3rd Season",
+    "title_english": null,
+    "title_japanese": "Gon的旱獭 第三季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-25T00:00:00+00:00",
+      "to": "2019-07-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": 15,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      "string": "Feb 25, 2019 to Jul 15, 2019"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20692,
+    "popularity": 25179,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": "The third season of Gon de Hanta.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55118,
+            "type": "anime",
+            "name": "Gon de Hanta 2nd Season",
+            "url": "https://myanimelist.net/anime/55118/Gon_de_Hanta_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

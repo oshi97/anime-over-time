@@ -1,0 +1,150 @@
+{
+  "data": {
+    "mal_id": 49326,
+    "url": "https://myanimelist.net/anime/49326/Ma-eum-uisoli",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1640/116194.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/116194t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/116194l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1640/116194.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/116194t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/116194l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ma-eum-uisoli"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Sound of Heart: Season 1"
+      },
+      {
+        "type": "Japanese",
+        "title": "마음의 소리 시즌 1"
+      },
+      {
+        "type": "English",
+        "title": "The Sound of Your Heart"
+      }
+    ],
+    "title": "Ma-eum-uisoli",
+    "title_english": "The Sound of Your Heart",
+    "title_japanese": "마음의 소리 시즌 1",
+    "title_synonyms": [
+      "The Sound of Heart: Season 1"
+    ],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-07-19T00:00:00+00:00",
+      "to": "2016-12-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2016
+        },
+        "to": {
+          "day": 27,
+          "month": 12,
+          "year": 2016
+        }
+      },
+      "string": "Jul 19, 2016 to Dec 27, 2016"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17240,
+    "popularity": 20330,
+    "members": 256,
+    "favorites": 1,
+    "synopsis": "While it may seem like a mere depiction of everyday life, The Sound of Your Heart is a comedy filled to the brim with wit, sarcasm, and parody. It gives no regard for the probable or realistic- it is a series of absurd situations that is sure to get a laugh out of every reader willing to suspend their sense of reality.\n\n(Source: LINE Webtoon)",
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Sundays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50997,
+            "type": "anime",
+            "name": "Ma-eum-uisoli Season 2",
+            "url": "https://myanimelist.net/anime/50997/Ma-eum-uisoli_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 135215,
+            "type": "manga",
+            "name": "The Sound of Your Heart",
+            "url": "https://myanimelist.net/manga/135215/The_Sound_of_Your_Heart"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%8C%EC%9D%98%EC%86%8C%EB%A6%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

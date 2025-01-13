@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 38128,
+    "url": "https://myanimelist.net/anime/38128/Zhu_Zhu_Xia__Guang_Ming_Shou_Wei_Zhe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/93355.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/93355t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/93355l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1475/93355.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/93355t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/93355l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Guang Ming Shou Wei Zhe"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond 11"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠 光明守卫者"
+      },
+      {
+        "type": "English",
+        "title": "GG Bond Season 11"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Guang Ming Shou Wei Zhe",
+    "title_english": "GG Bond Season 11",
+    "title_japanese": "猪猪侠 光明守卫者",
+    "title_synonyms": [
+      "GG Bond 11"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-29T00:00:00+00:00",
+      "to": "2016-08-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": 24,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      "string": "Apr 29, 2016 to Aug 24, 2016"
+    },
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16179,
+    "popularity": 19494,
+    "members": 302,
+    "favorites": 0,
+    "synopsis": "Twin City, as legend has it, is an evil city which was born at the time when Crystal City was created. There is a mirror-like lake above the city which has a horrifying power. It enables people to face the darkest side deep within their hearts. This darkness manifests as the person's opposite. The heroes must send these malicious beings back to their realm before they tear Crystal City apart.",
+    "background": "",
+    "season": "spring",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38127,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Wu Ling Shou Wei Zhe",
+            "url": "https://myanimelist.net/anime/38127/Zhu_Zhu_Xia__Wu_Ling_Shou_Wei_Zhe"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38129,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Meng Xiang Shou Wei Zhe",
+            "url": "https://myanimelist.net/anime/38129/Zhu_Zhu_Xia__Meng_Xiang_Shou_Wei_Zhe"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13458"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

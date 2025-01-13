@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 54293,
+    "url": "https://myanimelist.net/anime/54293/Myeongtamjeong_Pinkfong-gwa_Hogi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/132877.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/132877t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/132877l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1098/132877.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/132877t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/132877l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Myeongtamjeong Pinkfong-gwa Hogi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pinkfong and Hogi"
+      },
+      {
+        "type": "Japanese",
+        "title": "명탐정 핑크퐁과 호기"
+      },
+      {
+        "type": "English",
+        "title": "Pinkfong Wonderstar Part 2"
+      }
+    ],
+    "title": "Myeongtamjeong Pinkfong-gwa Hogi",
+    "title_english": "Pinkfong Wonderstar Part 2",
+    "title_japanese": "명탐정 핑크퐁과 호기",
+    "title_synonyms": [
+      "Pinkfong and Hogi"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-24T00:00:00+00:00",
+      "to": "2021-04-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": 29,
+          "month": 4,
+          "year": 2021
+        }
+      },
+      "string": "Sep 24, 2020 to Apr 29, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17831,
+    "popularity": 23138,
+    "members": 124,
+    "favorites": 0,
+    "synopsis": "Pinkfong and Hogi are back, helping friends in Wonderville and making memories! Watch them zoom around in their magical car and collect 'cube-cubes' every time they solve a friend's problem. Wonderville can count on Pinkfong and Hogi because no problem is too big (or too small) for team Wonderstar!\n\n(Source: Official YouTube Channel)",
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "14:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 14:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 2851,
+        "type": "anime",
+        "name": "Pinkfong",
+        "url": "https://myanimelist.net/anime/producer/2851/Pinkfong"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54291,
+            "type": "anime",
+            "name": "Pinkfong Wonderstar",
+            "url": "https://myanimelist.net/anime/54291/Pinkfong_Wonderstar"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59740,
+            "type": "anime",
+            "name": "Pinkfong-gwa Hogi: Sae Chingu Ninimo",
+            "url": "https://myanimelist.net/anime/59740/Pinkfong-gwa_Hogi__Sae_Chingu_Ninimo"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 54290,
+            "type": "anime",
+            "name": "Pinkfong Cinema Concert 2: Wonderstar Concert Daejagjeon",
+            "url": "https://myanimelist.net/anime/54290/Pinkfong_Cinema_Concert_2__Wonderstar_Concert_Daejagjeon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

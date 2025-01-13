@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 53520,
+    "url": "https://myanimelist.net/anime/53520/BT21_Original_Story",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/130457.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/130457t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/130457l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1897/130457.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/130457t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/130457l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BT21 Original Story"
+      },
+      {
+        "type": "Japanese",
+        "title": "BT21 ORIGINAL STORY"
+      }
+    ],
+    "title": "BT21 Original Story",
+    "title_english": null,
+    "title_japanese": "BT21 ORIGINAL STORY",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-25T00:00:00+00:00",
+      "to": "2022-01-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": 27,
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "string": "Sep 25, 2020 to Jan 27, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19518,
+    "popularity": 20711,
+    "members": 235,
+    "favorites": 3,
+    "synopsis": "Are you all ready for more exciting stories? Like their many charms, BT21 has deep, engrossing tales yet untold...!\n\n(Source: YouTube)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55796,
+            "type": "anime",
+            "name": "BT21 Universe 3 Animation",
+            "url": "https://myanimelist.net/anime/55796/BT21_Universe_3_Animation"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 54991,
+            "type": "anime",
+            "name": "BT21 Original Story 2nd Season",
+            "url": "https://myanimelist.net/anime/54991/BT21_Original_Story_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55861,
+            "type": "anime",
+            "name": "Would You",
+            "url": "https://myanimelist.net/anime/55861/Would_You"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bt21.com/video"
+      }
+    ],
+    "streaming": []
+  }
+}

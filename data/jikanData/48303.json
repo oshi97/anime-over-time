@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48303,
+    "url": "https://myanimelist.net/anime/48303/Wonder_Balls",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/115257.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/115257t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/115257l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1674/115257.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1674/115257t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1674/115257l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wonder Balls"
+      },
+      {
+        "type": "Synonym",
+        "title": "Wondeoboljeu"
+      },
+      {
+        "type": "Japanese",
+        "title": "원더볼즈"
+      }
+    ],
+    "title": "Wonder Balls",
+    "title_english": null,
+    "title_japanese": "원더볼즈",
+    "title_synonyms": [
+      "Wondeoboljeu"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-02-28T00:00:00+00:00",
+      "to": "2014-08-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 2,
+          "year": 2014
+        },
+        "to": {
+          "day": 29,
+          "month": 8,
+          "year": 2014
+        }
+      },
+      "string": "Feb 28, 2014 to Aug 29, 2014"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15194,
+    "popularity": 21906,
+    "members": 169,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2945,
+        "type": "anime",
+        "name": "Studio Goindol",
+        "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49071,
+            "type": "anime",
+            "name": "Wonder Balls Season 2",
+            "url": "https://myanimelist.net/anime/49071/Wonder_Balls_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/wonderballs/etc/2/htmlMenu"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EB%8D%94%EB%B3%BC%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 45362,
+    "url": "https://myanimelist.net/anime/45362/Kuaile_Xiang_Qian_Chong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1502/126111.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/126111t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/126111l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1502/126111.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/126111t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/126111l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuaile Xiang Qian Chong"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kuaile Dongxi 6"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Stuff 6"
+      },
+      {
+        "type": "Synonym",
+        "title": "快乐东西第六部：快乐向前冲"
+      },
+      {
+        "type": "Japanese",
+        "title": "快乐向前冲"
+      }
+    ],
+    "title": "Kuaile Xiang Qian Chong",
+    "title_english": null,
+    "title_japanese": "快乐向前冲",
+    "title_synonyms": [
+      "Kuaile Dongxi 6",
+      "Happy Stuff 6",
+      "快乐东西第六部：快乐向前冲"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015 to ?"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16944,
+    "popularity": 26444,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45361,
+            "type": "anime",
+            "name": "Kuai Yue Jia Nianhua",
+            "url": "https://myanimelist.net/anime/45361/Kuai_Yue_Jia_Nianhua"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45363,
+            "type": "anime",
+            "name": "Kuaile Dongxi 7",
+            "url": "https://myanimelist.net/anime/45363/Kuaile_Dongxi_7"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1cJ411W7zq?from=search&seid=15409139643826167582"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/????"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 55837,
+    "url": "https://myanimelist.net/anime/55837/Zombie_Dumb_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1884/136849.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/136849t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/136849l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1884/136849.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/136849t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/136849l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zombie Dumb 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "좀비덤 2"
+      },
+      {
+        "type": "English",
+        "title": "ZombieDumb 2"
+      }
+    ],
+    "title": "Zombie Dumb 2",
+    "title_english": "ZombieDumb 2",
+    "title_japanese": "좀비덤 2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-21T00:00:00+00:00",
+      "to": "2019-02-09T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 9,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      "string": "Oct 21, 2017 to Feb 9, 2019"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16218,
+    "popularity": 24219,
+    "members": 102,
+    "favorites": 0,
+    "synopsis": "The second season of Zombie Dumb.",
+    "background": "",
+    "season": "fall",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2783,
+        "type": "anime",
+        "name": "ANYZAC",
+        "url": "https://myanimelist.net/anime/producer/2783/ANYZAC"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48323,
+            "type": "anime",
+            "name": "Zombie Dumb",
+            "url": "https://myanimelist.net/anime/48323/Zombie_Dumb"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55838,
+            "type": "anime",
+            "name": "Zombie Dumb 3",
+            "url": "https://myanimelist.net/anime/55838/Zombie_Dumb_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://program.kbs.co.kr/1tv/enter/zombiedumb2"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%A2%80%EB%B9%84%EB%8D%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

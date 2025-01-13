@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 53449,
+    "url": "https://myanimelist.net/anime/53449/Hanhua_Riji_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1477/138814.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/138814t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/138814l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1477/138814.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/138814t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/138814l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hanhua Riji 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "汉化日记 第四季"
+      },
+      {
+        "type": "English",
+        "title": "God Troubles Me 4th Season"
+      }
+    ],
+    "title": "Hanhua Riji 4th Season",
+    "title_english": "God Troubles Me 4th Season",
+    "title_japanese": "汉化日记 第四季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-03-10T00:00:00+00:00",
+      "to": "2024-05-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 3,
+          "year": 2024
+        },
+        "to": {
+          "day": 19,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      "string": "Mar 10, 2024 to May 19, 2024"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.28,
+    "scored_by": 218,
+    "rank": 2926,
+    "popularity": 12653,
+    "members": 1526,
+    "favorites": 4,
+    "synopsis": "Fourth season of Hanhua Riji.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1268,
+        "type": "anime",
+        "name": "L²Studio",
+        "url": "https://myanimelist.net/anime/producer/1268/L%C2%B2Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50401,
+            "type": "anime",
+            "name": "Hanhua Riji 3rd Season",
+            "url": "https://myanimelist.net/anime/50401/Hanhua_Riji_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28339882"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/subject/405136"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36140938/"
+      }
+    ],
+    "streaming": []
+  }
+}

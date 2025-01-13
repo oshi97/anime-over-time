@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 43729,
+    "url": "https://myanimelist.net/anime/43729/Semi_wa_Magic_Cube_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1785/110019.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1785/110019t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1785/110019l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1785/110019.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1785/110019t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1785/110019l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "eQFvSF3K1ro",
+      "url": "https://www.youtube.com/watch?v=eQFvSF3K1ro",
+      "embed_url": "https://www.youtube.com/embed/eQFvSF3K1ro?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/eQFvSF3K1ro/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/eQFvSF3K1ro/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/eQFvSF3K1ro/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/eQFvSF3K1ro/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/eQFvSF3K1ro/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Semi wa Magic Cube 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Semi and the Magic Cube 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Semi in the Magic Cube 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "세미와 매직큐브 시즌2"
+      }
+    ],
+    "title": "Semi wa Magic Cube 2nd Season",
+    "title_english": null,
+    "title_japanese": "세미와 매직큐브 시즌2",
+    "title_synonyms": [
+      "Semi and the Magic Cube 2",
+      "Semi in the Magic Cube 2"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-03-30T00:00:00+00:00",
+      "to": "2020-05-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2020
+        },
+        "to": {
+          "day": 26,
+          "month": 5,
+          "year": 2020
+        }
+      },
+      "string": "Mar 30, 2020 to May 26, 2020"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 13820,
+    "popularity": 12929,
+    "members": 1397,
+    "favorites": 5,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2158,
+        "type": "anime",
+        "name": "Durufix",
+        "url": "https://myanimelist.net/anime/producer/2158/Durufix"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43684,
+            "type": "anime",
+            "name": "Semi wa Magic Cube",
+            "url": "https://myanimelist.net/anime/43684/Semi_wa_Magic_Cube"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/magiccube/main"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16253"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/세미와_매직큐브"
+      }
+    ],
+    "streaming": []
+  }
+}

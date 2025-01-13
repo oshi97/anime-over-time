@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 47573,
+    "url": "https://myanimelist.net/anime/47573/Huang_Doujun_Tebie_Ban__Wang_Buliao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/123210.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/123210t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/123210l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/123210.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/123210t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/123210l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huang Doujun Tebie Ban: \"Wang Buliao\""
+      },
+      {
+        "type": "Japanese",
+        "title": "黄逗菌特别版之《忘不了》"
+      }
+    ],
+    "title": "Huang Doujun Tebie Ban: \"Wang Buliao\"",
+    "title_english": null,
+    "title_japanese": "黄逗菌特别版之《忘不了》",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 30, 2019 to ?"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21187,
+    "popularity": 23709,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 47572,
+            "type": "anime",
+            "name": "Huang Doujun",
+            "url": "https://myanimelist.net/anime/47572/Huang_Doujun"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28221547/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.6"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 58918,
+    "url": "https://myanimelist.net/anime/58918/Haha_Da_Maoxian_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1591/143258.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/143258t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/143258l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1591/143258.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/143258t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/143258l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haha Da Maoxian 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "哈哈大冒险第四季"
+      },
+      {
+        "type": "English",
+        "title": "The Adventure of Ha Ha 4th Season"
+      }
+    ],
+    "title": "Haha Da Maoxian 4th Season",
+    "title_english": "The Adventure of Ha Ha 4th Season",
+    "title_japanese": "哈哈大冒险第四季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20815,
+    "popularity": 27692,
+    "members": 45,
+    "favorites": 0,
+    "synopsis": "Fourth season of Haha Da Maoxian.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58917,
+            "type": "anime",
+            "name": "Haha Da Maoxian 3rd Season",
+            "url": "https://myanimelist.net/anime/58917/Haha_Da_Maoxian_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 39141,
+    "url": "https://myanimelist.net/anime/39141/Hua_Jianghu__Bu_Liang_Ren_III",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/98712.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/98712t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/98712l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/98712.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/98712t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/98712l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hua Jianghu: Bu Liang Ren III"
+      },
+      {
+        "type": "Synonym",
+        "title": "Painting Rivers and Lakes 3"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hua Jiang Hu: Bu Liang Ren 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "画江湖之不良人III"
+      }
+    ],
+    "title": "Hua Jianghu: Bu Liang Ren III",
+    "title_english": null,
+    "title_japanese": "画江湖之不良人III",
+    "title_synonyms": [
+      "Painting Rivers and Lakes 3",
+      "Hua Jiang Hu: Bu Liang Ren 3rd Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-25T00:00:00+00:00",
+      "to": "2019-11-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": 12,
+          "month": 11,
+          "year": 2019
+        }
+      },
+      "string": "Oct 25, 2018 to Nov 12, 2019"
+    },
+    "duration": "20 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.71,
+    "scored_by": 246,
+    "rank": 5834,
+    "popularity": 14321,
+    "members": 954,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2281,
+        "type": "anime",
+        "name": "Rocen",
+        "url": "https://myanimelist.net/anime/producer/2281/Rocen"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 33925,
+            "type": "anime",
+            "name": "Hua Jianghu: Bu Liang Ren II",
+            "url": "https://myanimelist.net/anime/33925/Hua_Jianghu__Bu_Liang_Ren_II"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49274,
+            "type": "anime",
+            "name": "Hua Jianghu: Bu Liang Ren IV",
+            "url": "https://myanimelist.net/anime/49274/Hua_Jianghu__Bu_Liang_Ren_IV"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/e/enj7gj9pcksq89p.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14647"
+      }
+    ],
+    "streaming": []
+  }
+}

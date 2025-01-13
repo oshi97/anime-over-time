@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 43321,
+    "url": "https://myanimelist.net/anime/43321/Cancerfund_x_Din_Dong_CMs",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/118109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/118109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/118109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/118109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/118109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/118109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cancerfund x Din Dong CM's"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cancer Fund x Ding Dong"
+      },
+      {
+        "type": "Japanese",
+        "title": "Cancerfund x 癲噹"
+      }
+    ],
+    "title": "Cancerfund x Din Dong CM's",
+    "title_english": null,
+    "title_japanese": "Cancerfund x 癲噹",
+    "title_synonyms": [
+      "Cancer Fund x Ding Dong"
+    ],
+    "type": "CM",
+    "source": "Unknown",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 22082,
+    "members": 162,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 9869,
+            "type": "anime",
+            "name": "Din Dong",
+            "url": "https://myanimelist.net/anime/9869/Din_Dong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/P_q6hXdR55g"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 36553,
+    "url": "https://myanimelist.net/anime/36553/Yinhun_x_He_Wei_Dao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1494/105149.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/105149t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/105149l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1494/105149.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/105149t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/105149l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yinhun x He Wei Dao"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nissin Cup Noodles China x Gintama"
+      },
+      {
+        "type": "Japanese",
+        "title": "银魂 X 合味道"
+      }
+    ],
+    "title": "Yinhun x He Wei Dao",
+    "title_english": null,
+    "title_japanese": "银魂 X 合味道",
+    "title_synonyms": [
+      "Nissin Cup Noodles China x Gintama"
+    ],
+    "type": "CM",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-29T00:00:00+00:00",
+      "to": "2017-11-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": 23,
+          "month": 11,
+          "year": 2017
+        }
+      },
+      "string": "Aug 29, 2017 to Nov 23, 2017"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": 7.06,
+    "scored_by": 3391,
+    "rank": null,
+    "popularity": 7175,
+    "members": 8570,
+    "favorites": 10,
+    "synopsis": "Chinese streaming platform Weibo is hosting exclusive Gintama footage. The ad is in Japanese with Chinese subtitles showing the characters enjoying Cup Noodles' Chinese brand, Hé Wèi Dào.\n\nGintama is titled and marketed as Yinhun in China.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1258,
+        "type": "anime",
+        "name": "Bandai Namco Pictures",
+        "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 37706,
+            "type": "anime",
+            "name": "Nissin Chikin Ramen CMs",
+            "url": "https://myanimelist.net/anime/37706/Nissin_Chikin_Ramen_CMs"
+          },
+          {
+            "mal_id": 35843,
+            "type": "anime",
+            "name": "Gintama. Porori-hen",
+            "url": "https://myanimelist.net/anime/35843/Gintama_Porori-hen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.weibo.com/6210700783/Fwx0YhFWQ"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13263"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20160"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gin_Tama"
+      }
+    ],
+    "streaming": []
+  }
+}

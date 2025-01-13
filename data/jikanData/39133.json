@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 39133,
+    "url": "https://myanimelist.net/anime/39133/Hong_Mao_Lan_Tu__Guangming_Jian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/98705.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/98705t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/98705l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/98705.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/98705t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/98705l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Mao Lan Tu: Guangming Jian"
+      },
+      {
+        "type": "Japanese",
+        "title": "虹猫蓝兔光明剑"
+      }
+    ],
+    "title": "Hong Mao Lan Tu: Guangming Jian",
+    "title_english": null,
+    "title_japanese": "虹猫蓝兔光明剑",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 79,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-06-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 6,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 18, 2010 to ?"
+    },
+    "duration": "17 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21093,
+    "popularity": 22401,
+    "members": 149,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39132,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Huo Feng Huang",
+            "url": "https://myanimelist.net/anime/39132/Hong_Mao_Lan_Tu__Huo_Feng_Huang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14147"
+      }
+    ],
+    "streaming": []
+  }
+}

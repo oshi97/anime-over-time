@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 52897,
+    "url": "https://myanimelist.net/anime/52897/Kemeng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/134594.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/134594t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/134594l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1950/134594.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1950/134594t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1950/134594l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kemeng"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pokemon 25th anniversary"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kamu"
+      },
+      {
+        "type": "Japanese",
+        "title": "可梦"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon 25th Anniversary"
+      }
+    ],
+    "title": "Kemeng",
+    "title_english": "Pokémon 25th Anniversary",
+    "title_japanese": "可梦",
+    "title_synonyms": [
+      "Pokemon 25th anniversary",
+      "Kamu"
+    ],
+    "type": "Music",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 25, 2022"
+    },
+    "duration": "5 min",
+    "rating": "G - All Ages",
+    "score": 6.01,
+    "scored_by": 319,
+    "rank": null,
+    "popularity": 15472,
+    "members": 689,
+    "favorites": 1,
+    "synopsis": "To celebrate the 25th anniversary of Pokemon, please take a look at the beautiful world of Pokemon expressed with a poetic ink painting taste!",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2581,
+        "type": "anime",
+        "name": "Zhou Shen Studio",
+        "url": "https://myanimelist.net/anime/producer/2581/Zhou_Shen_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2580,
+        "type": "anime",
+        "name": "GUMBLAB",
+        "url": "https://myanimelist.net/anime/producer/2580/GUMBLAB"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 527,
+            "type": "anime",
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/3crovG3Q4dU"
+      }
+    ],
+    "streaming": []
+  }
+}

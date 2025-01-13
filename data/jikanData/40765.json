@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 40765,
+    "url": "https://myanimelist.net/anime/40765/Underdog",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/104480.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/104480t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/104480l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/104480.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/104480t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/104480l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "ugCTEskp3k4",
+      "url": "https://www.youtube.com/watch?v=ugCTEskp3k4",
+      "embed_url": "https://www.youtube.com/embed/ugCTEskp3k4?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/ugCTEskp3k4/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/ugCTEskp3k4/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/ugCTEskp3k4/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/ugCTEskp3k4/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/ugCTEskp3k4/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Underdog"
+      },
+      {
+        "type": "Synonym",
+        "title": "Eondeodog"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Underdog"
+      },
+      {
+        "type": "Japanese",
+        "title": "언더독"
+      },
+      {
+        "type": "English",
+        "title": "A Dog's Courage"
+      }
+    ],
+    "title": "Underdog",
+    "title_english": "A Dog's Courage",
+    "title_japanese": "언더독",
+    "title_synonyms": [
+      "Eondeodog",
+      "The Underdog"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 12, 2018"
+    },
+    "duration": "1 hr 42 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14990,
+    "popularity": 18181,
+    "members": 394,
+    "favorites": 0,
+    "synopsis": "Stray dogs who have been abandoned by humans find \"a place without humans\" and realize their identities and the meaning of freedom and self-identity.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1473,
+        "type": "anime",
+        "name": "Odolttogi",
+        "url": "https://myanimelist.net/anime/producer/1473/Odolttogi"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://wellgousa.com/films/dogs-courage"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14387"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Underdog_(2018_film)"
+      }
+    ],
+    "streaming": []
+  }
+}

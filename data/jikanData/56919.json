@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 56919,
+    "url": "https://myanimelist.net/anime/56919/Bugsbot_G",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1238/139114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/139114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/139114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1238/139114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/139114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/139114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bugsbot G"
+      },
+      {
+        "type": "Japanese",
+        "title": "벅스봇 G"
+      }
+    ],
+    "title": "Bugsbot G",
+    "title_english": null,
+    "title_japanese": "벅스봇 G",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-09-29T00:00:00+00:00",
+      "to": "2021-01-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 9,
+          "year": 2020
+        },
+        "to": {
+          "day": 5,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Sep 29, 2020 to Jan 5, 2021"
+    },
+    "duration": "4 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19553,
+    "popularity": 24319,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "fall",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 48214,
+            "type": "anime",
+            "name": "Bugsbot Ignition",
+            "url": "https://myanimelist.net/anime/48214/Bugsbot_Ignition"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Namuwiki",
+        "url": "https://ko.wikipedia.org/wiki/벅스봇_이그니션"
+      }
+    ],
+    "streaming": []
+  }
+}

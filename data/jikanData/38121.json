@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 38121,
+    "url": "https://myanimelist.net/anime/38121/Bai_Bian_Zhu_Zhu_Xia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/93348.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/93348t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/93348l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/93348.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/93348t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/93348l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bai Bian Zhu Zhu Xia"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond 04"
+      },
+      {
+        "type": "Japanese",
+        "title": "百变猪猪侠"
+      },
+      {
+        "type": "English",
+        "title": "GG Bond Season 4: The Transform Angel"
+      }
+    ],
+    "title": "Bai Bian Zhu Zhu Xia",
+    "title_english": "GG Bond Season 4: The Transform Angel",
+    "title_japanese": "百变猪猪侠",
+    "title_synonyms": [
+      "GG Bond 04"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 80,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-08-13T00:00:00+00:00",
+      "to": "2009-10-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 8,
+          "year": 2009
+        },
+        "to": {
+          "day": 3,
+          "month": 10,
+          "year": 2009
+        }
+      },
+      "string": "Aug 13, 2009 to Oct 3, 2009"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19244,
+    "popularity": 19017,
+    "members": 331,
+    "favorites": 1,
+    "synopsis": "This time G.G. Bond has transformed into an angel. He's on a 3 month trial period to help a monster to make sure they stay on the right path.",
+    "background": "",
+    "season": "summer",
+    "year": 2009,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2977,
+        "type": "anime",
+        "name": "BlueArc Animation Studios",
+        "url": "https://myanimelist.net/anime/producer/2977/BlueArc_Animation_Studios"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38120,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Yong Chuang Weilai Cheng",
+            "url": "https://myanimelist.net/anime/38120/Zhu_Zhu_Xia__Yong_Chuang_Weilai_Cheng"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38122,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Jimu Shijie de Tonghua",
+            "url": "https://myanimelist.net/anime/38122/Zhu_Zhu_Xia__Jimu_Shijie_de_Tonghua"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13451"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

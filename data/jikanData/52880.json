@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 52880,
+    "url": "https://myanimelist.net/anime/52880/Tusin_Jeonsaenggi_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/127301.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/127301t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/127301l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/127301.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/127301t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/127301l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tusin Jeonsaenggi PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "투신전생기"
+      },
+      {
+        "type": "English",
+        "title": "Doom Breaker PV"
+      }
+    ],
+    "title": "Tusin Jeonsaenggi PV",
+    "title_english": "Doom Breaker PV",
+    "title_japanese": "투신전생기",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 22, 2021"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.9,
+    "scored_by": 176,
+    "rank": null,
+    "popularity": 18174,
+    "members": 395,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Doom Breaker.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2044,
+        "type": "anime",
+        "name": "Naver Webtoons",
+        "url": "https://myanimelist.net/anime/producer/2044/Naver_Webtoons"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147172,
+            "type": "manga",
+            "name": "Doom Breaker",
+            "url": "https://myanimelist.net/manga/147172/Doom_Breaker"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lStC_qXuoNI"
+      }
+    ],
+    "streaming": []
+  }
+}

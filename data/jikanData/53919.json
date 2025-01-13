@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 53919,
+    "url": "https://myanimelist.net/anime/53919/Zhongguo_Qi_Tan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/131981.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/131981t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/131981l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1099/131981.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1099/131981t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1099/131981l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhongguo Qi Tan"
+      },
+      {
+        "type": "Japanese",
+        "title": "中国奇谭"
+      },
+      {
+        "type": "English",
+        "title": "Yao-Chinese Folktales"
+      }
+    ],
+    "title": "Zhongguo Qi Tan",
+    "title_english": "Yao-Chinese Folktales",
+    "title_japanese": "中国奇谭",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-01-01T00:00:00+00:00",
+      "to": "2023-02-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2023
+        },
+        "to": {
+          "day": 12,
+          "month": 2,
+          "year": 2023
+        }
+      },
+      "string": "Jan 1, 2023 to Feb 12, 2023"
+    },
+    "duration": "18 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.69,
+    "scored_by": 268,
+    "rank": 5981,
+    "popularity": 12994,
+    "members": 1378,
+    "favorites": 5,
+    "synopsis": "A collection of eight short stories about Chinese folklore \"monsters.\"",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60569,
+            "type": "anime",
+            "name": "Zhongguo Qi Tan 2",
+            "url": "https://myanimelist.net/anime/60569/Zhongguo_Qi_Tan_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28235401/"
+      }
+    ],
+    "streaming": []
+  }
+}

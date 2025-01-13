@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 42629,
+    "url": "https://myanimelist.net/anime/42629/Yeon-ae_Halujeon_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1726/109013.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1726/109013t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/109013l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1726/109013.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1726/109013t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/109013l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "OLAAl4ZUB_o",
+      "url": "https://www.youtube.com/watch?v=OLAAl4ZUB_o",
+      "embed_url": "https://www.youtube.com/embed/OLAAl4ZUB_o?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/OLAAl4ZUB_o/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/OLAAl4ZUB_o/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/OLAAl4ZUB_o/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/OLAAl4ZUB_o/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/OLAAl4ZUB_o/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yeon-ae Halujeon 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "연애하루전2"
+      },
+      {
+        "type": "English",
+        "title": "A Day Before Us 2"
+      }
+    ],
+    "title": "Yeon-ae Halujeon 2",
+    "title_english": "A Day Before Us 2",
+    "title_japanese": "연애하루전2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-03-30T00:00:00+00:00",
+      "to": "2018-07-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2018
+        },
+        "to": {
+          "day": 6,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      "string": "Mar 30, 2018 to Jul 6, 2018"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.4,
+    "scored_by": 8576,
+    "rank": 2347,
+    "popularity": 5408,
+    "members": 17243,
+    "favorites": 27,
+    "synopsis": "Second season of A Day Before Us.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      },
+      {
+        "mal_id": 2126,
+        "type": "anime",
+        "name": "Red Dog Culture House",
+        "url": "https://myanimelist.net/anime/producer/2126/Red_Dog_Culture_House"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42632,
+            "type": "anime",
+            "name": "Yeon-ae Halujeon",
+            "url": "https://myanimelist.net/anime/42632/Yeon-ae_Halujeon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15527"
+      }
+    ],
+    "streaming": []
+  }
+}

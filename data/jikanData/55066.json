@@ -1,0 +1,118 @@
+{
+  "data": {
+    "mal_id": 55066,
+    "url": "https://myanimelist.net/anime/55066/Wei_Jin_Xiao_Juchang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/135436.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/135436t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/135436l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1784/135436.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1784/135436t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1784/135436l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wei Jin Xiao Juchang"
+      },
+      {
+        "type": "Japanese",
+        "title": "魏晋小剧场"
+      }
+    ],
+    "title": "Wei Jin Xiao Juchang",
+    "title_english": null,
+    "title_japanese": "魏晋小剧场",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-02-05T00:00:00+00:00",
+      "to": "2021-04-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2021
+        },
+        "to": {
+          "day": 23,
+          "month": 4,
+          "year": 2021
+        }
+      },
+      "string": "Feb 5, 2021 to Apr 23, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15119,
+    "popularity": 25077,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55067,
+            "type": "anime",
+            "name": "Canzhuo Shang de Shi Shuo Xin Yu",
+            "url": "https://myanimelist.net/anime/55067/Canzhuo_Shang_de_Shi_Shuo_Xin_Yu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

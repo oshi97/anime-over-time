@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 45612,
+    "url": "https://myanimelist.net/anime/45612/Shu_Ling_Ji_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1433/116712.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/116712t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/116712l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1433/116712.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/116712t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/116712l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shu Ling Ji 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "书灵记 第二季"
+      }
+    ],
+    "title": "Shu Ling Ji 2nd Season",
+    "title_english": null,
+    "title_japanese": "书灵记 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-28T00:00:00+00:00",
+      "to": "2021-03-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": 3,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Oct 28, 2020 to Mar 3, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 14180,
+    "popularity": 16917,
+    "members": 497,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "Animated adaptation of Shan Shui's (善水) web novel of the same title.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42784,
+            "type": "anime",
+            "name": "Shu Ling Ji",
+            "url": "https://myanimelist.net/anime/42784/Shu_Ling_Ji"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51821,
+            "type": "anime",
+            "name": "Shu Ling Ji 3",
+            "url": "https://myanimelist.net/anime/51821/Shu_Ling_Ji_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/m/mzc00200b1plp0l.html"
+      }
+    ],
+    "streaming": []
+  }
+}

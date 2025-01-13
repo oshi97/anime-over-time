@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 51756,
+    "url": "https://myanimelist.net/anime/51756/Luna-ui_Mabeobdogam",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/123608.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/123608t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/123608l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1253/123608.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/123608t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/123608l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Luna-ui Mabeobdogam"
+      },
+      {
+        "type": "Synonym",
+        "title": "Luna's Magic Encyclopedia"
+      },
+      {
+        "type": "Japanese",
+        "title": "루나의 마법도감"
+      },
+      {
+        "type": "English",
+        "title": "Luna's Magic Class"
+      }
+    ],
+    "title": "Luna-ui Mabeobdogam",
+    "title_english": "Luna's Magic Class",
+    "title_japanese": "루나의 마법도감",
+    "title_synonyms": [
+      "Luna's Magic Encyclopedia"
+    ],
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-30T00:00:00+00:00",
+      "to": "2021-03-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": 4,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "string": "Jan 30, 2021 to Mar 4, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17219,
+    "popularity": 22707,
+    "members": 138,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 51753,
+            "type": "anime",
+            "name": "Madeob Bus Tayo",
+            "url": "https://myanimelist.net/anime/51753/Madeob_Bus_Tayo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

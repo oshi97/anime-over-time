@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 45358,
+    "url": "https://myanimelist.net/anime/45358/Kuaile_Dongxi_4",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/126106.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/126106t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/126106l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1631/126106.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1631/126106t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1631/126106l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuaile Dongxi 4"
+      },
+      {
+        "type": "Japanese",
+        "title": "快乐东西4"
+      },
+      {
+        "type": "English",
+        "title": "Happy Stuff 4"
+      }
+    ],
+    "title": "Kuaile Dongxi 4",
+    "title_english": "Happy Stuff 4",
+    "title_japanese": "快乐东西4",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16927,
+    "popularity": 26101,
+    "members": 74,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45357,
+            "type": "anime",
+            "name": "Kuaile Dongxi 3",
+            "url": "https://myanimelist.net/anime/45357/Kuaile_Dongxi_3"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45361,
+            "type": "anime",
+            "name": "Kuai Yue Jia Nianhua",
+            "url": "https://myanimelist.net/anime/45361/Kuai_Yue_Jia_Nianhua"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/????"
+      }
+    ],
+    "streaming": []
+  }
+}

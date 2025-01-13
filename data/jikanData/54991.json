@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 54991,
+    "url": "https://myanimelist.net/anime/54991/BT21_Original_Story_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1833/135279.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/135279t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/135279l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1833/135279.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/135279t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/135279l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "BT21 Original Story 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "BT21 ORIGINAL STORY"
+      }
+    ],
+    "title": "BT21 Original Story 2nd Season",
+    "title_english": null,
+    "title_japanese": "BT21 ORIGINAL STORY",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-08-26T00:00:00+00:00",
+      "to": "2022-12-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2022
+        },
+        "to": {
+          "day": 22,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Aug 26, 2022 to Dec 22, 2022"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19518,
+    "popularity": 20999,
+    "members": 217,
+    "favorites": 0,
+    "synopsis": "The second season of BT21 Original Story.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53520,
+            "type": "anime",
+            "name": "BT21 Original Story",
+            "url": "https://myanimelist.net/anime/53520/BT21_Original_Story"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bt21.com/video"
+      }
+    ],
+    "streaming": []
+  }
+}

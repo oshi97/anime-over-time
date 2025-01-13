@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 40030,
+    "url": "https://myanimelist.net/anime/40030/Tayo-ui_Jangnangam_Adventure",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1991/123604.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1991/123604t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1991/123604l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1991/123604.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1991/123604t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1991/123604l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tayo-ui Jangnangam Adventure"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kkoma Bus Tayo Ace Guchuljakjeon 2: Tayo-ui Jangnangam Eodeubencheo"
+      },
+      {
+        "type": "Japanese",
+        "title": "타요의 장난감 어드벤처"
+      },
+      {
+        "type": "English",
+        "title": "Tayo Mission Ace 2: Tayo's Toy Adventure"
+      }
+    ],
+    "title": "Tayo-ui Jangnangam Adventure",
+    "title_english": "Tayo Mission Ace 2: Tayo's Toy Adventure",
+    "title_japanese": "타요의 장난감 어드벤처",
+    "title_synonyms": [
+      "Kkoma Bus Tayo Ace Guchuljakjeon 2: Tayo-ui Jangnangam Eodeubencheo"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 2019"
+    },
+    "duration": "16 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14625,
+    "popularity": 20355,
+    "members": 255,
+    "favorites": 0,
+    "synopsis": "When Bella finds out that all the toys were not forgotten and was touched by Ace and Duri's friendship, she decides to help other toys to find their friends(owners) back. But, it seems that Louie isn't the lucky one to find his old friend, Kevin. Tayo and Lani decide to help Louie to find Kevin but there are adventures that they never thought of!\n\n(Source: Official YouTube channel)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      },
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38631,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo 5",
+            "url": "https://myanimelist.net/anime/38631/Kkoma_Bus_Tayo_5"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tayobus.com/eng/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tayo_the_Little_Bus"
+      }
+    ],
+    "streaming": []
+  }
+}

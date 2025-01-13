@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 56596,
+    "url": "https://myanimelist.net/anime/56596/Hanlu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1113/138351.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1113/138351t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1113/138351l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1113/138351.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1113/138351t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1113/138351l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hanlu"
+      },
+      {
+        "type": "Japanese",
+        "title": "寒露"
+      },
+      {
+        "type": "English",
+        "title": "A Fly in the Restaurant"
+      }
+    ],
+    "title": "Hanlu",
+    "title_english": "A Fly in the Restaurant",
+    "title_japanese": "寒露",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-06-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 6,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 12, 2018"
+    },
+    "duration": "6 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20883,
+    "popularity": 24743,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": "In a restaurant in China, waiters try to swat flies while a number of diners eat their food.\n\n(Source: Vimeo)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/30279858/"
+      }
+    ],
+    "streaming": []
+  }
+}

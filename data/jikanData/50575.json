@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 50575,
+    "url": "https://myanimelist.net/anime/50575/Huang_Yan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1857/125692.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1857/125692t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1857/125692l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1857/125692.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1857/125692t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1857/125692l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "c_84mQJDVDc",
+      "url": "https://www.youtube.com/watch?v=c_84mQJDVDc",
+      "embed_url": "https://www.youtube.com/embed/c_84mQJDVDc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/c_84mQJDVDc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/c_84mQJDVDc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/c_84mQJDVDc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/c_84mQJDVDc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/c_84mQJDVDc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huang Yan"
+      },
+      {
+        "type": "Japanese",
+        "title": "谎颜"
+      },
+      {
+        "type": "English",
+        "title": "Face on Lie"
+      }
+    ],
+    "title": "Huang Yan",
+    "title_english": "Face on Lie",
+    "title_japanese": "谎颜",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-28T00:00:00+00:00",
+      "to": "2022-07-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 21,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Apr 28, 2022 to Jul 21, 2022"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.62,
+    "scored_by": 441,
+    "rank": 6390,
+    "popularity": 12250,
+    "members": 1738,
+    "favorites": 31,
+    "synopsis": "Han Yuxi, a young woman who is insecure about her appearance, has tolerated criticism and abuse all her life. Devastated upon learning that her boyfriend has been cheating on her, she decides to take action and goes to a hospital to receive plastic surgery. There, she meets with plastic surgeon Ling Huantao, who wants to recreate the face of his vegetative wife who he is obsessed with. Huantao offers Yuxi the hope of living a better life, but a new face may not provide her with the happiness that she desperately desires.\n\n[Written by MAL Rewrite]",
+    "background": "This donghua is based on the manhwa Kkeopdegi written by Kim Tam-Mi and published by Bilibili Comics.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      },
+      {
+        "mal_id": 2737,
+        "type": "anime",
+        "name": "Painted Blade Studio",
+        "url": "https://myanimelist.net/anime/producer/2737/Painted_Blade_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 148757,
+            "type": "manga",
+            "name": "Shell",
+            "url": "https://myanimelist.net/manga/148757/Shell"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"谎颜 (《谎颜》动画主题曲)\" by 苏诗丁"
+      ],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28235404"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17349"
+      }
+    ],
+    "streaming": []
+  }
+}

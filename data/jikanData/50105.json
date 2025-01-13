@@ -1,0 +1,192 @@
+{
+  "data": {
+    "mal_id": 50105,
+    "url": "https://myanimelist.net/anime/50105/Shiguang_Zhaoxiangguan_de_Richang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/118752.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/118752t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/118752l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/118752.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/118752t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/118752l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shiguang Zhaoxiangguan de Richang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shiguang Dailiren Xiao Juchang"
+      },
+      {
+        "type": "Synonym",
+        "title": "时光代理人小剧场"
+      },
+      {
+        "type": "Synonym",
+        "title": "Link Click Mini Theater"
+      },
+      {
+        "type": "Japanese",
+        "title": "时光照相馆的日常"
+      },
+      {
+        "type": "English",
+        "title": "Link Click: The Daily Life in Lightime"
+      }
+    ],
+    "title": "Shiguang Zhaoxiangguan de Richang",
+    "title_english": "Link Click: The Daily Life in Lightime",
+    "title_japanese": "时光照相馆的日常",
+    "title_synonyms": [
+      "Shiguang Dailiren Xiao Juchang",
+      "时光代理人小剧场",
+      "Link Click Mini Theater"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 18,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-10T00:00:00+00:00",
+      "to": "2023-03-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 10,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Oct 10, 2021 to Mar 10, 2023"
+    },
+    "duration": "8 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.01,
+    "scored_by": 2953,
+    "rank": 4320,
+    "popularity": 6530,
+    "members": 10682,
+    "favorites": 44,
+    "synopsis": "Chibi-styled episodes of daily life at the photo studio.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      },
+      {
+        "mal_id": 2357,
+        "type": "anime",
+        "name": "BeDream",
+        "url": "https://myanimelist.net/anime/producer/2357/BeDream"
+      },
+      {
+        "mal_id": 2945,
+        "type": "anime",
+        "name": "Studio Goindol",
+        "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1774,
+        "type": "anime",
+        "name": "LAN Studio",
+        "url": "https://myanimelist.net/anime/producer/1774/LAN_Studio"
+      },
+      {
+        "mal_id": 2356,
+        "type": "anime",
+        "name": "Kung Fu Frog Animation",
+        "url": "https://myanimelist.net/anime/producer/2356/Kung_Fu_Frog_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 44074,
+            "type": "anime",
+            "name": "Shiguang Dailiren",
+            "url": "https://myanimelist.net/anime/44074/Shiguang_Dailiren"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 49652,
+            "type": "anime",
+            "name": "Shiguang Dailiren Special: Xiaoyao Sanren de Weituo",
+            "url": "https://myanimelist.net/anime/49652/Shiguang_Dailiren_Special__Xiaoyao_Sanren_de_Weituo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Shin Takarajima (新宝島)\" by Mika Kobayashi (小林未郁)"
+      ],
+      "endings": [
+        "\"OverThink\" by Fan Ka (饭卡)"
+      ]
+    },
+    "external": [],
+    "streaming": []
+  }
+}

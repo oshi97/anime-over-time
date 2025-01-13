@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 48208,
+    "url": "https://myanimelist.net/anime/48208/Me___My_Robot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/114530.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/114530t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/114530l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1490/114530.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/114530t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/114530l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Me & My Robot"
+      },
+      {
+        "type": "Synonym",
+        "title": "Miaenmailobos"
+      },
+      {
+        "type": "Japanese",
+        "title": "미앤마이로봇"
+      },
+      {
+        "type": "English",
+        "title": "Me & My Robot"
+      }
+    ],
+    "title": "Me & My Robot",
+    "title_english": "Me & My Robot",
+    "title_japanese": "미앤마이로봇",
+    "title_synonyms": [
+      "Miaenmailobos"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-02-01T00:00:00+00:00",
+      "to": "2013-11-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2013
+        },
+        "to": {
+          "day": 1,
+          "month": 11,
+          "year": 2013
+        }
+      },
+      "string": "Feb 2013 to Nov 2013"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17417,
+    "popularity": 22115,
+    "members": 161,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2013,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://meandmyrobot.tistory.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EB%AF%B8%EC%95%A4%EB%A7%88%EC%9D%B4%EB%A1%9C%EB%B4%87"
+      }
+    ],
+    "streaming": []
+  }
+}

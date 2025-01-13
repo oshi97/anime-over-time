@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 43996,
+    "url": "https://myanimelist.net/anime/43996/Xi_Yangyang_Yu_Hui_Tailang__Shenhai_Lixian_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/115285.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/115285t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/115285l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1947/115285.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/115285t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/115285l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tailang: Shenhai Lixian Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊與灰太狼之深海歷險記"
+      },
+      {
+        "type": "English",
+        "title": "Pleasant Goat and Big Big Wolf: Adventures in the Sea"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tailang: Shenhai Lixian Ji",
+    "title_english": "Pleasant Goat and Big Big Wolf: Adventures in the Sea",
+    "title_japanese": "喜羊羊與灰太狼之深海歷險記",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-09T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 9,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 9, 2017 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15282,
+    "popularity": 21957,
+    "members": 168,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43994,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Xiha Chuang Shijie",
+            "url": "https://myanimelist.net/anime/43994/Xi_Yangyang_Yu_Hui_Tailang__Xiha_Chuang_Shijie"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43998,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Qihuan Tiankong Dao",
+            "url": "https://myanimelist.net/anime/43998/Xi_Yangyang_Yu_Hui_Tailang__Qihuan_Tiankong_Dao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.22dm.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pleasant_Goat_and_Big_Big_Wolf#Animated_series"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "mal_id": 51216,
+    "url": "https://myanimelist.net/anime/51216/Xin_Qin_Shi_Mingyue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1737/121356.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1737/121356t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1737/121356l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1737/121356.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1737/121356t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1737/121356l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xin Qin Shi Mingyue"
+      },
+      {
+        "type": "Synonym",
+        "title": "New Qin's Moon"
+      },
+      {
+        "type": "Synonym",
+        "title": "Qin's Moon Remastered"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Legend of Qin Remastered"
+      },
+      {
+        "type": "Japanese",
+        "title": "新秦时明月"
+      }
+    ],
+    "title": "Xin Qin Shi Mingyue",
+    "title_english": null,
+    "title_japanese": "新秦时明月",
+    "title_synonyms": [
+      "New Qin's Moon",
+      "Qin's Moon Remastered",
+      "The Legend of Qin Remastered"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-25T00:00:00+00:00",
+      "to": "2022-08-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": 18,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Nov 25, 2021 to Aug 18, 2022"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15592,
+    "popularity": 16375,
+    "members": 556,
+    "favorites": 6,
+    "synopsis": "Remaster of the first two seasons of Qin Shi Mingyue.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2447,
+        "type": "anime",
+        "name": "Youku",
+        "url": "https://myanimelist.net/anime/producer/2447/Youku"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 9806,
+            "type": "anime",
+            "name": "Qin Shi Mingyue: Bai Bu Fei Jian",
+            "url": "https://myanimelist.net/anime/9806/Qin_Shi_Mingyue__Bai_Bu_Fei_Jian"
+          },
+          {
+            "mal_id": 11841,
+            "type": "anime",
+            "name": "Qin Shi Mingyue: Ye Jin Tianming",
+            "url": "https://myanimelist.net/anime/11841/Qin_Shi_Mingyue__Ye_Jin_Tianming"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m.youku.com/alipay_video/id_cfca92c088b54a948909.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dplaybutton"
+      }
+    ],
+    "streaming": []
+  }
+}

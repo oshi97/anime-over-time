@@ -1,0 +1,195 @@
+{
+  "data": {
+    "mal_id": 42209,
+    "url": "https://myanimelist.net/anime/42209/Xi_Xing_Ji__Zaijian_Wu_Kong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1767/108086.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1767/108086t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1767/108086l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1767/108086.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1767/108086t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1767/108086l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Xing Ji: Zaijian Wu Kong"
+      },
+      {
+        "type": "Synonym",
+        "title": "Journey to the West"
+      },
+      {
+        "type": "Synonym",
+        "title": "Westbound"
+      },
+      {
+        "type": "Synonym",
+        "title": "Westbound Discipline"
+      },
+      {
+        "type": "Japanese",
+        "title": "西行纪之再见悟空"
+      },
+      {
+        "type": "English",
+        "title": "The Westward: Goodbye Wu Kong"
+      }
+    ],
+    "title": "Xi Xing Ji: Zaijian Wu Kong",
+    "title_english": "The Westward: Goodbye Wu Kong",
+    "title_japanese": "西行纪之再见悟空",
+    "title_synonyms": [
+      "Journey to the West",
+      "Westbound",
+      "Westbound Discipline"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-05-04T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 5,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 4, 2020"
+    },
+    "duration": "1 hr 5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.9,
+    "scored_by": 341,
+    "rank": 4847,
+    "popularity": 13840,
+    "members": 1087,
+    "favorites": 3,
+    "synopsis": "Prequel to animation series \"Journey to the West\", Su Yi, a princess of the heavenly realm, befriends Sun Wukong in the mortal world and falls in love with him. However, Sun Wukong is violently treated as a demon by other gods and suppressed under the Five Fingers Mountain. In the past 300 years, the god Rulai has taught the Wukong how to uphold justice in his heart. Sun Wukong protects the Longevity Monk and goes to the other side of the world to retrieve the fire of creation for the benefit of the world, but finally returns after many ups and downs. The conspiracy surfaced and the fate of the master and disciples was rewritten.\n\n(Source: TMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2055,
+        "type": "anime",
+        "name": "BYMENT",
+        "url": "https://myanimelist.net/anime/producer/2055/BYMENT"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38490,
+            "type": "anime",
+            "name": "Xi Xing Ji",
+            "url": "https://myanimelist.net/anime/38490/Xi_Xing_Ji"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 109143,
+            "type": "manga",
+            "name": "Xi Xing Ji",
+            "url": "https://myanimelist.net/manga/109143/Xi_Xing_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Zaijian Wukong (再见悟空)\" by Shuang Sheng (双笙)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/x/cover/mzc002007g7aqqt.html"
+      }
+    ],
+    "streaming": []
+  }
+}

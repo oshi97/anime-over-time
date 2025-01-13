@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 47560,
+    "url": "https://myanimelist.net/anime/47560/Yu_Laoban_No_Richang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1399/123223.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/123223t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/123223l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1399/123223.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/123223t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/123223l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yu Laoban No Richang"
+      },
+      {
+        "type": "Japanese",
+        "title": "鱼老板の日常"
+      }
+    ],
+    "title": "Yu Laoban No Richang",
+    "title_english": null,
+    "title_japanese": "鱼老板の日常",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 67,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-08-25T00:00:00+00:00",
+      "to": "2018-08-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2017
+        },
+        "to": {
+          "day": 14,
+          "month": 8,
+          "year": 2018
+        }
+      },
+      "string": "Aug 25, 2017 to Aug 14, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15947,
+    "popularity": 24566,
+    "members": 96,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 47559,
+            "type": "anime",
+            "name": "Shenye Yu Tang",
+            "url": "https://myanimelist.net/anime/47559/Shenye_Yu_Tang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/play/ep114400?bsource=baidu_aladdin&from_spmid=666.25.episode.0"
+      }
+    ],
+    "streaming": []
+  }
+}

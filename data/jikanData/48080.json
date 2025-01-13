@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 48080,
+    "url": "https://myanimelist.net/anime/48080/Qi_Qi_Ping_Ping",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/118348.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/118348t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/118348l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1236/118348.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1236/118348t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1236/118348l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qi Qi Ping Ping"
+      },
+      {
+        "type": "Japanese",
+        "title": "齐齐苹苹"
+      }
+    ],
+    "title": "Qi Qi Ping Ping",
+    "title_english": null,
+    "title_japanese": "齐齐苹苹",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2020"
+    },
+    "duration": "Unknown",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18505,
+    "popularity": 25010,
+    "members": 90,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49971,
+            "type": "anime",
+            "name": "Qi Qi Ping Ping 2nd Season",
+            "url": "https://myanimelist.net/anime/49971/Qi_Qi_Ping_Ping_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/lib/m_8416825427834314.html?src=search"
+      }
+    ],
+    "streaming": []
+  }
+}

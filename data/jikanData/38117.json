@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 38117,
+    "url": "https://myanimelist.net/anime/38117/Zhu_Zhu_Xia__Da_Nao_Huang_Gong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/93344.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/93344t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/93344l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1136/93344.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/93344t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/93344l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Da Nao Huang Gong"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond 0"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠 大闹皇宫"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Da Nao Huang Gong",
+    "title_english": null,
+    "title_japanese": "猪猪侠 大闹皇宫",
+    "title_synonyms": [
+      "GG Bond 0"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2005"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16176,
+    "popularity": 20150,
+    "members": 267,
+    "favorites": 0,
+    "synopsis": "The series is about the titular character, an intelligent and mischievous pig named G.G. Bond (猪猪侠, meaning \"Pig Hero\") born with superpowers. He is an orphan under the care and custody of Dr. Mihu, his teacher who enjoys inventing different gadgets. \n\nThis is considered \"season 0\" due to its short length. Originally it was advertised as a for-TV movie.\n\n(Source: Wikipedia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38118,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Mo Huan Zhu Luo Ji",
+            "url": "https://myanimelist.net/anime/38118/Zhu_Zhu_Xia__Mo_Huan_Zhu_Luo_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13448"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 52251,
+    "url": "https://myanimelist.net/anime/52251/Ran_Xia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/124858.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/124858t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/124858l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1445/124858.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/124858t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/124858l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ran Xia"
+      },
+      {
+        "type": "Synonym",
+        "title": "Baozou Xiari"
+      },
+      {
+        "type": "Japanese",
+        "title": "燃夏"
+      },
+      {
+        "type": "English",
+        "title": "Summer Punch"
+      }
+    ],
+    "title": "Ran Xia",
+    "title_english": "Summer Punch",
+    "title_japanese": "燃夏",
+    "title_synonyms": [
+      "Baozou Xiari"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-03T00:00:00+00:00",
+      "to": "2023-12-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": 14,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Dec 3, 2023 to Dec 14, 2023"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18638,
+    "popularity": 17831,
+    "members": 416,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2737,
+        "type": "anime",
+        "name": "Painted Blade Studio",
+        "url": "https://myanimelist.net/anime/producer/2737/Painted_Blade_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28338415/"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/subject/389996"
+      }
+    ],
+    "streaming": []
+  }
+}

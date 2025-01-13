@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 46868,
+    "url": "https://myanimelist.net/anime/46868/Cha_A_Er_Zhong__Pao_Mian_Fan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/129364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/129364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/129364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1107/129364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/129364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/129364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cha A Er Zhong: Pao Mian Fan"
+      },
+      {
+        "type": "Japanese",
+        "title": "茶啊二中泡面番"
+      }
+    ],
+    "title": "Cha A Er Zhong: Pao Mian Fan",
+    "title_english": null,
+    "title_japanese": "茶啊二中泡面番",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 21,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "May 17, 2016 to ?"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19643,
+    "popularity": 24168,
+    "members": 102,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 46864,
+            "type": "anime",
+            "name": "Cha A Er Zhong",
+            "url": "https://myanimelist.net/anime/46864/Cha_A_Er_Zhong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md6177/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD/15498517"
+      }
+    ],
+    "streaming": []
+  }
+}

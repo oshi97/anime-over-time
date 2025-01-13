@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 33756,
+    "url": "https://myanimelist.net/anime/33756/Hen_Xi_You",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/81271.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81271t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81271l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/81271.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81271t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81271l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hen Xi You"
+      },
+      {
+        "type": "Synonym",
+        "title": "Henxi You"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hen Xiyou"
+      },
+      {
+        "type": "Japanese",
+        "title": "狠西游"
+      }
+    ],
+    "title": "Hen Xi You",
+    "title_english": null,
+    "title_japanese": "狠西游",
+    "title_synonyms": [
+      "Henxi You",
+      "Hen Xiyou"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-01T00:00:00+00:00",
+      "to": "2016-11-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": 28,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      "string": "Jun 2016 to Nov 28, 2016"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 20999,
+    "popularity": 14055,
+    "members": 1030,
+    "favorites": 0,
+    "synopsis": "A modern day high school student is accidentally possessed by the spirit of the ancient Monkey King.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 945,
+        "type": "anime",
+        "name": "Vasoon Animation",
+        "url": "https://myanimelist.net/anime/producer/945/Vasoon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47235,
+            "type": "anime",
+            "name": "Hen Xi You 2nd Season",
+            "url": "https://myanimelist.net/anime/47235/Hen_Xi_You_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://v.qq.com/detail/v/vc60va0h2735sfv.html"
+      }
+    ],
+    "streaming": []
+  }
+}

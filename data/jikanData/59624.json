@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 59624,
+    "url": "https://myanimelist.net/anime/59624/Xi_Xing_Ji__Da_Yuan_Hun_Tebie_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/144974.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/144974t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/144974l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1927/144974.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/144974t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/144974l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Xing Ji: Da Yuan Hun Tebie Pian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xixing Ji: Wukong Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "西行纪之大猿魂 特别篇"
+      },
+      {
+        "type": "English",
+        "title": "The Westward: Wukong Specials"
+      }
+    ],
+    "title": "Xi Xing Ji: Da Yuan Hun Tebie Pian",
+    "title_english": "The Westward: Wukong Specials",
+    "title_japanese": "西行纪之大猿魂 特别篇",
+    "title_synonyms": [
+      "Xixing Ji: Wukong Specials"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-08-21T00:00:00+00:00",
+      "to": "2024-08-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": 28,
+          "month": 8,
+          "year": 2024
+        }
+      },
+      "string": "Aug 21, 2024 to Aug 28, 2024"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15260,
+    "popularity": 19971,
+    "members": 276,
+    "favorites": 0,
+    "synopsis": "An independent story of Sun Wukong. It tells the adventure of the great demon Wukong, who dominated the demon road in his previous life, and formed a direct bond with the human girl Guozi. \n\n(Source: DonghuaStream)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38490,
+            "type": "anime",
+            "name": "Xi Xing Ji",
+            "url": "https://myanimelist.net/anime/38490/Xi_Xing_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

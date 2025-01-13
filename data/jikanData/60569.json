@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 60569,
+    "url": "https://myanimelist.net/anime/60569/Zhongguo_Qi_Tan_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1536/147048.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1536/147048t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1536/147048l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1536/147048.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1536/147048t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1536/147048l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhongguo Qi Tan 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "中国奇谭2"
+      },
+      {
+        "type": "English",
+        "title": "Yao-Chinese Folktales 2"
+      }
+    ],
+    "title": "Zhongguo Qi Tan 2",
+    "title_english": "Yao-Chinese Folktales 2",
+    "title_japanese": "中国奇谭2",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 23026,
+    "members": 128,
+    "favorites": 0,
+    "synopsis": "The animated short film collection \"Chinese Tales 2\" is jointly produced by Shanghai Animation Film Studio, Shanghai Film Studio, Bilibili, and Chen Liaoyu Studio. Chen Liaoyu is the chief director. The work brings together 12 directors to create 9 short films with different styles. The second part of the story will enter the world of fireworks. On the basis of continuing \"telling Chinese stories in a Chinese way\", it will focus more on the thinking and discussion of people's self-identity, family relationships, and social relationships, while continuing to show the fantasy imagination in the local context.\n\n(Source: Bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53919,
+            "type": "anime",
+            "name": "Zhongguo Qi Tan",
+            "url": "https://myanimelist.net/anime/53919/Zhongguo_Qi_Tan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md23776068"
+      }
+    ],
+    "streaming": []
+  }
+}

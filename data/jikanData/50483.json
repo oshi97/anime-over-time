@@ -1,0 +1,111 @@
+{
+  "data": {
+    "mal_id": 50483,
+    "url": "https://myanimelist.net/anime/50483/Snowy_Land",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1359/119809.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1359/119809t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1359/119809l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1359/119809.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1359/119809t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1359/119809l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Snowy Land"
+      },
+      {
+        "type": "Japanese",
+        "title": "Snowy Land"
+      }
+    ],
+    "title": "Snowy Land",
+    "title_english": null,
+    "title_japanese": "Snowy Land",
+    "title_synonyms": [],
+    "type": "CM",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-12-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 12,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 21, 2017"
+    },
+    "duration": "32 sec",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21776,
+    "members": 176,
+    "favorites": 0,
+    "synopsis": "A short promo with a Chrismas greeting from Vivaldi Park Ski Resort.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2398,
+        "type": "anime",
+        "name": "VCRWORKS",
+        "url": "https://myanimelist.net/anime/producer/2398/VCRWORKS"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://vcrworks.kr/Snowy-Land"
+      }
+    ],
+    "streaming": []
+  }
+}

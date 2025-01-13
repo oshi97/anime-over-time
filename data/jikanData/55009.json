@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 55009,
+    "url": "https://myanimelist.net/anime/55009/Huyao_Xiao_Hongniang__Wu_Mu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1636/135308.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1636/135308t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1636/135308l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1636/135308.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1636/135308t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1636/135308l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huyao Xiao Hongniang: Wu Mu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fox Spirit Matchmaker 12th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "狐妖小红娘 无暮篇"
+      }
+    ],
+    "title": "Huyao Xiao Hongniang: Wu Mu",
+    "title_english": null,
+    "title_japanese": "狐妖小红娘 无暮篇",
+    "title_synonyms": [
+      "Fox Spirit Matchmaker 12th Season"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-06-24T00:00:00+00:00",
+      "to": "2023-09-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 6,
+          "year": 2023
+        },
+        "to": {
+          "day": 2,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Jun 24, 2023 to Sep 2, 2023"
+    },
+    "duration": "18 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.62,
+    "scored_by": 126,
+    "rank": 6389,
+    "popularity": 14326,
+    "members": 955,
+    "favorites": 1,
+    "synopsis": "The twelfth season of Huyao Xiao Hongniang.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2175,
+        "type": "anime",
+        "name": "Garden Culture",
+        "url": "https://myanimelist.net/anime/producer/2175/Garden_Culture"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48694,
+            "type": "anime",
+            "name": "Huyao Xiao Hongniang: Liang Shenghua",
+            "url": "https://myanimelist.net/anime/48694/Huyao_Xiao_Hongniang__Liang_Shenghua"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59291,
+            "type": "anime",
+            "name": "Huyao Xiao Hongniang: Jing Hua Yuan",
+            "url": "https://myanimelist.net/anime/59291/Huyao_Xiao_Hongniang__Jing_Hua_Yuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/x/cover/0sdnyl7h86atoyt/f0157y2e83y.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 53687,
+    "url": "https://myanimelist.net/anime/53687/AOTU_Xueyuan_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1730/131483.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/131483t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/131483l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1730/131483.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/131483t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/131483l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "AOTU Xueyuan 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "凹凸学园 第二季"
+      }
+    ],
+    "title": "AOTU Xueyuan 2nd Season",
+    "title_english": null,
+    "title_japanese": "凹凸学园 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-23T00:00:00+00:00",
+      "to": "2020-12-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 24,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "string": "Jul 23, 2020 to Dec 24, 2020"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19108,
+    "popularity": 22724,
+    "members": 137,
+    "favorites": 0,
+    "synopsis": "The second season of AOTU Xueyuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2503,
+        "type": "anime",
+        "name": "7doc",
+        "url": "https://myanimelist.net/anime/producer/2503/7doc"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53685,
+            "type": "anime",
+            "name": "AOTU Xueyuan",
+            "url": "https://myanimelist.net/anime/53685/AOTU_Xueyuan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58632,
+            "type": "anime",
+            "name": "AOTU Xueyuan 3rd Season",
+            "url": "https://myanimelist.net/anime/58632/AOTU_Xueyuan_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

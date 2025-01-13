@@ -1,0 +1,194 @@
+{
+  "data": {
+    "mal_id": 35543,
+    "url": "https://myanimelist.net/anime/35543/Turning_Mecard_W_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/85661.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85661t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85661l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/85661.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85661t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85661l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Turning Mecard W Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Turning Mecard Wing Season 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "터닝메카드 Wing 시즌2"
+      },
+      {
+        "type": "Japanese",
+        "title": "터닝메카드 W 시즌2"
+      },
+      {
+        "type": "English",
+        "title": "Turning Mecard W Season 2"
+      }
+    ],
+    "title": "Turning Mecard W Season 2",
+    "title_english": "Turning Mecard W Season 2",
+    "title_japanese": "터닝메카드 W 시즌2",
+    "title_synonyms": [
+      "Turning Mecard Wing Season 2",
+      "터닝메카드 Wing 시즌2"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-03-02T00:00:00+00:00",
+      "to": "2017-08-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 3,
+          "year": 2017
+        },
+        "to": {
+          "day": 24,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Mar 2, 2017 to Aug 24, 2017"
+    },
+    "duration": "28 min per ep",
+    "rating": "PG - Children",
+    "score": 5.99,
+    "scored_by": 170,
+    "rank": 9927,
+    "popularity": 16148,
+    "members": 586,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "17:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 17:00 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35542,
+            "type": "anime",
+            "name": "Turning Mecard W",
+            "url": "https://myanimelist.net/anime/35542/Turning_Mecard_W"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37750,
+            "type": "anime",
+            "name": "Turning Mecard W: Vandyne-ui Bimil",
+            "url": "https://myanimelist.net/anime/37750/Turning_Mecard_W__Vandyne-ui_Bimil"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 37749,
+            "type": "anime",
+            "name": "Turning Mecard R",
+            "url": "https://myanimelist.net/anime/37749/Turning_Mecard_R"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kbs.co.kr/2tv/enter/mecardw2"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13822"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_W"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 39139,
+    "url": "https://myanimelist.net/anime/39139/Hong_Mao_Lan_Tu__Kuaile_Shizi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/98710.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/98710t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/98710l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1710/98710.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1710/98710t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1710/98710l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Mao Lan Tu: Kuaile Shizi"
+      },
+      {
+        "type": "Japanese",
+        "title": "虹猫蓝兔快乐识字"
+      }
+    ],
+    "title": "Hong Mao Lan Tu: Kuaile Shizi",
+    "title_english": null,
+    "title_japanese": "虹猫蓝兔快乐识字",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 80,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-11-26T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 11,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 26, 2014 to ?"
+    },
+    "duration": "17 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21098,
+    "popularity": 22372,
+    "members": 150,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39138,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Ao You Guo Lixian Ji",
+            "url": "https://myanimelist.net/anime/39138/Hong_Mao_Lan_Tu__Ao_You_Guo_Lixian_Ji"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39140,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Qi Xia Waizhuan",
+            "url": "https://myanimelist.net/anime/39140/Hong_Mao_Lan_Tu__Qi_Xia_Waizhuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14153"
+      }
+    ],
+    "streaming": []
+  }
+}

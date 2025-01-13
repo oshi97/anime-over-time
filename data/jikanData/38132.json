@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 38132,
+    "url": "https://myanimelist.net/anime/38132/Zhu_Zhu_Xia__Jiong_Jiong_Wei_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1111/93359.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1111/93359t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1111/93359l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1111/93359.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1111/93359t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1111/93359l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Jiong Jiong Wei Ji"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond Movie 1"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠 囧囧危机"
+      },
+      {
+        "type": "English",
+        "title": "GG Bond & Hatching"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Jiong Jiong Wei Ji",
+    "title_english": "GG Bond & Hatching",
+    "title_japanese": "猪猪侠 囧囧危机",
+    "title_synonyms": [
+      "GG Bond Movie 1"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-06-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 6,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 28, 2012"
+    },
+    "duration": "1 hr 22 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16179,
+    "popularity": 20026,
+    "members": 272,
+    "favorites": 0,
+    "synopsis": "The first ever theatrical G.G. Bond film. G.G. Bond and his friends have to use environmental protection to save the Fairy Tale planet. Their planet is actually an egg, and the greenhouse gasses from pollution are about to let it hatch. If the eggshell breaks, everyone will die.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38122,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Jimu Shijie de Tonghua",
+            "url": "https://myanimelist.net/anime/38122/Zhu_Zhu_Xia__Jimu_Shijie_de_Tonghua"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13462"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

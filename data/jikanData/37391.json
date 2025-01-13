@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 37391,
+    "url": "https://myanimelist.net/anime/37391/Xi_Yangyang_Yu_Hui_Tailang__Fei_Ma_Qi_Yu_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1365/90791.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/90791t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/90791l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1365/90791.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/90791t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/90791l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tailang: Fei Ma Qi Yu Ji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pleasant Goat and Big Big Wolf Movie 6: Meet The Pegasus"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊与灰太狼之飞马奇遇记"
+      },
+      {
+        "type": "English",
+        "title": "Meet The Pegasus"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tailang: Fei Ma Qi Yu Ji",
+    "title_english": "Meet The Pegasus",
+    "title_japanese": "喜羊羊与灰太狼之飞马奇遇记",
+    "title_synonyms": [
+      "Pleasant Goat and Big Big Wolf Movie 6: Meet The Pegasus"
+    ],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 16, 2014"
+    },
+    "duration": "1 hr 23 min",
+    "rating": "G - All Ages",
+    "score": 5.79,
+    "scored_by": 130,
+    "rank": 10979,
+    "popularity": 18554,
+    "members": 366,
+    "favorites": 1,
+    "synopsis": "In fairytales, the handsome prince, with some help from friendly dwarves, always marries the beautiful princess and lives happily ever after with her. This, unfortunately, is not the case for Prince Pegasus. Due to the meddling of Dwarf Pegasus, Prince Pegasus is not only stopped from marrying his princess, but also falls from Pegasus City down to Green Green Pastures! Now, it's up to Pleasant Goat and his friends to help Prince Pegasus return to his home! As always, though, Big Big Wolf is closely following the goats... \n\n(source: YesAsia)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2170,
+        "type": "anime",
+        "name": "Alpha Group Co. Ltd.",
+        "url": "https://myanimelist.net/anime/producer/2170/Alpha_Group_Co_Ltd"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37390,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Xi Qi Yangyang Guo She Nian",
+            "url": "https://myanimelist.net/anime/37390/Xi_Yangyang_Yu_Hui_Tailang__Xi_Qi_Yangyang_Guo_She_Nian"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37392,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Yang Nian Xi Yangyang",
+            "url": "https://myanimelist.net/anime/37392/Xi_Yangyang_Yu_Hui_Tailang__Yang_Nian_Xi_Yangyang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 47572,
+    "url": "https://myanimelist.net/anime/47572/Huang_Doujun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1301/123209.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1301/123209t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1301/123209l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1301/123209.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1301/123209t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1301/123209l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huang Doujun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Huang Dou Jun"
+      },
+      {
+        "type": "Japanese",
+        "title": "黄逗菌"
+      },
+      {
+        "type": "English",
+        "title": "Huang Doujun"
+      }
+    ],
+    "title": "Huang Doujun",
+    "title_english": "Huang Doujun",
+    "title_japanese": "黄逗菌",
+    "title_synonyms": [
+      "Huang Dou Jun"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2021-01-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 22, 2021 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21185,
+    "popularity": 22293,
+    "members": 153,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 47573,
+            "type": "anime",
+            "name": "Huang Doujun Tebie Ban: \"Wang Buliao\"",
+            "url": "https://myanimelist.net/anime/47573/Huang_Doujun_Tebie_Ban__Wang_Buliao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28233828/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%BB%84%E9%80%97%E8%8F%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

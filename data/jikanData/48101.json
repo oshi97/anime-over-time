@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 48101,
+    "url": "https://myanimelist.net/anime/48101/Wo_Shi_Bu_Bai_Chi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1283/118363.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1283/118363t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1283/118363l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1283/118363.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1283/118363t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1283/118363l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo Shi Bu Bai Chi"
+      },
+      {
+        "type": "Japanese",
+        "title": "我是不白吃"
+      }
+    ],
+    "title": "Wo Shi Bu Bai Chi",
+    "title_english": null,
+    "title_japanese": "我是不白吃",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2019-07-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 31, 2019 to ?"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15172,
+    "popularity": 21760,
+    "members": 176,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 50295,
+            "type": "anime",
+            "name": "Bu Bai Chi Hua Shanhai Jing",
+            "url": "https://myanimelist.net/anime/50295/Bu_Bai_Chi_Hua_Shanhai_Jing"
+          },
+          {
+            "mal_id": 59383,
+            "type": "anime",
+            "name": "Bu Bai Chi Gu Shici Man Youji",
+            "url": "https://myanimelist.net/anime/59383/Bu_Bai_Chi_Gu_Shici_Man_Youji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229591"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E4%B8%8D%E7%99%BD%E5%90%83"
+      }
+    ],
+    "streaming": []
+  }
+}

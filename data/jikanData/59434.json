@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 59434,
+    "url": "https://myanimelist.net/anime/59434/Shen_Mu_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/144555.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/144555t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/144555l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1527/144555.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/144555t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/144555l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shen Mu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "神墓 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Tomb of Fallen Gods"
+      }
+    ],
+    "title": "Shen Mu 2nd Season",
+    "title_english": "Tomb of Fallen Gods",
+    "title_japanese": "神墓 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 27,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-08-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 8,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 10, 2024 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 13954,
+    "popularity": 15740,
+    "members": 645,
+    "favorites": 0,
+    "synopsis": "The second season of Shen Mu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2447,
+        "type": "anime",
+        "name": "Youku",
+        "url": "https://myanimelist.net/anime/producer/2447/Youku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2471,
+        "type": "anime",
+        "name": "Wonder Cat Animation",
+        "url": "https://myanimelist.net/anime/producer/2471/Wonder_Cat_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51861,
+            "type": "anime",
+            "name": "Shen Mu",
+            "url": "https://myanimelist.net/anime/51861/Shen_Mu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://weibo.com/u/7759624107"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 51915,
+    "url": "https://myanimelist.net/anime/51915/19_Tian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/124061.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/124061t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/124061l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1610/124061.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/124061t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/124061l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "19 Tian"
+      },
+      {
+        "type": "Synonym",
+        "title": "19 Days"
+      },
+      {
+        "type": "Synonym",
+        "title": "One Day"
+      },
+      {
+        "type": "Japanese",
+        "title": "19天 漫动画"
+      }
+    ],
+    "title": "19 Tian",
+    "title_english": null,
+    "title_japanese": "19天 漫动画",
+    "title_synonyms": [
+      "19 Days",
+      "One Day"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-28T00:00:00+00:00",
+      "to": "2019-04-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 22,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      "string": "Jan 28, 2019 to Apr 22, 2019"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.56,
+    "scored_by": 567,
+    "rank": 6678,
+    "popularity": 10379,
+    "members": 3086,
+    "favorites": 35,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2557,
+        "type": "anime",
+        "name": "Shenfan Animation",
+        "url": "https://myanimelist.net/anime/producer/2557/Shenfan_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 28,
+        "type": "anime",
+        "name": "Boys Love",
+        "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 116312,
+            "type": "manga",
+            "name": "19 Tian",
+            "url": "https://myanimelist.net/manga/116312/19_Tian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md12118629/"
+      }
+    ],
+    "streaming": []
+  }
+}

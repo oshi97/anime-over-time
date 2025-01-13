@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 48003,
+    "url": "https://myanimelist.net/anime/48003/Huayu_Cheng_Xing_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1216/118283.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/118283t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/118283l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1216/118283.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/118283t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/118283l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huayu Cheng Xing 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Huayu Cheng Xing Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "花语程行2"
+      }
+    ],
+    "title": "Huayu Cheng Xing 2",
+    "title_english": null,
+    "title_japanese": "花语程行2",
+    "title_synonyms": [
+      "Huayu Cheng Xing Second Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-15T00:00:00+00:00",
+      "to": "2019-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      "string": "Jul 15, 2019 to 2019"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21215,
+    "popularity": 23711,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48002,
+            "type": "anime",
+            "name": "Huayu Cheng Xing",
+            "url": "https://myanimelist.net/anime/48002/Huayu_Cheng_Xing"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48004,
+            "type": "anime",
+            "name": "Huayu Cheng Xing 3",
+            "url": "https://myanimelist.net/anime/48004/Huayu_Cheng_Xing_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.malimali2.com/voddetail/20035.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E8%8A%B1%E8%AF%AD%E7%A8%8B%E8%A1%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

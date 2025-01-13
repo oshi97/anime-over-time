@@ -1,0 +1,135 @@
+{
+  "data": {
+    "mal_id": 52885,
+    "url": "https://myanimelist.net/anime/52885/Yuryeong_Geukdan_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1238/127306.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/127306t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/127306l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1238/127306.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/127306t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/127306l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuryeong Geukdan PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "유령극단"
+      },
+      {
+        "type": "English",
+        "title": "Ghost Theater PV"
+      }
+    ],
+    "title": "Yuryeong Geukdan PV",
+    "title_english": "Ghost Theater PV",
+    "title_japanese": "유령극단",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 23, 2019"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.68,
+    "scored_by": 110,
+    "rank": null,
+    "popularity": 20814,
+    "members": 230,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Ghost Theater.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 70,
+        "type": "anime",
+        "name": "Performing Arts",
+        "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147467,
+            "type": "manga",
+            "name": "Ghost Theater",
+            "url": "https://myanimelist.net/manga/147467/Ghost_Theater"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

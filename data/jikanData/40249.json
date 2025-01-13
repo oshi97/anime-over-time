@@ -1,0 +1,172 @@
+{
+  "data": {
+    "mal_id": 40249,
+    "url": "https://myanimelist.net/anime/40249/Balala_Xiao_Mo_Xian__Mofa_Hai_Ying_Bao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1463/102588t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1463/102588l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1463/102588.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1463/102588t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1463/102588l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Balala Xiao Mo Xian: Mofa Hai Ying Bao"
+      },
+      {
+        "type": "Synonym",
+        "title": "Balala Little Magic Fairy: Ocean Magic"
+      },
+      {
+        "type": "Japanese",
+        "title": "巴啦啦小魔仙之: 魔法海萤堡"
+      },
+      {
+        "type": "English",
+        "title": "Balala the Fairies: Ocean Magic"
+      }
+    ],
+    "title": "Balala Xiao Mo Xian: Mofa Hai Ying Bao",
+    "title_english": "Balala the Fairies: Ocean Magic",
+    "title_japanese": "巴啦啦小魔仙之: 魔法海萤堡",
+    "title_synonyms": [
+      "Balala Little Magic Fairy: Ocean Magic"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-11-16T00:00:00+00:00",
+      "to": "2018-12-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 11,
+          "year": 2018
+        },
+        "to": {
+          "day": 11,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      "string": "Nov 16, 2018 to Dec 11, 2018"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19289,
+    "popularity": 13082,
+    "members": 1337,
+    "favorites": 5,
+    "synopsis": "In the magical underwater world, there is a mysterious and charming place called Hai Ying Bao. When human girls Ling Haijun and Xia Fan accidentally met the Princess of the Icy Blue City, Nahiya, they transform from ordinary girls into magic fairies.\n\n(Source: Magical Girl Wikia)",
+    "background": "",
+    "season": "fall",
+    "year": 2018,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2170,
+        "type": "anime",
+        "name": "Alpha Group Co. Ltd.",
+        "url": "https://myanimelist.net/anime/producer/2170/Alpha_Group_Co_Ltd"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34669,
+            "type": "anime",
+            "name": "Balala Xiao Mo Xian: Feiyue Cai Ling Bao 2nd Season",
+            "url": "https://myanimelist.net/anime/34669/Balala_Xiao_Mo_Xian__Feiyue_Cai_Ling_Bao_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56129,
+            "type": "anime",
+            "name": "Balala Xiao Mo Xian: Mofa Hai Ying Bao 2nd Season",
+            "url": "https://myanimelist.net/anime/56129/Balala_Xiao_Mo_Xian__Mofa_Hai_Ying_Bao_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://balala.auldey.com/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14638"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Balala_the_Fairies_(series)"
+      }
+    ],
+    "streaming": []
+  }
+}

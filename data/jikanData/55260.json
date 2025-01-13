@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 55260,
+    "url": "https://myanimelist.net/anime/55260/Chunfen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1239/135801.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/135801t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/135801l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1239/135801.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/135801t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/135801l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chunfen"
+      },
+      {
+        "type": "Japanese",
+        "title": "春分"
+      },
+      {
+        "type": "English",
+        "title": "The Loach"
+      }
+    ],
+    "title": "Chunfen",
+    "title_english": "The Loach",
+    "title_japanese": "春分",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2022"
+    },
+    "duration": "7 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19851,
+    "popularity": 25539,
+    "members": 82,
+    "favorites": 0,
+    "synopsis": "A woman is crying out for help to two men, with a child in her arms, but what comes next is mixed with good omen and misfortune, with felicity and fatality.\n\n(Source: Taipei Golden Horse Film Festival)",
+    "background": "Runner-up for Best Animated Short Film at the 59th Golden Horse Awards.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2755,
+        "type": "anime",
+        "name": "Congrong Film",
+        "url": "https://myanimelist.net/anime/producer/2755/Congrong_Film"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 38093,
+    "url": "https://myanimelist.net/anime/38093/Zet_Ranger",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1808/93286.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/93286t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/93286l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1808/93286.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/93286t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/93286l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zet Ranger"
+      },
+      {
+        "type": "Japanese",
+        "title": "제트레인저"
+      },
+      {
+        "type": "English",
+        "title": "Z Rangers"
+      }
+    ],
+    "title": "Zet Ranger",
+    "title_english": "Z Rangers",
+    "title_japanese": "제트레인저",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-02-15T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 2,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 15, 2008 to ?"
+    },
+    "duration": "26 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16043,
+    "popularity": 21083,
+    "members": 213,
+    "favorites": 0,
+    "synopsis": "A new generation of super heroes full of gags and imagination. They can transform together into a a large super hero called Zet Ranger who protects the city against villains. Albeit they're more like troublemakers.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "16:40",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 16:40 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.iconix.co.kr/index.php?mid=icon2_10&document_srl=15500"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14305"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%BD%94%EB%8B%89%EC%8A%A4"
+      }
+    ],
+    "streaming": []
+  }
+}

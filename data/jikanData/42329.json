@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 42329,
+    "url": "https://myanimelist.net/anime/42329/Hei_Mao_Jing_Zhang_2010",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1368/108269.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/108269t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/108269l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1368/108269.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/108269t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/108269l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hei Mao Jing Zhang (2010)"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mr. Black"
+      },
+      {
+        "type": "Japanese",
+        "title": "黑猫警长"
+      },
+      {
+        "type": "English",
+        "title": "Black Cat Detective"
+      }
+    ],
+    "title": "Hei Mao Jing Zhang (2010)",
+    "title_english": "Black Cat Detective",
+    "title_japanese": "黑猫警长",
+    "title_synonyms": [
+      "Mr. Black"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-04-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 23, 2010"
+    },
+    "duration": "1 hr 14 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20950,
+    "popularity": 21161,
+    "members": 209,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 34510,
+            "type": "anime",
+            "name": "Hei Mao Jing Zhang",
+            "url": "https://myanimelist.net/anime/34510/Hei_Mao_Jing_Zhang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

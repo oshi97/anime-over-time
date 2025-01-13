@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 42461,
+    "url": "https://myanimelist.net/anime/42461/Wo_De_San_Ti__Zhang_Bei_Hai_Zhuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/108482.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/108482t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/108482l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1649/108482.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/108482t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/108482l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo De San Ti: Zhang Bei Hai Zhuan"
+      },
+      {
+        "type": "Synonym",
+        "title": "My Three Body Chapter Beihai Biography"
+      },
+      {
+        "type": "Japanese",
+        "title": "我的三体之章北海传"
+      }
+    ],
+    "title": "Wo De San Ti: Zhang Bei Hai Zhuan",
+    "title_english": null,
+    "title_japanese": "我的三体之章北海传",
+    "title_synonyms": [
+      "My Three Body Chapter Beihai Biography"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-21T00:00:00+00:00",
+      "to": "2020-03-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": 10,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      "string": "Jan 21, 2020 to Mar 10, 2020"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15143,
+    "popularity": 22022,
+    "members": 165,
+    "favorites": 4,
+    "synopsis": "The story takes place in the span of the near future to two hundred years later. The civilization of earth was locked by the three bodies with a super technology called Tomoko, and basic research has stalled. However, humans still need to continue to advance to resist the upcoming attack of the three-body, guarding their homes and human civilization. On a broader scale, the three-body civilization and human civilization are both hunters in the dark forest. Carefully protecting themselves and destroying others, struggling for the survival of their civilizations.\n\n(Source: Bilibili)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 59352,
+            "type": "anime",
+            "name": "Wo De San Ti: Luo Ji Zhuan",
+            "url": "https://myanimelist.net/anime/59352/Wo_De_San_Ti__Luo_Ji_Zhuan"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59353,
+            "type": "anime",
+            "name": "Wo De San Ti 4th Season",
+            "url": "https://myanimelist.net/anime/59353/Wo_De_San_Ti_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 168850,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/168850/San_Ti"
+          },
+          {
+            "mal_id": 157372,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/157372/San_Ti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28223066"
+      }
+    ],
+    "streaming": []
+  }
+}

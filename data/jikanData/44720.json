@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 44720,
+    "url": "https://myanimelist.net/anime/44720/Xiao_Yingtao__Youmo_Baodian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1715/124036.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/124036t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/124036l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1715/124036.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/124036t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/124036l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiao Yingtao: Youmo Baodian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xiao Yingtao 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "小樱桃之幽默宝典"
+      }
+    ],
+    "title": "Xiao Yingtao: Youmo Baodian",
+    "title_english": null,
+    "title_japanese": "小樱桃之幽默宝典",
+    "title_synonyms": [
+      "Xiao Yingtao 4th Season"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15491,
+    "popularity": 26033,
+    "members": 75,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44719,
+            "type": "anime",
+            "name": "Xiao Yingtao 3rd Season",
+            "url": "https://myanimelist.net/anime/44719/Xiao_Yingtao_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44721,
+            "type": "anime",
+            "name": "Xiao Yingtao: Wu Gang Chuanqi",
+            "url": "https://myanimelist.net/anime/44721/Xiao_Yingtao__Wu_Gang_Chuanqi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV13x411L7nk?from=search&seid=13361983108620848100"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%B0%8F%E6%A8%B1%E6%A1%83%E4%B9%8B%E5%B9%BD%E9%BB%98%E5%AE%9D%E5%85%B8"
+      }
+    ],
+    "streaming": []
+  }
+}

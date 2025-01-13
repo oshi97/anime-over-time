@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 41503,
+    "url": "https://myanimelist.net/anime/41503/Jintian_Kaishi_Shanyao_Dengchang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1394/106617.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/106617t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/106617l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1394/106617.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/106617t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/106617l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jintian Kaishi Shanyao Dengchang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jintian Kaishi Zuo Mingxing 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jintian Wo Kaishi Zuo Mingxing 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Start to be a star today 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Re:STARS 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "今天开始闪耀登场"
+      },
+      {
+        "type": "English",
+        "title": "Super Star Season 2"
+      }
+    ],
+    "title": "Jintian Kaishi Shanyao Dengchang",
+    "title_english": "Super Star Season 2",
+    "title_japanese": "今天开始闪耀登场",
+    "title_synonyms": [
+      "Jintian Kaishi Zuo Mingxing 2nd Season",
+      "Jintian Wo Kaishi Zuo Mingxing 2",
+      "Start to be a star today 2",
+      "Re:STARS 2"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-30T00:00:00+00:00",
+      "to": "2023-06-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 22,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "string": "Mar 30, 2023 to Jun 22, 2023"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.6,
+    "scored_by": 116,
+    "rank": 6470,
+    "popularity": 13993,
+    "members": 1050,
+    "favorites": 5,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1806,
+        "type": "anime",
+        "name": "iQIYI",
+        "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+      },
+      {
+        "mal_id": 2472,
+        "type": "anime",
+        "name": "High Energy Studio",
+        "url": "https://myanimelist.net/anime/producer/2472/High_Energy_Studio"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2048,
+        "type": "anime",
+        "name": "ASK Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/2048/ASK_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 81,
+        "type": "anime",
+        "name": "Crossdressing",
+        "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+      },
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40969,
+            "type": "anime",
+            "name": "Jintian Kaishi Zuo Mingxing",
+            "url": "https://myanimelist.net/anime/40969/Jintian_Kaishi_Zuo_Mingxing"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_23b4rf82twp.html"
+      }
+    ],
+    "streaming": []
+  }
+}

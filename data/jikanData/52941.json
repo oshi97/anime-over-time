@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 52941,
+    "url": "https://myanimelist.net/anime/52941/Gigi_Goegoe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1797/127586.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/127586t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/127586l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1797/127586.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/127586t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/127586l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gigi Goegoe"
+      },
+      {
+        "type": "Japanese",
+        "title": "기기괴괴"
+      },
+      {
+        "type": "English",
+        "title": "Tales of the Unusual"
+      }
+    ],
+    "title": "Gigi Goegoe",
+    "title_english": "Tales of the Unusual",
+    "title_japanese": "기기괴괴",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": null,
+    "scored_by": null,
+    "rank": 20658,
+    "popularity": 21456,
+    "members": 194,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 119066,
+            "type": "manga",
+            "name": "Tales of the Unusual",
+            "url": "https://myanimelist.net/manga/119066/Tales_of_the_Unusual"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 42737,
+            "type": "anime",
+            "name": "Gigi Goegoe Sunghyungsoo",
+            "url": "https://myanimelist.net/anime/42737/Gigi_Goegoe_Sunghyungsoo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLBnLMwpPO-8f6O-Yz_jHzYP9YBrTEOuit"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EA%B8%B0%EA%B8%B0%EA%B4%B4%EA%B4%B4"
+      }
+    ],
+    "streaming": []
+  }
+}

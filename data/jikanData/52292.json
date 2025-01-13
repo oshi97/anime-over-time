@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 52292,
+    "url": "https://myanimelist.net/anime/52292/Menghuan_Shuyuan_7th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/125094.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/125094t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/125094l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1541/125094.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/125094t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/125094l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Shuyuan 7th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻书院 第七季"
+      },
+      {
+        "type": "English",
+        "title": "Menghuan Shuyuan 7th Season"
+      }
+    ],
+    "title": "Menghuan Shuyuan 7th Season",
+    "title_english": "Menghuan Shuyuan 7th Season",
+    "title_japanese": "梦幻书院 第七季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-06-20T00:00:00+00:00",
+      "to": "2022-09-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 6,
+          "year": 2022
+        },
+        "to": {
+          "day": 5,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Jun 20, 2022 to Sep 5, 2022"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17492,
+    "popularity": 22219,
+    "members": 157,
+    "favorites": 0,
+    "synopsis": "Seventh season of Menghuan Shuyuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 51760,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 6th Season",
+            "url": "https://myanimelist.net/anime/51760/Menghuan_Shuyuan_6th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59468,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 8th Season",
+            "url": "https://myanimelist.net/anime/59468/Menghuan_Shuyuan_8th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 59469,
+            "type": "anime",
+            "name": "Menghuan Shuyuan: Guojia Anquan Pian",
+            "url": "https://myanimelist.net/anime/59469/Menghuan_Shuyuan__Guojia_Anquan_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28338325"
+      }
+    ],
+    "streaming": []
+  }
+}

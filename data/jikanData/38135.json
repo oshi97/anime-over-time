@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 38135,
+    "url": "https://myanimelist.net/anime/38135/Zhu_Zhu_Xia__Fan_Wai_-_Pin_Zhuang_Tegong_Dui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1781/93362.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/93362t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/93362l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1781/93362.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/93362t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/93362l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠 番外篇 拼装特工队"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui",
+    "title_english": null,
+    "title_japanese": "猪猪侠 番外篇 拼装特工队",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-29T00:00:00+00:00",
+      "to": "2017-01-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": 4,
+          "month": 1,
+          "year": 2017
+        }
+      },
+      "string": "Dec 29, 2016 to Jan 4, 2017"
+    },
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16177,
+    "popularity": 20169,
+    "members": 265,
+    "favorites": 0,
+    "synopsis": "The first web-season of G.G. Bond, episodes were later televised on a select few TV channels.\n\nThis season is meant to be more educational than the main series line. Each episode focuses on 1 country as the cast travels the world solving riddles while learning about the culture. And of course, fighting crime while at it.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38140,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji",
+            "url": "https://myanimelist.net/anime/38140/Zhu_Zhu_Xia__Fan_Wai_-_Zhi_Huanqiu_Riji"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38129,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Meng Xiang Shou Wei Zhe",
+            "url": "https://myanimelist.net/anime/38129/Zhu_Zhu_Xia__Meng_Xiang_Shou_Wei_Zhe"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13460"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E7%8C%AA%E4%BE%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "mal_id": 56930,
+    "url": "https://myanimelist.net/anime/56930/Jian_Yu_Feng_Yun_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/139387.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/139387t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/139387l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1159/139387.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/139387t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/139387l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jian Yu Feng Yun 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Jian Yu Chuanqi 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "剑域风云 第三季"
+      },
+      {
+        "type": "English",
+        "title": "The Legend of Sword Domain 3rd Season"
+      }
+    ],
+    "title": "Jian Yu Feng Yun 3rd Season",
+    "title_english": "The Legend of Sword Domain 3rd Season",
+    "title_japanese": "剑域风云 第三季",
+    "title_synonyms": [
+      "Jian Yu Chuanqi 3"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 104,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-10-29T00:00:00+00:00",
+      "to": "2024-10-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 10,
+          "year": 2023
+        },
+        "to": {
+          "day": 14,
+          "month": 10,
+          "year": 2024
+        }
+      },
+      "string": "Oct 29, 2023 to Oct 14, 2024"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.63,
+    "scored_by": 143,
+    "rank": 6305,
+    "popularity": 14853,
+    "members": 817,
+    "favorites": 2,
+    "synopsis": "Third season of Jian Yu Feng Yun.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2447,
+        "type": "anime",
+        "name": "Youku",
+        "url": "https://myanimelist.net/anime/producer/2447/Youku"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2042,
+        "type": "anime",
+        "name": "Ruo Hong Culture",
+        "url": "https://myanimelist.net/anime/producer/2042/Ruo_Hong_Culture"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 54124,
+            "type": "anime",
+            "name": "Jian Yu Feng Yun 2nd Season",
+            "url": "https://myanimelist.net/anime/54124/Jian_Yu_Feng_Yun_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/458928"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/剑域风云/59226579"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/36441312/"
+      }
+    ],
+    "streaming": []
+  }
+}

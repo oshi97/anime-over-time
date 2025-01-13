@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 56334,
+    "url": "https://myanimelist.net/anime/56334/Cha_A_Er_Zhong_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1537/137852.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/137852t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/137852l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1537/137852.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/137852t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/137852l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cha A Er Zhong Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "茶啊二中"
+      },
+      {
+        "type": "English",
+        "title": "Oh My School!"
+      }
+    ],
+    "title": "Cha A Er Zhong Movie",
+    "title_english": "Oh My School!",
+    "title_japanese": "茶啊二中",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-14T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 14, 2023"
+    },
+    "duration": "1 hr 30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19638,
+    "popularity": 23678,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 46864,
+            "type": "anime",
+            "name": "Cha A Er Zhong",
+            "url": "https://myanimelist.net/anime/46864/Cha_A_Er_Zhong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/茶啊二中/58200921"
+      }
+    ],
+    "streaming": []
+  }
+}

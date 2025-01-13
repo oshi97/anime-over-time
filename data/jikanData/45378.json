@@ -1,0 +1,145 @@
+{
+  "data": {
+    "mal_id": 45378,
+    "url": "https://myanimelist.net/anime/45378/Tian_Yanshen_Niu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/122372.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/122372t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/122372l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/122372.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/122372t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/122372l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tian Yanshen Niu"
+      },
+      {
+        "type": "Japanese",
+        "title": "天眼神牛"
+      }
+    ],
+    "title": "Tian Yanshen Niu",
+    "title_english": null,
+    "title_japanese": "天眼神牛",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-11-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 2009 to ?"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 14704,
+    "popularity": 25395,
+    "members": 84,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45379,
+            "type": "anime",
+            "name": "Tian Yanshen Tu",
+            "url": "https://myanimelist.net/anime/45379/Tian_Yanshen_Tu"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 45376,
+            "type": "anime",
+            "name": "Tian Yanshen Hu",
+            "url": "https://myanimelist.net/anime/45376/Tian_Yanshen_Hu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1mx411j74J?from=search&seid=9221572082607699494"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%A4%A9%E7%9C%BC%E7%A5%9E%E7%89%9B/1533699"
+      }
+    ],
+    "streaming": []
+  }
+}

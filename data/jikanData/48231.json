@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 48231,
+    "url": "https://myanimelist.net/anime/48231/Ppalgan_Jajeongeo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1314/114527.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/114527t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/114527l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1314/114527.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/114527t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/114527l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ppalgan Jajeongeo"
+      },
+      {
+        "type": "Japanese",
+        "title": "빨간 자전거"
+      },
+      {
+        "type": "English",
+        "title": "Red Bicycle"
+      }
+    ],
+    "title": "Ppalgan Jajeongeo",
+    "title_english": "Red Bicycle",
+    "title_japanese": "빨간 자전거",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 302,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-22T00:00:00+00:00",
+      "to": "2015-04-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": 3,
+          "month": 4,
+          "year": 2015
+        }
+      },
+      "string": "Jan 22, 2013 to Apr 3, 2015"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18461,
+    "popularity": 20849,
+    "members": 227,
+    "favorites": 0,
+    "synopsis": "Against the backdrop of a rural village with a beautiful landscape, Imhwa-ri, a postman riding a red bicycle, tells the story of our daily life with all of our sadness, joy, pain, and laughter. Let's meet with the postman on a red bicycle!\n\n(Source: YouTube)",
+    "background": "",
+    "season": "winter",
+    "year": 2013,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 122636,
+            "type": "manga",
+            "name": "The Red Bicycle",
+            "url": "https://myanimelist.net/manga/122636/The_Red_Bicycle"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B9%A8%EA%B0%84_%EC%9E%90%EC%A0%84%EA%B1%B0"
+      }
+    ],
+    "streaming": []
+  }
+}

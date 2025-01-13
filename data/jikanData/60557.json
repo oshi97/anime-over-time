@@ -1,0 +1,193 @@
+{
+  "data": {
+    "mal_id": 60557,
+    "url": "https://myanimelist.net/anime/60557/Fanren_Xiu_Xian_Chuan_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/147029.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/147029t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/147029l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1264/147029.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1264/147029t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1264/147029l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fanren Xiu Xian Chuan 4th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Fanren Xiu Xian Chuan Di Si Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "凡人修仙传 第四季"
+      },
+      {
+        "type": "English",
+        "title": "A Record of Mortal's Journey to Immortality Season 4"
+      }
+    ],
+    "title": "Fanren Xiu Xian Chuan 4th Season",
+    "title_english": "A Record of Mortal's Journey to Immortality Season 4",
+    "title_japanese": "凡人修仙传 第四季",
+    "title_synonyms": [
+      "Fanren Xiu Xian Chuan Di Si Ji"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 18, 2025 to ?"
+    },
+    "duration": "20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 16996,
+    "members": 490,
+    "favorites": 2,
+    "synopsis": "Fourth season of Fanren Xiu Xian Chuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2065,
+        "type": "anime",
+        "name": "Original Force",
+        "url": "https://myanimelist.net/anime/producer/2065/Original_Force"
+      },
+      {
+        "mal_id": 2471,
+        "type": "anime",
+        "name": "Wonder Cat Animation",
+        "url": "https://myanimelist.net/anime/producer/2471/Wonder_Cat_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 57067,
+            "type": "anime",
+            "name": "Fanren Xiu Xian Chuan 3rd Season",
+            "url": "https://myanimelist.net/anime/57067/Fanren_Xiu_Xian_Chuan_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 145592,
+            "type": "manga",
+            "name": "Fanren Xiu Xian Chuan",
+            "url": "https://myanimelist.net/manga/145592/Fanren_Xiu_Xian_Chuan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md28223043"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/凡人修仙传/23486425"
+      }
+    ],
+    "streaming": []
+  }
+}

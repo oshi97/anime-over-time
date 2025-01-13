@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 45049,
+    "url": "https://myanimelist.net/anime/45049/Meishi_Da_Maoxian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/128293.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/128293t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/128293l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1203/128293.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/128293t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/128293l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meishi Da Maoxian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kungfood"
+      },
+      {
+        "type": "Synonym",
+        "title": "美食大冒险 第一季：蒸盒号起航"
+      },
+      {
+        "type": "Synonym",
+        "title": "Meishi Da Maoxian: Zheng He Hao Qihang"
+      },
+      {
+        "type": "Japanese",
+        "title": "美食大冒险"
+      },
+      {
+        "type": "English",
+        "title": "Kung Food Season 1"
+      }
+    ],
+    "title": "Meishi Da Maoxian",
+    "title_english": "Kung Food Season 1",
+    "title_japanese": "美食大冒险",
+    "title_synonyms": [
+      "Kungfood",
+      "美食大冒险 第一季：蒸盒号起航",
+      "Meishi Da Maoxian: Zheng He Hao Qihang"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 58,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-02-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 2,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 5, 2014 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17448,
+    "popularity": 25418,
+    "members": 84,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2758,
+        "type": "anime",
+        "name": "Yi Animation",
+        "url": "https://myanimelist.net/anime/producer/2758/Yi_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45050,
+            "type": "anime",
+            "name": "Meishi Da Maoxian: Huore Zhi Lu",
+            "url": "https://myanimelist.net/anime/45050/Meishi_Da_Maoxian__Huore_Zhi_Lu"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 45052,
+            "type": "anime",
+            "name": "Meishi Da Maoxian: Yingxiong Hui",
+            "url": "https://myanimelist.net/anime/45052/Meishi_Da_Maoxian__Yingxiong_Hui"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%BE%8E%E9%A3%9F%E5%A4%A7%E5%86%92%E9%99%A9/8619904"
+      }
+    ],
+    "streaming": []
+  }
+}

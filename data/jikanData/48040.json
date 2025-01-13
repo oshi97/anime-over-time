@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 48040,
+    "url": "https://myanimelist.net/anime/48040/Xingguang_Jiazu_Tebie_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/118313.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/118313t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/118313l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/118313.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/118313t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/118313l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xingguang Jiazu Tebie Pian"
+      },
+      {
+        "type": "Japanese",
+        "title": "星光家族特别篇"
+      }
+    ],
+    "title": "Xingguang Jiazu Tebie Pian",
+    "title_english": null,
+    "title_japanese": "星光家族特别篇",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2021"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15646,
+    "popularity": 25087,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48039,
+            "type": "anime",
+            "name": "Xingguang Jiazu",
+            "url": "https://myanimelist.net/anime/48039/Xingguang_Jiazu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/x/cover/mzc00200vh1hvkb.html"
+      }
+    ],
+    "streaming": []
+  }
+}

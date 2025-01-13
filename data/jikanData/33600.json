@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 33600,
+    "url": "https://myanimelist.net/anime/33600/Menghuan_Xiyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83529.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83529t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83529l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/83529.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83529t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83529l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Xiyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Garena"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻西游之天命之路"
+      }
+    ],
+    "title": "Menghuan Xiyou",
+    "title_english": null,
+    "title_japanese": "梦幻西游之天命之路",
+    "title_synonyms": [
+      "Garena"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-12-26T00:00:00+00:00",
+      "to": "2015-02-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 12,
+          "year": 2014
+        },
+        "to": {
+          "day": 6,
+          "month": 2,
+          "year": 2015
+        }
+      },
+      "string": "Dec 26, 2014 to Feb 6, 2015"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17496,
+    "popularity": 19510,
+    "members": 301,
+    "favorites": 0,
+    "synopsis": "To save the magical realms, a group of warriors rise against a great evil power.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2977,
+        "type": "anime",
+        "name": "BlueArc Animation Studios",
+        "url": "https://myanimelist.net/anime/producer/2977/BlueArc_Animation_Studios"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 33601,
+            "type": "anime",
+            "name": "Menghuan Xiyou 2",
+            "url": "https://myanimelist.net/anime/33601/Menghuan_Xiyou_2"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 50443,
+            "type": "anime",
+            "name": "Shikong Zhi Xi",
+            "url": "https://myanimelist.net/anime/50443/Shikong_Zhi_Xi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

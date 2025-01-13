@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 47646,
+    "url": "https://myanimelist.net/anime/47646/San_Zhi_Songshu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1321/123394.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1321/123394t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/123394l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1321/123394.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1321/123394t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/123394l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "San Zhi Songshu"
+      },
+      {
+        "type": "Japanese",
+        "title": "三只松鼠"
+      },
+      {
+        "type": "English",
+        "title": "Three Squirrels"
+      }
+    ],
+    "title": "San Zhi Songshu",
+    "title_english": "Three Squirrels",
+    "title_japanese": "三只松鼠",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18875,
+    "popularity": 25635,
+    "members": 80,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47647,
+            "type": "anime",
+            "name": "San Zhi Songshu: Songshu Xiao Zhen",
+            "url": "https://myanimelist.net/anime/47647/San_Zhi_Songshu__Songshu_Xiao_Zhen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.youku.com/v_show/id_XMzU0NTEzMDYyMA==.html?spm=a2h0c.8166622.PhoneSokuProgram_2.dtitle&s=9aece5eb32e8460e938f"
+      }
+    ],
+    "streaming": []
+  }
+}

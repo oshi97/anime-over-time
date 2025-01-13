@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 38446,
+    "url": "https://myanimelist.net/anime/38446/Larva_Island",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/95175.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/95175t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/95175l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/95175.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/95175t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/95175l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Larva Island"
+      },
+      {
+        "type": "Synonym",
+        "title": "Larva 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "라바 아일랜드"
+      },
+      {
+        "type": "English",
+        "title": "Larva Island"
+      },
+      {
+        "type": "Spanish",
+        "title": "Larva: Aventuras en la Isla"
+      }
+    ],
+    "title": "Larva Island",
+    "title_english": "Larva Island",
+    "title_japanese": "라바 아일랜드",
+    "title_synonyms": [
+      "Larva 4th Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-10-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 10,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 19, 2018"
+    },
+    "duration": "7 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.94,
+    "scored_by": 395,
+    "rank": 10217,
+    "popularity": 14923,
+    "members": 806,
+    "favorites": 0,
+    "synopsis": "The 4th season of Larva. Stranded on a tropical island, two silly larva buddies find slapstick fun in everything from discovering food to meeting new animal friends. It will be the first Korean Netflix original animation.\n\n(Source: Netflix)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 31674,
+            "type": "anime",
+            "name": "Larva 3rd Season",
+            "url": "https://myanimelist.net/anime/31674/Larva_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39431,
+            "type": "anime",
+            "name": "Larva Island Season 2",
+            "url": "https://myanimelist.net/anime/39431/Larva_Island_Season_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tubaani.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Larva_(TV_series)"
+      }
+    ],
+    "streaming": []
+  }
+}

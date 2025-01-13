@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 55692,
+    "url": "https://myanimelist.net/anime/55692/Feng_Ling_Yu_Xiu_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/136523.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/136523t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/136523l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1634/136523.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/136523t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/136523l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Feng Ling Yu Xiu 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "风灵玉秀 第二章"
+      },
+      {
+        "type": "English",
+        "title": "Soulmate Adventure Season 2"
+      }
+    ],
+    "title": "Feng Ling Yu Xiu 2nd Season",
+    "title_english": "Soulmate Adventure Season 2",
+    "title_japanese": "风灵玉秀 第二章",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-07-02T00:00:00+00:00",
+      "to": "2023-09-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 7,
+          "year": 2023
+        },
+        "to": {
+          "day": 10,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Jul 2, 2023 to Sep 10, 2023"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.6,
+    "scored_by": 452,
+    "rank": 1585,
+    "popularity": 11986,
+    "members": 1908,
+    "favorites": 27,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2601,
+        "type": "anime",
+        "name": "Sunflowers",
+        "url": "https://myanimelist.net/anime/producer/2601/Sunflowers"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36184,
+            "type": "anime",
+            "name": "Feng Ling Yu Xiu",
+            "url": "https://myanimelist.net/anime/36184/Feng_Ling_Yu_Xiu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59391,
+            "type": "anime",
+            "name": "Feng Ling Yu Xiu 2nd Season: Tebie Pian",
+            "url": "https://myanimelist.net/anime/59391/Feng_Ling_Yu_Xiu_2nd_Season__Tebie_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"约定的梦想\" by 括号君"
+      ]
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md6038"
+      }
+    ],
+    "streaming": []
+  }
+}

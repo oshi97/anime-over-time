@@ -1,0 +1,213 @@
+{
+  "data": {
+    "mal_id": 57995,
+    "url": "https://myanimelist.net/anime/57995/Bai_Yao_Pu_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/145774.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/145774t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/145774l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/145774.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/145774t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/145774l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bai Yao Pu 4th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Manual of Hundred Demons"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bai Yao Pu Si Fu Pian"
+      },
+      {
+        "type": "Synonym",
+        "title": "百妖谱 司府篇"
+      },
+      {
+        "type": "Japanese",
+        "title": "百妖谱 第四季"
+      },
+      {
+        "type": "English",
+        "title": "Fairies Albums 4"
+      }
+    ],
+    "title": "Bai Yao Pu 4th Season",
+    "title_english": "Fairies Albums 4",
+    "title_japanese": "百妖谱 第四季",
+    "title_synonyms": [
+      "Manual of Hundred Demons",
+      "Bai Yao Pu Si Fu Pian",
+      "百妖谱 司府篇"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-02-23T00:00:00+00:00",
+      "to": "2024-05-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 2,
+          "year": 2024
+        },
+        "to": {
+          "day": 3,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      "string": "Feb 23, 2024 to May 3, 2024"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.56,
+    "scored_by": 497,
+    "rank": 1695,
+    "popularity": 12240,
+    "members": 1745,
+    "favorites": 18,
+    "synopsis": "Fourth season of Bai Yao Pu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2701,
+        "type": "anime",
+        "name": "CMC Media",
+        "url": "https://myanimelist.net/anime/producer/2701/CMC_Media"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50537,
+            "type": "anime",
+            "name": "Bai Yao Pu 3rd Season",
+            "url": "https://myanimelist.net/anime/50537/Bai_Yao_Pu_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60562,
+            "type": "anime",
+            "name": "Bai Yao Pu 5th Season",
+            "url": "https://myanimelist.net/anime/60562/Bai_Yao_Pu_5th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 172546,
+            "type": "manga",
+            "name": "Bai Yao Pu",
+            "url": "https://myanimelist.net/manga/172546/Bai_Yao_Pu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28339938"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17821"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282996"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 59969,
+    "url": "https://myanimelist.net/anime/59969/Zhen_Hun_Jie_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1288/145787.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/145787t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/145787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1288/145787.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/145787t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/145787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhen Hun Jie 4th Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Requiem Street 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "镇魂街 第四季"
+      },
+      {
+        "type": "English",
+        "title": "Rakshasa Street 4th Season"
+      }
+    ],
+    "title": "Zhen Hun Jie 4th Season",
+    "title_english": "Rakshasa Street 4th Season",
+    "title_japanese": "镇魂街 第四季",
+    "title_synonyms": [
+      "Requiem Street 4th Season"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-11-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 22, 2024 to ?"
+    },
+    "duration": "20 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16080,
+    "popularity": 14828,
+    "members": 827,
+    "favorites": 0,
+    "synopsis": "The fourth season of Zhen Hun Jie.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1268,
+        "type": "anime",
+        "name": "L²Studio",
+        "url": "https://myanimelist.net/anime/producer/1268/L%C2%B2Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55790,
+            "type": "anime",
+            "name": "Zhen Hun Jie 3rd Season",
+            "url": "https://myanimelist.net/anime/55790/Zhen_Hun_Jie_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md22811568"
+      }
+    ],
+    "streaming": []
+  }
+}

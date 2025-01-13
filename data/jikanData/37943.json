@@ -1,0 +1,175 @@
+{
+  "data": {
+    "mal_id": 37943,
+    "url": "https://myanimelist.net/anime/37943/Cocomong_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1489/93097.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1489/93097t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1489/93097l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1489/93097.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1489/93097t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1489/93097l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cocomong 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Reizou Kono Kuni no Cocomong 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Cocomong 2011"
+      },
+      {
+        "type": "Japanese",
+        "title": "코코몽2"
+      },
+      {
+        "type": "English",
+        "title": "Cocomong 2"
+      }
+    ],
+    "title": "Cocomong 2",
+    "title_english": "Cocomong 2",
+    "title_japanese": "코코몽2",
+    "title_synonyms": [
+      "Reizou Kono Kuni no Cocomong 2",
+      "Cocomong 2011"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-03-04T00:00:00+00:00",
+      "to": "2011-08-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2011
+        },
+        "to": {
+          "day": 26,
+          "month": 8,
+          "year": 2011
+        }
+      },
+      "string": "Mar 4, 2011 to Aug 26, 2011"
+    },
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19871,
+    "popularity": 20461,
+    "members": 247,
+    "favorites": 0,
+    "synopsis": "The second season of Cocomong.",
+    "background": "",
+    "season": "spring",
+    "year": 2011,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Fridays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1171,
+        "type": "anime",
+        "name": "Olive Studio",
+        "url": "https://myanimelist.net/anime/producer/1171/Olive_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37941,
+            "type": "anime",
+            "name": "Naengjang-go Nala Cocomong",
+            "url": "https://myanimelist.net/anime/37941/Naengjang-go_Nala_Cocomong"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37945,
+            "type": "anime",
+            "name": "Cocomong 3",
+            "url": "https://myanimelist.net/anime/37945/Cocomong_3"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 37944,
+            "type": "anime",
+            "name": "Hello Cocomong 2",
+            "url": "https://myanimelist.net/anime/37944/Hello_Cocomong_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/cocomong/replay/23/list?courseId=BA0AC000000000144&stepId=01BA0AC000000000144"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14095"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%83%89%EC%9E%A5%EA%B3%A0_%EB%82%98%EB%9D%BC_%EC%BD%94%EC%BD%94%EB%AA%BD"
+      }
+    ],
+    "streaming": []
+  }
+}

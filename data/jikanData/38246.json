@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 38246,
+    "url": "https://myanimelist.net/anime/38246/Tian_Xin_Ge_Ge_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1443/93587.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/93587t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/93587l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1443/93587.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/93587t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/93587l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tian Xin Ge Ge 3rd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tian Xin Ge Ge Di San Bu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ori Princess 3rd season"
+      },
+      {
+        "type": "Japanese",
+        "title": "甜心格格 第三部"
+      }
+    ],
+    "title": "Tian Xin Ge Ge 3rd Season",
+    "title_english": null,
+    "title_japanese": "甜心格格 第三部",
+    "title_synonyms": [
+      "Tian Xin Ge Ge Di San Bu",
+      "Ori Princess 3rd season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-04T00:00:00+00:00",
+      "to": "2017-02-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": 11,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      "string": "Feb 4, 2017 to Feb 11, 2017"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 14700,
+    "popularity": 20725,
+    "members": 234,
+    "favorites": 0,
+    "synopsis": "3rd season of Ori Princess.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 33753,
+            "type": "anime",
+            "name": "Tian Xin Ge Ge 2nd Season",
+            "url": "https://myanimelist.net/anime/33753/Tian_Xin_Ge_Ge_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44460,
+            "type": "anime",
+            "name": "Tian Xin Ge Ge 4th Season",
+            "url": "https://myanimelist.net/anime/44460/Tian_Xin_Ge_Ge_4th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14317"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%94%9C%E5%BF%83%E6%A0%BC%E6%A0%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

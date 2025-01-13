@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 46860,
+    "url": "https://myanimelist.net/anime/46860/Rexue_Sanguo__Luanshi_Tianxia",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1452/122351.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/122351t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/122351l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1452/122351.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/122351t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/122351l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rexue Sanguo: Luanshi Tianxia"
+      },
+      {
+        "type": "Japanese",
+        "title": "热血三国之乱世天下"
+      }
+    ],
+    "title": "Rexue Sanguo: Luanshi Tianxia",
+    "title_english": null,
+    "title_japanese": "热血三国之乱世天下",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 82,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2014
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2014 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18679,
+    "popularity": 25813,
+    "members": 78,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46859,
+            "type": "anime",
+            "name": "Rexue Sanguo: San Gu Maolu",
+            "url": "https://myanimelist.net/anime/46859/Rexue_Sanguo__San_Gu_Maolu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1ux411L75H?from=search&seid=11273137635590111565"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%83%AD%E8%A1%80%E4%B8%89%E5%9B%BD%E4%B9%8B%E4%B9%B1%E4%B8%96%E5%A4%A9%E4%B8%8B"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "mal_id": 50406,
+    "url": "https://myanimelist.net/anime/50406/Yuan_Long_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1416/119528.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/119528t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/119528l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1416/119528.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/119528t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/119528l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuan Long 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "元龙 第三季"
+      },
+      {
+        "type": "English",
+        "title": "Carp Reborn 3rd Season"
+      }
+    ],
+    "title": "Yuan Long 3rd Season",
+    "title_english": "Carp Reborn 3rd Season",
+    "title_japanese": "元龙 第三季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-11-24T00:00:00+00:00",
+      "to": "2023-03-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 11,
+          "year": 2022
+        },
+        "to": {
+          "day": 16,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Nov 24, 2022 to Mar 16, 2023"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.3,
+    "scored_by": 436,
+    "rank": 8302,
+    "popularity": 11944,
+    "members": 1930,
+    "favorites": 16,
+    "synopsis": "Third season of Yuan Long",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1808,
+        "type": "anime",
+        "name": "CG Year",
+        "url": "https://myanimelist.net/anime/producer/1808/CG_Year"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44071,
+            "type": "anime",
+            "name": "Yuan Long 2nd Season",
+            "url": "https://myanimelist.net/anime/44071/Yuan_Long_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28235400/"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/358648"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%85%83%E9%BE%99/23221470"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35679815/"
+      }
+    ],
+    "streaming": []
+  }
+}

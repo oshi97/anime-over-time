@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 50445,
+    "url": "https://myanimelist.net/anime/50445/San_Ti",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/130114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/130114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/130114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/130114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/130114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/130114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "L9cH4JBFIHE",
+      "url": "https://www.youtube.com/watch?v=L9cH4JBFIHE",
+      "embed_url": "https://www.youtube.com/embed/L9cH4JBFIHE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/L9cH4JBFIHE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/L9cH4JBFIHE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/L9cH4JBFIHE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/L9cH4JBFIHE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/L9cH4JBFIHE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "San Ti"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Three-Body Problem"
+      },
+      {
+        "type": "Japanese",
+        "title": "三体"
+      },
+      {
+        "type": "English",
+        "title": "Three-Body"
+      }
+    ],
+    "title": "San Ti",
+    "title_english": "Three-Body",
+    "title_japanese": "三体",
+    "title_synonyms": [
+      "The Three-Body Problem"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-12-10T00:00:00+00:00",
+      "to": "2023-03-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2022
+        },
+        "to": {
+          "day": 25,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "string": "Dec 10, 2022 to Mar 25, 2023"
+    },
+    "duration": "31 min per ep",
+    "rating": null,
+    "score": 6.51,
+    "scored_by": 284,
+    "rank": 7014,
+    "popularity": 14205,
+    "members": 987,
+    "favorites": 3,
+    "synopsis": "The distant butterfly flapped its wings, which begin to change Luo Ji's fate. The Trisolaran fleet will invade in 400 years. Behind the door that opened suddenly was the center of the world—the Wall-Facing Project was launched. At the same time, in the broken room created by Sophon, the broken people are in place one by one...",
+    "background": "This animation is a direct adaptation from novel Liu CiXin which won Chinese Science Fiction Yinhe (\"Galaxy\") Award in 2006 and became the first Asian novel ever to win a Hugo Award for Best Novel in 2015 and was nominated for the Nebula Award for Best Novel.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1958,
+        "type": "anime",
+        "name": "YHKT Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1958/YHKT_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 168850,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/168850/San_Ti"
+          },
+          {
+            "mal_id": 157372,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/157372/San_Ti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"面壁者\" by G.E.M. 鄧紫棋"
+      ]
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md4315402"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/??/23593659"
+      }
+    ],
+    "streaming": []
+  }
+}

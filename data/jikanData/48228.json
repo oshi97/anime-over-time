@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48228,
+    "url": "https://myanimelist.net/anime/48228/Beuledeu_Ibalso",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1019/129258.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/129258t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/129258l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1019/129258.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/129258t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/129258l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Beuledeu Ibalso"
+      },
+      {
+        "type": "Japanese",
+        "title": "브레드 이발소"
+      },
+      {
+        "type": "English",
+        "title": "Bread Barbershop"
+      }
+    ],
+    "title": "Beuledeu Ibalso",
+    "title_english": "Bread Barbershop",
+    "title_japanese": "브레드 이발소",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-03T00:00:00+00:00",
+      "to": "2019-04-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": 4,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      "string": "Jan 3, 2019 to Apr 4, 2019"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19409,
+    "popularity": 21538,
+    "members": 189,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53371,
+            "type": "anime",
+            "name": "Beuledeu Ibalso 2",
+            "url": "https://myanimelist.net/anime/53371/Beuledeu_Ibalso_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EB%93%9C%20%EC%9D%B4%EB%B0%9C%EC%86%8C"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 48235,
+    "url": "https://myanimelist.net/anime/48235/Pucca_3",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/114526.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/114526t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/114526l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/114526.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/114526t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/114526l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pucca 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "뿌까(2018년)"
+      },
+      {
+        "type": "English",
+        "title": "Pucca: Love Recipe"
+      }
+    ],
+    "title": "Pucca 3",
+    "title_english": "Pucca: Love Recipe",
+    "title_japanese": "뿌까(2018년)",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-10T00:00:00+00:00",
+      "to": "2019-10-31T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": 31,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      "string": "Dec 10, 2018 to Oct 31, 2019"
+    },
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.6,
+    "scored_by": 461,
+    "rank": 6479,
+    "popularity": 13105,
+    "members": 1331,
+    "favorites": 5,
+    "synopsis": "Faced with a threat to the survival of her family restaurant, as well as a rival for Garu's heart, Pucca fights for all that she loves.",
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2522,
+        "type": "anime",
+        "name": "VOOZ Character System",
+        "url": "https://myanimelist.net/anime/producer/2522/VOOZ_Character_System"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2667,
+        "type": "anime",
+        "name": "Keyring",
+        "url": "https://myanimelist.net/anime/producer/2667/Keyring"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 10810,
+            "type": "anime",
+            "name": "Pucca (TV) 2nd Season",
+            "url": "https://myanimelist.net/anime/10810/Pucca_TV_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Pucca_episodes#Season_3:_Love_Recipe_(2018%E2%80%9319)"
+      }
+    ],
+    "streaming": []
+  }
+}

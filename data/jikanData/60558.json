@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 60558,
+    "url": "https://myanimelist.net/anime/60558/Huo_Feng_Liao_Yuan_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1134/147030.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1134/147030t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1134/147030l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1134/147030.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1134/147030t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1134/147030l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huo Feng Liao Yuan 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "火凤燎原 第二季"
+      },
+      {
+        "type": "English",
+        "title": "The Ravages of Time"
+      }
+    ],
+    "title": "Huo Feng Liao Yuan 2nd Season",
+    "title_english": "The Ravages of Time",
+    "title_japanese": "火凤燎原 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 16,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 16, 2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 20888,
+    "members": 225,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41220,
+            "type": "anime",
+            "name": "Huo Feng Liao Yuan",
+            "url": "https://myanimelist.net/anime/41220/Huo_Feng_Liao_Yuan"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 1320,
+            "type": "manga",
+            "name": "The Ravages of Time",
+            "url": "https://myanimelist.net/manga/1320/The_Ravages_of_Time"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md23664981"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/火凤燎原/24123487"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "mal_id": 56270,
+    "url": "https://myanimelist.net/anime/56270/Yogoe_Mecard_Wangma",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1372/137761.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/137761t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/137761l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1372/137761.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/137761t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/137761l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yogoe Mecard Wangma"
+      },
+      {
+        "type": "Japanese",
+        "title": "요괴메카드 왕마"
+      },
+      {
+        "type": "English",
+        "title": "Ghost Mecard Wangma"
+      }
+    ],
+    "title": "Yogoe Mecard Wangma",
+    "title_english": "Ghost Mecard Wangma",
+    "title_japanese": "요괴메카드 왕마",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-26T00:00:00+00:00",
+      "to": "2019-10-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 26,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": 21,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      "string": "Aug 26, 2019 to Oct 21, 2019"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15891,
+    "popularity": 21596,
+    "members": 187,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56269,
+            "type": "anime",
+            "name": "Yogoe Mecard",
+            "url": "https://myanimelist.net/anime/56269/Yogoe_Mecard"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://ghostmecard.choirock.com/"
+      },
+      {
+        "name": "Namuwiki",
+        "url": "https://namu.wiki/w/요괴메카드"
+      }
+    ],
+    "streaming": []
+  }
+}

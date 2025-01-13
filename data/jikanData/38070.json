@@ -1,0 +1,214 @@
+{
+  "data": {
+    "mal_id": 38070,
+    "url": "https://myanimelist.net/anime/38070/Kkoma_Bus_Tayo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/93262.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/93262t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/93262l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/93262.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/93262t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/93262l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kkoma Bus Tayo"
+      },
+      {
+        "type": "Japanese",
+        "title": "꼬마버스 타요 1"
+      },
+      {
+        "type": "English",
+        "title": "Tayo the Little Bus Season 1"
+      },
+      {
+        "type": "German",
+        "title": "Tayo Der Kleine Bus Staffel 1"
+      },
+      {
+        "type": "Spanish",
+        "title": "Tayo El Pequeño Autobús"
+      }
+    ],
+    "title": "Kkoma Bus Tayo",
+    "title_english": "Tayo the Little Bus Season 1",
+    "title_japanese": "꼬마버스 타요 1",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-08-23T00:00:00+00:00",
+      "to": "2010-11-16T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 8,
+          "year": 2010
+        },
+        "to": {
+          "day": 16,
+          "month": 11,
+          "year": 2010
+        }
+      },
+      "string": "Aug 23, 2010 to Nov 16, 2010"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": 5.78,
+    "scored_by": 231,
+    "rank": 11022,
+    "popularity": 16589,
+    "members": 532,
+    "favorites": 1,
+    "synopsis": "Tayo the Little Bus is about exciting adventures that are to happen in the metropolitan city where different vehicles live with harmony with one another. Tayo is just starting to learn his route in this busy city centre and on his journey, he is making many new friends. Full of unique characters that capture children's imaginations and fun storylines, the series has a lot to offer.\n\n(Source: Official YouTube channel)",
+    "background": "",
+    "season": "summer",
+    "year": 2010,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Not scheduled once per week"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      },
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 53021,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo Pilot",
+            "url": "https://myanimelist.net/anime/53021/Kkoma_Bus_Tayo_Pilot"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 38071,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo 2",
+            "url": "https://myanimelist.net/anime/38071/Kkoma_Bus_Tayo_2"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 38075,
+            "type": "anime",
+            "name": "Titipo Titipo",
+            "url": "https://myanimelist.net/anime/38075/Titipo_Titipo"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 53374,
+            "type": "anime",
+            "name": "Baby Tayo Dong-yo",
+            "url": "https://myanimelist.net/anime/53374/Baby_Tayo_Dong-yo"
+          },
+          {
+            "mal_id": 53994,
+            "type": "anime",
+            "name": "Baby Tayo Dong-yo 3",
+            "url": "https://myanimelist.net/anime/53994/Baby_Tayo_Dong-yo_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tayobus.com/eng/"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/tayo/main"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCxUZwdsqshu2iLQwdEE6e7Q"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12722"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tayo_the_Little_Bus"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%BC%AC%EB%A7%88%EB%B2%84%EC%8A%A4_%ED%83%80%EC%9A%94"
+      }
+    ],
+    "streaming": []
+  }
+}

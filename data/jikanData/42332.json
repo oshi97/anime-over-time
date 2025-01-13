@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 42332,
+    "url": "https://myanimelist.net/anime/42332/Mengyou_Dunhuang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1611/108293t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1611/108293l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1611/108293.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1611/108293t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1611/108293l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mengyou Dunhuang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Sleepwalking Dunhuang"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦游敦煌"
+      }
+    ],
+    "title": "Mengyou Dunhuang",
+    "title_english": null,
+    "title_japanese": "梦游敦煌",
+    "title_synonyms": [
+      "Sleepwalking Dunhuang"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-06T00:00:00+00:00",
+      "to": "2020-08-03T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 3,
+          "month": 8,
+          "year": 2020
+        }
+      },
+      "string": "Jul 6, 2020 to Aug 3, 2020"
+    },
+    "duration": "3 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17509,
+    "popularity": 20380,
+    "members": 253,
+    "favorites": 0,
+    "synopsis": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2073,
+        "type": "anime",
+        "name": "Painting Dream",
+        "url": "https://myanimelist.net/anime/producer/2073/Painting_Dream"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229272/"
+      }
+    ],
+    "streaming": []
+  }
+}

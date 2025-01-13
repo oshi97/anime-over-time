@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 50810,
+    "url": "https://myanimelist.net/anime/50810/Mao_Zhi_Ming_Episode_55",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/120492.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/120492t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/120492l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1560/120492.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1560/120492t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1560/120492l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mao Zhi Ming Episode 5.5"
+      },
+      {
+        "type": "English",
+        "title": "Cat's Tea Episode 5.5"
+      }
+    ],
+    "title": "Mao Zhi Ming Episode 5.5",
+    "title_english": "Cat's Tea Episode 5.5",
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-11-22T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 11,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 22, 2021"
+    },
+    "duration": "8 min",
+    "rating": "G - All Ages",
+    "score": 6.21,
+    "scored_by": 127,
+    "rank": 8767,
+    "popularity": 18171,
+    "members": 395,
+    "favorites": 1,
+    "synopsis": "A special episode listed as 5.5 on bilibili.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 49380,
+            "type": "anime",
+            "name": "Mao Zhi Ming",
+            "url": "https://myanimelist.net/anime/49380/Mao_Zhi_Ming"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28223054/"
+      }
+    ],
+    "streaming": []
+  }
+}

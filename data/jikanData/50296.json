@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 50296,
+    "url": "https://myanimelist.net/anime/50296/Ashuai_5th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1776/119180.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/119180t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/119180l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1776/119180.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/119180t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/119180l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ashuai 5th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿衰 第五季"
+      }
+    ],
+    "title": "Ashuai 5th Season",
+    "title_english": null,
+    "title_japanese": "阿衰 第五季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 34,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-06-12T00:00:00+00:00",
+      "to": "2021-09-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 6,
+          "year": 2021
+        },
+        "to": {
+          "day": 25,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jun 12, 2021 to Sep 25, 2021"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 19143,
+    "popularity": 22519,
+    "members": 144,
+    "favorites": 0,
+    "synopsis": "Fifth season of Ashuai.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47819,
+            "type": "anime",
+            "name": "Ashuai 4th Season",
+            "url": "https://myanimelist.net/anime/47819/Ashuai_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50297,
+            "type": "anime",
+            "name": "Ashuai 6th Season",
+            "url": "https://myanimelist.net/anime/50297/Ashuai_6th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28234572"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/??/58275942"
+      }
+    ],
+    "streaming": []
+  }
+}

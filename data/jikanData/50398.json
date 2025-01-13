@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 50398,
+    "url": "https://myanimelist.net/anime/50398/Wangu_Jian_Shen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1499/119518.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/119518t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/119518l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1499/119518.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/119518t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/119518l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wangu Jian Shen"
+      },
+      {
+        "type": "Japanese",
+        "title": "万古剑神"
+      },
+      {
+        "type": "English",
+        "title": "Everlasting God Of Sword"
+      }
+    ],
+    "title": "Wangu Jian Shen",
+    "title_english": "Everlasting God Of Sword",
+    "title_japanese": "万古剑神",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 38,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-10-30T00:00:00+00:00",
+      "to": "2022-07-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 10,
+          "year": 2021
+        },
+        "to": {
+          "day": 2,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Oct 30, 2021 to Jul 2, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.43,
+    "scored_by": 230,
+    "rank": 7518,
+    "popularity": 12294,
+    "members": 1717,
+    "favorites": 3,
+    "synopsis": "He stood at the pinnacle of the world. Surpassing all since birth in the art of the sword. But fate has left him crippled moments before reaching the apex. But the story continues and the legend will rise again. \n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2447,
+        "type": "anime",
+        "name": "Youku",
+        "url": "https://myanimelist.net/anime/producer/2447/Youku"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 51726,
+            "type": "anime",
+            "name": "Wangu Jian Shen (2022)",
+            "url": "https://myanimelist.net/anime/51726/Wangu_Jian_Shen_2022"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeBIBJZ5Rc3TrcCWVOK3YVGC"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16957"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%87%E5%8F%A4%E5%89%91%E7%A5%9E/22457585"
+      }
+    ],
+    "streaming": []
+  }
+}

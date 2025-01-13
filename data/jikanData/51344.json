@@ -1,0 +1,115 @@
+{
+  "data": {
+    "mal_id": 51344,
+    "url": "https://myanimelist.net/anime/51344/12-wol",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/121681.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/121681t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/121681l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1421/121681.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/121681t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/121681l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "12-wol"
+      },
+      {
+        "type": "Japanese",
+        "title": "12월"
+      },
+      {
+        "type": "English",
+        "title": "December"
+      }
+    ],
+    "title": "12-wol",
+    "title_english": "December",
+    "title_japanese": "12월",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-12-02T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 2,
+          "month": 12,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 2, 2021"
+    },
+    "duration": "3 min",
+    "rating": "G - All Ages",
+    "score": 5.59,
+    "scored_by": 121,
+    "rank": null,
+    "popularity": 20559,
+    "members": 244,
+    "favorites": 0,
+    "synopsis": "Music video for the song December by Jang Heewon.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://youtu.be/b8PByQafxmc"
+      }
+    ],
+    "streaming": []
+  }
+}

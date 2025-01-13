@@ -1,0 +1,123 @@
+{
+  "data": {
+    "mal_id": 45825,
+    "url": "https://myanimelist.net/anime/45825/Luo_Baobei_Ai_Kexue",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/122999.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/122999t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/122999l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1109/122999.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/122999t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/122999l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Luo Baobei Ai Kexue"
+      },
+      {
+        "type": "Japanese",
+        "title": "洛宝贝爱科学"
+      }
+    ],
+    "title": "Luo Baobei Ai Kexue",
+    "title_english": null,
+    "title_japanese": "洛宝贝爱科学",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 364,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011 to ?"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17223,
+    "popularity": 25001,
+    "members": 90,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 45821,
+            "type": "anime",
+            "name": "Luo Baobei",
+            "url": "https://myanimelist.net/anime/45821/Luo_Baobei"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%B4%9B%E5%AE%9D%E8%B4%9D%E7%88%B1%E7%A7%91%E5%AD%A6"
+      }
+    ],
+    "streaming": []
+  }
+}

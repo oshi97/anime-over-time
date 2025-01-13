@@ -1,0 +1,161 @@
+{
+  "data": {
+    "mal_id": 44071,
+    "url": "https://myanimelist.net/anime/44071/Yuan_Long_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1138/110307.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/110307t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/110307l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1138/110307.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/110307t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/110307l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "k9Kmz-yHPUw",
+      "url": "https://www.youtube.com/watch?v=k9Kmz-yHPUw",
+      "embed_url": "https://www.youtube.com/embed/k9Kmz-yHPUw?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/k9Kmz-yHPUw/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/k9Kmz-yHPUw/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/k9Kmz-yHPUw/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/k9Kmz-yHPUw/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/k9Kmz-yHPUw/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yuan Long 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "元龙 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Carp Reborn 2nd Season"
+      }
+    ],
+    "title": "Yuan Long 2nd Season",
+    "title_english": "Carp Reborn 2nd Season",
+    "title_japanese": "元龙 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-03T00:00:00+00:00",
+      "to": "2021-10-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 2,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "string": "Jul 3, 2021 to Oct 2, 2021"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.03,
+    "scored_by": 1102,
+    "rank": 4236,
+    "popularity": 10606,
+    "members": 2884,
+    "favorites": 11,
+    "synopsis": "Second season of Yuan Long.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1808,
+        "type": "anime",
+        "name": "CG Year",
+        "url": "https://myanimelist.net/anime/producer/1808/CG_Year"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42284,
+            "type": "anime",
+            "name": "Yuan Long",
+            "url": "https://myanimelist.net/anime/42284/Yuan_Long"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 50406,
+            "type": "anime",
+            "name": "Yuan Long 3rd Season",
+            "url": "https://myanimelist.net/anime/50406/Yuan_Long_3rd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230724"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%85%83%E9%BE%99%E7%AC%AC%E4%BA%8C%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

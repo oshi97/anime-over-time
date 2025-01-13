@@ -1,0 +1,159 @@
+{
+  "data": {
+    "mal_id": 58917,
+    "url": "https://myanimelist.net/anime/58917/Haha_Da_Maoxian_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/143257.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/143257t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/143257l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/143257.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/143257t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/143257l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Haha Da Maoxian 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "哈哈大冒险 第三季"
+      },
+      {
+        "type": "English",
+        "title": "The Adventure of Ha Ha 3rd Season"
+      }
+    ],
+    "title": "Haha Da Maoxian 3rd Season",
+    "title_english": "The Adventure of Ha Ha 3rd Season",
+    "title_japanese": "哈哈大冒险 第三季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20815,
+    "popularity": 27688,
+    "members": 46,
+    "favorites": 0,
+    "synopsis": "Third season of Haha Da Maoxian.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 29,
+        "type": "anime",
+        "name": "Space",
+        "url": "https://myanimelist.net/anime/genre/29/Space"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 58916,
+            "type": "anime",
+            "name": "Haha Da Maoxian 2nd Season",
+            "url": "https://myanimelist.net/anime/58916/Haha_Da_Maoxian_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58918,
+            "type": "anime",
+            "name": "Haha Da Maoxian 4th Season",
+            "url": "https://myanimelist.net/anime/58918/Haha_Da_Maoxian_4th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

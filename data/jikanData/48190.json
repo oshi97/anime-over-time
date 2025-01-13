@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 48190,
+    "url": "https://myanimelist.net/anime/48190/Rotary_Park",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1984/125162.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/125162t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/125162l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1984/125162.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/125162t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/125162l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Rotary Park"
+      },
+      {
+        "type": "Synonym",
+        "title": "Loteolipakeu"
+      },
+      {
+        "type": "Japanese",
+        "title": "로터리파크"
+      },
+      {
+        "type": "English",
+        "title": "Rotary Park"
+      }
+    ],
+    "title": "Rotary Park",
+    "title_english": "Rotary Park",
+    "title_japanese": "로터리파크",
+    "title_synonyms": [
+      "Loteolipakeu"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2015"
+    },
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18739,
+    "popularity": 25633,
+    "members": 80,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://therotarypark.com/m/movie.htm"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://namu.wiki/w/%EB%A1%9C%ED%84%B0%EB%A6%AC%ED%8C%8C%ED%81%AC"
+      }
+    ],
+    "streaming": []
+  }
+}

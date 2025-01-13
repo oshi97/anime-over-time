@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 45900,
+    "url": "https://myanimelist.net/anime/45900/Pow_Pow_Xiang_Qian_Chong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1819/127879.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/127879t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/127879l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1819/127879.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/127879t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/127879l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pow Pow Xiang Qian Chong"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pao Paobing"
+      },
+      {
+        "type": "Japanese",
+        "title": "炮炮向前冲"
+      },
+      {
+        "type": "English",
+        "title": "Pow Pow Bing"
+      }
+    ],
+    "title": "Pow Pow Xiang Qian Chong",
+    "title_english": "Pow Pow Bing",
+    "title_japanese": "炮炮向前冲",
+    "title_synonyms": [
+      "Pao Paobing"
+    ],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": "2012-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        }
+      },
+      "string": "Jan 1, 2012 to 2012"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18456,
+    "popularity": 24702,
+    "members": 94,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45901,
+            "type": "anime",
+            "name": "Pow Pow Bing: Pow Pow Xiang Qian Chong",
+            "url": "https://myanimelist.net/anime/45901/Pow_Pow_Bing__Pow_Pow_Xiang_Qian_Chong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.le.com/comic/85161.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%82%AE%E7%82%AE%E5%85%B5/4036236"
+      }
+    ],
+    "streaming": []
+  }
+}

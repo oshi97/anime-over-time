@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 56362,
+    "url": "https://myanimelist.net/anime/56362/Robocar_Poli_5",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1181/137907.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1181/137907t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1181/137907l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1181/137907.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1181/137907t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1181/137907l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Robocar Poli 5"
+      },
+      {
+        "type": "Japanese",
+        "title": "로보카 폴리 시즌5"
+      }
+    ],
+    "title": "Robocar Poli 5",
+    "title_english": null,
+    "title_japanese": "로보카 폴리 시즌5",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-03-04T00:00:00+00:00",
+      "to": "2022-12-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2022
+        },
+        "to": {
+          "day": 13,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "string": "Mar 4, 2022 to Dec 13, 2022"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18703,
+    "popularity": 23462,
+    "members": 117,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2022,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42660,
+            "type": "anime",
+            "name": "Robocar Poli 4",
+            "url": "https://myanimelist.net/anime/42660/Robocar_Poli_4"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://robocarpoli.com/series/season5"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 50443,
+    "url": "https://myanimelist.net/anime/50443/Shikong_Zhi_Xi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1258/119634.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/119634t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/119634l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1258/119634.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/119634t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/119634l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shikong Zhi Xi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Time and Space"
+      },
+      {
+        "type": "Japanese",
+        "title": "时空之隙"
+      },
+      {
+        "type": "English",
+        "title": "Rift"
+      }
+    ],
+    "title": "Shikong Zhi Xi",
+    "title_english": "Rift",
+    "title_japanese": "时空之隙",
+    "title_synonyms": [
+      "Time and Space"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-15T00:00:00+00:00",
+      "to": "2022-07-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 15,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 2,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "string": "Apr 15, 2022 to Jul 2, 2022"
+    },
+    "duration": "21 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.67,
+    "scored_by": 897,
+    "rank": 6071,
+    "popularity": 7948,
+    "members": 6606,
+    "favorites": 44,
+    "synopsis": "Unstable energies of the present world and an alternate realm has ripped open a rift of time and space. It is the only passage where monsters from the alternate realm can enter the world. To stop the invading monsters, a group of chosen people step forward to fight and protect the world at the rift.\n\n(Source: bilibili)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1350,
+        "type": "anime",
+        "name": "B.CMAY PICTURES",
+        "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 33600,
+            "type": "anime",
+            "name": "Menghuan Xiyou",
+            "url": "https://myanimelist.net/anime/33600/Menghuan_Xiyou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28230729"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/????/22919188"
+      }
+    ],
+    "streaming": []
+  }
+}

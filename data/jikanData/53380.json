@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 53380,
+    "url": "https://myanimelist.net/anime/53380/Agisang-eo_Ollie_Tululutulu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/129344.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/129344t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/129344l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/129344.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/129344t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/129344l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Agisang-eo Ollie Tululutulu"
+      },
+      {
+        "type": "Synonym",
+        "title": "Baby Shark Ollie Doo Doo Doo"
+      },
+      {
+        "type": "Japanese",
+        "title": "아기상어 올리 뚜루루뚜루"
+      },
+      {
+        "type": "English",
+        "title": "Baby Shark Brooklyn Doo Doo Doo"
+      }
+    ],
+    "title": "Agisang-eo Ollie Tululutulu",
+    "title_english": "Baby Shark Brooklyn Doo Doo Doo",
+    "title_japanese": "아기상어 올리 뚜루루뚜루",
+    "title_synonyms": [
+      "Baby Shark Ollie Doo Doo Doo"
+    ],
+    "type": "TV",
+    "source": "Music",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-30T00:00:00+00:00",
+      "to": "2020-07-30T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 30,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      "string": "Apr 30, 2020 to Jul 30, 2020"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18991,
+    "popularity": 21703,
+    "members": 181,
+    "favorites": 1,
+    "synopsis": "A massive underwater earthquake sweeps the Shark Family to the opposite side of the ocean! For Baby Shark Brooklyn, who is curious about everything, this new place is an adventure playground. In a new home, Brooklyn makes new friends, and they explore the village together. When they face problems big or small, their different characteristics create synergy and help them overcome hardships.\n\n(Source: Amazon)",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "14:45",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 14:45 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 2851,
+        "type": "anime",
+        "name": "Pinkfong",
+        "url": "https://myanimelist.net/anime/producer/2851/Pinkfong"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 53381,
+            "type": "anime",
+            "name": "Agisang-eo Ollie wa William",
+            "url": "https://myanimelist.net/anime/53381/Agisang-eo_Ollie_wa_William"
+          }
+        ]
+      },
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 40155,
+            "type": "anime",
+            "name": "Tokyo 2020 Olympics CMs",
+            "url": "https://myanimelist.net/anime/40155/Tokyo_2020_Olympics_CMs"
+          },
+          {
+            "mal_id": 54289,
+            "type": "anime",
+            "name": "Pinkfong Cinema Concert: Ujudaetamheom",
+            "url": "https://myanimelist.net/anime/54289/Pinkfong_Cinema_Concert__Ujudaetamheom"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

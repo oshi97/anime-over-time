@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 52877,
+    "url": "https://myanimelist.net/anime/52877/Yeon-ui_Pyeonji_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/127298.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/127298t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/127298l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1740/127298.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/127298t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/127298l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yeon-ui Pyeonji PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "연의 편지"
+      },
+      {
+        "type": "English",
+        "title": "Your Letter PV"
+      }
+    ],
+    "title": "Yeon-ui Pyeonji PV",
+    "title_english": "Your Letter PV",
+    "title_japanese": "연의 편지",
+    "title_synonyms": [],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-03-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 3,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 29, 2021"
+    },
+    "duration": "50 sec",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.91,
+    "scored_by": 132,
+    "rank": null,
+    "popularity": 19368,
+    "members": 310,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Your Letter.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 120875,
+            "type": "manga",
+            "name": "Your Letter",
+            "url": "https://myanimelist.net/manga/120875/Your_Letter"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

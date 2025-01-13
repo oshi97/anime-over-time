@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 53381,
+    "url": "https://myanimelist.net/anime/53381/Agisang-eo_Ollie_wa_William",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1703/129345.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/129345t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/129345l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1703/129345.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/129345t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/129345l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Agisang-eo Ollie wa William"
+      },
+      {
+        "type": "Synonym",
+        "title": "Baby Shark Ollie and William"
+      },
+      {
+        "type": "Japanese",
+        "title": "아기상어 올리와 윌리엄"
+      },
+      {
+        "type": "English",
+        "title": "Baby Shark's Big Show!"
+      }
+    ],
+    "title": "Agisang-eo Ollie wa William",
+    "title_english": "Baby Shark's Big Show!",
+    "title_japanese": "아기상어 올리와 윌리엄",
+    "title_synonyms": [
+      "Baby Shark Ollie and William"
+    ],
+    "type": "TV",
+    "source": "Music",
+    "episodes": 54,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-25T00:00:00+00:00",
+      "to": "2022-08-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": 23,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "string": "Dec 25, 2020 to Aug 23, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18992,
+    "popularity": 21603,
+    "members": 186,
+    "favorites": 0,
+    "synopsis": "Baby Shark's Big Show! follows Baby Shark and his best friend William as they journey on fun-filled comedic adventures in their community of Carnivore Cove, make new friends, and sing original catchy tunes along the way.\n\n(Source: Amazon)",
+    "background": "",
+    "season": "winter",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2851,
+        "type": "anime",
+        "name": "Pinkfong",
+        "url": "https://myanimelist.net/anime/producer/2851/Pinkfong"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 53380,
+            "type": "anime",
+            "name": "Agisang-eo Ollie Tululutulu",
+            "url": "https://myanimelist.net/anime/53380/Agisang-eo_Ollie_Tululutulu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://babyshark.tv/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@BabyShark_Korean"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4_%EC%98%AC%EB%A6%AC%EC%99%80_%EC%9C%8C%EB%A6%AC%EC%97%84"
+      }
+    ],
+    "streaming": []
+  }
+}

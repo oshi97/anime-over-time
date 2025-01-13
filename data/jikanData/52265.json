@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 52265,
+    "url": "https://myanimelist.net/anime/52265/Chong_Chu_Diqiu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1219/124885.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1219/124885t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1219/124885l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1219/124885.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1219/124885t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1219/124885l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chong Chu Diqiu"
+      },
+      {
+        "type": "Japanese",
+        "title": "冲出地球"
+      },
+      {
+        "type": "English",
+        "title": "Rainbow Sea Fly High"
+      }
+    ],
+    "title": "Chong Chu Diqiu",
+    "title_english": "Rainbow Sea Fly High",
+    "title_japanese": "冲出地球",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 16, 2022"
+    },
+    "duration": "1 hr 40 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19803,
+    "popularity": 15890,
+    "members": 621,
+    "favorites": 3,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 33630,
+            "type": "anime",
+            "name": "Xing You Ji",
+            "url": "https://myanimelist.net/anime/33630/Xing_You_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"Qing Daizhe Langman Yuanhang (请带着浪漫远航)\" by Zhou Shen (周深)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://m.weibo.cn/u/7600759802?jumpfrom=weibocom"
+      }
+    ],
+    "streaming": []
+  }
+}

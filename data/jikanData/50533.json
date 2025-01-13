@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 50533,
+    "url": "https://myanimelist.net/anime/50533/We",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1372/119935.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/119935t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/119935l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1372/119935.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/119935t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/119935l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "We"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hanhwa Eagles"
+      },
+      {
+        "type": "Japanese",
+        "title": "We"
+      }
+    ],
+    "title": "We",
+    "title_english": null,
+    "title_japanese": "We",
+    "title_synonyms": [
+      "Hanhwa Eagles"
+    ],
+    "type": "PV",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-08-05T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 8,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 5, 2019"
+    },
+    "duration": "1 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 21258,
+    "members": 204,
+    "favorites": 0,
+    "synopsis": "The Hanwha Eagles Campaign was created with the hope to make children from multicultural families can enjoy baseball without prejudice.\n\n(Source: Official Website)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2398,
+        "type": "anime",
+        "name": "VCRWORKS",
+        "url": "https://myanimelist.net/anime/producer/2398/VCRWORKS"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 30,
+        "type": "anime",
+        "name": "Sports",
+        "url": "https://myanimelist.net/anime/genre/30/Sports"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://vcrworks.kr/Hanhwa-Eagles"
+      }
+    ],
+    "streaming": []
+  }
+}

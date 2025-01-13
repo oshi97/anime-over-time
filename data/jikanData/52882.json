@@ -1,0 +1,154 @@
+{
+  "data": {
+    "mal_id": 52882,
+    "url": "https://myanimelist.net/anime/52882/Teosbatbu_Sageonilji_PV",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1550/127303.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1550/127303t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1550/127303l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1550/127303.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1550/127303t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1550/127303l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Teosbatbu Sageonilji PV"
+      },
+      {
+        "type": "Synonym",
+        "title": "Farming Club Case Diary PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "텃밭부 사건일지"
+      },
+      {
+        "type": "English",
+        "title": "Garden Club Detective Squad PV"
+      }
+    ],
+    "title": "Teosbatbu Sageonilji PV",
+    "title_english": "Garden Club Detective Squad PV",
+    "title_japanese": "텃밭부 사건일지",
+    "title_synonyms": [
+      "Farming Club Case Diary PV"
+    ],
+    "type": "PV",
+    "source": "Web manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-02-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 2,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 11, 2020"
+    },
+    "duration": "1 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.84,
+    "scored_by": 164,
+    "rank": null,
+    "popularity": 19425,
+    "members": 306,
+    "favorites": 0,
+    "synopsis": "Promotional video for the Naver Webtoon manhwa Garden Club Detective Squad.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2125,
+        "type": "anime",
+        "name": "LICO",
+        "url": "https://myanimelist.net/anime/producer/2125/LICO"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      },
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 147669,
+            "type": "manga",
+            "name": "Garden Club Detective Squad",
+            "url": "https://myanimelist.net/manga/147669/Garden_Club_Detective_Squad"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 45394,
+    "url": "https://myanimelist.net/anime/45394/AU__De_Fannao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/122389.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/122389t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/122389l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1287/122389.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/122389t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/122389l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "AU: De Fannao"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿优的烦恼"
+      }
+    ],
+    "title": "AU: De Fannao",
+    "title_english": null,
+    "title_japanese": "阿优的烦恼",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Mixed media",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19165,
+    "popularity": 24509,
+    "members": 97,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45393,
+            "type": "anime",
+            "name": "AU: Shen Qihuan Jing",
+            "url": "https://myanimelist.net/anime/45393/AU__Shen_Qihuan_Jing"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45395,
+            "type": "anime",
+            "name": "AU: Tong Qu Xilie",
+            "url": "https://myanimelist.net/anime/45395/AU__Tong_Qu_Xilie"
+          },
+          {
+            "mal_id": 45400,
+            "type": "anime",
+            "name": "AU: De Fannao 2nd Season",
+            "url": "https://myanimelist.net/anime/45400/AU__De_Fannao_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.youku.com/v_show/id_XMzQ2ODU0NDYyOA==.html?spm=a2h0c.8166622.PhoneSokuProgram_3.dtitle&s=7c47c027fe14470f9d1c"
+      }
+    ],
+    "streaming": []
+  }
+}

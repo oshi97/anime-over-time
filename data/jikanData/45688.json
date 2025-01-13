@@ -1,0 +1,131 @@
+{
+  "data": {
+    "mal_id": 45688,
+    "url": "https://myanimelist.net/anime/45688/Zhonghua_Dizi_Gui",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/115348.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/115348t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/115348l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1085/115348.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/115348t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/115348l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhonghua Dizi Gui"
+      },
+      {
+        "type": "Japanese",
+        "title": "中华弟子规"
+      },
+      {
+        "type": "English",
+        "title": "The Chinese Standards"
+      }
+    ],
+    "title": "Zhonghua Dizi Gui",
+    "title_english": "The Chinese Standards",
+    "title_japanese": "中华弟子规",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Book",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011 to ?"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16137,
+    "popularity": 24290,
+    "members": 100,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47058,
+            "type": "anime",
+            "name": "Zhonghua Dizi Gui 2nd Season",
+            "url": "https://myanimelist.net/anime/47058/Zhonghua_Dizi_Gui_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV15t411Q7qX?from=search&seid=16671907825686786088"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/22859685/"
+      }
+    ],
+    "streaming": []
+  }
+}

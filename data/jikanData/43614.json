@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 43614,
+    "url": "https://myanimelist.net/anime/43614/Lata_Dawang_Qiyu_Ji_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1893/118457.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/118457t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/118457l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1893/118457.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/118457t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/118457l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lata Dawang Qiyu Ji (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "邋遢大王奇遇记"
+      },
+      {
+        "type": "English",
+        "title": "Slovenly Boy's Adventure"
+      }
+    ],
+    "title": "Lata Dawang Qiyu Ji (Movie)",
+    "title_english": "Slovenly Boy's Adventure",
+    "title_japanese": "邋遢大王奇遇记",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-08-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 8,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 17, 2012"
+    },
+    "duration": "1 hr 22 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17089,
+    "popularity": 23259,
+    "members": 121,
+    "favorites": 0,
+    "synopsis": "Movie version of Lata Dawang Qiyu Ji.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 43613,
+            "type": "anime",
+            "name": "Lata Dawang Qiyu Ji",
+            "url": "https://myanimelist.net/anime/43613/Lata_Dawang_Qiyu_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/11502154/"
+      }
+    ],
+    "streaming": []
+  }
+}

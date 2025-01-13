@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 42331,
+    "url": "https://myanimelist.net/anime/42331/Renlei_Bowuguan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/108296t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/108296l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1604/108296.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/108296t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/108296l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Renlei Bowuguan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Museum of Humanity"
+      },
+      {
+        "type": "Japanese",
+        "title": "人类博物馆"
+      }
+    ],
+    "title": "Renlei Bowuguan",
+    "title_english": null,
+    "title_japanese": "人类博物馆",
+    "title_synonyms": [
+      "Museum of Humanity"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-25T00:00:00+00:00",
+      "to": "2020-11-10T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": 10,
+          "month": 11,
+          "year": 2020
+        }
+      },
+      "string": "Aug 25, 2020 to Nov 10, 2020"
+    },
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18660,
+    "popularity": 17089,
+    "members": 481,
+    "favorites": 0,
+    "synopsis": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1325,
+        "type": "anime",
+        "name": "Haoliners Animation League",
+        "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation_League"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229285/"
+      }
+    ],
+    "streaming": []
+  }
+}

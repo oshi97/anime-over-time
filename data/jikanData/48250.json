@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 48250,
+    "url": "https://myanimelist.net/anime/48250/Pororo_Donghwanala",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1465/114524.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/114524t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/114524l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1465/114524.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/114524t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/114524l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pororo Donghwanala"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ppololo Donghwanala"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bedtime Story for Kids"
+      },
+      {
+        "type": "Japanese",
+        "title": "뽀로로 동화나라"
+      },
+      {
+        "type": "English",
+        "title": "Pororo Fairy Tale Story"
+      }
+    ],
+    "title": "Pororo Donghwanala",
+    "title_english": "Pororo Fairy Tale Story",
+    "title_japanese": "뽀로로 동화나라",
+    "title_synonyms": [
+      "Ppololo Donghwanala",
+      "Bedtime Story for Kids"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-08-24T00:00:00+00:00",
+      "to": "2020-09-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 8,
+          "year": 2020
+        },
+        "to": {
+          "day": 22,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      "string": "Aug 24, 2020 to Sep 22, 2020"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18430,
+    "popularity": 18880,
+    "members": 341,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 6523,
+            "type": "anime",
+            "name": "Porong Porong Pororo",
+            "url": "https://myanimelist.net/anime/6523/Porong_Porong_Pororo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLawdY97HdndSPGHmnH359uo93hwz1O9Zl"
+      }
+    ],
+    "streaming": []
+  }
+}

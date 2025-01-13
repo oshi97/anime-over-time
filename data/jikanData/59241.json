@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 59241,
+    "url": "https://myanimelist.net/anime/59241/Luo_Fanchen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1787/144095.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1787/144095t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1787/144095l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1787/144095.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1787/144095t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1787/144095l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Luo Fanchen"
+      },
+      {
+        "type": "Japanese",
+        "title": "落凡尘"
+      },
+      {
+        "type": "English",
+        "title": "Fall Into the Mortal World"
+      }
+    ],
+    "title": "Luo Fanchen",
+    "title_english": "Fall Into the Mortal World",
+    "title_japanese": "落凡尘",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-06-18T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 6,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jun 18, 2020"
+    },
+    "duration": "6 min",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17227,
+    "popularity": 26450,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 59237,
+            "type": "anime",
+            "name": "Luo Fanchen (Movie)",
+            "url": "https://myanimelist.net/anime/59237/Luo_Fanchen_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35135493/"
+      }
+    ],
+    "streaming": []
+  }
+}

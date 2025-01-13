@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 60545,
+    "url": "https://myanimelist.net/anime/60545/Xue_Wang_Zhi_Qihuan_Sha_Zhou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1455/147003.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/147003t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/147003l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1455/147003.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/147003t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/147003l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xue Wang Zhi Qihuan Sha Zhou"
+      },
+      {
+        "type": "Japanese",
+        "title": "雪王之奇幻沙州"
+      }
+    ],
+    "title": "Xue Wang Zhi Qihuan Sha Zhou",
+    "title_english": null,
+    "title_japanese": "雪王之奇幻沙州",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-12-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 12,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 21, 2024 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15764,
+    "popularity": 26286,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56486,
+            "type": "anime",
+            "name": "Xue Wang Jiadao",
+            "url": "https://myanimelist.net/anime/56486/Xue_Wang_Jiadao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md23828401"
+      }
+    ],
+    "streaming": []
+  }
+}

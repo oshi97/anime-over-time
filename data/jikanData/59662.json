@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 59662,
+    "url": "https://myanimelist.net/anime/59662/Long_Zu_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1577/147273.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/147273t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/147273l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1577/147273.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/147273t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/147273l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Long Zu Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "龍族 2期"
+      },
+      {
+        "type": "English",
+        "title": "Dragon Raja Season 2"
+      }
+    ],
+    "title": "Long Zu Season 2",
+    "title_english": "Dragon Raja Season 2",
+    "title_japanese": "龍族 2期",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2025 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 9783,
+    "members": 3728,
+    "favorites": 9,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44408,
+            "type": "anime",
+            "name": "Long Zu",
+            "url": "https://myanimelist.net/anime/44408/Long_Zu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

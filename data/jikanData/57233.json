@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 57233,
+    "url": "https://myanimelist.net/anime/57233/Jiaonang_Jihua_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/139770.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/139770t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/139770l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/139770.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/139770t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/139770l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jiaonang Jihua 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "胶囊计划 第二季"
+      },
+      {
+        "type": "English",
+        "title": "Capsules 2nd Season"
+      }
+    ],
+    "title": "Jiaonang Jihua 2",
+    "title_english": "Capsules 2nd Season",
+    "title_japanese": "胶囊计划 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-12-05T00:00:00+00:00",
+      "to": "2023-12-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 12,
+          "year": 2023
+        },
+        "to": {
+          "day": 28,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      "string": "Dec 5, 2023 to Dec 28, 2023"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16303,
+    "popularity": 21692,
+    "members": 181,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 50458,
+            "type": "anime",
+            "name": "Jiaonang Jihua",
+            "url": "https://myanimelist.net/anime/50458/Jiaonang_Jihua"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 60442,
+            "type": "anime",
+            "name": "Jiaonang Jihua: Yingxiong",
+            "url": "https://myanimelist.net/anime/60442/Jiaonang_Jihua__Yingxiong"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md21120401"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/subject/406466"
+      }
+    ],
+    "streaming": []
+  }
+}

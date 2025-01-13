@@ -1,0 +1,162 @@
+{
+  "data": {
+    "mal_id": 58555,
+    "url": "https://myanimelist.net/anime/58555/You_Shou_Yan_3rd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/142342.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/142342t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/142342l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1102/142342.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/142342t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/142342l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "You Shou Yan 3rd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "有兽焉 第三季"
+      },
+      {
+        "type": "English",
+        "title": "Fabulous Beasts 3rd Season"
+      }
+    ],
+    "title": "You Shou Yan 3rd Season",
+    "title_english": "Fabulous Beasts 3rd Season",
+    "title_japanese": "有兽焉 第三季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-05-17T00:00:00+00:00",
+      "to": "2024-07-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 5,
+          "year": 2024
+        },
+        "to": {
+          "day": 26,
+          "month": 7,
+          "year": 2024
+        }
+      },
+      "string": "May 17, 2024 to Jul 26, 2024"
+    },
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.57,
+    "scored_by": 190,
+    "rank": 1669,
+    "popularity": 17243,
+    "members": 467,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2076,
+        "type": "anime",
+        "name": "Fenz",
+        "url": "https://myanimelist.net/anime/producer/2076/Fenz"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 55821,
+            "type": "anime",
+            "name": "You Shou Yan 2nd Season",
+            "url": "https://myanimelist.net/anime/55821/You_Shou_Yan_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59385,
+            "type": "anime",
+            "name": "You Shou Yan 4th Season",
+            "url": "https://myanimelist.net/anime/59385/You_Shou_Yan_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 159325,
+            "type": "manga",
+            "name": "You Shou Yan",
+            "url": "https://myanimelist.net/manga/159325/You_Shou_Yan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md28235647"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "mal_id": 40092,
+    "url": "https://myanimelist.net/anime/40092/Xiao_Hua_Xian_3rd_Season__Shou_Hu_Tian_Shi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/102006.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/102006t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/102006l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1967/102006.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/102006t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/102006l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiao Hua Xian 3rd Season: Shou Hu Tian Shi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Flower Angel 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "小花仙 第3季 守护天使"
+      }
+    ],
+    "title": "Xiao Hua Xian 3rd Season: Shou Hu Tian Shi",
+    "title_english": null,
+    "title_japanese": "小花仙 第3季 守护天使",
+    "title_synonyms": [
+      "Flower Angel 3"
+    ],
+    "type": "TV",
+    "source": "Game",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-04-07T00:00:00+00:00",
+      "to": "2017-08-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2017
+        },
+        "to": {
+          "day": 18,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      "string": "Apr 7, 2017 to Aug 18, 2017"
+    },
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15376,
+    "popularity": 18750,
+    "members": 350,
+    "favorites": 0,
+    "synopsis": "Third season of Xiao Hua Xian.",
+    "background": "",
+    "season": "spring",
+    "year": 2017,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2075,
+        "type": "anime",
+        "name": "Taomee",
+        "url": "https://myanimelist.net/anime/producer/2075/Taomee"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40091,
+            "type": "anime",
+            "name": "Xiao Hua Xian 2nd Season",
+            "url": "https://myanimelist.net/anime/40091/Xiao_Hua_Xian_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42372,
+            "type": "anime",
+            "name": "Xiao Hua Xian 4th Season: Shou Hu Tian Shi 2",
+            "url": "https://myanimelist.net/anime/42372/Xiao_Hua_Xian_4th_Season__Shou_Hu_Tian_Shi_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/8/8fuqkqbgzvxcdo1.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13710"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%B0%8F%E8%8A%B1%E4%BB%99%E7%AC%AC%E4%B8%89%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

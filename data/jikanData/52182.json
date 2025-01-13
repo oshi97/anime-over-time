@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 52182,
+    "url": "https://myanimelist.net/anime/52182/Shaonian_Jinyiwei_2nd_Season_Xuzhang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/124692.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/124692t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/124692l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/124692.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1644/124692t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1644/124692l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shaonian Jinyiwei 2nd Season Xuzhang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shaonian Jinyiwei Di Er Ji Xuzhang"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Young Imperial Guards 2nd Season Prologue"
+      },
+      {
+        "type": "Japanese",
+        "title": "少年锦衣卫 第二季序章"
+      }
+    ],
+    "title": "Shaonian Jinyiwei 2nd Season Xuzhang",
+    "title_english": null,
+    "title_japanese": "少年锦衣卫 第二季序章",
+    "title_synonyms": [
+      "Shaonian Jinyiwei Di Er Ji Xuzhang",
+      "The Young Imperial Guards 2nd Season Prologue"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-09-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 9,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 28, 2017"
+    },
+    "duration": "15 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 13906,
+    "popularity": 22741,
+    "members": 136,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 36644,
+            "type": "anime",
+            "name": "Shaonian Jinyiwei",
+            "url": "https://myanimelist.net/anime/36644/Shaonian_Jinyiwei"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 37152,
+            "type": "anime",
+            "name": "Shaonian Jinyiwei 2nd Season",
+            "url": "https://myanimelist.net/anime/37152/Shaonian_Jinyiwei_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13820"
+      }
+    ],
+    "streaming": []
+  }
+}

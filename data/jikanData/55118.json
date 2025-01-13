@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 55118,
+    "url": "https://myanimelist.net/anime/55118/Gon_de_Hanta_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1500/135523.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1500/135523t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1500/135523l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1500/135523.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1500/135523t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1500/135523l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gon de Hanta 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "Gon的旱獭 第二季"
+      }
+    ],
+    "title": "Gon de Hanta 2nd Season",
+    "title_english": null,
+    "title_japanese": "Gon的旱獭 第二季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-04-17T00:00:00+00:00",
+      "to": "2018-09-04T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 4,
+          "year": 2018
+        },
+        "to": {
+          "day": 4,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      "string": "Apr 17, 2018 to Sep 4, 2018"
+    },
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20690,
+    "popularity": 24853,
+    "members": 92,
+    "favorites": 0,
+    "synopsis": "The second season of Gon de Hanta.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47436,
+            "type": "anime",
+            "name": "Gon de Hanta",
+            "url": "https://myanimelist.net/anime/47436/Gon_de_Hanta"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55119,
+            "type": "anime",
+            "name": "Gon de Hanta 3rd Season",
+            "url": "https://myanimelist.net/anime/55119/Gon_de_Hanta_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 55120,
+            "type": "anime",
+            "name": "Gon de Hanta 2nd Season Special",
+            "url": "https://myanimelist.net/anime/55120/Gon_de_Hanta_2nd_Season_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

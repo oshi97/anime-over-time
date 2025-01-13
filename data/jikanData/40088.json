@@ -1,0 +1,166 @@
+{
+  "data": {
+    "mal_id": 40088,
+    "url": "https://myanimelist.net/anime/40088/Nusheng_Sushe_Richang_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1204/102000.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1204/102000t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1204/102000l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1204/102000.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1204/102000t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1204/102000l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nusheng Sushe Richang 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Nu Sheng Su She Ri Chang 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "女生宿舍日常 第2季"
+      },
+      {
+        "type": "English",
+        "title": "Girls Dorm Season 2"
+      }
+    ],
+    "title": "Nusheng Sushe Richang 2nd Season",
+    "title_english": "Girls Dorm Season 2",
+    "title_japanese": "女生宿舍日常 第2季",
+    "title_synonyms": [
+      "Nu Sheng Su She Ri Chang 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-10-21T00:00:00+00:00",
+      "to": "2018-01-02T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 10,
+          "year": 2017
+        },
+        "to": {
+          "day": 2,
+          "month": 1,
+          "year": 2018
+        }
+      },
+      "string": "Oct 21, 2017 to Jan 2, 2018"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 18074,
+    "popularity": 20898,
+    "members": 224,
+    "favorites": 0,
+    "synopsis": "Second season of Nusheng Sushe Richang.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2802,
+        "type": "anime",
+        "name": "Yudubai Animation",
+        "url": "https://myanimelist.net/anime/producer/2802/Yudubai_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 23,
+        "type": "anime",
+        "name": "School",
+        "url": "https://myanimelist.net/anime/genre/23/School"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37927,
+            "type": "anime",
+            "name": "Nusheng Sushe Richang",
+            "url": "https://myanimelist.net/anime/37927/Nusheng_Sushe_Richang"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47712,
+            "type": "anime",
+            "name": "Sushe Bu Richang",
+            "url": "https://myanimelist.net/anime/47712/Sushe_Bu_Richang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md7092"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13818"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/228331"
+      }
+    ],
+    "streaming": []
+  }
+}

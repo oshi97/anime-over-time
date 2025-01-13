@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 42969,
+    "url": "https://myanimelist.net/anime/42969/Menghuan_Shuyuan_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/109452t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/109452l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/109452.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/109452t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/109452l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Shuyuan 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻书院 第四季"
+      }
+    ],
+    "title": "Menghuan Shuyuan 4th Season",
+    "title_english": null,
+    "title_japanese": "梦幻书院 第四季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-10-12T00:00:00+00:00",
+      "to": "2021-01-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2020
+        },
+        "to": {
+          "day": 11,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Oct 12, 2020 to Jan 11, 2021"
+    },
+    "duration": "2 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17491,
+    "popularity": 20764,
+    "members": 232,
+    "favorites": 0,
+    "synopsis": "Fourth season of Menghuan Shuyuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2073,
+        "type": "anime",
+        "name": "Painting Dream",
+        "url": "https://myanimelist.net/anime/producer/2073/Painting_Dream"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42448,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 3rd Season",
+            "url": "https://myanimelist.net/anime/42448/Menghuan_Shuyuan_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51759,
+            "type": "anime",
+            "name": "Menghuan Shuyuan: Kexue Xiao Jizhe",
+            "url": "https://myanimelist.net/anime/51759/Menghuan_Shuyuan__Kexue_Xiao_Jizhe"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 51758,
+            "type": "anime",
+            "name": "Menghuan Shuyuan: Huxi Jiankang Kepu",
+            "url": "https://myanimelist.net/anime/51758/Menghuan_Shuyuan__Huxi_Jiankang_Kepu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229996/"
+      }
+    ],
+    "streaming": []
+  }
+}

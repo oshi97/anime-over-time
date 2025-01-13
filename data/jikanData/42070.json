@@ -1,0 +1,163 @@
+{
+  "data": {
+    "mal_id": 42070,
+    "url": "https://myanimelist.net/anime/42070/Tian_Yu_2nd_Season__Cang_Gu_Zhi_Ban",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1171/107730.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/107730t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1171/107730l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1171/107730.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/107730t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1171/107730l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tian Yu 2nd Season: Cang Gu Zhi Ban"
+      },
+      {
+        "type": "Synonym",
+        "title": "Revelation 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "天谕 第二季 苍古之绊"
+      }
+    ],
+    "title": "Tian Yu 2nd Season: Cang Gu Zhi Ban",
+    "title_english": null,
+    "title_japanese": "天谕 第二季 苍古之绊",
+    "title_synonyms": [
+      "Revelation 2nd Season"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-07-25T00:00:00+00:00",
+      "to": "2018-10-17T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 7,
+          "year": 2018
+        },
+        "to": {
+          "day": 17,
+          "month": 10,
+          "year": 2018
+        }
+      },
+      "string": "Jul 25, 2018 to Oct 17, 2018"
+    },
+    "duration": "16 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 14709,
+    "popularity": 17345,
+    "members": 457,
+    "favorites": 0,
+    "synopsis": "Second season of Tian Yu.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1768,
+        "type": "anime",
+        "name": "Sparkly Key Animation Studio",
+        "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37888,
+            "type": "anime",
+            "name": "Tian Yu",
+            "url": "https://myanimelist.net/anime/37888/Tian_Yu"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md103572"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15370"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E5%A4%A9%E8%B0%952%EF%BC%9A%E8%8B%8D%E5%8F%A4%E4%B9%8B%E7%BB%8A/22918940"
+      }
+    ],
+    "streaming": []
+  }
+}

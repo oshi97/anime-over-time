@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 56575,
+    "url": "https://myanimelist.net/anime/56575/Metal_Cardbot",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/138313.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/138313t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/138313l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1864/138313.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/138313t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/138313l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Metal Cardbot"
+      },
+      {
+        "type": "Japanese",
+        "title": "메탈카드봇"
+      },
+      {
+        "type": "English",
+        "title": "Metal Cardbot"
+      }
+    ],
+    "title": "Metal Cardbot",
+    "title_english": "Metal Cardbot",
+    "title_japanese": "메탈카드봇",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-30T00:00:00+00:00",
+      "to": "2023-09-13T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": 13,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      "string": "Mar 30, 2023 to Sep 13, 2023"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17524,
+    "popularity": 22311,
+    "members": 153,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2023,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 59883,
+            "type": "anime",
+            "name": "Metal Cardbot S",
+            "url": "https://myanimelist.net/anime/59883/Metal_Cardbot_S"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/메탈카드봇"
+      }
+    ],
+    "streaming": []
+  }
+}

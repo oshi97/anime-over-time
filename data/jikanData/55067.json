@@ -1,0 +1,142 @@
+{
+  "data": {
+    "mal_id": 55067,
+    "url": "https://myanimelist.net/anime/55067/Canzhuo_Shang_de_Shi_Shuo_Xin_Yu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1529/135437.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1529/135437t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1529/135437l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1529/135437.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1529/135437t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1529/135437l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Canzhuo Shang de Shi Shuo Xin Yu"
+      },
+      {
+        "type": "Japanese",
+        "title": "餐桌上的世说新语"
+      }
+    ],
+    "title": "Canzhuo Shang de Shi Shuo Xin Yu",
+    "title_english": null,
+    "title_japanese": "餐桌上的世说新语",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-12-28T00:00:00+00:00",
+      "to": "2019-03-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2018
+        },
+        "to": {
+          "day": 15,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      "string": "Dec 28, 2018 to Mar 15, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19602,
+    "popularity": 23769,
+    "members": 110,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Gourmet",
+        "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 55068,
+            "type": "anime",
+            "name": "Canzhuo Shang de Shi Shuo Xin Yu 2nd Season",
+            "url": "https://myanimelist.net/anime/55068/Canzhuo_Shang_de_Shi_Shuo_Xin_Yu_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 55066,
+            "type": "anime",
+            "name": "Wei Jin Xiao Juchang",
+            "url": "https://myanimelist.net/anime/55066/Wei_Jin_Xiao_Juchang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

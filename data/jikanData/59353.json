@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 59353,
+    "url": "https://myanimelist.net/anime/59353/Wo_De_San_Ti_4th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/144356.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/144356t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/144356l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1302/144356.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/144356t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/144356l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "cXed-iDzzqc",
+      "url": "https://www.youtube.com/watch?v=cXed-iDzzqc",
+      "embed_url": "https://www.youtube.com/embed/cXed-iDzzqc?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/cXed-iDzzqc/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/cXed-iDzzqc/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/cXed-iDzzqc/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/cXed-iDzzqc/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/cXed-iDzzqc/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo De San Ti 4th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "我的三体 第四季"
+      }
+    ],
+    "title": "Wo De San Ti 4th Season",
+    "title_english": null,
+    "title_japanese": "我的三体 第四季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Book",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2024-07-14T00:00:00+00:00",
+      "to": "2024-09-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 14,
+          "month": 7,
+          "year": 2024
+        },
+        "to": {
+          "day": 1,
+          "month": 9,
+          "year": 2024
+        }
+      },
+      "string": "Jul 14, 2024 to Sep 1, 2024"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15141,
+    "popularity": 22547,
+    "members": 143,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42461,
+            "type": "anime",
+            "name": "Wo De San Ti: Zhang Bei Hai Zhuan",
+            "url": "https://myanimelist.net/anime/42461/Wo_De_San_Ti__Zhang_Bei_Hai_Zhuan"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 168850,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/168850/San_Ti"
+          },
+          {
+            "mal_id": 157372,
+            "type": "manga",
+            "name": "San Ti",
+            "url": "https://myanimelist.net/manga/157372/San_Ti"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md21083515"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/我的三体/17578266"
+      }
+    ],
+    "streaming": []
+  }
+}

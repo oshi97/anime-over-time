@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 47716,
+    "url": "https://myanimelist.net/anime/47716/Bie_Re_Liumang_Tu_Ma_Xiu_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1044/123440.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1044/123440t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1044/123440l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1044/123440.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1044/123440t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1044/123440l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bie Re Liumang Tu Ma Xiu 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Bie Re Liumang Tu Ma Xiu Second Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "别惹流氓兔马修 第2季"
+      },
+      {
+        "type": "English",
+        "title": "Mashimaro 2"
+      }
+    ],
+    "title": "Bie Re Liumang Tu Ma Xiu 2",
+    "title_english": "Mashimaro 2",
+    "title_japanese": "别惹流氓兔马修 第2季",
+    "title_synonyms": [
+      "Bie Re Liumang Tu Ma Xiu Second Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 70,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-10-25T00:00:00+00:00",
+      "to": "2019-11-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 10,
+          "year": 2019
+        },
+        "to": {
+          "day": 15,
+          "month": 11,
+          "year": 2019
+        }
+      },
+      "string": "Oct 25, 2019 to Nov 15, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19424,
+    "popularity": 23693,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47714,
+            "type": "anime",
+            "name": "Bie Re Liumang Tu Ma Xiu",
+            "url": "https://myanimelist.net/anime/47714/Bie_Re_Liumang_Tu_Ma_Xiu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47717,
+            "type": "anime",
+            "name": "Bie Re Liumang Tu Ma Xiu 3",
+            "url": "https://myanimelist.net/anime/47717/Bie_Re_Liumang_Tu_Ma_Xiu_3"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrhy56wx.html"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 48751,
+    "url": "https://myanimelist.net/anime/48751/Chao_Shen_Xueyuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1185/114406.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/114406t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/114406l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1185/114406.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/114406t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/114406l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chao Shen Xueyuan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Super Seminary First Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Super Seminary Second Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "Lalala Demacia Fourth Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "超神学院"
+      }
+    ],
+    "title": "Chao Shen Xueyuan",
+    "title_english": null,
+    "title_japanese": "超神学院",
+    "title_synonyms": [
+      "Super Seminary First Season",
+      "Super Seminary Second Season",
+      "Lalala Demacia Fourth Season"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-12-06T00:00:00+00:00",
+      "to": "2014-10-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 12,
+          "year": 2013
+        },
+        "to": {
+          "day": 24,
+          "month": 10,
+          "year": 2014
+        }
+      },
+      "string": "Dec 6, 2013 to Oct 24, 2014"
+    },
+    "duration": "19 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": null,
+    "scored_by": null,
+    "rank": 19678,
+    "popularity": 18532,
+    "members": 365,
+    "favorites": 2,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2239,
+        "type": "anime",
+        "name": "Transcendence Picture",
+        "url": "https://myanimelist.net/anime/producer/2239/Transcendence_Picture"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44545,
+            "type": "anime",
+            "name": "Lalala Demacia Third Season",
+            "url": "https://myanimelist.net/anime/44545/Lalala_Demacia_Third_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48749,
+            "type": "anime",
+            "name": "Chao Shen Xueyuan: Shen yu Shen",
+            "url": "https://myanimelist.net/anime/48749/Chao_Shen_Xueyuan__Shen_yu_Shen"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://baike.baidu.com/item/%E8%B6%85%E7%A5%9E%E5%AD%A6%E9%99%A2/12093409"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E8%B6%85%E7%A5%9E%E5%AD%A6%E9%99%A2#%E5%90%84%E8%A9%B1%E5%88%97%E8%A1%A8"
+      }
+    ],
+    "streaming": []
+  }
+}

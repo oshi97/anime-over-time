@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 44555,
+    "url": "https://myanimelist.net/anime/44555/Baozou_Kongbu_Gushi_5th_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1757/123994.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1757/123994t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1757/123994l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1757/123994.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1757/123994t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1757/123994l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Baozou Kongbu Gushi 5th Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "暴走恐怖故事 第五季"
+      }
+    ],
+    "title": "Baozou Kongbu Gushi 5th Season",
+    "title_english": null,
+    "title_japanese": "暴走恐怖故事 第五季",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-02-07T00:00:00+00:00",
+      "to": "2017-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 2,
+          "year": 2017
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        }
+      },
+      "string": "Feb 7, 2017 to 2017"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19364,
+    "popularity": 22676,
+    "members": 138,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44554,
+            "type": "anime",
+            "name": "Baozou Kongbu Gushi 4th Season",
+            "url": "https://myanimelist.net/anime/44554/Baozou_Kongbu_Gushi_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44556,
+            "type": "anime",
+            "name": "Baozou Kongbu Gushi 6th Season",
+            "url": "https://myanimelist.net/anime/44556/Baozou_Kongbu_Gushi_6th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9A%B4%E8%B5%B0%E6%81%90%E6%80%96%E6%95%85%E4%BA%8B%E7%AC%AC%E4%BA%94%E5%AD%A3"
+      }
+    ],
+    "streaming": []
+  }
+}

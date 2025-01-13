@@ -1,0 +1,194 @@
+{
+  "data": {
+    "mal_id": 44090,
+    "url": "https://myanimelist.net/anime/44090/Ling_Long__Incarnation_Final_Chapter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/114704.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/114704t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/114704l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1916/114704.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/114704t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/114704l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ling Long: Incarnation Final Chapter"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ling Long: Zhong Zhang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Spirit Cage: Incarnation Final Chapter"
+      },
+      {
+        "type": "Japanese",
+        "title": "灵笼:INCARNATION 终章"
+      }
+    ],
+    "title": "Ling Long: Incarnation Final Chapter",
+    "title_english": null,
+    "title_japanese": "灵笼:INCARNATION 终章",
+    "title_synonyms": [
+      "Ling Long: Zhong Zhang",
+      "Spirit Cage: Incarnation Final Chapter"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-05-01T00:00:00+00:00",
+      "to": "2021-05-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 5,
+          "year": 2021
+        },
+        "to": {
+          "day": 5,
+          "month": 5,
+          "year": 2021
+        }
+      },
+      "string": "May 1, 2021 to May 5, 2021"
+    },
+    "duration": "38 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.32,
+    "scored_by": 765,
+    "rank": 2723,
+    "popularity": 12308,
+    "members": 1709,
+    "favorites": 8,
+    "synopsis": "Final installment of Ling Long: Incarnation.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1958,
+        "type": "anime",
+        "name": "YHKT Entertainment",
+        "url": "https://myanimelist.net/anime/producer/1958/YHKT_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42290,
+            "type": "anime",
+            "name": "Ling Long: Incarnation Part 2",
+            "url": "https://myanimelist.net/anime/42290/Ling_Long__Incarnation_Part_2"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48890,
+            "type": "anime",
+            "name": "Ling Long: Incarnation Special",
+            "url": "https://myanimelist.net/anime/48890/Ling_Long__Incarnation_Special"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md23432/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%81%B5%E7%AC%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

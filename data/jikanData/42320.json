@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 42320,
+    "url": "https://myanimelist.net/anime/42320/Liu_Yi_Chuanqi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/108295t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/108295l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1297/108295.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/108295t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/108295l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "Wgj8gdhlFaE",
+      "url": "https://www.youtube.com/watch?v=Wgj8gdhlFaE",
+      "embed_url": "https://www.youtube.com/embed/Wgj8gdhlFaE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/Wgj8gdhlFaE/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/Wgj8gdhlFaE/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/Wgj8gdhlFaE/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/Wgj8gdhlFaE/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/Wgj8gdhlFaE/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Liu Yi Chuanqi"
+      },
+      {
+        "type": "Synonym",
+        "title": "Legend of Liu Yi"
+      },
+      {
+        "type": "Japanese",
+        "title": "柳毅传奇"
+      }
+    ],
+    "title": "Liu Yi Chuanqi",
+    "title_english": null,
+    "title_japanese": "柳毅传奇",
+    "title_synonyms": [
+      "Legend of Liu Yi"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-22T00:00:00+00:00",
+      "to": "2020-08-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 22,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 14,
+          "month": 8,
+          "year": 2020
+        }
+      },
+      "string": "Jul 22, 2020 to Aug 14, 2020"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17168,
+    "popularity": 13904,
+    "members": 1068,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2070,
+        "type": "anime",
+        "name": "Wei Chuang Jiang Xin",
+        "url": "https://myanimelist.net/anime/producer/2070/Wei_Chuang_Jiang_Xin"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28229286/"
+      }
+    ],
+    "streaming": []
+  }
+}

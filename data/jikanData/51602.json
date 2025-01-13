@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 51602,
+    "url": "https://myanimelist.net/anime/51602/Larva_Island_Movie",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1534/122644.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1534/122644t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1534/122644l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1534/122644.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1534/122644t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1534/122644l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Larva Island Movie"
+      },
+      {
+        "type": "Japanese",
+        "title": "라바 아일랜드 무비"
+      }
+    ],
+    "title": "Larva Island Movie",
+    "title_english": null,
+    "title_japanese": "라바 아일랜드 무비",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-23T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 23, 2020"
+    },
+    "duration": "1 hr 28 min",
+    "rating": "G - All Ages",
+    "score": 6.38,
+    "scored_by": 131,
+    "rank": 7808,
+    "popularity": 18931,
+    "members": 337,
+    "favorites": 1,
+    "synopsis": "In this movie sequel to the hit series, Chuck returns home and talks to a reporter about life on the island with zany larva pals Red and Yellow.\n\n(Source: IMDb)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1292,
+        "type": "anime",
+        "name": "TUBA",
+        "url": "https://myanimelist.net/anime/producer/1292/TUBA"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 57,
+        "type": "anime",
+        "name": "Gag Humor",
+        "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39431,
+            "type": "anime",
+            "name": "Larva Island Season 2",
+            "url": "https://myanimelist.net/anime/39431/Larva_Island_Season_2"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56988,
+            "type": "anime",
+            "name": "Larva Pendant",
+            "url": "https://myanimelist.net/anime/56988/Larva_Pendant"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://movie.daum.net/moviedb/main?movieId=143048"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 45360,
+    "url": "https://myanimelist.net/anime/45360/Dongxi_Chaguan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/126109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/126109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/126109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1651/126109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/126109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/126109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dongxi Chaguan"
+      },
+      {
+        "type": "Japanese",
+        "title": "东西茶馆"
+      }
+    ],
+    "title": "Dongxi Chaguan",
+    "title_english": null,
+    "title_japanese": "东西茶馆",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2008-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2008
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2008 to ?"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20191,
+    "popularity": 26339,
+    "members": 72,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 45355,
+            "type": "anime",
+            "name": "Kuaile Dongxi",
+            "url": "https://myanimelist.net/anime/45355/Kuaile_Dongxi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV1EW411F7Kd?from=search&seid=15160872077390984611"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E8%A5%BF%E8%8C%B6%E9%A6%86/4718817"
+      }
+    ],
+    "streaming": []
+  }
+}

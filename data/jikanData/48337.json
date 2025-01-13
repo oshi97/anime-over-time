@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 48337,
+    "url": "https://myanimelist.net/anime/48337/Chueog-ui_Geomjeong-gomusin",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/114492.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/114492t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/114492l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1933/114492.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/114492t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/114492l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Chueog-ui Geomjeong-gomusin"
+      },
+      {
+        "type": "Japanese",
+        "title": "추억의 검정고무신"
+      },
+      {
+        "type": "English",
+        "title": "The Precious Memory of Gogo Brothers"
+      }
+    ],
+    "title": "Chueog-ui Geomjeong-gomusin",
+    "title_english": "The Precious Memory of Gogo Brothers",
+    "title_japanese": "추억의 검정고무신",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-11-19T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 11,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 19, 2020"
+    },
+    "duration": "1 hr 20 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19834,
+    "popularity": 22149,
+    "members": 160,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 57113,
+            "type": "anime",
+            "name": "Geomjeong-gomusin",
+            "url": "https://myanimelist.net/anime/57113/Geomjeong-gomusin"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 57112,
+            "type": "anime",
+            "name": "Geugjangpan Geomjeong-gomusin: Jeulgeoun Naui Jib",
+            "url": "https://myanimelist.net/anime/57112/Geugjangpan_Geomjeong-gomusin__Jeulgeoun_Naui_Jib"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%96%B5%EC%9D%98_%EA%B2%80%EC%A0%95%EA%B3%A0%EB%AC%B4%EC%8B%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

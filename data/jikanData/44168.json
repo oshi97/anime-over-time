@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 44168,
+    "url": "https://myanimelist.net/anime/44168/Dongfang_Shen_Wa",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1872/122987.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/122987t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/122987l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1872/122987.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/122987t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/122987l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dongfang Shen Wa"
+      },
+      {
+        "type": "Japanese",
+        "title": "東方神娃"
+      }
+    ],
+    "title": "Dongfang Shen Wa",
+    "title_english": null,
+    "title_japanese": "東方神娃",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Other",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2005-12-30T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 12,
+          "year": 2005
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 30, 2005 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20175,
+    "popularity": 24955,
+    "members": 90,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 44169,
+            "type": "anime",
+            "name": "Dongfang Shen Wa 2nd Season",
+            "url": "https://myanimelist.net/anime/44169/Dongfang_Shen_Wa_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 44170,
+            "type": "anime",
+            "name": "Xindongfang Shen Wa (Movie)",
+            "url": "https://myanimelist.net/anime/44170/Xindongfang_Shen_Wa_Movie"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%A8%83/873421"
+      }
+    ],
+    "streaming": []
+  }
+}

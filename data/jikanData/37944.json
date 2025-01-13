@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 37944,
+    "url": "https://myanimelist.net/anime/37944/Hello_Cocomong_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1830/93098.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/93098t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/93098l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1830/93098.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/93098t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/93098l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello Cocomong 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "헬로 코코몽2"
+      },
+      {
+        "type": "English",
+        "title": "Hello Cocomong 2"
+      }
+    ],
+    "title": "Hello Cocomong 2",
+    "title_english": "Hello Cocomong 2",
+    "title_japanese": "헬로 코코몽2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-09-05T00:00:00+00:00",
+      "to": "2014-11-28T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 9,
+          "year": 2014
+        },
+        "to": {
+          "day": 28,
+          "month": 11,
+          "year": 2014
+        }
+      },
+      "string": "Sep 5, 2014 to Nov 28, 2014"
+    },
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20989,
+    "popularity": 20880,
+    "members": 225,
+    "favorites": 0,
+    "synopsis": "The second season of Hello Cocomong.",
+    "background": "",
+    "season": "fall",
+    "year": 2014,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Fridays at Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 37942,
+            "type": "anime",
+            "name": "Hello Cocomong",
+            "url": "https://myanimelist.net/anime/37942/Hello_Cocomong"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 37943,
+            "type": "anime",
+            "name": "Cocomong 2",
+            "url": "https://myanimelist.net/anime/37943/Cocomong_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/cocomong/replay/25/list?courseId=BA0AC000000000100&stepId=10011150"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%83%89%EC%9E%A5%EA%B3%A0_%EB%82%98%EB%9D%BC_%EC%BD%94%EC%BD%94%EB%AA%BD"
+      }
+    ],
+    "streaming": []
+  }
+}

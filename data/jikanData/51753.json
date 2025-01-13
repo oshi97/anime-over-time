@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 51753,
+    "url": "https://myanimelist.net/anime/51753/Madeob_Bus_Tayo",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1629/123605.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1629/123605t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1629/123605l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1629/123605.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1629/123605t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1629/123605l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Madeob Bus Tayo"
+      },
+      {
+        "type": "Synonym",
+        "title": "Mabeobbeoseu Tayo"
+      },
+      {
+        "type": "Japanese",
+        "title": "마법버스 타요"
+      },
+      {
+        "type": "English",
+        "title": "Tayo and Little Wizards"
+      }
+    ],
+    "title": "Madeob Bus Tayo",
+    "title_english": "Tayo and Little Wizards",
+    "title_japanese": "마법버스 타요",
+    "title_synonyms": [
+      "Mabeobbeoseu Tayo"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-12-10T00:00:00+00:00",
+      "to": "2021-01-08T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 12,
+          "year": 2020
+        },
+        "to": {
+          "day": 8,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "string": "Dec 10, 2020 to Jan 8, 2021"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17259,
+    "popularity": 21276,
+    "members": 203,
+    "favorites": 0,
+    "synopsis": "Tayo speeds into an adventure when his friends get kidnapped by evil magicians invading their city in search of a magical gemstone.\n\n(Source: Netflix)",
+    "background": "",
+    "season": "winter",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      },
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 51756,
+            "type": "anime",
+            "name": "Luna-ui Mabeobdogam",
+            "url": "https://myanimelist.net/anime/51756/Luna-ui_Mabeobdogam"
+          }
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 38631,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo 5",
+            "url": "https://myanimelist.net/anime/38631/Kkoma_Bus_Tayo_5"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

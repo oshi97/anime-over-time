@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 39137,
+    "url": "https://myanimelist.net/anime/39137/Hong_Mao_Lan_Tu__Meng_Guo_Li_Xian_Ji",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1027/98708.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/98708t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/98708l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1027/98708.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/98708t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/98708l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Mao Lan Tu: Meng Guo Li Xian Ji"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hong Mao Lan Tu Meng Zhi Guo Lixian Ji"
+      },
+      {
+        "type": "Japanese",
+        "title": "虹猫蓝兔梦之国历险记"
+      }
+    ],
+    "title": "Hong Mao Lan Tu: Meng Guo Li Xian Ji",
+    "title_english": null,
+    "title_japanese": "虹猫蓝兔梦之国历险记",
+    "title_synonyms": [
+      "Hong Mao Lan Tu Meng Zhi Guo Lixian Ji"
+    ],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 56,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-08-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 8,
+          "year": 2012
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 17, 2012 to ?"
+    },
+    "duration": "17 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21101,
+    "popularity": 22527,
+    "members": 144,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 39136,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Haidi Lixian Ji",
+            "url": "https://myanimelist.net/anime/39136/Hong_Mao_Lan_Tu__Haidi_Lixian_Ji"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 39138,
+            "type": "anime",
+            "name": "Hong Mao Lan Tu: Ao You Guo Lixian Ji",
+            "url": "https://myanimelist.net/anime/39138/Hong_Mao_Lan_Tu__Ao_You_Guo_Lixian_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14151"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "mal_id": 49620,
+    "url": "https://myanimelist.net/anime/49620/Fei_Ren_Zai_Part_5",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/117253.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/117253t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/117253l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1584/117253.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1584/117253t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1584/117253l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fei Ren Zai Part 5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Shenme Gui Part 5"
+      },
+      {
+        "type": "Synonym",
+        "title": "Non-human Part 5"
+      },
+      {
+        "type": "Japanese",
+        "title": "非人哉 第五季"
+      }
+    ],
+    "title": "Fei Ren Zai Part 5",
+    "title_english": null,
+    "title_japanese": "非人哉 第五季",
+    "title_synonyms": [
+      "Shenme Gui Part 5",
+      "Non-human Part 5"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-21T00:00:00+00:00",
+      "to": "2021-09-29T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 29,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jul 21, 2021 to Sep 29, 2021"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.5,
+    "scored_by": 129,
+    "rank": 7073,
+    "popularity": 16025,
+    "members": 602,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2076,
+        "type": "anime",
+        "name": "Fenz",
+        "url": "https://myanimelist.net/anime/producer/2076/Fenz"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48374,
+            "type": "anime",
+            "name": "Fei Ren Zai Part 4",
+            "url": "https://myanimelist.net/anime/48374/Fei_Ren_Zai_Part_4"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 52523,
+            "type": "anime",
+            "name": "Fei Ren Zai 2nd Season",
+            "url": "https://myanimelist.net/anime/52523/Fei_Ren_Zai_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 123277,
+            "type": "manga",
+            "name": "Fei Ren Zai",
+            "url": "https://myanimelist.net/manga/123277/Fei_Ren_Zai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/w/wk85h1a859a8350.html"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E9%9D%9E%E4%BA%BA%E5%93%89"
+      }
+    ],
+    "streaming": []
+  }
+}

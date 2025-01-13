@@ -1,0 +1,152 @@
+{
+  "data": {
+    "mal_id": 46231,
+    "url": "https://myanimelist.net/anime/46231/Caomei_Leyuan__Xingfu_Shiguang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/128082.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/128082t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/128082l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/128082.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/128082t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/128082l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Caomei Leyuan: Xingfu Shiguang"
+      },
+      {
+        "type": "Japanese",
+        "title": "草莓乐园之幸福时光"
+      }
+    ],
+    "title": "Caomei Leyuan: Xingfu Shiguang",
+    "title_english": null,
+    "title_japanese": "草莓乐园之幸福时光",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": null,
+      "to": null,
+      "prop": {
+        "from": {
+          "day": null,
+          "month": null,
+          "year": null
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Not available"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19614,
+    "popularity": 25731,
+    "members": 79,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 46230,
+            "type": "anime",
+            "name": "Caomei Leyuan: Kuaile Shenghuo",
+            "url": "https://myanimelist.net/anime/46230/Caomei_Leyuan__Kuaile_Shenghuo"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 46232,
+            "type": "anime",
+            "name": "Caomei Leyuan: Binfen Mengxiang",
+            "url": "https://myanimelist.net/anime/46232/Caomei_Leyuan__Binfen_Mengxiang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.sogou.com/series/mnqxe5dpn5xf6nbvge4tknajwlo53lwa23klbvvo2djlri6kwg46e.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E8%8D%89%E8%8E%93%E4%B9%90%E5%9B%AD%E4%B9%8B%E5%B9%B8%E7%A6%8F%E6%97%B6%E5%85%89"
+      }
+    ],
+    "streaming": []
+  }
+}

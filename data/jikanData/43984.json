@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 43984,
+    "url": "https://myanimelist.net/anime/43984/Xi_Yangyang_Yu_Hui_Tai_Lang__Qi_Si_Miao_Xiang_Xi_Yangyang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1495/115270.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1495/115270t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1495/115270l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1495/115270.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1495/115270t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1495/115270l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tai Lang: Qi Si Miao Xiang Xi Yangyang"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊與灰太狼之奇思妙想喜羊羊"
+      },
+      {
+        "type": "English",
+        "title": "Pleasant Goat and Big Big Wolf: Smart Dodging"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tai Lang: Qi Si Miao Xiang Xi Yangyang",
+    "title_english": "Pleasant Goat and Big Big Wolf: Smart Dodging",
+    "title_japanese": "喜羊羊與灰太狼之奇思妙想喜羊羊",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-07-06T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 6,
+          "month": 7,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 6, 2011 to ?"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15264,
+    "popularity": 21420,
+    "members": 196,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43983,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian",
+            "url": "https://myanimelist.net/anime/43983/Xi_Yangyang_Yu_Hui_Tailang__Yangyang_Kuaile_De_Yi_Nian"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 43985,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Gei Kuaile Jiayou",
+            "url": "https://myanimelist.net/anime/43985/Xi_Yangyang_Yu_Hui_Tailang__Gei_Kuaile_Jiayou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.22dm.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E5%96%9C%E7%BE%8A%E7%BE%8A%E8%88%87%E7%81%B0%E5%A4%AA%E7%8B%BC"
+      }
+    ],
+    "streaming": []
+  }
+}

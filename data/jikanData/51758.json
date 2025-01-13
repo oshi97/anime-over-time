@@ -1,0 +1,129 @@
+{
+  "data": {
+    "mal_id": 51758,
+    "url": "https://myanimelist.net/anime/51758/Menghuan_Shuyuan__Huxi_Jiankang_Kepu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/123615.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/123615t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/123615l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1745/123615.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/123615t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/123615l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Shuyuan: Huxi Jiankang Kepu"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻书院之呼吸健康科普"
+      }
+    ],
+    "title": "Menghuan Shuyuan: Huxi Jiankang Kepu",
+    "title_english": null,
+    "title_japanese": "梦幻书院之呼吸健康科普",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-11T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 11,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 11, 2021 to ?"
+    },
+    "duration": "3 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17496,
+    "popularity": 22502,
+    "members": 145,
+    "favorites": 0,
+    "synopsis": "A spin-off of Menghuan Shuyuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 42969,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 4th Season",
+            "url": "https://myanimelist.net/anime/42969/Menghuan_Shuyuan_4th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28233230/"
+      }
+    ],
+    "streaming": []
+  }
+}

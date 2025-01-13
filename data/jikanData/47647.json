@@ -1,0 +1,149 @@
+{
+  "data": {
+    "mal_id": 47647,
+    "url": "https://myanimelist.net/anime/47647/San_Zhi_Songshu__Songshu_Xiao_Zhen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1032/123395.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/123395t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/123395l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1032/123395.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/123395t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/123395l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "San Zhi Songshu: Songshu Xiao Zhen"
+      },
+      {
+        "type": "Japanese",
+        "title": "三只松鼠之松鼠小镇"
+      }
+    ],
+    "title": "San Zhi Songshu: Songshu Xiao Zhen",
+    "title_english": null,
+    "title_japanese": "三只松鼠之松鼠小镇",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-13T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 13, 2019 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18876,
+    "popularity": 25636,
+    "members": 80,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 47646,
+            "type": "anime",
+            "name": "San Zhi Songshu",
+            "url": "https://myanimelist.net/anime/47646/San_Zhi_Songshu"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 47648,
+            "type": "anime",
+            "name": "San Zhi Songshu: Songshu Xiao Zhen 2",
+            "url": "https://myanimelist.net/anime/47648/San_Zhi_Songshu__Songshu_Xiao_Zhen_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "mal_id": 50433,
+    "url": "https://myanimelist.net/anime/50433/Jun_You_Yun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/123459.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/123459t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/123459l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1738/123459.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/123459t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/123459l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jun You Yun"
+      },
+      {
+        "type": "Synonym",
+        "title": "Word of Honor"
+      },
+      {
+        "type": "Japanese",
+        "title": "君有云"
+      }
+    ],
+    "title": "Jun You Yun",
+    "title_english": null,
+    "title_japanese": "君有云",
+    "title_synonyms": [
+      "Word of Honor"
+    ],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-04-21T00:00:00+00:00",
+      "to": "2022-09-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 4,
+          "year": 2022
+        },
+        "to": {
+          "day": 22,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "string": "Apr 21, 2022 to Sep 22, 2022"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.14,
+    "scored_by": 505,
+    "rank": 3677,
+    "popularity": 12018,
+    "members": 1887,
+    "favorites": 19,
+    "synopsis": "Four teenagers who left the school and entered the arena for the first time, went through all kinds of difficulties and dangers in order to find the truth, unravel the mystery of their life experience, and become a gentleman. They value the way of a gentleman and demonstrate the chivalrous spirit of \"using their own strength to make the world fair\". A strange book, a grudge, a belief, a legend.\n\n(Source: bilibili)",
+    "background": "Adaption of Zhou Munan's (周木楠) novel of the same title.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2528,
+        "type": "anime",
+        "name": "Passion Paint Animation",
+        "url": "https://myanimelist.net/anime/producer/2528/Passion_Paint_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 53205,
+            "type": "anime",
+            "name": "Jun You Yun 2nd Season",
+            "url": "https://myanimelist.net/anime/53205/Jun_You_Yun_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"*~天迹\" by 孫瑜笛 (eps 1-24)"
+      ]
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28235382/"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/君有云/59265298"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35679806//"
+      }
+    ],
+    "streaming": []
+  }
+}

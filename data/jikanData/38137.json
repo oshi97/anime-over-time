@@ -1,0 +1,151 @@
+{
+  "data": {
+    "mal_id": 38137,
+    "url": "https://myanimelist.net/anime/38137/Zhu_Zhu_Xia__Zhong_Ji_Jue_Zhan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1304/93364.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1304/93364t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1304/93364l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1304/93364.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1304/93364t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1304/93364l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan"
+      },
+      {
+        "type": "Synonym",
+        "title": "GG Bond Movie 3"
+      },
+      {
+        "type": "Japanese",
+        "title": "猪猪侠 终极决战"
+      },
+      {
+        "type": "English",
+        "title": "GG Bond: Ultimate Battle"
+      }
+    ],
+    "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan",
+    "title_english": "GG Bond: Ultimate Battle",
+    "title_japanese": "猪猪侠 终极决战",
+    "title_synonyms": [
+      "GG Bond Movie 3"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 7,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 10, 2015"
+    },
+    "duration": "1 hr 30 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16195,
+    "popularity": 20100,
+    "members": 268,
+    "favorites": 0,
+    "synopsis": "G.G. Bond and his team have eliminated all monster threats. So they have been using a virtual reality simulator to stay on top in case of a threat. In this simulator, G.G. Bond is reunited with his father. But unbeknownst to him, his father is the King of Darkness and merges virtual time and space with reality. Unable to tell apart illusions with realness, the King of Darkness attacks while the heroes are confused.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38136,
+            "type": "anime",
+            "name": "Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian",
+            "url": "https://myanimelist.net/anime/38136/Zhu_Zhu_Xia__Zhong_Ji_Jue_Zhan_-_Qian_Ye_Pian"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13464"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GG_Bond_Movie:_Ultimate_Battle"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "mal_id": 45347,
+    "url": "https://myanimelist.net/anime/45347/Happy_Fuzi__Yu_Shui_Jingang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/126068.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/126068t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/126068l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1820/126068.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1820/126068t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1820/126068l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Happy Fuzi: Yu Shui Jingang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Happy Father and Son and Water King Kong"
+      },
+      {
+        "type": "Japanese",
+        "title": "哈皮父子与水金刚"
+      }
+    ],
+    "title": "Happy Fuzi: Yu Shui Jingang",
+    "title_english": null,
+    "title_japanese": "哈皮父子与水金刚",
+    "title_synonyms": [
+      "Happy Father and Son and Water King Kong"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2009-11-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 11,
+          "year": 2009
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Nov 2009 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20901,
+    "popularity": 26515,
+    "members": 71,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45345,
+            "type": "anime",
+            "name": "Happy Fuzi: Chao Neng Pao Dan",
+            "url": "https://myanimelist.net/anime/45345/Happy_Fuzi__Chao_Neng_Pao_Dan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/video/BV13E411q7xJ?from=search&seid=10379627545421165310"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/24294846/"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "mal_id": 41638,
+    "url": "https://myanimelist.net/anime/41638/Bite-Choicar",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1656/106927t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/106927l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1656/106927.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1656/106927t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/106927l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bite-Choicar"
+      },
+      {
+        "type": "Japanese",
+        "title": "바이트 초이카"
+      },
+      {
+        "type": "English",
+        "title": "Bite-Choicar"
+      }
+    ],
+    "title": "Bite-Choicar",
+    "title_english": "Bite-Choicar",
+    "title_japanese": "바이트 초이카",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-04-18T00:00:00+00:00",
+      "to": "2021-05-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 18,
+          "month": 4,
+          "year": 2020
+        },
+        "to": {
+          "day": 23,
+          "month": 5,
+          "year": 2021
+        }
+      },
+      "string": "Apr 18, 2020 to May 23, 2021"
+    },
+    "duration": "30 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19458,
+    "popularity": 17285,
+    "members": 463,
+    "favorites": 2,
+    "synopsis": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
+    "background": "",
+    "season": "spring",
+    "year": 2020,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "07:15",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 07:15 (JST)"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56921,
+            "type": "anime",
+            "name": "Bite-Choicar Hyper",
+            "url": "https://myanimelist.net/anime/56921/Bite-Choicar_Hyper"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.choirockcf.com/"
+      }
+    ],
+    "streaming": []
+  }
+}

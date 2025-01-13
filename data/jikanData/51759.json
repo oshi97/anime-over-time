@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 51759,
+    "url": "https://myanimelist.net/anime/51759/Menghuan_Shuyuan__Kexue_Xiao_Jizhe",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/123618.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/123618t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/123618l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1281/123618.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/123618t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/123618l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Shuyuan: Kexue Xiao Jizhe"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻书院之科学小记者"
+      },
+      {
+        "type": "English",
+        "title": "Menghuan Shuyuan 5th Season"
+      }
+    ],
+    "title": "Menghuan Shuyuan: Kexue Xiao Jizhe",
+    "title_english": "Menghuan Shuyuan 5th Season",
+    "title_japanese": "梦幻书院之科学小记者",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 12, 2021 to ?"
+    },
+    "duration": "2 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17494,
+    "popularity": 22309,
+    "members": 153,
+    "favorites": 0,
+    "synopsis": "Fifth season of Menghuan Shuyuan.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 42969,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 4th Season",
+            "url": "https://myanimelist.net/anime/42969/Menghuan_Shuyuan_4th_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 51760,
+            "type": "anime",
+            "name": "Menghuan Shuyuan 6th Season",
+            "url": "https://myanimelist.net/anime/51760/Menghuan_Shuyuan_6th_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28234045/"
+      }
+    ],
+    "streaming": []
+  }
+}

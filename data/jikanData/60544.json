@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 60544,
+    "url": "https://myanimelist.net/anime/60544/Nezha_Zhi_Mo_Tong_Nao_Hai",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1616/147002.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/147002t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/147002l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1616/147002.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/147002t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/147002l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nezha Zhi Mo Tong Nao Hai"
+      },
+      {
+        "type": "Japanese",
+        "title": "哪吒之魔童闹海"
+      }
+    ],
+    "title": "Nezha Zhi Mo Tong Nao Hai",
+    "title_english": null,
+    "title_japanese": "哪吒之魔童闹海",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Not yet aired",
+    "airing": false,
+    "aired": {
+      "from": "2025-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2025"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 14719,
+    "members": 859,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 40111,
+            "type": "anime",
+            "name": "Nezha Zhi Mo Tong Jiang Shi",
+            "url": "https://myanimelist.net/anime/40111/Nezha_Zhi_Mo_Tong_Jiang_Shi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/哪吒之魔童闹海/61115689"
+      }
+    ],
+    "streaming": []
+  }
+}

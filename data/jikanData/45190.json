@@ -1,0 +1,122 @@
+{
+  "data": {
+    "mal_id": 45190,
+    "url": "https://myanimelist.net/anime/45190/Bun_Bun",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1088/121323.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1088/121323t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1088/121323l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1088/121323.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1088/121323t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1088/121323l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bun Bun"
+      },
+      {
+        "type": "Japanese",
+        "title": "笨笨"
+      }
+    ],
+    "title": "Bun Bun",
+    "title_english": null,
+    "title_japanese": "笨笨",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19558,
+    "popularity": 25351,
+    "members": 85,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tv.sohu.com/s2016/dhpbb/"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/26844138/"
+      }
+    ],
+    "streaming": []
+  }
+}

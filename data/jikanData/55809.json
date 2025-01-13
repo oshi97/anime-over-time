@@ -1,0 +1,184 @@
+{
+  "data": {
+    "mal_id": 55809,
+    "url": "https://myanimelist.net/anime/55809/Xian_Ni",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/136768.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1542/136768.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xian Ni"
+      },
+      {
+        "type": "Japanese",
+        "title": "仙逆"
+      },
+      {
+        "type": "English",
+        "title": "Renegade Immortal"
+      }
+    ],
+    "title": "Xian Ni",
+    "title_english": "Renegade Immortal",
+    "title_japanese": "仙逆",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 76,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2023-09-25T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 9,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Sep 25, 2023 to ?"
+    },
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.21,
+    "scored_by": 1122,
+    "rank": 376,
+    "popularity": 9175,
+    "members": 4521,
+    "favorites": 106,
+    "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2191,
+        "type": "anime",
+        "name": "BUILD DREAM",
+        "url": "https://myanimelist.net/anime/producer/2191/BUILD_DREAM"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 60279,
+            "type": "anime",
+            "name": "Xian Ni: Shenlin Zhi Zhan",
+            "url": "https://myanimelist.net/anime/60279/Xian_Ni__Shenlin_Zhi_Zhan"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Ni Hun (逆魂)\" by GAI Zhou Yan (GAI周延)"
+      ],
+      "endings": [
+        "\"Ta Tian Xing Ge (踏天行歌)\" by Wang Yige (王艺格)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/x/cover/mzc00200aaogpgh/f00438ktx0i.html"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18237"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/345802"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/481211"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/仙逆/58218668"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35679839/"
+      }
+    ],
+    "streaming": []
+  }
+}

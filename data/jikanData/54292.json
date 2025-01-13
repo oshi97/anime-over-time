@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 54292,
+    "url": "https://myanimelist.net/anime/54292/Pinkfong-gwa_Hogi-ui_Sinnaneun_Iyagi",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/132876.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/132876t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/132876l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/132876.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/132876t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/132876l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pinkfong-gwa Hogi-ui Sinnaneun Iyagi"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Exciting Story of Pinkfong and Hogi"
+      },
+      {
+        "type": "Japanese",
+        "title": "핑크퐁과 호기의 신나는 이야기"
+      }
+    ],
+    "title": "Pinkfong-gwa Hogi-ui Sinnaneun Iyagi",
+    "title_english": null,
+    "title_japanese": "핑크퐁과 호기의 신나는 이야기",
+    "title_synonyms": [
+      "The Exciting Story of Pinkfong and Hogi"
+    ],
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-01-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 1,
+          "year": 2020
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 16, 2020"
+    },
+    "duration": "11 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18364,
+    "popularity": 24069,
+    "members": 105,
+    "favorites": 0,
+    "synopsis": "The special showcases Pinkfong and Hogi's best moments from key episodes such as \"Welcome to Wonderville\", \"We are Wonderstar\", \"Runaway Cheese\", and \"Learning to Fly\".\n\n(Source: Pinkfong Wiki)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2851,
+        "type": "anime",
+        "name": "Pinkfong",
+        "url": "https://myanimelist.net/anime/producer/2851/Pinkfong"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Full Story",
+        "entry": [
+          {
+            "mal_id": 54291,
+            "type": "anime",
+            "name": "Pinkfong Wonderstar",
+            "url": "https://myanimelist.net/anime/54291/Pinkfong_Wonderstar"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

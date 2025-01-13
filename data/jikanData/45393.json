@@ -1,0 +1,148 @@
+{
+  "data": {
+    "mal_id": 45393,
+    "url": "https://myanimelist.net/anime/45393/AU__Shen_Qihuan_Jing",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/122388.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/122388t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/122388l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1800/122388.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/122388t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/122388l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "AU: Shen Qihuan Jing"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿优之神奇幻镜"
+      }
+    ],
+    "title": "AU: Shen Qihuan Jing",
+    "title_english": null,
+    "title_japanese": "阿优之神奇幻镜",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Mixed media",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2017"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19170,
+    "popularity": 24510,
+    "members": 97,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45392,
+            "type": "anime",
+            "name": "AU: Tu Zhi Lai Le 2nd Season",
+            "url": "https://myanimelist.net/anime/45392/AU__Tu_Zhi_Lai_Le_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 45394,
+            "type": "anime",
+            "name": "AU: De Fannao",
+            "url": "https://myanimelist.net/anime/45394/AU__De_Fannao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.youku.com/v_show/id_XMjUwNTIxMzI0MA==.html?spm=a2h0c.8166622.PhoneSokuProgramSeries_2.dposter_1&s=4001278aee8711e69c81"
+      }
+    ],
+    "streaming": []
+  }
+}

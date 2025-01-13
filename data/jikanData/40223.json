@@ -1,0 +1,153 @@
+{
+  "data": {
+    "mal_id": 40223,
+    "url": "https://myanimelist.net/anime/40223/Qing_Chi_Hong_Xiaodou_Ba_Wai_Zhuan__Mo_Xiang_Wang",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/102464.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/102464t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/102464l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1326/102464.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/102464t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/102464l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qing Chi Hong Xiaodou Ba! Wai Zhuan: Mo Xiang Wang"
+      },
+      {
+        "type": "Synonym",
+        "title": "Beanie's Daily Extra Story: Don't Forget Me"
+      },
+      {
+        "type": "Japanese",
+        "title": "请吃红小豆吧！外传 莫相忘"
+      },
+      {
+        "type": "English",
+        "title": "Beanie's Daily"
+      }
+    ],
+    "title": "Qing Chi Hong Xiaodou Ba! Wai Zhuan: Mo Xiang Wang",
+    "title_english": "Beanie's Daily",
+    "title_japanese": "请吃红小豆吧！外传 莫相忘",
+    "title_synonyms": [
+      "Beanie's Daily Extra Story: Don't Forget Me"
+    ],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-07-19T00:00:00+00:00",
+      "to": "2019-08-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2019
+        },
+        "to": {
+          "day": 5,
+          "month": 8,
+          "year": 2019
+        }
+      },
+      "string": "Jul 19, 2019 to Aug 5, 2019"
+    },
+    "duration": "8 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18589,
+    "popularity": 18869,
+    "members": 342,
+    "favorites": 1,
+    "synopsis": "Extra stories of Beanie's Daily.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2069,
+        "type": "anime",
+        "name": "Making Animation",
+        "url": "https://myanimelist.net/anime/producer/2069/Making_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      },
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 39230,
+            "type": "anime",
+            "name": "Qing Chi Hong Xiaodou Ba! 2nd Season",
+            "url": "https://myanimelist.net/anime/39230/Qing_Chi_Hong_Xiaodou_Ba_2nd_Season"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md28221391"
+      }
+    ],
+    "streaming": []
+  }
+}

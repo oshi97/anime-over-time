@@ -1,0 +1,137 @@
+{
+  "data": {
+    "mal_id": 35365,
+    "url": "https://myanimelist.net/anime/35365/Kkoma_Sinseon_Tao_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/85157.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85157t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85157l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/85157.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85157t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85157l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kkoma Sinseon Tao 2"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tao: Little Wizard 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "금주의 꼬마신선 타오2"
+      },
+      {
+        "type": "English",
+        "title": "Little Wizard Tao 2"
+      }
+    ],
+    "title": "Kkoma Sinseon Tao 2",
+    "title_english": "Little Wizard Tao 2",
+    "title_japanese": "금주의 꼬마신선 타오2",
+    "title_synonyms": [
+      "Tao: Little Wizard 2"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-01-05T00:00:00+00:00",
+      "to": "2013-04-06T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 5,
+          "month": 1,
+          "year": 2013
+        },
+        "to": {
+          "day": 6,
+          "month": 4,
+          "year": 2013
+        }
+      },
+      "string": "Jan 5, 2013 to Apr 6, 2013"
+    },
+    "duration": "22 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16797,
+    "popularity": 20268,
+    "members": 259,
+    "favorites": 1,
+    "synopsis": "A direct continuation of Kkoma Sinseon Tao.",
+    "background": "",
+    "season": "winter",
+    "year": 2013,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35364,
+            "type": "anime",
+            "name": "Kkoma Sinseon Tao",
+            "url": "https://myanimelist.net/anime/35364/Kkoma_Sinseon_Tao"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.kbs.co.kr/1tv/enter/tao2/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Little_Wizard_Tao"
+      }
+    ],
+    "streaming": []
+  }
+}

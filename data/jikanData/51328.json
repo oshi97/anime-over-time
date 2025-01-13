@@ -1,0 +1,124 @@
+{
+  "data": {
+    "mal_id": 51328,
+    "url": "https://myanimelist.net/anime/51328/CiTY",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/121650.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/121650t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/121650l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/121650.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/121650t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/121650l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "CiTY"
+      },
+      {
+        "type": "Japanese",
+        "title": "CiTY (도시)"
+      }
+    ],
+    "title": "CiTY",
+    "title_english": null,
+    "title_japanese": "CiTY (도시)",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010"
+    },
+    "duration": "5 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19865,
+    "popularity": 23858,
+    "members": 108,
+    "favorites": 0,
+    "synopsis": "People get together to constitute a city. Seoul is a city full of people. Let's imagine the city free from wall and frames between people, and relieved of its shell. \n\n(Source: IMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 2534,
+        "type": "anime",
+        "name": "studio YOG",
+        "url": "https://myanimelist.net/anime/producer/2534/studio_YOG"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 5,
+        "type": "anime",
+        "name": "Avant Garde",
+        "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+      },
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://yog.co.kr/city"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "mal_id": 35621,
+    "url": "https://myanimelist.net/anime/35621/Line_Rangers",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/85872.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/85872t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/85872l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/85872.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/13/85872t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/13/85872l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Line Rangers"
+      },
+      {
+        "type": "Japanese",
+        "title": "라인 레인저스"
+      },
+      {
+        "type": "English",
+        "title": "LINE Rangers"
+      }
+    ],
+    "title": "Line Rangers",
+    "title_english": "LINE Rangers",
+    "title_japanese": "라인 레인저스",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-07-24T00:00:00+00:00",
+      "to": "2016-09-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 7,
+          "year": 2014
+        },
+        "to": {
+          "day": 19,
+          "month": 9,
+          "year": 2016
+        }
+      },
+      "string": "Jul 24, 2014 to Sep 19, 2016"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17145,
+    "popularity": 18938,
+    "members": 337,
+    "favorites": 2,
+    "synopsis": "Line Rangers follows the Line characters as super heroes who battle enemies. The various \"story movies\" of the web anime are meant to promote the Line Rangers RPG game app.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2558,
+        "type": "anime",
+        "name": "Delpic",
+        "url": "https://myanimelist.net/anime/producer/2558/Delpic"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 16906,
+            "type": "anime",
+            "name": "Line Offline: Salaryman",
+            "url": "https://myanimelist.net/anime/16906/Line_Offline__Salaryman"
+          },
+          {
+            "mal_id": 18155,
+            "type": "anime",
+            "name": "Line Town",
+            "url": "https://myanimelist.net/anime/18155/Line_Town"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 51920,
+            "type": "anime",
+            "name": "Line Rangers (2018)",
+            "url": "https://myanimelist.net/anime/51920/Line_Rangers_2018"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLXBLlvIqUpZOGsjLoZrkm4NPOk3f6N7HN"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "mal_id": 32821,
+    "url": "https://myanimelist.net/anime/32821/Xiong_Chumo__Dongri_Le_Fantian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/78685.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/78685t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/78685l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/78685.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/6/78685t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/6/78685l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": "w_m-YDHMlMA",
+      "url": "https://www.youtube.com/watch?v=w_m-YDHMlMA",
+      "embed_url": "https://www.youtube.com/embed/w_m-YDHMlMA?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": "https://img.youtube.com/vi/w_m-YDHMlMA/default.jpg",
+        "small_image_url": "https://img.youtube.com/vi/w_m-YDHMlMA/sddefault.jpg",
+        "medium_image_url": "https://img.youtube.com/vi/w_m-YDHMlMA/mqdefault.jpg",
+        "large_image_url": "https://img.youtube.com/vi/w_m-YDHMlMA/hqdefault.jpg",
+        "maximum_image_url": "https://img.youtube.com/vi/w_m-YDHMlMA/maxresdefault.jpg"
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xiong Chumo: Dongri Le Fantian"
+      },
+      {
+        "type": "Synonym",
+        "title": "Snow Daze of Boonie Bears"
+      },
+      {
+        "type": "Japanese",
+        "title": "熊出没之冬日乐翻天"
+      },
+      {
+        "type": "English",
+        "title": "Boonie Bears: Snow Daze"
+      }
+    ],
+    "title": "Xiong Chumo: Dongri Le Fantian",
+    "title_english": "Boonie Bears: Snow Daze",
+    "title_japanese": "熊出没之冬日乐翻天",
+    "title_synonyms": [
+      "Snow Daze of Boonie Bears"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2015-07-10T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 10,
+          "month": 7,
+          "year": 2015
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 10, 2015 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15690,
+    "popularity": 18789,
+    "members": 346,
+    "favorites": 0,
+    "synopsis": "Fifth season of Boonie Bears.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 32820,
+            "type": "anime",
+            "name": "Xiong Chumo: Chunri Dui Dui Peng",
+            "url": "https://myanimelist.net/anime/32820/Xiong_Chumo__Chunri_Dui_Dui_Peng"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 34676,
+            "type": "anime",
+            "name": "Xiong Chumo: Xiari Lianlian Kan",
+            "url": "https://myanimelist.net/anime/34676/Xiong_Chumo__Xiari_Lianlian_Kan"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 37099,
+            "type": "anime",
+            "name": "Xiong Chumo: Xiong Zin Guilai",
+            "url": "https://myanimelist.net/anime/37099/Xiong_Chumo__Xiong_Zin_Guilai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://donghua.cntv.cn/special/xiongchumo/shouye/"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12536"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Boonie_Bears"
+      }
+    ],
+    "streaming": []
+  }
+}

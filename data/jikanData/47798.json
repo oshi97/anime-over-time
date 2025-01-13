@@ -1,0 +1,127 @@
+{
+  "data": {
+    "mal_id": 47798,
+    "url": "https://myanimelist.net/anime/47798/Fei_Gou_Moco",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1427/134849.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/134849t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/134849l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1427/134849.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/134849t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/134849l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Fei Gou Moco"
+      },
+      {
+        "type": "Japanese",
+        "title": "飞狗MOCO"
+      }
+    ],
+    "title": "Fei Gou Moco",
+    "title_english": null,
+    "title_japanese": "飞狗MOCO",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2019
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2019"
+    },
+    "duration": "30 sec per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20399,
+    "popularity": 23699,
+    "members": 110,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Character",
+        "entry": [
+          {
+            "mal_id": 47799,
+            "type": "anime",
+            "name": "Fei Gou Moco: Chongwu Dian De Xiao Mimi",
+            "url": "https://myanimelist.net/anime/47799/Fei_Gou_Moco__Chongwu_Dian_De_Xiao_Mimi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.iqiyi.com/a_19rrhye20h.html"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%A3%9E%E7%8B%97MOCO"
+      }
+    ],
+    "streaming": []
+  }
+}

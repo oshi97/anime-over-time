@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 45398,
+    "url": "https://myanimelist.net/anime/45398/AU__Xue_Kexue_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1858/122395.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1858/122395t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1858/122395l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1858/122395.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1858/122395t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1858/122395l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "AU: Xue Kexue 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "阿U学科学第2季"
+      }
+    ],
+    "title": "AU: Xue Kexue 2nd Season",
+    "title_english": null,
+    "title_japanese": "阿U学科学第2季",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Mixed media",
+    "episodes": 30,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19179,
+    "popularity": 24622,
+    "members": 95,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45397,
+            "type": "anime",
+            "name": "AU: Xue Kexue",
+            "url": "https://myanimelist.net/anime/45397/AU__Xue_Kexue"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%98%BFU%E5%AD%A6%E7%A7%91%E5%AD%A62"
+      }
+    ],
+    "streaming": []
+  }
+}

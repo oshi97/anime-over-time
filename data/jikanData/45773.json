@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 45773,
+    "url": "https://myanimelist.net/anime/45773/Hong_Lou_Meng",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1249/123467.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/123467t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/123467l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1249/123467.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/123467t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/123467l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hong Lou Meng"
+      },
+      {
+        "type": "Synonym",
+        "title": "Dream of the Red Chamber"
+      },
+      {
+        "type": "Synonym",
+        "title": "Hongloumeng"
+      },
+      {
+        "type": "Japanese",
+        "title": "红楼梦"
+      }
+    ],
+    "title": "Hong Lou Meng",
+    "title_english": null,
+    "title_japanese": "红楼梦",
+    "title_synonyms": [
+      "Dream of the Red Chamber",
+      "Hongloumeng"
+    ],
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 108,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2011 to ?"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21087,
+    "popularity": 25981,
+    "members": 76,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 45774,
+            "type": "anime",
+            "name": "Hong Lou Meng (ONA)",
+            "url": "https://myanimelist.net/anime/45774/Hong_Lou_Meng_ONA"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E7%BA%A2%E6%A5%BC%E6%A2%A6/13882875#viewPageContent"
+      }
+    ],
+    "streaming": []
+  }
+}

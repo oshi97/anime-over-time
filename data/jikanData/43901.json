@@ -1,0 +1,143 @@
+{
+  "data": {
+    "mal_id": 43901,
+    "url": "https://myanimelist.net/anime/43901/Xi_Bai_Po_2__Yingxiong_Wang_Er_Xiao",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1461/122548.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1461/122548t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1461/122548l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1461/122548.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1461/122548t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1461/122548l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Bai Po 2: Yingxiong Wang Er Xiao"
+      },
+      {
+        "type": "Synonym",
+        "title": "Xi Bai Po: Wang Er Xiao"
+      },
+      {
+        "type": "Japanese",
+        "title": "西柏坡2：英雄王二小"
+      }
+    ],
+    "title": "Xi Bai Po 2: Yingxiong Wang Er Xiao",
+    "title_english": null,
+    "title_japanese": "西柏坡2：英雄王二小",
+    "title_synonyms": [
+      "Xi Bai Po: Wang Er Xiao"
+    ],
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2013-04-28T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 4,
+          "year": 2013
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 28, 2013"
+    },
+    "duration": "1 hr 21 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15255,
+    "popularity": 23890,
+    "members": 106,
+    "favorites": 0,
+    "synopsis": "During the Second Sino-Japanese War, the Japanese army attacks Nangunlong, a village in Hebei Province. The attackers get lost and ask 13-year-old cowboy Wang Er Xiao for directions. To avenge the death of his parents and protect other villagers, Wang Er Xiao pretends to surrender, then leads the Japanese to the ambush of Chinese army.\n\n(Source: IMDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 471,
+        "type": "anime",
+        "name": "Shanghai Animation Film Studio",
+        "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 43898,
+            "type": "anime",
+            "name": "Xi Bai Po",
+            "url": "https://myanimelist.net/anime/43898/Xi_Bai_Po"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/19977818/"
+      }
+    ],
+    "streaming": []
+  }
+}

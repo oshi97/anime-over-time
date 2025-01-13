@@ -1,0 +1,191 @@
+{
+  "data": {
+    "mal_id": 51752,
+    "url": "https://myanimelist.net/anime/51752/Kkoma_Bus_Tayo_6",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1004/123601.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/123601t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/123601l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1004/123601.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/123601t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/123601l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kkoma Bus Tayo 6"
+      },
+      {
+        "type": "Japanese",
+        "title": "꼬마버스 타요 6"
+      },
+      {
+        "type": "English",
+        "title": "Tayo the Little Bus Season 6"
+      }
+    ],
+    "title": "Kkoma Bus Tayo 6",
+    "title_english": "Tayo the Little Bus Season 6",
+    "title_japanese": "꼬마버스 타요 6",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-09-01T00:00:00+00:00",
+      "to": "2021-11-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 9,
+          "year": 2021
+        },
+        "to": {
+          "day": 25,
+          "month": 11,
+          "year": 2021
+        }
+      },
+      "string": "Sep 1, 2021 to Nov 25, 2021"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16789,
+    "popularity": 21136,
+    "members": 209,
+    "favorites": 0,
+    "synopsis": "The sixth season of Kkoma Bus Tayo.",
+    "background": "",
+    "season": "fall",
+    "year": 2021,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      },
+      {
+        "mal_id": 2939,
+        "type": "anime",
+        "name": "Studio Gale",
+        "url": "https://myanimelist.net/anime/producer/2939/Studio_Gale"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 3,
+        "type": "anime",
+        "name": "Racing",
+        "url": "https://myanimelist.net/anime/genre/3/Racing"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 38631,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo 5",
+            "url": "https://myanimelist.net/anime/38631/Kkoma_Bus_Tayo_5"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 58569,
+            "type": "anime",
+            "name": "Kkoma Bus Tayo 7",
+            "url": "https://myanimelist.net/anime/58569/Kkoma_Bus_Tayo_7"
+          }
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entry": [
+          {
+            "mal_id": 53373,
+            "type": "anime",
+            "name": "Safari Bus Tayo",
+            "url": "https://myanimelist.net/anime/53373/Safari_Bus_Tayo"
+          },
+          {
+            "mal_id": 53993,
+            "type": "anime",
+            "name": "Rescue Tayo",
+            "url": "https://myanimelist.net/anime/53993/Rescue_Tayo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://tayobus.com/eng/"
+      },
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/tayo"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCxUZwdsqshu2iLQwdEE6e7Q"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tayo_the_Little_Bus"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%BC%AC%EB%A7%88%EB%B2%84%EC%8A%A4_%ED%83%80%EC%9A%94"
+      }
+    ],
+    "streaming": []
+  }
+}

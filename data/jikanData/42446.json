@@ -1,0 +1,144 @@
+{
+  "data": {
+    "mal_id": 42446,
+    "url": "https://myanimelist.net/anime/42446/Menghuan_Shuyuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/108464.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/108464t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/108464l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1255/108464.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/108464t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/108464l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Menghuan Shuyuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "梦幻书院"
+      },
+      {
+        "type": "English",
+        "title": "Dream Academy"
+      }
+    ],
+    "title": "Menghuan Shuyuan",
+    "title_english": "Dream Academy",
+    "title_japanese": "梦幻书院",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-30T00:00:00+00:00",
+      "to": "2019-06-22T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 30,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 22,
+          "month": 6,
+          "year": 2019
+        }
+      },
+      "string": "Mar 30, 2019 to Jun 22, 2019"
+    },
+    "duration": "2 min per ep",
+    "rating": null,
+    "score": null,
+    "scored_by": null,
+    "rank": 17489,
+    "popularity": 20896,
+    "members": 224,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2073,
+        "type": "anime",
+        "name": "Painting Dream",
+        "url": "https://myanimelist.net/anime/producer/2073/Painting_Dream"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42447,
+            "type": "anime",
+            "name": "Menghuan Shuyuan: Youxue Ji",
+            "url": "https://myanimelist.net/anime/42447/Menghuan_Shuyuan__Youxue_Ji"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md23604169/"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%A2%A6%E5%B9%BB%E4%B9%A6%E9%99%A2"
+      }
+    ],
+    "streaming": []
+  }
+}

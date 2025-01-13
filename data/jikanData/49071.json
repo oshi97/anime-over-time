@@ -1,0 +1,141 @@
+{
+  "data": {
+    "mal_id": 49071,
+    "url": "https://myanimelist.net/anime/49071/Wonder_Balls_Season_2",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1160/115258.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/115258t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/115258l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1160/115258.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/115258t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/115258l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wonder Balls Season 2"
+      },
+      {
+        "type": "Japanese",
+        "title": "원더볼즈2"
+      }
+    ],
+    "title": "Wonder Balls Season 2",
+    "title_english": null,
+    "title_japanese": "원더볼즈2",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-02-25T00:00:00+00:00",
+      "to": "2019-06-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 2,
+          "year": 2019
+        },
+        "to": {
+          "day": 24,
+          "month": 6,
+          "year": 2019
+        }
+      },
+      "string": "Feb 25, 2019 to Jun 24, 2019"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15194,
+    "popularity": 22140,
+    "members": 160,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "winter",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 2945,
+        "type": "anime",
+        "name": "Studio Goindol",
+        "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 48303,
+            "type": "anime",
+            "name": "Wonder Balls",
+            "url": "https://myanimelist.net/anime/48303/Wonder_Balls"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://home.ebs.co.kr/wonderballs/etc/2/htmlMenu"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EB%8D%94%EB%B3%BC%EC%A6%88"
+      }
+    ],
+    "streaming": []
+  }
+}

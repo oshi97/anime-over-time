@@ -1,0 +1,155 @@
+{
+  "data": {
+    "mal_id": 44002,
+    "url": "https://myanimelist.net/anime/44002/Xi_Yangyang_Yu_Hui_Tailang__Yiguo_Da_Yingjiu",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1418/115291.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1418/115291t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1418/115291l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1418/115291.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1418/115291t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1418/115291l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xi Yangyang Yu Hui Tailang: Yiguo Da Yingjiu"
+      },
+      {
+        "type": "Japanese",
+        "title": "喜羊羊與灰太狼之異國大營救"
+      },
+      {
+        "type": "English",
+        "title": "Pleasant Goat and Big Big Wolf: Against the Dark Force"
+      }
+    ],
+    "title": "Xi Yangyang Yu Hui Tailang: Yiguo Da Yingjiu",
+    "title_english": "Pleasant Goat and Big Big Wolf: Against the Dark Force",
+    "title_japanese": "喜羊羊與灰太狼之異國大營救",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 60,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2020-07-17T00:00:00+00:00",
+      "to": "2020-07-26T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 7,
+          "year": 2020
+        },
+        "to": {
+          "day": 26,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      "string": "Jul 17, 2020 to Jul 26, 2020"
+    },
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15299,
+    "popularity": 20499,
+    "members": 247,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2020,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 44001,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Qiqu Waixing Ke",
+            "url": "https://myanimelist.net/anime/44001/Xi_Yangyang_Yu_Hui_Tailang__Qiqu_Waixing_Ke"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 49079,
+            "type": "anime",
+            "name": "Xi Yangyang Yu Hui Tailang: Juezhan Ci Shidai",
+            "url": "https://myanimelist.net/anime/49079/Xi_Yangyang_Yu_Hui_Tailang__Juezhan_Ci_Shidai"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.22dm.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pleasant_Goat_and_Big_Big_Wolf#Animated_series"
+      }
+    ],
+    "streaming": []
+  }
+}

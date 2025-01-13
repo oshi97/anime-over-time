@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mal_id": 55462,
+    "url": "https://myanimelist.net/anime/55462/Lusi_He",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1682/136107.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/136107t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/136107l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1682/136107.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/136107t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/136107l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Lusi He"
+      },
+      {
+        "type": "Japanese",
+        "title": "鷺鷥河"
+      },
+      {
+        "type": "English",
+        "title": "The Egret River"
+      }
+    ],
+    "title": "Lusi He",
+    "title_english": "The Egret River",
+    "title_japanese": "鷺鷥河",
+    "title_synonyms": [],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2022"
+    },
+    "duration": "20 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 17233,
+    "popularity": 24404,
+    "members": 98,
+    "favorites": 0,
+    "synopsis": "Among the tall buildings of the city, a lonely guard hides a beautiful field where he meets an egret. However, the expansion of the city never stops, and one day the field is destroyed. The egret escapes without a trace and the guard begins to see mysterious illusions.\n\n(Source: Official Site)",
+    "background": "Winner of the Jury Special Award at the 45th Golden Harvest Film Festival.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 46,
+        "type": "anime",
+        "name": "Award Winning",
+        "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://liuacow.com/the-egret-river"
+      }
+    ],
+    "streaming": []
+  }
+}

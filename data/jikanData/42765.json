@@ -1,0 +1,160 @@
+{
+  "data": {
+    "mal_id": 42765,
+    "url": "https://myanimelist.net/anime/42765/Ji_Jia_Shou_Shen",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1481/109026.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1481/109026t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1481/109026l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1481/109026.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1481/109026t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1481/109026l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ji Jia Shou Shen"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Mechnimals"
+      },
+      {
+        "type": "Japanese",
+        "title": "机甲兽神"
+      }
+    ],
+    "title": "Ji Jia Shou Shen",
+    "title_english": null,
+    "title_japanese": "机甲兽神",
+    "title_synonyms": [
+      "The Mechnimals"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2010"
+    },
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16262,
+    "popularity": 21565,
+    "members": 187,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 1939,
+        "type": "anime",
+        "name": "Alpha Animation",
+        "url": "https://myanimelist.net/anime/producer/1939/Alpha_Animation"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2140,
+        "type": "anime",
+        "name": "Qianqi Animation",
+        "url": "https://myanimelist.net/anime/producer/2140/Qianqi_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 42766,
+            "type": "anime",
+            "name": "Ji Jia Shou Shen 2nd Season",
+            "url": "https://myanimelist.net/anime/42766/Ji_Jia_Shou_Shen_2nd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Spin-Off",
+        "entry": [
+          {
+            "mal_id": 42740,
+            "type": "anime",
+            "name": "Ji Jia Shou Shen: Baolie Feiche",
+            "url": "https://myanimelist.net/anime/42740/Ji_Jia_Shou_Shen__Baolie_Feiche"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%9C%BA%E7%94%B2%E5%85%BD%E7%A5%9E"
+      }
+    ],
+    "streaming": []
+  }
+}

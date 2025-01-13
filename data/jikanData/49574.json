@@ -1,0 +1,215 @@
+{
+  "data": {
+    "mal_id": 49574,
+    "url": "https://myanimelist.net/anime/49574/Yi_Nian_Yong_Heng__Chuan_Cheng_Pian",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1902/137109.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/137109t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/137109l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1902/137109.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/137109t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/137109l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yi Nian Yong Heng: Chuan Cheng Pian"
+      },
+      {
+        "type": "Japanese",
+        "title": "一念永恒 传承篇"
+      },
+      {
+        "type": "English",
+        "title": "A Will Eternal 2nd Season"
+      }
+    ],
+    "title": "Yi Nian Yong Heng: Chuan Cheng Pian",
+    "title_english": "A Will Eternal 2nd Season",
+    "title_japanese": "一念永恒 传承篇",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 54,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-20T00:00:00+00:00",
+      "to": "2023-07-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 12,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "string": "Jul 20, 2022 to Jul 12, 2023"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.16,
+    "scored_by": 2220,
+    "rank": 458,
+    "popularity": 7637,
+    "members": 7257,
+    "favorites": 93,
+    "synopsis": "Second season of Yi Nian Yong Heng.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Penguin Pictures",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Penguin_Pictures"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1350,
+        "type": "anime",
+        "name": "B.CMAY PICTURES",
+        "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41923,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng",
+            "url": "https://myanimelist.net/anime/41923/Yi_Nian_Yong_Heng"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56215,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng 3rd Season",
+            "url": "https://myanimelist.net/anime/56215/Yi_Nian_Yong_Heng_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 142102,
+            "type": "manga",
+            "name": "Yi Nian Yong Heng",
+            "url": "https://myanimelist.net/manga/142102/Yi_Nian_Yong_Heng"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 52519,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng Xiao Juchang",
+            "url": "https://myanimelist.net/anime/52519/Yi_Nian_Yong_Heng_Xiao_Juchang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Poxiao (破晓)\" by Xueran Chen (陈雪燃)"
+      ],
+      "endings": [
+        "\"Wei Wo．Nian (唯我．念)\" by Curley G (希林娜依高)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/detail/x/ww18u675tfmhas6.html"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/343136"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%80%E5%BF%B5%E6%B0%B8%E6%81%92/23299669"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35563492/"
+      }
+    ],
+    "streaming": []
+  }
+}

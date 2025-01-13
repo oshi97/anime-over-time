@@ -1,0 +1,128 @@
+{
+  "data": {
+    "mal_id": 48324,
+    "url": "https://myanimelist.net/anime/48324/Hanjawang_Jumong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/114503.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/114503t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/114503l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1270/114503.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/114503t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/114503l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hanjawang Jumong"
+      },
+      {
+        "type": "Japanese",
+        "title": "한자왕 주몽"
+      },
+      {
+        "type": "English",
+        "title": "Adventure of Jumong"
+      }
+    ],
+    "title": "Hanjawang Jumong",
+    "title_english": "Adventure of Jumong",
+    "title_japanese": "한자왕 주몽",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2007-01-01T00:00:00+00:00",
+      "to": "2008-01-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2007
+        },
+        "to": {
+          "day": 1,
+          "month": 1,
+          "year": 2008
+        }
+      },
+      "string": "2007 to 2008"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 20883,
+    "popularity": 23414,
+    "members": 118,
+    "favorites": 1,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.imbc.com/broad/tv/ent/h_jumong/index.html"
+      }
+    ],
+    "streaming": []
+  }
+}

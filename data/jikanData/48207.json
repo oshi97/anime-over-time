@@ -1,0 +1,147 @@
+{
+  "data": {
+    "mal_id": 48207,
+    "url": "https://myanimelist.net/anime/48207/Misultamheomdae",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1127/126934.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/126934t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/126934l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1127/126934.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/126934t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/126934l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Misultamheomdae"
+      },
+      {
+        "type": "Japanese",
+        "title": "미술탐험대"
+      },
+      {
+        "type": "English",
+        "title": "Art Odyssey"
+      }
+    ],
+    "title": "Misultamheomdae",
+    "title_english": "Art Odyssey",
+    "title_japanese": "미술탐험대",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-08-29T00:00:00+00:00",
+      "to": "2013-12-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 8,
+          "year": 2011
+        },
+        "to": {
+          "day": 12,
+          "month": 12,
+          "year": 2013
+        }
+      },
+      "string": "Aug 29, 2011 to Dec 12, 2013"
+    },
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17649,
+    "popularity": 22981,
+    "members": 129,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "summer",
+    "year": 2011,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [
+      {
+        "mal_id": 1427,
+        "type": "anime",
+        "name": "EBS",
+        "url": "https://myanimelist.net/anime/producer/1427/EBS"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2813,
+        "type": "anime",
+        "name": "Iconix Entertainment",
+        "url": "https://myanimelist.net/anime/producer/2813/Iconix_Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://home.ebs.co.kr/artodyssey/main"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%88%A0%ED%83%90%ED%97%98%EB%8C%80"
+      }
+    ],
+    "streaming": []
+  }
+}

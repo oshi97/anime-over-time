@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 34667,
+    "url": "https://myanimelist.net/anime/34667/Kemy_Tamheomdae",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/83628.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/83628t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/83628l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/83628.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/2/83628t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/2/83628l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kemy Tamheomdae"
+      },
+      {
+        "type": "Japanese",
+        "title": "깨미탐험대"
+      },
+      {
+        "type": "English",
+        "title": "Kemy Expedition"
+      }
+    ],
+    "title": "Kemy Tamheomdae",
+    "title_english": "Kemy Expedition",
+    "title_japanese": "깨미탐험대",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-06-13T00:00:00+00:00",
+      "to": "2016-12-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 13,
+          "month": 6,
+          "year": 2016
+        },
+        "to": {
+          "day": 12,
+          "month": 12,
+          "year": 2016
+        }
+      },
+      "string": "Jun 13, 2016 to Dec 12, 2016"
+    },
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16694,
+    "popularity": 20627,
+    "members": 240,
+    "favorites": 0,
+    "synopsis": "A season of Kemy, where the gang goes on expeditions to explore nature. This season is similar to the original Kemy Lang Buka Chaka where some of the footage is live action nature. Still, Buka and Chaka do not reprise their roles in this season either.",
+    "background": "",
+    "season": "summer",
+    "year": 2016,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 34666,
+            "type": "anime",
+            "name": "Kemy",
+            "url": "https://myanimelist.net/anime/34666/Kemy"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 34665,
+            "type": "anime",
+            "name": "Kemy Lang Buka Chaka",
+            "url": "https://myanimelist.net/anime/34665/Kemy_Lang_Buka_Chaka"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [],
+    "streaming": []
+  }
+}

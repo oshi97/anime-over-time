@@ -1,0 +1,138 @@
+{
+  "data": {
+    "mal_id": 50458,
+    "url": "https://myanimelist.net/anime/50458/Jiaonang_Jihua",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/119653.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/119653t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/119653l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1582/119653.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/119653t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/119653l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jiaonang Jihua"
+      },
+      {
+        "type": "Japanese",
+        "title": "胶囊计划"
+      },
+      {
+        "type": "English",
+        "title": "Capsules"
+      }
+    ],
+    "title": "Jiaonang Jihua",
+    "title_english": "Capsules",
+    "title_japanese": "胶囊计划",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-09-16T00:00:00+00:00",
+      "to": "2022-11-11T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 9,
+          "year": 2022
+        },
+        "to": {
+          "day": 11,
+          "month": 11,
+          "year": 2022
+        }
+      },
+      "string": "Sep 16, 2022 to Nov 11, 2022"
+    },
+    "duration": "11 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": null,
+    "scored_by": null,
+    "rank": 16302,
+    "popularity": 19500,
+    "members": 302,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1414,
+        "type": "anime",
+        "name": "bilibili",
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 57233,
+            "type": "anime",
+            "name": "Jiaonang Jihua 2",
+            "url": "https://myanimelist.net/anime/57233/Jiaonang_Jihua_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/festival/capsules?spm_id_from=333.337.0.0"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/????"
+      }
+    ],
+    "streaming": []
+  }
+}

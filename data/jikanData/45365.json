@@ -1,0 +1,133 @@
+{
+  "data": {
+    "mal_id": 45365,
+    "url": "https://myanimelist.net/anime/45365/Feng_Hua_Xianzi_Waizhuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1878/126114.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/126114t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/126114l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1878/126114.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/126114t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/126114l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Feng Hua Xianzi Waizhuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "风花仙子外传"
+      },
+      {
+        "type": "English",
+        "title": "The Adventures of Feng Hua Fairy"
+      }
+    ],
+    "title": "Feng Hua Xianzi Waizhuan",
+    "title_english": "The Adventures of Feng Hua Fairy",
+    "title_japanese": "风花仙子外传",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Web novel",
+    "episodes": 58,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2010-10-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 10,
+          "year": 2010
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 2010 to ?"
+    },
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 20428,
+    "popularity": 26321,
+    "members": 73,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 45364,
+            "type": "anime",
+            "name": "Wai Shuo Si Da Mingzhu: Wai Shuo Honglou",
+            "url": "https://myanimelist.net/anime/45364/Wai_Shuo_Si_Da_Mingzhu__Wai_Shuo_Honglou"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E9%A3%8E%E8%8A%B1%E4%BB%99%E5%AD%90%E5%A4%96%E4%BC%A0"
+      }
+    ],
+    "streaming": []
+  }
+}

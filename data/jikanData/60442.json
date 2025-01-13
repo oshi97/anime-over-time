@@ -1,0 +1,130 @@
+{
+  "data": {
+    "mal_id": 60442,
+    "url": "https://myanimelist.net/anime/60442/Jiaonang_Jihua__Yingxiong",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/146801.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/146801t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/146801l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1053/146801.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/146801t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/146801l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jiaonang Jihua: Yingxiong"
+      },
+      {
+        "type": "Japanese",
+        "title": "胶囊计划 英雄"
+      }
+    ],
+    "title": "Jiaonang Jihua: Yingxiong",
+    "title_english": null,
+    "title_japanese": "胶囊计划 英雄",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2024-12-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 12,
+          "year": 2024
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 17, 2024 to ?"
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16302,
+    "popularity": 24125,
+    "members": 103,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 57233,
+            "type": "anime",
+            "name": "Jiaonang Jihua 2",
+            "url": "https://myanimelist.net/anime/57233/Jiaonang_Jihua_2"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.bilibili.com/bangumi/media/md23042627"
+      }
+    ],
+    "streaming": []
+  }
+}

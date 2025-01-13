@@ -1,0 +1,140 @@
+{
+  "data": {
+    "mal_id": 48350,
+    "url": "https://myanimelist.net/anime/48350/Bbasha_Mecard",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/114450.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/114450t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/114450l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1509/114450.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/114450t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/114450l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bbasha Mecard"
+      },
+      {
+        "type": "Japanese",
+        "title": "빠샤메카드"
+      }
+    ],
+    "title": "Bbasha Mecard",
+    "title_english": null,
+    "title_japanese": "빠샤메카드",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-03-25T00:00:00+00:00",
+      "to": "2019-09-25T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 25,
+          "month": 3,
+          "year": 2019
+        },
+        "to": {
+          "day": 25,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      "string": "Mar 25, 2019 to Sep 25, 2019"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19380,
+    "popularity": 20957,
+    "members": 220,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": "spring",
+    "year": 2019,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Strategy Game",
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 48762,
+            "type": "anime",
+            "name": "Bbasha Mecard S",
+            "url": "https://myanimelist.net/anime/48762/Bbasha_Mecard_S"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://bbashamecard.choirock.com/description.php"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B9%A0%EC%83%A4%EB%A9%94%EC%B9%B4%EB%93%9C"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "mal_id": 44402,
+    "url": "https://myanimelist.net/anime/44402/Konglong_Baobei",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/123974.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/123974t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/123974l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/123974.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1621/123974t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1621/123974l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Konglong Baobei"
+      },
+      {
+        "type": "Synonym",
+        "title": "Konglong Baobei (Movie)"
+      },
+      {
+        "type": "Japanese",
+        "title": "恐龙宝贝剧场版"
+      }
+    ],
+    "title": "Konglong Baobei",
+    "title_english": null,
+    "title_japanese": "恐龙宝贝剧场版",
+    "title_synonyms": [
+      "Konglong Baobei (Movie)"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2011-04-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 4,
+          "year": 2011
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Apr 29, 2011"
+    },
+    "duration": "1 hr 25 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16849,
+    "popularity": 23729,
+    "members": 111,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Parent Story",
+        "entry": [
+          {
+            "mal_id": 41416,
+            "type": "anime",
+            "name": "Konglong Baobei: Longshen Yongshi",
+            "url": "https://myanimelist.net/anime/41416/Konglong_Baobei__Longshen_Yongshi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E6%81%90%E9%BE%99%E5%AE%9D%E8%B4%9D"
+      }
+    ],
+    "streaming": []
+  }
+}

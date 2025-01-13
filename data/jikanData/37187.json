@@ -1,0 +1,164 @@
+{
+  "data": {
+    "mal_id": 37187,
+    "url": "https://myanimelist.net/anime/37187/Kuiba_Yao_Xia_Zhuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1568/90241.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1568/90241t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1568/90241l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1568/90241.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1568/90241t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1568/90241l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kuiba Yao Xia Zhuan"
+      },
+      {
+        "type": "Synonym",
+        "title": "Kuiba Yaoxia Zhuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "魁拔妖侠传"
+      }
+    ],
+    "title": "Kuiba Yao Xia Zhuan",
+    "title_english": null,
+    "title_japanese": "魁拔妖侠传",
+    "title_synonyms": [
+      "Kuiba Yaoxia Zhuan"
+    ],
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2014-07-19T00:00:00+00:00",
+      "to": "2014-12-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 7,
+          "year": 2014
+        },
+        "to": {
+          "day": 27,
+          "month": 12,
+          "year": 2014
+        }
+      },
+      "string": "Jul 19, 2014 to Dec 27, 2014"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16972,
+    "popularity": 17348,
+    "members": 457,
+    "favorites": 0,
+    "synopsis": "The backstories of the characters in the Kuiba movies.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 945,
+        "type": "anime",
+        "name": "Vasoon Animation",
+        "url": "https://myanimelist.net/anime/producer/945/Vasoon_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Version",
+        "entry": [
+          {
+            "mal_id": 16756,
+            "type": "anime",
+            "name": "Kuiba: Shiwanhuoji",
+            "url": "https://myanimelist.net/anime/16756/Kuiba__Shiwanhuoji"
+          },
+          {
+            "mal_id": 19687,
+            "type": "anime",
+            "name": "Kuiba II: Dazhan Yuan Yang Jie",
+            "url": "https://myanimelist.net/anime/19687/Kuiba_II__Dazhan_Yuan_Yang_Jie"
+          },
+          {
+            "mal_id": 19781,
+            "type": "anime",
+            "name": "Kuiba III: Zhanshen Jue Qi",
+            "url": "https://myanimelist.net/anime/19781/Kuiba_III__Zhanshen_Jue_Qi"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "http://www.vasoon.com/video-series/kuiba-film"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E9%AD%81%E6%8B%94"
+      }
+    ],
+    "streaming": []
+  }
+}
