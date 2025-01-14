@@ -91,6 +91,16 @@ const data = {
       borderColor: ORANGE_LINE,
       backgroundColor: ORANGE_BACKGROUND
     },
+    {
+      label: 'Shonen',
+      data: top30.map(
+        (season, i) =>
+          season.shows.filter(a => a.manamiTags.includes('shounen') || a.manamiTags.includes('fighting-shounen')).reduce(sumMembership, 0) / totalMembers[i]
+      ),
+      borderColor: 'rgb(255, 234, 15)',
+      backgroundColor: 'rgba(252, 124, 56, 0.5)',
+      hidden: true
+    },
   ]
 }
 
