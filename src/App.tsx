@@ -28,6 +28,7 @@ import ByMalGenre30 from './is-anime-more-serious/ByMalGenre30'
 import { MovingAverageContext } from './context/MovingAverageContext'
 import { useState, useContext } from 'react'
 import Checkbox from './ui-blocks/Checkbox'
+import GiggukNutshellGraph from './is-anime-more-popular/GigguksNutshellGraph'
 
 const Links = () => (
   <div>
@@ -70,6 +71,7 @@ const Router = () => (
         <Route index element={<TotalMembersPerSeason />} />
         <Route path='most-popular-anime' element={<MostPopularAnimePerSeason />} />
         <Route path='total-members-averaged' element={<TotalMembersAveraged />} />
+        <Route path='nutshell' element={<GiggukNutshellGraph />} />
       </Route>
       <Route path='is-anime-getting-better'>
         <Route index element={<MalRatings />} />

@@ -11,6 +11,9 @@ const IsAnimeMorePopular = () => (
     <NavButton to='/is-anime-more-popular/total-members-averaged'>
       Total Members Averaged Per Anime
     </NavButton>
+    <NavButton to='/is-anime-more-popular/nutshell'>
+      Gigguk's Nutshells in a Nutshell
+    </NavButton>
   </div>
 )
 export default IsAnimeMorePopular
